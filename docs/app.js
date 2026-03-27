@@ -1,35 +1,50 @@
 let originalItems = [];
 
 async function loadApps() {
+  const appListEl = document.getElementById("appList");
+  const updatedAtEl = document.getElementById("updatedAt");
+  const statsEl = document.getElementById("stats");
+
   try {
+    appListEl.innerHTML = `<div class="empty">데이터 불러오는 중...</div>`;
+
     const res = await fetch("./data/apps.json");
+
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status} ${res.statusText}`);
+    }
+
     const data = await res.json();
 
-    originalItems = data.items || [];
+    originalItems = Array.isArray(data.items) ? data.items : [];
 
-    document.getElementById("updatedAt").textContent =
-      `마지막 업데이트: ${formatDateTime(data.updatedAt)}`;
+    updatedAtEl.textContent = `마지막 업데이트: ${formatDateTime(data.updatedAt)}`;
+    statsEl.textContent = `총 ${originalItems.length}개 게임`;
 
     render();
   } catch (err) {
-    console.error(err);
-    document.getElementById("appList").innerHTML =
-      `<div class="empty">데이터를 불러오지 못했습니다.</div>`;
+    console.error("loadApps error:", err);
+    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다: ${escapeHtml(err.message)}</div>`;
   }
 }
 
 function formatDate(dateStr) {
-  return dateStr;
+  return dateStr || "-";
 }
 
 function formatDateTime(dateStr) {
   if (!dateStr) return "-";
-  return dateStr.replace("T", " ").replace("+09:00", " KST");
+  return dateStr.replace("T", " ").replace("Z", " UTC");
 }
 
 function render() {
-  const keyword = document.getElementById("searchInput").value.trim().toLowerCase();
-  const sort = document.getElementById("sortSelect").value;
+  const searchInput = document.getElementById("searchInput");
+  const sortSelect = document.getElementById("sortSelect");
+  const statsEl = document.getElementById("stats");
+  const appListEl = document.getElementById("appList");
+
+  const keyword = searchInput.value.trim().toLowerCase();
+  const sort = sortSelect.value;
 
   let items = [...originalItems];
 
@@ -41,36 +56,35 @@ function render() {
   }
 
   items.sort((a, b) => {
-    const da = new Date(a.releaseDate).getTime();
-    const db = new Date(b.releaseDate).getTime();
+    const da = new Date(a.detectedDate || a.releaseDate || 0).getTime();
+    const db = new Date(b.detectedDate || b.releaseDate || 0).getTime();
     return sort === "desc" ? db - da : da - db;
   });
 
-  document.getElementById("stats").textContent = `총 ${items.length}개 게임`;
-
-  const appList = document.getElementById("appList");
+  statsEl.textContent = `총 ${items.length}개 게임`;
 
   if (!items.length) {
-    appList.innerHTML = `<div class="empty">조건에 맞는 게임이 없습니다.</div>`;
+    appListEl.innerHTML = `<div class="empty">조건에 맞는 게임이 없습니다.</div>`;
     return;
   }
 
-  appList.innerHTML = items.map(item => `
+  appListEl.innerHTML = items.map(item => `
     <article class="card">
-      <img src="${item.icon}" alt="${escapeHtml(item.title)}" />
+      <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
       <div class="card-body">
-        <h2 class="card-title">${escapeHtml(item.title)}</h2>
+        <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
         <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
         <p class="card-meta">장르: ${escapeHtml(item.genre || "-")}</p>
-        <p class="card-meta">출시일: ${formatDate(item.releaseDate)}</p>
+        <p class="card-meta">다운로드 수: ${escapeHtml(item.downloads || "-")}</p>
+        <p class="card-meta">포착일: ${escapeHtml(formatDate(item.detectedDate || item.releaseDate))}</p>
       </div>
-      <a href="${item.url}" target="_blank" rel="noopener noreferrer">바로가기</a>
+      <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">바로가기</a>
     </article>
   `).join("");
 }
 
 function escapeHtml(str = "") {
-  return str
+  return String(str)
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
