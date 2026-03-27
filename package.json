@@ -1,1 +1,13 @@
-
+{
+  "name": "gp-koreanblog-xyz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "crawl": "node scripts/crawl.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
