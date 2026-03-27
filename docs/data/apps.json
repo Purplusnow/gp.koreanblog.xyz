@@ -18,15 +18,6 @@
       "releaseDate": "2026-03-25",
       "icon": "https://via.placeholder.com/144",
       "url": "https://play.google.com/store/apps/details?id=com.example.game2&hl=ko&gl=KR"
-    },
-    {
-      "appId": "com.example.game3",
-      "title": "Idle Kingdom",
-      "developer": "Gamma Soft",
-      "genre": "Simulation",
-      "releaseDate": "2026-03-22",
-      "icon": "https://via.placeholder.com/144",
-      "url": "https://play.google.com/store/apps/details?id=com.example.game3&hl=ko&gl=KR"
     }
   ]
 }
