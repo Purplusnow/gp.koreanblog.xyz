@@ -18,15 +18,21 @@ function todayKst() {
   return kst.toISOString().slice(0, 10);
 }
 
-function loadExistingMap() {
+function loadExistingData() {
   try {
-    if (!fs.existsSync(DATA_PATH)) return new Map();
+    if (!fs.existsSync(DATA_PATH)) {
+      return { updatedAt: null, items: [] };
+    }
+
     const raw = fs.readFileSync(DATA_PATH, "utf8");
     const json = JSON.parse(raw);
-    const items = Array.isArray(json.items) ? json.items : [];
-    return new Map(items.map((item) => [item.appId, item]));
+
+    return {
+      updatedAt: json.updatedAt || null,
+      items: Array.isArray(json.items) ? json.items : []
+    };
   } catch {
-    return new Map();
+    return { updatedAt: null, items: [] };
   }
 }
 
@@ -75,11 +81,10 @@ function extractDownloads($) {
     const text = $(el).text().trim();
 
     if (
-      /^(\d[\d,.]*[KMB]?\+?)$/i.test(text) ||
+      /^(\d[\d,.]*\s*[KMB]?\+?)$/i.test(text) ||
       /^(\d[\d,.]*\s*[만억]?\+?)$/i.test(text)
     ) {
       const parentText = $(el).parent().text().trim();
-
       if (
         parentText.includes("다운로드") ||
         parentText.toLowerCase().includes("downloads")
@@ -149,21 +154,30 @@ async function main() {
   const appIds = await getListAppIds();
   console.log(`Found ${appIds.length} app ids`);
 
-  const existingMap = loadExistingMap();
-  const items = [];
+  const existingData = loadExistingData();
+  const existingItems = existingData.items;
+  const existingMap = new Map(existingItems.map(item => [item.appId, item]));
+
+  let addedCount = 0;
 
   for (const appId of appIds.slice(0, 50)) {
+    if (existingMap.has(appId)) {
+      console.log(`SKIP: ${appId} already exists`);
+      continue;
+    }
+
     try {
       const detail = await getAppDetail(appId);
-      const prev = existingMap.get(appId);
 
-      items.push({
+      existingItems.push({
         ...detail,
-        detectedDate: prev?.detectedDate || todayKst(),
-        dateType: "detected"
+        discoveredDate: todayKst()
       });
 
-      console.log(`OK: ${appId} / ${detail.title}`);
+      existingMap.set(appId, true);
+      addedCount += 1;
+
+      console.log(`ADD: ${appId} / ${detail.title}`);
     } catch (err) {
       console.error(`FAIL: ${appId} / ${err.message}`);
     }
@@ -171,21 +185,22 @@ async function main() {
     await sleep(700);
   }
 
-  items.sort((a, b) => {
-    const da = new Date(a.detectedDate || 0).getTime();
-    const db = new Date(b.detectedDate || 0).getTime();
+  existingItems.sort((a, b) => {
+    const da = new Date(a.discoveredDate || 0).getTime();
+    const db = new Date(b.discoveredDate || 0).getTime();
     return db - da;
   });
 
   const output = {
     updatedAt: new Date().toISOString(),
-    items
+    items: existingItems
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
   fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
-  console.log(`Saved ${items.length} items to ${DATA_PATH}`);
+  console.log(`Added ${addedCount} new items`);
+  console.log(`Saved total ${existingItems.length} items to ${DATA_PATH}`);
 }
 
 main().catch((err) => {
