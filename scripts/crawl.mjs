@@ -6,6 +6,7 @@ const BASE_URL = "https://play.google.com";
 const LIST_URL =
   "https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games?hl=ko&gl=KR";
 const DATA_PATH = "./docs/data/apps.json";
+const MAX_ITEMS = 100;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -21,7 +22,7 @@ function todayKst() {
 function loadExistingData() {
   try {
     if (!fs.existsSync(DATA_PATH)) {
-      return { updatedAt: null, items: [] };
+      return { updatedAt: null, items: [], seenAppIds: [] };
     }
 
     const raw = fs.readFileSync(DATA_PATH, "utf8");
@@ -29,10 +30,11 @@ function loadExistingData() {
 
     return {
       updatedAt: json.updatedAt || null,
-      items: Array.isArray(json.items) ? json.items : []
+      items: Array.isArray(json.items) ? json.items : [],
+      seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : []
     };
   } catch {
-    return { updatedAt: null, items: [] };
+    return { updatedAt: null, items: [], seenAppIds: [] };
   }
 }
 
@@ -155,14 +157,18 @@ async function main() {
   console.log(`Found ${appIds.length} app ids`);
 
   const existingData = loadExistingData();
-  const existingItems = existingData.items;
-  const existingMap = new Map(existingItems.map(item => [item.appId, item]));
+  const existingItems = Array.isArray(existingData.items) ? existingData.items : [];
+  const seenSet = new Set(existingData.seenAppIds || []);
+
+  for (const item of existingItems) {
+    if (item.appId) seenSet.add(item.appId);
+  }
 
   let addedCount = 0;
 
   for (const appId of appIds.slice(0, 50)) {
-    if (existingMap.has(appId)) {
-      console.log(`SKIP: ${appId} already exists`);
+    if (seenSet.has(appId)) {
+      console.log(`SKIP: ${appId} already seen`);
       continue;
     }
 
@@ -174,7 +180,7 @@ async function main() {
         discoveredDate: todayKst()
       });
 
-      existingMap.set(appId, true);
+      seenSet.add(appId);
       addedCount += 1;
 
       console.log(`ADD: ${appId} / ${detail.title}`);
@@ -191,16 +197,22 @@ async function main() {
     return db - da;
   });
 
+  const trimmedItems = existingItems.slice(0, MAX_ITEMS);
+  const removedCount = Math.max(0, existingItems.length - trimmedItems.length);
+
   const output = {
     updatedAt: new Date().toISOString(),
-    items: existingItems
+    seenAppIds: [...seenSet],
+    items: trimmedItems
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
   fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
   console.log(`Added ${addedCount} new items`);
-  console.log(`Saved total ${existingItems.length} items to ${DATA_PATH}`);
+  console.log(`Removed ${removedCount} old items from visible list`);
+  console.log(`Saved total ${trimmedItems.length} visible items to ${DATA_PATH}`);
+  console.log(`Tracked total ${seenSet.size} seen app ids`);
 }
 
 main().catch((err) => {
