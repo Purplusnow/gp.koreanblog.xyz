@@ -1,23 +1,225 @@
 {
-  "updatedAt": "2026-03-27T13:00:00+09:00",
+  "updatedAt": "2026-03-27T14:05:17.642Z",
   "items": [
     {
-      "appId": "com.example.game1",
-      "title": "Sample RPG",
-      "developer": "Studio Alpha",
-      "genre": "RPG",
+      "appId": "com.netmarble.stonkey",
+      "title": "스톤에이지 키우기 - 모든 펫 증정!",
+      "developer": "Netmarble",
+      "genre": "키즈",
       "releaseDate": "2026-03-27",
-      "icon": "https://via.placeholder.com/144",
-      "url": "https://play.google.com/store/apps/details?id=com.example.game1&hl=ko&gl=KR"
+      "icon": "https://play-lh.googleusercontent.com/mHJqRu4jWQURdoJTkJYcqPvd1atYDkx4EGEuv3olhT8MFdDW1jYNGyFLmOkr8plJmQZmmSc7v744iYJk09Nc7A",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:04:56.015Z",
+      "dateType": "detected"
     },
     {
-      "appId": "com.example.game2",
-      "title": "Puzzle Hero",
-      "developer": "Beta Games",
-      "genre": "Puzzle",
-      "releaseDate": "2026-03-25",
-      "icon": "https://via.placeholder.com/144",
-      "url": "https://play.google.com/store/apps/details?id=com.example.game2&hl=ko&gl=KR"
+      "appId": "com.yzlmkr.google",
+      "title": "우와 모험단",
+      "developer": "Joy Nice Games",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
+      "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:04:57.014Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.netmarble.nanaori",
+      "title": "일곱 개의 대죄: Origin",
+      "developer": "Netmarble",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/z2HWdjO2Y3Jlpfba6MLKcTbNND79rCxeiw4Ibxzs3qQibgT7fl1GAXLIl-vAcD3lHg_h_J6oMJYpJm1I52GjSw",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:04:58.084Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.fh.kr.drc.gp",
+      "title": "DX: 각성자들 × 일렉시드",
+      "developer": "Archosaur Games",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/RX_gTcUPewRGqjTHPYN0o-ITz35Ize1K0bkEDtc7o-hFA6Pg2nf9YCtPVJRFHLXlwm24RE5cxEEa1YnX2D0LvA4",
+      "url": "https://play.google.com/store/apps/details?id=com.fh.kr.drc.gp&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:04:59.028Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.phs.global",
+      "title": "라스트 어사일럼: 페스트",
+      "developer": "37GAMES GLOBAL",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+      "url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:00.000Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.runawayplay.dragons",
+      "title": "드래곤 둥지 – 수집 & 육성",
+      "developer": "Runaway Play",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/tWSpMMixH1mx7Yv5DnEZdRaiHK68V6tZGYpr7WvgiluvGmuuRY_RefxseSKMcg5oV4YBUAtJZONrExg1qFkn",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.dragons&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:01.095Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.sybogames.subway.surfers.game",
+      "title": "Subway Surfers City",
+      "developer": "SYBO Games",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/wzeJx5Dq6tst_7EcRuYqXXBkN4YbPit2SX9QA6v5xh9HeWOLsjeWtCVDxYLsHIZSt30",
+      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:04.181Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.mhclyxpb.gatja",
+      "title": "동방 찻집",
+      "developer": "X.P. Games",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/2mcqVmxR-2TUf_D_tMHo9wj8Y2Pyva6BgZeJnaL5O4HBFJ8CJhES0SL9cc-6iMCbzThV5TnJbh4do2CNDWJliv8",
+      "url": "https://play.google.com/store/apps/details?id=com.mhclyxpb.gatja&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:05.165Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.standegg.wulin",
+      "title": "잠룡 : 무협 도트 RPG",
+      "developer": "StandEgg Co., Ltd.",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/5VXF_IsaFkg1I91Vu26pmExKjop4d9blVOnUOFye0-KxfvClwhn5MVJyS1MvdjCvQ-FlY4ivmlHTsTWhV-aF4cw",
+      "url": "https://play.google.com/store/apps/details?id=com.standegg.wulin&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:06.197Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.moonactive.cmboard",
+      "title": "Coin Master: 보드 어드벤처",
+      "developer": "Moon Active",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/pFMYxxHpIsLKeaxO9wjVRpAsgMaLKbT1kPwofNQtGi69-6fF_eUyIViAMY66auDrvsJnw2h6S5rpF8XaZcrm",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.cmboard&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:07.238Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.picorea.estherbunny",
+      "title": "에스더버니 팝걸",
+      "developer": "Picorea, Inc.",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/JJeRDqHeHFRWOn3PMOLy3n7dQ-jPO6kS7Ot6SCxUZy8G2YuBDpgBcsUL_OBVBWsAUzG4nxQDZPEiZFVcauPCFg",
+      "url": "https://play.google.com/store/apps/details?id=com.picorea.estherbunny&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:08.183Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "games.ugo.merge.secrets",
+      "title": "Secrets of Paradise Merge Game",
+      "developer": "UGO Games",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/e6gi8X2MOkb-8M7ERtEEaZuOJ2j4-iQkFHeC0TYLbiHs6sL4izzD23vxp7rUbSe0WKY",
+      "url": "https://play.google.com/store/apps/details?id=games.ugo.merge.secrets&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:09.155Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "jp.co.imagineer.medarotsurvivors",
+      "title": "Medabots Survivors",
+      "developer": "Imagineer Co.,Ltd.",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/QTpDvf339LbGx6DiEs9gNttM5K5PoE_tAtGut9dkbKWFonY3nNO5RiZmuBQsZIngx7fxoKuMqlh0DuQ6FSN9_Bs",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medarotsurvivors&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:10.160Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.devolverdigital.ballxpit",
+      "title": "BALL x PIT",
+      "developer": "DevolverDigital",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/0j3oRYHzry2gYMEsxUQ0OIbSslX81dA9eZ720wGnAuqOuF0TzfSD5PBL-FeSlXuAXXy6BuQr-gB0l1FhD1jpVg",
+      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ballxpit&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:11.176Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.devolverdigital.ReignsWitcher",
+      "title": "Reigns: The Witcher",
+      "developer": "DevolverDigital",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/shZ3aWi4idUoipcvPMduDGs_Lkzd3qwr8q6l4cM50NBPHt1eZKsOkoLtXILk402zs4QaEmhEyoCsZs69HeMsYg",
+      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ReignsWitcher&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:12.178Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.doghowlgames.pokeridler",
+      "title": "This Aint Even Poker, Ya Joker",
+      "developer": "Doghowl Games Ltd",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/bjc3rVEJt1-PCsbDPnc7E9esafcli44ILAhixTAmU9zlxnNXNPI2U_PXNglW8IXBYhLtQLgLmKpy4PMk4G1ktw",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.pokeridler&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:13.112Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.feralinteractive.tombraider_android",
+      "title": "Tomb Raider™",
+      "developer": "Feral Interactive",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/7HgM2hUw-T74b4Hgwu8u9iShbH_VX_Sz-LudBGxZ0pmvQ6OOVVd4kWf4G1MUr_mSyonQBMyls-McHAyeGhlfSQ",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.tombraider_android&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:14.109Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.lunosoft.jewelrelics",
+      "title": "2026 쥬얼 매치 아일랜드",
+      "developer": "LUNOSOFT INC",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/kNezjN2Q1sVPPtdcvqgmd_YFS8PYMibM2U1hucsIfeGA2de4nwaUFQ9wHy4TiD_wQJKymdh-SdPpPy030uSOeA",
+      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelrelics&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:15.055Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.rbx.wildwestcity.android",
+      "title": "Wild West City: Building Sim",
+      "developer": "RED BRIX COMPUTER SYSTEMS",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/rOPcnNM--awSpvabuqP3RlW_xoyFtkqYEcK3vrCsJZzrw5UirUZe_KZEDRuMahEqWw",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.wildwestcity.android&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:15.986Z",
+      "dateType": "detected"
+    },
+    {
+      "appId": "com.square_enix.android_googleplay.DD",
+      "title": "DISSIDIA DUELLUM FINAL FANTASY",
+      "developer": "SQUARE ENIX Co.,Ltd.",
+      "genre": "키즈",
+      "releaseDate": "2026-03-27",
+      "icon": "https://play-lh.googleusercontent.com/OwDLoG999axzizKLrsTQ5d-tPxjC8Vhej8KUSNSZ0WXMf3DlS7n5tNRrX7SNpSZJ_AYq5D2CuSdVgTMFr99pPgA",
+      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD&hl=ko&gl=KR",
+      "detectedAt": "2026-03-27T14:05:16.940Z",
+      "dateType": "detected"
     }
   ]
 }
