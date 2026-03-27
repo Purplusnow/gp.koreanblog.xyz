@@ -2,7 +2,7 @@ let originalItems = [];
 
 async function loadApps() {
   try {
-    const res = await fetch("/data/apps.json");
+    const res = await fetch("data/apps.json");
     const data = await res.json();
 
     originalItems = data.items || [];
