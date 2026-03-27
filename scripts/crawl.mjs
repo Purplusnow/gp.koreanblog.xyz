@@ -151,7 +151,7 @@ async function main() {
 
   let addedCount = 0;
 
-  for (const appId of appIds.slice(0, 50)) {
+  for (const appId of appIds.slice(0, 500)) {
     if (seenSet.has(appId)) {
       console.log(`SKIP: ${appId}`);
       continue;
