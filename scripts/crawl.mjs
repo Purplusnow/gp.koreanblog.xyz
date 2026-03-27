@@ -3,10 +3,22 @@ import fetch from "node-fetch";
 import * as cheerio from "cheerio";
 
 const BASE_URL = "https://play.google.com";
-const LIST_URL =
-  "https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games?hl=ko&gl=KR";
 const DATA_PATH = "./docs/data/apps.json";
 const MAX_ITEMS = 100;
+const MIN_DOWNLOAD_SCORE = 3; // 10K+ 이상
+
+const SOURCE_URLS = [
+  "https://play.google.com/store/games?hl=ko&gl=KR",
+  "https://play.google.com/store/apps/category/GAME?hl=ko&gl=KR",
+  "https://play.google.com/store/apps/top/category/GAME?hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=game&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=rpg&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=idle&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=puzzle&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=strategy&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=simulation&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=arcade&c=apps&hl=ko&gl=KR"
+];
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -53,46 +65,104 @@ async function fetchHtml(url) {
   return await res.text();
 }
 
-async function getListAppIds() {
-  const html = await fetchHtml(LIST_URL);
-  const $ = cheerio.load(html);
+function normalizePlayUrl(url) {
+  try {
+    const fullUrl = new URL(url, BASE_URL);
+    fullUrl.searchParams.set("hl", "ko");
+    fullUrl.searchParams.set("gl", "KR");
+    return fullUrl.toString();
+  } catch {
+    return url;
+  }
+}
 
+function parseAppIdFromHref(href) {
+  try {
+    const fullUrl = new URL(href, BASE_URL);
+    return fullUrl.searchParams.get("id");
+  } catch {
+    return null;
+  }
+}
+
+async function getCandidateAppIds() {
   const ids = new Set();
 
-  $("a[href*='/store/apps/details']").each((_, el) => {
-    const href = $(el).attr("href");
-    if (!href) return;
-
+  for (const sourceUrl of SOURCE_URLS) {
     try {
-      const fullUrl = new URL(href, BASE_URL);
-      const id = fullUrl.searchParams.get("id");
-      if (id) ids.add(id);
-    } catch {}
-  });
+      console.log(`SOURCE: ${sourceUrl}`);
+      const html = await fetchHtml(sourceUrl);
+      const $ = cheerio.load(html);
+
+      $("a[href*='/store/apps/details']").each((_, el) => {
+        const href = $(el).attr("href");
+        if (!href) return;
+
+        const appId = parseAppIdFromHref(href);
+        if (appId) ids.add(appId);
+      });
+    } catch (err) {
+      console.error(`SOURCE FAIL: ${sourceUrl} / ${err.message}`);
+    }
+
+    await sleep(500);
+  }
 
   return [...ids];
 }
 
 function extractDownloads($) {
-  let value = "";
+  const bodyText = $("body").text();
+
+  const patterns = [
+    /(\d[\d,.]*\s*[KMB]\+)\s*(downloads|다운로드)/i,
+    /(downloads|다운로드)\s*(\d[\d,.]*\s*[KMB]\+)/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = bodyText.match(pattern);
+    if (match) {
+      const candidate = match[1]?.toLowerCase().includes("download")
+        ? match[2]
+        : match[1];
+      if (candidate) return candidate.trim();
+    }
+  }
+
+  let found = "";
 
   $("div, span").each((_, el) => {
     const text = $(el).text().trim();
-
-    // 반드시 다운로드 문구 포함된 경우만
     if (
-      text.toLowerCase().includes("downloads") ||
-      text.includes("다운로드")
+      (text.toLowerCase().includes("downloads") || text.includes("다운로드")) &&
+      /(\d[\d,.]*\s*[KMB]\+)/i.test(text)
     ) {
-      const match = text.match(/(\d[\d,.]*\s*[KMB]?\+?)/i);
+      const match = text.match(/(\d[\d,.]*\s*[KMB]\+)/i);
       if (match) {
-        value = match[1].trim();
+        found = match[1].trim();
         return false;
       }
     }
   });
 
-  return value;
+  return found;
+}
+
+function downloadScore(downloads) {
+  if (!downloads) return 0;
+
+  const value = downloads.toUpperCase().replace(/\s+/g, "");
+
+  if (value.includes("K+")) {
+    const num = parseFloat(value.replace("K+", ""));
+    if (num >= 10) return 3; // 10K+
+    if (num >= 1) return 2;  // 1K+
+  }
+
+  if (value.includes("M+")) return 4; // 1M+
+  if (value.includes("B+")) return 5; // 1B+
+
+  return 0;
 }
 
 async function getAppDetail(appId) {
@@ -131,34 +201,39 @@ async function getAppDetail(appId) {
     genre,
     downloads,
     icon,
-    url
+    url: normalizePlayUrl(url)
   };
 }
 
 async function main() {
-  console.log("Fetching app list...");
-  const appIds = await getListAppIds();
-  console.log(`Found ${appIds.length} app ids`);
+  console.log("Collecting candidate app ids...");
+  const appIds = await getCandidateAppIds();
+  console.log(`Collected ${appIds.length} candidate ids`);
 
   const existingData = loadExistingData();
-  const existingItems = existingData.items;
-  const seenSet = new Set(existingData.seenAppIds);
+  const existingItems = Array.isArray(existingData.items) ? existingData.items : [];
+  const seenSet = new Set(Array.isArray(existingData.seenAppIds) ? existingData.seenAppIds : []);
 
-  // 기존 items도 seen에 포함
   for (const item of existingItems) {
     if (item.appId) seenSet.add(item.appId);
   }
 
   let addedCount = 0;
 
-  for (const appId of appIds.slice(0, 500)) {
+  for (const appId of appIds) {
     if (seenSet.has(appId)) {
-      console.log(`SKIP: ${appId}`);
+      console.log(`SKIP SEEN: ${appId}`);
       continue;
     }
 
     try {
       const detail = await getAppDetail(appId);
+      const score = downloadScore(detail.downloads);
+
+      if (score < MIN_DOWNLOAD_SCORE) {
+        console.log(`SKIP LOW DOWNLOADS: ${appId} / ${detail.downloads || "-"}`);
+        continue;
+      }
 
       existingItems.push({
         ...detail,
@@ -166,24 +241,22 @@ async function main() {
       });
 
       seenSet.add(appId);
-      addedCount++;
+      addedCount += 1;
 
-      console.log(`ADD: ${appId} / ${detail.title}`);
+      console.log(`ADD: ${appId} / ${detail.title} / ${detail.downloads}`);
     } catch (err) {
-      console.error(`FAIL: ${appId}`);
+      console.error(`FAIL: ${appId} / ${err.message}`);
     }
 
     await sleep(700);
   }
 
-  // 최신순 정렬
   existingItems.sort((a, b) => {
     const da = new Date(a.discoveredDate || 0).getTime();
     const db = new Date(b.discoveredDate || 0).getTime();
     return db - da;
   });
 
-  // 100개 제한
   const trimmed = existingItems.slice(0, MAX_ITEMS);
 
   const output = {
@@ -193,10 +266,14 @@ async function main() {
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
-  fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2));
+  fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
   console.log(`Added ${addedCount}`);
-  console.log(`Total saved: ${trimmed.length}`);
+  console.log(`Saved ${trimmed.length} visible items`);
+  console.log(`Tracked ${seenSet.size} seen app ids`);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
