@@ -129,21 +129,23 @@ async function getAppDetail(appId) {
     $("img").first().attr("src") ||
     "";
 
-  const possibleGenres = [];
+  const categoryHrefs = [];
   $('a[href*="/store/apps/category/"]').each((_, el) => {
-    const text = $(el).text().trim();
-    if (text) possibleGenres.push(text);
+    const href = $(el).attr("href") || "";
+    if (href) categoryHrefs.push(href);
   });
 
-  const genre = possibleGenres[0] || "";
+  const isGame = categoryHrefs.some(href =>
+    href.includes("/store/apps/category/GAME")
+  );
 
   return {
     appId,
     title,
     developer,
-    genre,
     icon,
-    url: normalizePlayUrl(url)
+    url: normalizePlayUrl(url),
+    isGame
   };
 }
 
@@ -153,7 +155,13 @@ async function main() {
   console.log(`Collected ${appIds.length} candidate ids`);
 
   const existingData = loadExistingData();
-  const existingItems = Array.isArray(existingData.items) ? existingData.items : [];
+
+  // 기존 데이터 중에서도 isGame !== false 인 것만 우선 유지
+  // 예전 데이터에 isGame 필드가 없으면 일단 유지되므로,
+  // 일반 앱을 완전히 깨끗하게 정리하려면 apps.json 초기화를 한 번 권장
+  const existingItems = (Array.isArray(existingData.items) ? existingData.items : [])
+    .filter(item => item.isGame !== false);
+
   const seenSet = new Set(Array.isArray(existingData.seenAppIds) ? existingData.seenAppIds : []);
 
   for (const item of existingItems) {
@@ -161,6 +169,7 @@ async function main() {
   }
 
   let addedCount = 0;
+  let skippedNonGame = 0;
 
   for (const appId of appIds) {
     if (seenSet.has(appId)) {
@@ -171,9 +180,20 @@ async function main() {
     try {
       const detail = await getAppDetail(appId);
 
+      if (!detail.isGame) {
+        skippedNonGame += 1;
+        console.log(`SKIP NON-GAME: ${appId} / ${detail.title}`);
+        continue;
+      }
+
       existingItems.push({
-        ...detail,
-        discoveredDate: todayKst()
+        appId: detail.appId,
+        title: detail.title,
+        developer: detail.developer,
+        icon: detail.icon,
+        url: detail.url,
+        discoveredDate: todayKst(),
+        isGame: true
       });
 
       seenSet.add(appId);
@@ -205,6 +225,7 @@ async function main() {
   fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
   console.log(`Added ${addedCount}`);
+  console.log(`Skipped non-games ${skippedNonGame}`);
   console.log(`Saved ${trimmed.length} visible items`);
   console.log(`Tracked ${seenSet.size} seen app ids`);
 }
