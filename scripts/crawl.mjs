@@ -1,11 +1,9 @@
 import fs from "fs";
-import fetch from "node-fetch";
 import * as cheerio from "cheerio";
 
 const BASE_URL = "https://play.google.com";
 const DATA_PATH = "./docs/data/apps.json";
 const MAX_ITEMS = 100;
-const MIN_DOWNLOAD_SCORE = 3; // 10K+ 이상
 
 const SOURCE_URLS = [
   "https://play.google.com/store/games?hl=ko&gl=KR",
@@ -111,60 +109,6 @@ async function getCandidateAppIds() {
   return [...ids];
 }
 
-function extractDownloads($) {
-  const bodyText = $("body").text();
-
-  const patterns = [
-    /(\d[\d,.]*\s*[KMB]\+)\s*(downloads|다운로드)/i,
-    /(downloads|다운로드)\s*(\d[\d,.]*\s*[KMB]\+)/i
-  ];
-
-  for (const pattern of patterns) {
-    const match = bodyText.match(pattern);
-    if (match) {
-      const candidate = match[1]?.toLowerCase().includes("download")
-        ? match[2]
-        : match[1];
-      if (candidate) return candidate.trim();
-    }
-  }
-
-  let found = "";
-
-  $("div, span").each((_, el) => {
-    const text = $(el).text().trim();
-    if (
-      (text.toLowerCase().includes("downloads") || text.includes("다운로드")) &&
-      /(\d[\d,.]*\s*[KMB]\+)/i.test(text)
-    ) {
-      const match = text.match(/(\d[\d,.]*\s*[KMB]\+)/i);
-      if (match) {
-        found = match[1].trim();
-        return false;
-      }
-    }
-  });
-
-  return found;
-}
-
-function downloadScore(downloads) {
-  if (!downloads) return 0;
-
-  const value = downloads.toUpperCase().replace(/\s+/g, "");
-
-  if (value.includes("K+")) {
-    const num = parseFloat(value.replace("K+", ""));
-    if (num >= 10) return 3; // 10K+
-    if (num >= 1) return 2;  // 1K+
-  }
-
-  if (value.includes("M+")) return 4; // 1M+
-  if (value.includes("B+")) return 5; // 1B+
-
-  return 0;
-}
-
 async function getAppDetail(appId) {
   const url = `${BASE_URL}/store/apps/details?id=${encodeURIComponent(appId)}&hl=ko&gl=KR`;
   const html = await fetchHtml(url);
@@ -192,14 +136,12 @@ async function getAppDetail(appId) {
   });
 
   const genre = possibleGenres[0] || "";
-  const downloads = extractDownloads($);
 
   return {
     appId,
     title,
     developer,
     genre,
-    downloads,
     icon,
     url: normalizePlayUrl(url)
   };
@@ -228,12 +170,6 @@ async function main() {
 
     try {
       const detail = await getAppDetail(appId);
-      const score = downloadScore(detail.downloads);
-
-      if (score < MIN_DOWNLOAD_SCORE) {
-        console.log(`SKIP LOW DOWNLOADS: ${appId} / ${detail.downloads || "-"}`);
-        continue;
-      }
 
       existingItems.push({
         ...detail,
@@ -243,7 +179,7 @@ async function main() {
       seenSet.add(appId);
       addedCount += 1;
 
-      console.log(`ADD: ${appId} / ${detail.title} / ${detail.downloads}`);
+      console.log(`ADD: ${appId} / ${detail.title}`);
     } catch (err) {
       console.error(`FAIL: ${appId} / ${err.message}`);
     }
