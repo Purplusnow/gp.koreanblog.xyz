@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>한국 구글플레이 최근 7일 신작 게임</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>한국 구글플레이 최근 7일 신작 게임</h1>
+      <p class="sub">
+        최근 7일 이내 출시된 게임을 출시일 순으로 정렬해 보여줍니다.
+      </p>
+      <p id="updatedAt" class="updated">마지막 업데이트: 불러오는 중...</p>
+    </header>
 
+    <section class="controls">
+      <input id="searchInput" type="text" placeholder="게임명 또는 개발사 검색" />
+      <select id="sortSelect">
+        <option value="desc">출시일 최신순</option>
+        <option value="asc">출시일 오래된순</option>
+      </select>
+    </section>
+
+    <section>
+      <div id="stats" class="stats"></div>
+      <div id="appList" class="app-list"></div>
+    </section>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
