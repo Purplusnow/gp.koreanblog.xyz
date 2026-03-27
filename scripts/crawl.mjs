@@ -5,13 +5,29 @@ import * as cheerio from "cheerio";
 const BASE_URL = "https://play.google.com";
 const LIST_URL =
   "https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games?hl=ko&gl=KR";
+const DATA_PATH = "./docs/data/apps.json";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function normalizeDate(date) {
-  return date.toISOString().slice(0, 10);
+function todayKst() {
+  const now = new Date();
+  const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+  const kst = new Date(utc + 9 * 60 * 60 * 1000);
+  return kst.toISOString().slice(0, 10);
+}
+
+function loadExistingMap() {
+  try {
+    if (!fs.existsSync(DATA_PATH)) return new Map();
+    const raw = fs.readFileSync(DATA_PATH, "utf8");
+    const json = JSON.parse(raw);
+    const items = Array.isArray(json.items) ? json.items : [];
+    return new Map(items.map((item) => [item.appId, item]));
+  } catch {
+    return new Map();
+  }
 }
 
 async function fetchHtml(url) {
@@ -52,21 +68,40 @@ async function getListAppIds() {
   return [...ids];
 }
 
-function extractTextByLabel($, labelText) {
-  let found = "";
+function extractDownloads($) {
+  let value = "";
 
   $("div, span").each((_, el) => {
     const text = $(el).text().trim();
-    if (text === labelText) {
+
+    if (
+      /^(\d[\d,.]*[KMB]?\+?)$/i.test(text) ||
+      /^(\d[\d,.]*\s*[만억]?\+?)$/i.test(text)
+    ) {
       const parentText = $(el).parent().text().trim();
-      if (parentText && parentText !== labelText) {
-        found = parentText.replace(labelText, "").trim();
+
+      if (
+        parentText.includes("다운로드") ||
+        parentText.toLowerCase().includes("downloads")
+      ) {
+        value = text;
+        return false;
+      }
+    }
+
+    if (
+      text.includes("다운로드") ||
+      text.toLowerCase().includes("downloads")
+    ) {
+      const match = text.match(/(\d[\d,.]*\s*[KMB]?\+?)/i);
+      if (match) {
+        value = match[1].trim();
         return false;
       }
     }
   });
 
-  return found;
+  return value;
 }
 
 async function getAppDetail(appId) {
@@ -89,37 +124,24 @@ async function getAppDetail(appId) {
     $("img").first().attr("src") ||
     "";
 
-  const genre =
-    $('a[href*="/store/apps/category/"]').first().text().trim() || "";
+  const possibleGenres = [];
+  $('a[href*="/store/apps/category/"]').each((_, el) => {
+    const text = $(el).text().trim();
+    if (text) possibleGenres.push(text);
+  });
 
-  let releaseDate =
-    extractTextByLabel($, "출시일") ||
-    extractTextByLabel($, "출시됨") ||
-    "";
+  const genre = possibleGenres[0] || "";
+  const downloads = extractDownloads($);
 
   return {
     appId,
     title,
     developer,
     genre,
-    releaseDate,
+    downloads,
     icon,
-    url,
-    detectedAt: new Date().toISOString()
+    url
   };
-}
-
-function toDateValue(value) {
-  if (!value) return null;
-
-  const direct = new Date(value);
-  if (!Number.isNaN(direct.getTime())) return direct;
-
-  const normalized = value.replace(/\./g, "-").replace(/\s/g, "");
-  const alt = new Date(normalized);
-  if (!Number.isNaN(alt.getTime())) return alt;
-
-  return null;
 }
 
 async function main() {
@@ -127,50 +149,43 @@ async function main() {
   const appIds = await getListAppIds();
   console.log(`Found ${appIds.length} app ids`);
 
+  const existingMap = loadExistingMap();
   const items = [];
 
-  for (const appId of appIds.slice(0, 30)) {
+  for (const appId of appIds.slice(0, 50)) {
     try {
-      const item = await getAppDetail(appId);
-      items.push(item);
-      console.log(`OK: ${appId} / ${item.title}`);
+      const detail = await getAppDetail(appId);
+      const prev = existingMap.get(appId);
+
+      items.push({
+        ...detail,
+        detectedDate: prev?.detectedDate || todayKst(),
+        dateType: "detected"
+      });
+
+      console.log(`OK: ${appId} / ${detail.title}`);
     } catch (err) {
-      console.error(`FAIL: ${appId}`, err.message);
+      console.error(`FAIL: ${appId} / ${err.message}`);
     }
+
     await sleep(700);
   }
 
-  const sevenDaysAgo = new Date();
-  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-
-  const filtered = items
-    .map((item) => {
-      const parsed = toDateValue(item.releaseDate);
-      return {
-        ...item,
-        sortDate: parsed ? normalizeDate(parsed) : normalizeDate(new Date(item.detectedAt)),
-        dateType: parsed ? "released" : "detected"
-      };
-    })
-    .filter((item) => {
-      const d = new Date(item.sortDate);
-      return d >= sevenDaysAgo;
-    })
-    .sort((a, b) => new Date(b.sortDate) - new Date(a.sortDate))
-    .map(({ sortDate, ...rest }) => ({
-      ...rest,
-      releaseDate: sortDate
-    }));
+  items.sort((a, b) => {
+    const da = new Date(a.detectedDate || 0).getTime();
+    const db = new Date(b.detectedDate || 0).getTime();
+    return db - da;
+  });
 
   const output = {
     updatedAt: new Date().toISOString(),
-    items: filtered
+    items
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
-  fs.writeFileSync("./docs/data/apps.json", JSON.stringify(output, null, 2), "utf8");
+  fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
-  console.log(`Saved ${filtered.length} items to docs/data/apps.json`);
+  console.log(`Saved ${items.length} items to ${DATA_PATH}`);
 }
 
 main().catch((err) => {
