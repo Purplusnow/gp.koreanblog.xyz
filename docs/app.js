@@ -9,13 +9,11 @@ async function loadApps() {
     appListEl.innerHTML = `<div class="empty">데이터 불러오는 중...</div>`;
 
     const res = await fetch("./data/apps.json");
-
     if (!res.ok) {
       throw new Error(`HTTP ${res.status} ${res.statusText}`);
     }
 
     const data = await res.json();
-
     originalItems = Array.isArray(data.items) ? data.items : [];
 
     updatedAtEl.textContent = `마지막 업데이트: ${formatDateTime(data.updatedAt)}`;
@@ -56,8 +54,8 @@ function render() {
   }
 
   items.sort((a, b) => {
-    const da = new Date(a.detectedDate || a.releaseDate || 0).getTime();
-    const db = new Date(b.detectedDate || b.releaseDate || 0).getTime();
+    const da = new Date(a.discoveredDate || 0).getTime();
+    const db = new Date(b.discoveredDate || 0).getTime();
     return sort === "desc" ? db - da : da - db;
   });
 
@@ -76,7 +74,7 @@ function render() {
         <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
         <p class="card-meta">장르: ${escapeHtml(item.genre || "-")}</p>
         <p class="card-meta">다운로드 수: ${escapeHtml(item.downloads || "-")}</p>
-        <p class="card-meta">포착일: ${escapeHtml(formatDate(item.detectedDate || item.releaseDate))}</p>
+        <p class="card-meta">발견일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
       </div>
       <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">바로가기</a>
     </article>
