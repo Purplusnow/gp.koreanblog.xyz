@@ -1,5 +1,27 @@
 {
-  "updatedAt": "2026-03-27T14:23:02.899Z",
+  "updatedAt": "2026-03-27T14:26:11.822Z",
+  "seenAppIds": [
+    "com.netmarble.stonkey",
+    "com.yzlmkr.google",
+    "com.netmarble.nanaori",
+    "com.fh.kr.drc.gp",
+    "com.phs.global",
+    "com.runawayplay.dragons",
+    "com.sybogames.subway.surfers.game",
+    "com.mhclyxpb.gatja",
+    "com.standegg.wulin",
+    "com.moonactive.cmboard",
+    "com.picorea.estherbunny",
+    "games.ugo.merge.secrets",
+    "jp.co.imagineer.medarotsurvivors",
+    "com.devolverdigital.ballxpit",
+    "com.devolverdigital.ReignsWitcher",
+    "com.doghowlgames.pokeridler",
+    "com.feralinteractive.tombraider_android",
+    "com.lunosoft.jewelrelics",
+    "com.rbx.wildwestcity.android",
+    "com.square_enix.android_googleplay.DD"
+  ],
   "items": [
     {
       "appId": "com.netmarble.stonkey",
