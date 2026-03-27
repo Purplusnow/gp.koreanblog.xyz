@@ -22,19 +22,18 @@ function todayKst() {
 function loadExistingData() {
   try {
     if (!fs.existsSync(DATA_PATH)) {
-      return { updatedAt: null, items: [], seenAppIds: [] };
+      return { items: [], seenAppIds: [] };
     }
 
     const raw = fs.readFileSync(DATA_PATH, "utf8");
     const json = JSON.parse(raw);
 
     return {
-      updatedAt: json.updatedAt || null,
       items: Array.isArray(json.items) ? json.items : [],
       seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : []
     };
   } catch {
-    return { updatedAt: null, items: [], seenAppIds: [] };
+    return { items: [], seenAppIds: [] };
   }
 }
 
@@ -68,9 +67,7 @@ async function getListAppIds() {
       const fullUrl = new URL(href, BASE_URL);
       const id = fullUrl.searchParams.get("id");
       if (id) ids.add(id);
-    } catch {
-      // ignore
-    }
+    } catch {}
   });
 
   return [...ids];
@@ -82,23 +79,10 @@ function extractDownloads($) {
   $("div, span").each((_, el) => {
     const text = $(el).text().trim();
 
+    // 반드시 다운로드 문구 포함된 경우만
     if (
-      /^(\d[\d,.]*\s*[KMB]?\+?)$/i.test(text) ||
-      /^(\d[\d,.]*\s*[만억]?\+?)$/i.test(text)
-    ) {
-      const parentText = $(el).parent().text().trim();
-      if (
-        parentText.includes("다운로드") ||
-        parentText.toLowerCase().includes("downloads")
-      ) {
-        value = text;
-        return false;
-      }
-    }
-
-    if (
-      text.includes("다운로드") ||
-      text.toLowerCase().includes("downloads")
+      text.toLowerCase().includes("downloads") ||
+      text.includes("다운로드")
     ) {
       const match = text.match(/(\d[\d,.]*\s*[KMB]?\+?)/i);
       if (match) {
@@ -157,9 +141,10 @@ async function main() {
   console.log(`Found ${appIds.length} app ids`);
 
   const existingData = loadExistingData();
-  const existingItems = Array.isArray(existingData.items) ? existingData.items : [];
-  const seenSet = new Set(existingData.seenAppIds || []);
+  const existingItems = existingData.items;
+  const seenSet = new Set(existingData.seenAppIds);
 
+  // 기존 items도 seen에 포함
   for (const item of existingItems) {
     if (item.appId) seenSet.add(item.appId);
   }
@@ -168,7 +153,7 @@ async function main() {
 
   for (const appId of appIds.slice(0, 50)) {
     if (seenSet.has(appId)) {
-      console.log(`SKIP: ${appId} already seen`);
+      console.log(`SKIP: ${appId}`);
       continue;
     }
 
@@ -181,41 +166,37 @@ async function main() {
       });
 
       seenSet.add(appId);
-      addedCount += 1;
+      addedCount++;
 
       console.log(`ADD: ${appId} / ${detail.title}`);
     } catch (err) {
-      console.error(`FAIL: ${appId} / ${err.message}`);
+      console.error(`FAIL: ${appId}`);
     }
 
     await sleep(700);
   }
 
+  // 최신순 정렬
   existingItems.sort((a, b) => {
     const da = new Date(a.discoveredDate || 0).getTime();
     const db = new Date(b.discoveredDate || 0).getTime();
     return db - da;
   });
 
-  const trimmedItems = existingItems.slice(0, MAX_ITEMS);
-  const removedCount = Math.max(0, existingItems.length - trimmedItems.length);
+  // 100개 제한
+  const trimmed = existingItems.slice(0, MAX_ITEMS);
 
   const output = {
     updatedAt: new Date().toISOString(),
     seenAppIds: [...seenSet],
-    items: trimmedItems
+    items: trimmed
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
-  fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
+  fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2));
 
-  console.log(`Added ${addedCount} new items`);
-  console.log(`Removed ${removedCount} old items from visible list`);
-  console.log(`Saved total ${trimmedItems.length} visible items to ${DATA_PATH}`);
-  console.log(`Tracked total ${seenSet.size} seen app ids`);
+  console.log(`Added ${addedCount}`);
+  console.log(`Total saved: ${trimmed.length}`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+main().catch(console.error);
