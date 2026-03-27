@@ -86,7 +86,6 @@ function render() {
       <div class="card-body">
         <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
         <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
-        <p class="card-meta">장르: ${escapeHtml(item.genre || "-")}</p>
         <p class="card-meta">발견일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
       </div>
       <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">바로가기</a>
