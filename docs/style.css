@@ -15,17 +15,3 @@
   text-decoration: underline;
 }
 
-.card-links {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  align-items: flex-end;
-  min-width: 110px;
-}
-
-.card-links a {
-  text-decoration: none;
-  color: #0b57d0;
-  font-weight: bold;
-  white-space: nowrap;
-}
