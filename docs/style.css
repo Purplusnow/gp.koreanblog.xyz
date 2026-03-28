@@ -209,3 +209,8 @@ body {
 .ad-box {
   margin: 20px 0;
 }
+
+/* 🔥 광고 안 뜨면 공간 제거 */
+.adsbygoogle:empty {
+  display: none;
+}
