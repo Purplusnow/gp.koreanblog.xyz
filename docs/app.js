@@ -49,6 +49,11 @@ function formatDateTime(dateStr) {
   });
 }
 
+function buildAppStoreSearchUrl(title, developer) {
+  const query = [title, developer].filter(Boolean).join(" ");
+  return `https://apps.apple.com/kr/search?term=${encodeURIComponent(query)}`;
+}
+
 function render() {
   const searchInput = document.getElementById("searchInput");
   const sortSelect = document.getElementById("sortSelect");
@@ -80,17 +85,24 @@ function render() {
     return;
   }
 
-  appListEl.innerHTML = items.map(item => `
-    <article class="card">
-      <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
-      <div class="card-body">
-        <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
-        <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
-        <p class="card-meta">발견일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
-      </div>
-      <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">바로가기</a>
-    </article>
-  `).join("");
+  appListEl.innerHTML = items.map(item => {
+    const appStoreUrl = buildAppStoreSearchUrl(item.title || "", item.developer || "");
+
+    return `
+      <article class="card">
+        <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
+        <div class="card-body">
+          <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
+          <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
+          <p class="card-meta">발견일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
+        </div>
+        <div class="card-links">
+          <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">Google Play</a>
+          <a href="${appStoreUrl}" target="_blank" rel="noopener noreferrer">App Store</a>
+        </div>
+      </article>
+    `;
+  }).join("");
 }
 
 function escapeHtml(str = "") {
