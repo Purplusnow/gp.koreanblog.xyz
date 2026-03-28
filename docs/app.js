@@ -52,11 +52,20 @@ function formatDateTime(dateStr) {
   });
 }
 
+function escapeHtml(str) {
+  return String(str || '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#039;');
+}
+
 function render() {
-  const searchInput = document.getElementById("searchInput");
-  const sortSelect = document.getElementById("sortSelect");
-  const statsEl = document.getElementById("stats");
-  const appListEl = document.getElementById("appList");
+  const searchInput = document.getElementById('searchInput');
+  const sortSelect = document.getElementById('sortSelect');
+  const statsEl = document.getElementById('stats');
+  const appListEl = document.getElementById('appList');
 
   const keyword = searchInput.value.trim().toLowerCase();
   const sort = sortSelect.value;
@@ -64,16 +73,16 @@ function render() {
   let items = originalItems.slice();
 
   if (keyword) {
-    items = items.filter(function(item) {
-      return (item.title || "").toLowerCase().includes(keyword) ||
-             (item.developer || "").toLowerCase().includes(keyword);
+    items = items.filter(function (item) {
+      return (item.title || '').toLowerCase().includes(keyword) ||
+             (item.developer || '').toLowerCase().includes(keyword);
     });
   }
 
-  items.sort(function(a, b) {
+  items.sort(function (a, b) {
     const da = new Date(a.discoveredDate || 0).getTime();
     const db = new Date(b.discoveredDate || 0).getTime();
-    return sort === "desc" ? db - da : da - db;
+    return sort === 'desc' ? db - da : da - db;
   });
 
   statsEl.textContent = '총 ' + items.length + '개 게임';
@@ -85,39 +94,34 @@ function render() {
 
   let html = '';
 
-  items.forEach(function(item) {
+  items.forEach(function (item) {
     const reviewUrl = reviewMap[item.appId];
     const hasReview = !!reviewUrl;
+    const targetUrl = hasReview ? reviewUrl : (item.url || '#');
+    const targetLabel = hasReview ? '리뷰 보기' : '구글플레이';
 
-    html += '<article class="card">';
-
-    // 🔥 아이콘 + 배지
-    html += '<div class="card-thumb">';
-    html += '<img src="' + (item.icon || '') + '" />';
+    html += '<a class="card card-link" href="' + escapeHtml(targetUrl) + '" target="_blank" rel="noopener noreferrer">';
+    html +=   '<div class="card-thumb">';
+    html +=     '<img src="' + escapeHtml(item.icon || '') + '" alt="' + escapeHtml(item.title || '') + '" />';
     if (hasReview) {
-      html += '<span class="thumb-badge">리뷰</span>';
+      html +=   '<span class="thumb-badge">리뷰</span>';
     }
-    html += '</div>';
+    html +=   '</div>';
 
-    html += '<div class="card-body">';
-    html += '<h2>' + (item.title || '-') + '</h2>';
-    html += '<p>개발사: ' + (item.developer || '-') + '</p>';
-    html += '<p>추천일: ' + formatDate(item.discoveredDate) + '</p>';
-    html += '</div>';
+    html +=   '<div class="card-body">';
+    html +=     '<h2>' + escapeHtml(item.title || '-') + '</h2>';
+    html +=     '<p>개발사: ' + escapeHtml(item.developer || '-') + '</p>';
+    html +=     '<p>추천일: ' + escapeHtml(formatDate(item.discoveredDate)) + '</p>';
+    html +=   '</div>';
 
-    if (hasReview) {
-      html += '<a href="' + reviewUrl + '" target="_blank">리뷰 보기</a>';
-    } else {
-      html += '<a href="' + (item.url || '#') + '" target="_blank">구글플레이</a>';
-    }
-
-    html += '</article>';
+    html +=   '<div class="card-cta">' + targetLabel + '</div>';
+    html += '</a>';
   });
 
   appListEl.innerHTML = html;
 }
 
-document.getElementById("searchInput").addEventListener("input", render);
-document.getElementById("sortSelect").addEventListener("change", render);
+document.getElementById('searchInput').addEventListener('input', render);
+document.getElementById('sortSelect').addEventListener('change', render);
 
 loadApps();
