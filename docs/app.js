@@ -37,12 +37,16 @@ function formatDate(dateStr) {
 
 function formatDateTime(dateStr) {
   if (!dateStr) return '-';
-
-  const date = new Date(dateStr);
-
-  return date.toLocaleString('ko-KR', {
+  return new Date(dateStr).toLocaleString('ko-KR', {
     timeZone: 'Asia/Seoul'
   });
+}
+
+function escapeHtml(str) {
+  return String(str || '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;');
 }
 
 function render() {
@@ -74,38 +78,44 @@ function render() {
   let html = '';
 
   items.forEach((item, index) => {
-    const reviewUrl = reviewMap[item.appId];
+    const appId = item.appId || '';
+    const reviewUrl = reviewMap[appId];
     const hasReview = !!reviewUrl;
+
     const targetUrl = hasReview ? reviewUrl : (item.url || '#');
 
-    html += '<a class="card card-link" href="' + targetUrl + '" target="_blank">';
+    html += '<a class="card card-link" href="' + escapeHtml(targetUrl) + '" target="_blank">';
+
+    // 아이콘 + 배지
     html += '<div class="card-thumb">';
-    html += '<img src="' + (item.icon || '') + '" />';
+    html += '<img src="' + escapeHtml(item.icon || '') + '" />';
     if (hasReview) {
       html += '<span class="thumb-badge">리뷰</span>';
     }
     html += '</div>';
 
+    // 텍스트
     html += '<div class="card-body">';
-    html += '<h2>' + (item.title || '-') + '</h2>';
-    html += '<p>개발사: ' + (item.developer || '-') + '</p>';
+    html += '<h2>' + escapeHtml(item.title || '-') + '</h2>';
+    html += '<p>개발사: ' + escapeHtml(item.developer || '-') + '</p>';
     html += '<p>추천일: ' + formatDate(item.discoveredDate) + '</p>';
     html += '</div>';
 
+    // CTA 버튼
     html += '<div class="card-cta ' + (hasReview ? 'review' : 'store') + '">';
     html += hasReview ? '리뷰 보기' : '구글플레이';
     html += '</div>';
 
     html += '</a>';
 
-    // 🔥 10개마다 광고
+    // 🔥 광고
     if ((index + 1) % 10 === 0) {
       html += `
         <div class="ad-box mid-ad">
           <ins class="adsbygoogle"
             style="display:block"
-            data-ad-client="ca-pub-4640178123605595"
-            data-ad-slot="3482050864"
+            data-ad-client="ca-pub-XXXXXXXXXXXX"
+            data-ad-slot="XXXXXXXXXX"
             data-ad-format="auto"
             data-full-width-responsive="true"></ins>
         </div>
