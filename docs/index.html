@@ -11,16 +11,19 @@
     <header class="header">
       <h1>냥이오락실 추천 게임 목록</h1>
       <p class="sub">
-        한국 구글플레이에서 발견한 추천 게임을 날짜 순으로 보여줍니다.
+        지금 눈에 띄는 모바일 게임을 빠르게 확인하고, 리뷰까지 바로 이어서 볼 수 있는 큐레이션 목록입니다.
+      </p>
+      <p class="sub">
+        한국 구글플레이에서 추천 게임을 날짜 순으로 정리했습니다. 리뷰가 있는 게임은 바로 확인할 수 있습니다.
       </p>
       <p id="updatedAt" class="updated">마지막 업데이트: 불러오는 중...</p>
     </header>
 
     <section class="controls">
-      <input id="searchInput" type="text" placeholder="게임명 또는 개발사 검색" />
+      <input id="searchInput" type="text" placeholder="게임명, 개발사로 빠르게 찾기" />
       <select id="sortSelect">
-        <option value="desc">발견일 최신순</option>
-        <option value="asc">발견일 오래된순</option>
+        <option value="desc">추천일 최신순</option>
+        <option value="asc">추천일 오래된순</option>
       </select>
     </section>
 
@@ -34,6 +37,6 @@
     </footer>
   </div>
 
-  <script src="./app.js?v=9"></script>
+  <script src="./app.js?v=10"></script>
 </body>
 </html>
