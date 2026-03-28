@@ -3,19 +3,19 @@ import * as cheerio from "cheerio";
 
 const BASE_URL = "https://play.google.com";
 const DATA_PATH = "./docs/data/apps.json";
-const MAX_ITEMS = 100;
+const MAX_ITEMS = 3000;
 
 const SOURCE_URLS = [
   "https://play.google.com/store/games?hl=ko&gl=KR",
   "https://play.google.com/store/apps/category/GAME?hl=ko&gl=KR",
   "https://play.google.com/store/apps/top/category/GAME?hl=ko&gl=KR",
   "https://play.google.com/store/search?q=game&c=apps&hl=ko&gl=KR",
-  "https://play.google.com/store/search?q=rpg&c=apps&hl=ko&gl=KR",
-  "https://play.google.com/store/search?q=idle&c=apps&hl=ko&gl=KR",
-  "https://play.google.com/store/search?q=puzzle&c=apps&hl=ko&gl=KR",
-  "https://play.google.com/store/search?q=strategy&c=apps&hl=ko&gl=KR",
-  "https://play.google.com/store/search?q=simulation&c=apps&hl=ko&gl=KR",
-  "https://play.google.com/store/search?q=arcade&c=apps&hl=ko&gl=KR"
+  "https://play.google.com/store/search?q=games&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=mobile%20game&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=online%20game&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=%EA%B2%8C%EC%9E%84&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EA%B2%8C%EC%9E%84&c=apps&hl=ko&gl=KR",
+  "https://play.google.com/store/search?q=%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%8C%EC%9E%84&c=apps&hl=ko&gl=KR"
 ];
 
 function sleep(ms) {
@@ -32,7 +32,7 @@ function todayKst() {
 function loadExistingData() {
   try {
     if (!fs.existsSync(DATA_PATH)) {
-      return { items: [], seenAppIds: [] };
+      return { items: [], seenAppIds: [], seenItems: [] };
     }
 
     const raw = fs.readFileSync(DATA_PATH, "utf8");
@@ -40,10 +40,11 @@ function loadExistingData() {
 
     return {
       items: Array.isArray(json.items) ? json.items : [],
-      seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : []
+      seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : [],
+      seenItems: Array.isArray(json.seenItems) ? json.seenItems : []
     };
   } catch {
-    return { items: [], seenAppIds: [] };
+    return { items: [], seenAppIds: [], seenItems: [] };
   }
 }
 
@@ -156,15 +157,17 @@ async function main() {
 
   const existingData = loadExistingData();
 
-  // 기존 데이터 중에서도 isGame !== false 인 것만 우선 유지
-  // 예전 데이터에 isGame 필드가 없으면 일단 유지되므로,
-  // 일반 앱을 완전히 깨끗하게 정리하려면 apps.json 초기화를 한 번 권장
   const existingItems = (Array.isArray(existingData.items) ? existingData.items : [])
     .filter(item => item.isGame !== false);
 
+  const seenItems = Array.isArray(existingData.seenItems) ? existingData.seenItems : [];
   const seenSet = new Set(Array.isArray(existingData.seenAppIds) ? existingData.seenAppIds : []);
 
   for (const item of existingItems) {
+    if (item.appId) seenSet.add(item.appId);
+  }
+
+  for (const item of seenItems) {
     if (item.appId) seenSet.add(item.appId);
   }
 
@@ -186,7 +189,7 @@ async function main() {
         continue;
       }
 
-      existingItems.push({
+      const newItem = {
         appId: detail.appId,
         title: detail.title,
         developer: detail.developer,
@@ -194,8 +197,10 @@ async function main() {
         url: detail.url,
         discoveredDate: todayKst(),
         isGame: true
-      });
+      };
 
+      existingItems.push(newItem);
+      seenItems.push(newItem);
       seenSet.add(appId);
       addedCount += 1;
 
@@ -213,11 +218,18 @@ async function main() {
     return db - da;
   });
 
+  seenItems.sort((a, b) => {
+    const da = new Date(a.discoveredDate || 0).getTime();
+    const db = new Date(b.discoveredDate || 0).getTime();
+    return db - da;
+  });
+
   const trimmed = existingItems.slice(0, MAX_ITEMS);
 
   const output = {
     updatedAt: new Date().toISOString(),
     seenAppIds: [...seenSet],
+    seenItems,
     items: trimmed
   };
 
@@ -228,6 +240,7 @@ async function main() {
   console.log(`Skipped non-games ${skippedNonGame}`);
   console.log(`Saved ${trimmed.length} visible items`);
   console.log(`Tracked ${seenSet.size} seen app ids`);
+  console.log(`Saved ${seenItems.length} archive items`);
 }
 
 main().catch((err) => {
