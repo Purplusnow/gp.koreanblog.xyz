@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>지난간 게임 목록</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>지난간 게임 목록</h1>
+      <p class="sub">
+        한 번이라도 발견된 게임의 누적 목록입니다.
+      </p>
+      <p class="sub">
+        <a href="./index.html">메인 목록으로 돌아가기</a>
+      </p>
+      <p id="updatedAt" class="updated">마지막 업데이트: 불러오는 중...</p>
+    </header>
+
+    <section class="controls">
+      <input id="searchInput" type="text" placeholder="게임명 또는 개발사 검색" />
+      <select id="sortSelect">
+        <option value="desc">발견일 최신순</option>
+        <option value="asc">발견일 오래된순</option>
+      </select>
+    </section>
+
+    <section>
+      <div id="stats" class="stats"></div>
+      <div id="appList" class="app-list"></div>
+    </section>
+  </div>
+
+  <script src="./archive.js?v=1"></script>
+</body>
+</html>
