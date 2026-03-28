@@ -3,7 +3,7 @@ name: Build and Deploy Pages
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "17 */3 * * *"
   push:
     branches:
       - main
