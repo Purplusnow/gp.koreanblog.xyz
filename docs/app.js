@@ -109,7 +109,7 @@ function render() {
     html += '</a>';
 
     // 🔥 광고
-    if ((index + 1) % 10 === 0) {
+    if ((index + 1) % 50 === 0) {
       html += `
         <div class="ad-box mid-ad">
           <ins class="adsbygoogle"
