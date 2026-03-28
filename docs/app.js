@@ -1,4 +1,5 @@
 let originalItems = [];
+let reviewMap = {};
 
 async function loadApps() {
   const appListEl = document.getElementById("appList");
@@ -8,13 +9,13 @@ async function loadApps() {
   try {
     appListEl.innerHTML = `<div class="empty">데이터 불러오는 중...</div>`;
 
+    // apps.json
     const res = await fetch("./data/apps.json");
-
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status} ${res.statusText}`);
-    }
-
     const data = await res.json();
+
+    // review-map.json
+    const reviewRes = await fetch("./data/review-map.json");
+    reviewMap = await reviewRes.json();
 
     originalItems = Array.isArray(data.items) ? data.items : [];
 
@@ -24,7 +25,7 @@ async function loadApps() {
     render();
   } catch (err) {
     console.error("loadApps error:", err);
-    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다: ${escapeHtml(err.message)}</div>`;
+    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다</div>`;
   }
 }
 
@@ -80,26 +81,25 @@ function render() {
     return;
   }
 
-  appListEl.innerHTML = items.map(item => `
-    <article class="card">
-      <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
-      <div class="card-body">
-        <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
-        <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
-        <p class="card-meta">발견일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
-      </div>
-      <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">바로가기</a>
-    </article>
-  `).join("");
-}
+  appListEl.innerHTML = items.map(item => {
+    const reviewUrl = reviewMap[item.appId];
 
-function escapeHtml(str = "") {
-  return String(str)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
+    return `
+      <article class="card">
+        <img src="${item.icon || ""}" />
+        <div class="card-body">
+          <h2>${item.title || "-"}</h2>
+          <p>개발사: ${item.developer || "-"}</p>
+          <p>추천일: ${formatDate(item.discoveredDate)}</p>
+        </div>
+        ${
+          reviewUrl
+            ? `<a href="${reviewUrl}" target="_blank">리뷰 보기</a>`
+            : `<a href="${item.url}" target="_blank">구글플레이</a>`
+        }
+      </article>
+    `;
+  }).join("");
 }
 
 document.getElementById("searchInput").addEventListener("input", render);
