@@ -114,8 +114,8 @@ function render() {
         <div class="ad-box mid-ad">
           <ins class="adsbygoogle"
             style="display:block"
-            data-ad-client="ca-pub-XXXXXXXXXXXX"
-            data-ad-slot="XXXXXXXXXX"
+            data-ad-client="ca-pub-4640178123605595"
+            data-ad-slot="3482050864"
             data-ad-format="auto"
             data-full-width-responsive="true"></ins>
         </div>
