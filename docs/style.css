@@ -14,45 +14,40 @@ body {
   color: #222;
 }
 
-body {
-  -webkit-text-size-adjust: 100%;
-}
-
 .container {
   width: 100%;
   max-width: 980px;
   margin: 0 auto;
-  padding: 24px 16px 48px;
-  overflow-x: hidden;
+  padding: 24px 14px 48px;
 }
+
+/* ===== 헤더 ===== */
 
 .header h1 {
   margin: 0 0 8px;
   font-size: 28px;
   line-height: 1.25;
-  word-break: keep-all;
 }
 
 .sub {
   margin: 0 0 8px;
   color: #555;
   line-height: 1.5;
-  word-break: keep-all;
 }
 
 .updated {
   margin: 0 0 20px;
   color: #777;
   font-size: 14px;
-  line-height: 1.4;
 }
+
+/* ===== 검색 영역 ===== */
 
 .controls {
   display: flex;
   gap: 12px;
   margin-bottom: 20px;
   flex-wrap: wrap;
-  width: 100%;
 }
 
 .controls input,
@@ -74,6 +69,8 @@ body {
   min-width: 0;
 }
 
+/* ===== 리스트 ===== */
+
 .stats {
   margin-bottom: 16px;
   color: #555;
@@ -84,7 +81,10 @@ body {
   display: grid;
   gap: 14px;
   width: 100%;
+  padding: 0 2px; /* 🔥 좌우 균형 핵심 */
 }
+
+/* ===== 카드 ===== */
 
 .card {
   display: flex;
@@ -112,9 +112,7 @@ body {
   background: #fcfcff;
 }
 
-.card-link:active {
-  transform: translateY(0);
-}
+/* ===== 아이콘 ===== */
 
 .card-thumb {
   position: relative;
@@ -129,8 +127,9 @@ body {
   border-radius: 16px;
   object-fit: cover;
   background: #eee;
-  display: block;
 }
+
+/* 리뷰 배지 */
 
 .thumb-badge {
   position: absolute;
@@ -143,11 +142,12 @@ body {
   padding: 6px 7px;
   border-radius: 999px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  line-height: 1;
 }
 
+/* ===== 텍스트 ===== */
+
 .card-body {
-  flex: 1 1 auto;
+  flex: 1;
   min-width: 0;
 }
 
@@ -155,8 +155,6 @@ body {
   margin: 0 0 6px;
   font-size: 18px;
   line-height: 1.3;
-  color: #222;
-  word-break: keep-all;
   overflow-wrap: break-word;
 }
 
@@ -164,27 +162,23 @@ body {
   margin: 2px 0;
   color: #666;
   font-size: 14px;
-  line-height: 1.4;
-  word-break: keep-all;
-  overflow-wrap: break-word;
 }
 
+/* ===== CTA 버튼 ===== */
+
 .card-cta {
-  min-width: 0;
+  min-width: 100px;
   padding: 10px 14px;
   border-radius: 999px;
   font-size: 14px;
   font-weight: 700;
   text-align: center;
   white-space: nowrap;
-  flex: 0 0 auto;
+  flex-shrink: 0;
   border: 1px solid transparent;
-  transition: transform 0.14s ease, box-shadow 0.14s ease, background-color 0.14s ease;
 }
 
-.card-link:hover .card-cta {
-  transform: translateY(-1px);
-}
+/* 리뷰 */
 
 .card-cta.review {
   background: #eaf8ef;
@@ -192,10 +186,7 @@ body {
   border-color: #bfe8cb;
 }
 
-.card-link:hover .card-cta.review {
-  background: #ddf4e5;
-  box-shadow: 0 6px 14px rgba(15, 143, 69, 0.12);
-}
+/* 플레이 */
 
 .card-cta.store {
   background: #eef4ff;
@@ -203,18 +194,18 @@ body {
   border-color: #c9dafd;
 }
 
-.card-link:hover .card-cta.store {
-  background: #e4eeff;
-  box-shadow: 0 6px 14px rgba(11, 87, 208, 0.12);
-}
+/* ===== 광고 ===== */
 
 .ad-box {
   margin: 20px 0;
 }
 
+/* 광고 안 뜨면 제거 */
 .adsbygoogle:empty {
   display: none;
 }
+
+/* ===== 기타 ===== */
 
 .empty {
   padding: 24px;
@@ -227,42 +218,20 @@ body {
 
 .footer-link {
   margin-top: 32px;
-  padding-top: 12px;
   text-align: right;
   font-size: 14px;
-  color: #666;
 }
 
-.footer-link a {
-  color: #666;
-  text-decoration: none;
-}
-
-.footer-link a:hover {
-  text-decoration: underline;
-}
+/* ===== 모바일 ===== */
 
 @media (max-width: 640px) {
   .container {
-    padding: 20px 12px 36px;
-  }
-
-  .header h1 {
-    font-size: 24px;
-  }
-
-  .controls {
-    gap: 10px;
-  }
-
-  .controls input,
-  .controls select {
-    width: 100%;
+    padding: 20px 14px 36px;
   }
 
   .card {
-    gap: 12px;
     padding: 12px;
+    gap: 12px;
   }
 
   .card-thumb {
@@ -274,29 +243,14 @@ body {
   .card-thumb img {
     width: 64px;
     height: 64px;
-    border-radius: 14px;
   }
 
   .card-body h2 {
     font-size: 17px;
   }
 
-  .card-body p {
-    font-size: 13px;
-  }
-
   .card-cta {
-    padding: 9px 12px;
     font-size: 13px;
-  }
-}
-
-@media (max-width: 480px) {
-  .card {
-    align-items: flex-start;
-  }
-
-  .card-cta {
-    align-self: center;
+    padding: 8px 12px;
   }
 }
