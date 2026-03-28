@@ -1,4 +1,5 @@
 let originalItems = [];
+let reviewMap = {};
 
 async function loadApps() {
   const appListEl = document.getElementById("appList");
@@ -8,13 +9,22 @@ async function loadApps() {
   try {
     appListEl.innerHTML = `<div class="empty">데이터 불러오는 중...</div>`;
 
-    const res = await fetch("./data/apps.json");
+    const [appsRes, reviewRes] = await Promise.all([
+      fetch("./data/apps.json"),
+      fetch("./data/review-map.json")
+    ]);
 
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status} ${res.statusText}`);
+    if (!appsRes.ok) {
+      throw new Error(`apps.json HTTP ${appsRes.status} ${appsRes.statusText}`);
     }
 
-    const data = await res.json();
+    const data = await appsRes.json();
+
+    if (reviewRes.ok) {
+      reviewMap = await reviewRes.json();
+    } else {
+      reviewMap = {};
+    }
 
     const currentItems = Array.isArray(data.items) ? data.items : [];
     const seenItems = Array.isArray(data.seenItems) ? data.seenItems : [];
@@ -33,7 +43,7 @@ async function loadApps() {
     render();
   } catch (err) {
     console.error("loadApps error:", err);
-    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다: ${escapeHtml(err.message)}</div>`;
+    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다.</div>`;
   }
 }
 
@@ -56,6 +66,15 @@ function formatDateTime(dateStr) {
     second: "2-digit",
     hour12: false
   });
+}
+
+function escapeHtml(str = "") {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 }
 
 function render() {
@@ -85,30 +104,33 @@ function render() {
   statsEl.textContent = `총 ${items.length}개 게임`;
 
   if (!items.length) {
-    appListEl.innerHTML = `<div class="empty">지나간 게임이 아직 없습니다.</div>`;
+    appListEl.innerHTML = `<div class="empty">과거 추천 게임이 아직 없습니다.</div>`;
     return;
   }
 
-  appListEl.innerHTML = items.map(item => `
-    <article class="card">
-      <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
-      <div class="card-body">
-        <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
-        <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
-        <p class="card-meta">발견일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
-      </div>
-      <a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">바로가기</a>
-    </article>
-  `).join("");
-}
+  appListEl.innerHTML = items.map(item => {
+    const reviewUrl = reviewMap[item.appId];
+    const hasReview = Boolean(reviewUrl && String(reviewUrl).trim());
 
-function escapeHtml(str = "") {
-  return String(str)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
+    return `
+      <article class="card">
+        <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
+        <div class="card-body">
+          <div class="title-row">
+            <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
+            ${hasReview ? `<span class="badge">리뷰 있음</span>` : ""}
+          </div>
+          <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
+          <p class="card-meta">추천일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
+        </div>
+        ${
+          hasReview
+            ? `<a href="${escapeHtml(reviewUrl)}" target="_blank" rel="noopener noreferrer">리뷰 보기</a>`
+            : `<a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">구글플레이</a>`
+        }
+      </article>
+    `;
+  }).join("");
 }
 
 document.getElementById("searchInput").addEventListener("input", render);
