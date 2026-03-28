@@ -99,6 +99,7 @@ function render() {
     const hasReview = !!reviewUrl;
     const targetUrl = hasReview ? reviewUrl : (item.url || '#');
     const targetLabel = hasReview ? '리뷰 보기' : '구글플레이';
+    const ctaClass = hasReview ? 'card-cta review' : 'card-cta store';
 
     html += '<a class="card card-link" href="' + escapeHtml(targetUrl) + '" target="_blank" rel="noopener noreferrer">';
     html +=   '<div class="card-thumb">';
@@ -114,7 +115,7 @@ function render() {
     html +=     '<p>추천일: ' + escapeHtml(formatDate(item.discoveredDate)) + '</p>';
     html +=   '</div>';
 
-    html +=   '<div class="card-cta">' + targetLabel + '</div>';
+    html +=   '<div class="' + ctaClass + '">' + targetLabel + '</div>';
     html += '</a>';
   });
 
