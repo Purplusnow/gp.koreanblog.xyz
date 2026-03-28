@@ -16,7 +16,16 @@ async function loadApps() {
 
     const data = await res.json();
 
-    originalItems = Array.isArray(data.seenItems) ? data.seenItems : [];
+    const currentItems = Array.isArray(data.items) ? data.items : [];
+    const seenItems = Array.isArray(data.seenItems) ? data.seenItems : [];
+
+    const currentIds = new Set(
+      currentItems
+        .map(item => item.appId)
+        .filter(Boolean)
+    );
+
+    originalItems = seenItems.filter(item => !currentIds.has(item.appId));
 
     updatedAtEl.textContent = `마지막 업데이트: ${formatDateTime(data.updatedAt)}`;
     statsEl.textContent = `총 ${originalItems.length}개 게임`;
@@ -76,7 +85,7 @@ function render() {
   statsEl.textContent = `총 ${items.length}개 게임`;
 
   if (!items.length) {
-    appListEl.innerHTML = `<div class="empty">조건에 맞는 게임이 없습니다.</div>`;
+    appListEl.innerHTML = `<div class="empty">지나간 게임이 아직 없습니다.</div>`;
     return;
   }
 
