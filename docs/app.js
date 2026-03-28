@@ -9,13 +9,22 @@ async function loadApps() {
   try {
     appListEl.innerHTML = `<div class="empty">데이터 불러오는 중...</div>`;
 
-    // apps.json
-    const res = await fetch("./data/apps.json");
-    const data = await res.json();
+    const [appsRes, reviewRes] = await Promise.all([
+      fetch("./data/apps.json"),
+      fetch("./data/review-map.json")
+    ]);
 
-    // review-map.json
-    const reviewRes = await fetch("./data/review-map.json");
-    reviewMap = await reviewRes.json();
+    if (!appsRes.ok) {
+      throw new Error(`apps.json HTTP ${appsRes.status} ${appsRes.statusText}`);
+    }
+
+    const data = await appsRes.json();
+
+    if (reviewRes.ok) {
+      reviewMap = await reviewRes.json();
+    } else {
+      reviewMap = {};
+    }
 
     originalItems = Array.isArray(data.items) ? data.items : [];
 
@@ -25,7 +34,7 @@ async function loadApps() {
     render();
   } catch (err) {
     console.error("loadApps error:", err);
-    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다</div>`;
+    appListEl.innerHTML = `<div class="empty">데이터를 불러오지 못했습니다.</div>`;
   }
 }
 
@@ -48,6 +57,15 @@ function formatDateTime(dateStr) {
     second: "2-digit",
     hour12: false
   });
+}
+
+function escapeHtml(str = "") {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 }
 
 function render() {
@@ -83,19 +101,23 @@ function render() {
 
   appListEl.innerHTML = items.map(item => {
     const reviewUrl = reviewMap[item.appId];
+    const hasReview = Boolean(reviewUrl && String(reviewUrl).trim());
 
     return `
       <article class="card">
-        <img src="${item.icon || ""}" />
+        <img src="${item.icon || ""}" alt="${escapeHtml(item.title || "")}" />
         <div class="card-body">
-          <h2>${item.title || "-"}</h2>
-          <p>개발사: ${item.developer || "-"}</p>
-          <p>추천일: ${formatDate(item.discoveredDate)}</p>
+          <div class="title-row">
+            <h2 class="card-title">${escapeHtml(item.title || "-")}</h2>
+            ${hasReview ? `<span class="badge">리뷰 있음</span>` : ""}
+          </div>
+          <p class="card-meta">개발사: ${escapeHtml(item.developer || "-")}</p>
+          <p class="card-meta">추천일: ${escapeHtml(formatDate(item.discoveredDate))}</p>
         </div>
         ${
-          reviewUrl
-            ? `<a href="${reviewUrl}" target="_blank">리뷰 보기</a>`
-            : `<a href="${item.url}" target="_blank">구글플레이</a>`
+          hasReview
+            ? `<a href="${escapeHtml(reviewUrl)}" target="_blank" rel="noopener noreferrer">리뷰 보기</a>`
+            : `<a href="${item.url || "#"}" target="_blank" rel="noopener noreferrer">구글플레이</a>`
         }
       </article>
     `;
