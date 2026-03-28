@@ -76,7 +76,7 @@ body {
 .card-link {
   text-decoration: none;
   color: inherit;
-  transition: transform 0.14s ease, box-shadow 0.14s ease, border-color 0.14s ease;
+  transition: transform 0.14s ease, box-shadow 0.14s ease, border-color 0.14s ease, background-color 0.14s ease;
   cursor: pointer;
 }
 
@@ -84,6 +84,7 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
   border-color: #d4d9e2;
+  background: #fcfcff;
 }
 
 .card-link:active {
@@ -117,6 +118,7 @@ body {
   padding: 6px 7px;
   border-radius: 999px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  line-height: 1;
 }
 
 .card-body {
@@ -139,10 +141,42 @@ body {
 }
 
 .card-cta {
-  color: #0b57d0;
-  font-weight: bold;
+  min-width: 112px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
   white-space: nowrap;
   flex-shrink: 0;
+  border: 1px solid transparent;
+  transition: transform 0.14s ease, box-shadow 0.14s ease, background-color 0.14s ease;
+}
+
+.card-link:hover .card-cta {
+  transform: translateY(-1px);
+}
+
+.card-cta.review {
+  background: #eaf8ef;
+  color: #0f8f45;
+  border-color: #bfe8cb;
+}
+
+.card-link:hover .card-cta.review {
+  background: #ddf4e5;
+  box-shadow: 0 6px 14px rgba(15, 143, 69, 0.12);
+}
+
+.card-cta.store {
+  background: #eef4ff;
+  color: #0b57d0;
+  border-color: #c9dafd;
+}
+
+.card-link:hover .card-cta.store {
+  background: #e4eeff;
+  box-shadow: 0 6px 14px rgba(11, 87, 208, 0.12);
 }
 
 .empty {
@@ -170,4 +204,3 @@ body {
 .footer-link a:hover {
   text-decoration: underline;
 }
-
