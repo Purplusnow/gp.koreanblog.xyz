@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T03:34:47.402Z",
+  "updatedAt": "2026-03-30T06:05:27.361Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -200,7 +200,23 @@
     "com.simutronics.b17",
     "com.stratospheregames.miniciv",
     "com.yottagames.mafiawar",
-    "com.pocketchamps.game"
+    "com.pocketchamps.game",
+    "com.Neurononfire.SupremeDuelist",
+    "com.os.space.force.galaxy.alien",
+    "com.aurecas.eviltower",
+    "com.cookapps.sunnyhouse",
+    "cat.game.liftapp",
+    "com.com2us.ninepb3d.normal.freefull.google.global.android.common",
+    "wool.match.color.sort.jam.puzzle",
+    "com.miniclip.drone1",
+    "com.HoYoverse.Nap",
+    "com.tensquaregames.letsfish2",
+    "com.ubisoft.mightmagic.fates.tcg",
+    "com.blitzteam.battleprime",
+    "com.generagames.gunsatdawn.shooter",
+    "com.ninjakiwi.bloonstdbattles2",
+    "com.tensquaregames.huntmobile",
+    "com.rapidfiregames.backpackbrawl"
   ],
   "seenItems": [
     {
@@ -2000,6 +2016,150 @@
       "developer": "Madbox",
       "icon": "https://play-lh.googleusercontent.com/VOHFS_ynG--Snu-hXpagEVdN-UXqlqB0NQJMoFkuP5NAOFbwgOo12zVBmsDLwGpugqTN",
       "url": "https://play.google.com/store/apps/details?id=com.pocketchamps.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.Neurononfire.SupremeDuelist",
+      "title": "Supreme Duelist Stickman",
+      "developer": "Neron's Brother",
+      "icon": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.os.space.force.galaxy.alien",
+      "title": "Galaxiga: Galaxy Arcade Game",
+      "developer": "1SOFT",
+      "icon": "https://play-lh.googleusercontent.com/yIMCUFQ7MgXKI4brmT74ccOjeQuOtmf7uGBhfwTKPWhvxfTrUyt8jesANj7Na3oF3SY",
+      "url": "https://play.google.com/store/apps/details?id=com.os.space.force.galaxy.alien&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.aurecas.eviltower",
+      "title": "사악한 타워 - 방치형 타워 디펜스",
+      "developer": "Aurecas Games",
+      "icon": "https://play-lh.googleusercontent.com/Kkn-4Fl-BCW3LXF4vMV_je3uZNjpnyTu6-9s6EfHl0Y3QQoGDOrJy1ERuuXqQB3XDZV1",
+      "url": "https://play.google.com/store/apps/details?id=com.aurecas.eviltower&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.sunnyhouse",
+      "title": "Merge Manor : 써니 하우스 (머지 게임)",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/GSv16eRGMVuF2QueFLYRX3XhUYfT__m7oVsPdkDMOTDy54qvhGRisfGqQvZZeLTY-sc",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.sunnyhouse&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "cat.game.liftapp",
+      "title": "My Cat - 고양이 키우기 타마고치 게임",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/mj6G2HIWGtJPfjuxGNjIlBgW9C50LypUB6ekRo6w7k-sJAqFeuA7_Qak2KzrijCuPQ0",
+      "url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.ninepb3d.normal.freefull.google.global.android.common",
+      "title": "MLB 9이닝스 26",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/ltiGaRjBglanp6J3YAj14PoM0kr3dYie8vpaQaLnJPR0lBHuJUGTodRMi6fbBeO2islilB5Eb_OtzRnmc4mo",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.ninepb3d.normal.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "wool.match.color.sort.jam.puzzle",
+      "title": "털실 마스터",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/Fd3FqWjUJRKKb64YUH-dbgKfyLDuxoOPnKfusLnkvZVZoQOi4IUmYhBgfJAvoJ0YLg",
+      "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.drone1",
+      "title": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.HoYoverse.Nap",
+      "title": "젠레스 존 제로",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/8jEmEvTsNIRW1vLlrDXXCcDlKkQrNb8NzccOXrln4G_DOUZpcBPbN9ssjuwBWz7_yZQ",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tensquaregames.letsfish2",
+      "title": "Fishing Clash: 스포츠 낚시 게임 3D",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/9kavKVAgvLXWv63jEvu7k9m0aI-G6k4NtvPQyn-xlfD6VmVlRH9jyoAgfKxlNZ3Umd-PeRaUBmHuhCJU7t6-8g",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ubisoft.mightmagic.fates.tcg",
+      "title": "Might & Magic Fates TCG",
+      "developer": "Ubisoft Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/f7NvLO28_f3cachNcPMo6cXWXeC7DqDtIr55GqXjRwhj_UJgy68e_WwFwKb40hbHfea149xqYMJDpl6lgfAfFw",
+      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.mightmagic.fates.tcg&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.blitzteam.battleprime",
+      "title": "FPS 슈팅게임 Battle Prime: 스페셜솔져",
+      "developer": "Press Fire Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/SeG1GdQAnWBr1xdsHu7dODcYKeR-pTXHxljcVZO_jQOK3ZXLon4XCelkrBTn2emOWCo",
+      "url": "https://play.google.com/store/apps/details?id=com.blitzteam.battleprime&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.generagames.gunsatdawn.shooter",
+      "title": "Guns at Dawn: Shooter PvP Game",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/9QkrNe7urWTR6uq1SXgJL0RjXKM7Wqcf7C7QhEb7dgwBKpSfFVcVQX8Col_ZfizcQQ",
+      "url": "https://play.google.com/store/apps/details?id=com.generagames.gunsatdawn.shooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ninjakiwi.bloonstdbattles2",
+      "title": "Bloons TD Battles 2",
+      "developer": "ninja kiwi",
+      "icon": "https://play-lh.googleusercontent.com/t43nQ67qO7N7qlFHccE1YxH8kl5CVA9azzny5ifQlkExk_VhxgMI7lPR1p3OXc-HNWo",
+      "url": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstdbattles2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tensquaregames.huntmobile",
+      "title": "Wild Hunt: 슈팅 게임 - 사냥 게임 3D",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/T-c72TiXrxbXaaN47S7XQTIj-T5QqRF-F27eAgk9TOPi_gvIpowc1jI9_BDADSS9hw",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.huntmobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.rapidfiregames.backpackbrawl",
+      "title": "백팩 브롤",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/WHTTqig9pqPSGj2k82DsdPZNhtAF0m-4nEU-JfPG278T-s3y1w7yK8rxOvQ-0Dv5dzpWJLiWarg8hxZtZ9KFFQ",
+      "url": "https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
@@ -3802,6 +3962,150 @@
       "developer": "Madbox",
       "icon": "https://play-lh.googleusercontent.com/VOHFS_ynG--Snu-hXpagEVdN-UXqlqB0NQJMoFkuP5NAOFbwgOo12zVBmsDLwGpugqTN",
       "url": "https://play.google.com/store/apps/details?id=com.pocketchamps.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.Neurononfire.SupremeDuelist",
+      "title": "Supreme Duelist Stickman",
+      "developer": "Neron's Brother",
+      "icon": "https://play-lh.googleusercontent.com/iRq0R9mN7eGyVENIPDk5muu76VxawBAIkFAYFqauJTFNIvUxzD1_M33HNX4GE8Qk0WqY",
+      "url": "https://play.google.com/store/apps/details?id=com.Neurononfire.SupremeDuelist&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.os.space.force.galaxy.alien",
+      "title": "Galaxiga: Galaxy Arcade Game",
+      "developer": "1SOFT",
+      "icon": "https://play-lh.googleusercontent.com/yIMCUFQ7MgXKI4brmT74ccOjeQuOtmf7uGBhfwTKPWhvxfTrUyt8jesANj7Na3oF3SY",
+      "url": "https://play.google.com/store/apps/details?id=com.os.space.force.galaxy.alien&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.aurecas.eviltower",
+      "title": "사악한 타워 - 방치형 타워 디펜스",
+      "developer": "Aurecas Games",
+      "icon": "https://play-lh.googleusercontent.com/Kkn-4Fl-BCW3LXF4vMV_je3uZNjpnyTu6-9s6EfHl0Y3QQoGDOrJy1ERuuXqQB3XDZV1",
+      "url": "https://play.google.com/store/apps/details?id=com.aurecas.eviltower&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.sunnyhouse",
+      "title": "Merge Manor : 써니 하우스 (머지 게임)",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/GSv16eRGMVuF2QueFLYRX3XhUYfT__m7oVsPdkDMOTDy54qvhGRisfGqQvZZeLTY-sc",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.sunnyhouse&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "cat.game.liftapp",
+      "title": "My Cat - 고양이 키우기 타마고치 게임",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/mj6G2HIWGtJPfjuxGNjIlBgW9C50LypUB6ekRo6w7k-sJAqFeuA7_Qak2KzrijCuPQ0",
+      "url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.ninepb3d.normal.freefull.google.global.android.common",
+      "title": "MLB 9이닝스 26",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/ltiGaRjBglanp6J3YAj14PoM0kr3dYie8vpaQaLnJPR0lBHuJUGTodRMi6fbBeO2islilB5Eb_OtzRnmc4mo",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.ninepb3d.normal.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "wool.match.color.sort.jam.puzzle",
+      "title": "털실 마스터",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/Fd3FqWjUJRKKb64YUH-dbgKfyLDuxoOPnKfusLnkvZVZoQOi4IUmYhBgfJAvoJ0YLg",
+      "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.drone1",
+      "title": "War Drone: 3D Shooting Games",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.HoYoverse.Nap",
+      "title": "젠레스 존 제로",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/8jEmEvTsNIRW1vLlrDXXCcDlKkQrNb8NzccOXrln4G_DOUZpcBPbN9ssjuwBWz7_yZQ",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tensquaregames.letsfish2",
+      "title": "Fishing Clash: 스포츠 낚시 게임 3D",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/9kavKVAgvLXWv63jEvu7k9m0aI-G6k4NtvPQyn-xlfD6VmVlRH9jyoAgfKxlNZ3Umd-PeRaUBmHuhCJU7t6-8g",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ubisoft.mightmagic.fates.tcg",
+      "title": "Might & Magic Fates TCG",
+      "developer": "Ubisoft Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/f7NvLO28_f3cachNcPMo6cXWXeC7DqDtIr55GqXjRwhj_UJgy68e_WwFwKb40hbHfea149xqYMJDpl6lgfAfFw",
+      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.mightmagic.fates.tcg&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.blitzteam.battleprime",
+      "title": "FPS 슈팅게임 Battle Prime: 스페셜솔져",
+      "developer": "Press Fire Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/SeG1GdQAnWBr1xdsHu7dODcYKeR-pTXHxljcVZO_jQOK3ZXLon4XCelkrBTn2emOWCo",
+      "url": "https://play.google.com/store/apps/details?id=com.blitzteam.battleprime&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.generagames.gunsatdawn.shooter",
+      "title": "Guns at Dawn: Shooter PvP Game",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/9QkrNe7urWTR6uq1SXgJL0RjXKM7Wqcf7C7QhEb7dgwBKpSfFVcVQX8Col_ZfizcQQ",
+      "url": "https://play.google.com/store/apps/details?id=com.generagames.gunsatdawn.shooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ninjakiwi.bloonstdbattles2",
+      "title": "Bloons TD Battles 2",
+      "developer": "ninja kiwi",
+      "icon": "https://play-lh.googleusercontent.com/t43nQ67qO7N7qlFHccE1YxH8kl5CVA9azzny5ifQlkExk_VhxgMI7lPR1p3OXc-HNWo",
+      "url": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstdbattles2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tensquaregames.huntmobile",
+      "title": "Wild Hunt: 슈팅 게임 - 사냥 게임 3D",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/T-c72TiXrxbXaaN47S7XQTIj-T5QqRF-F27eAgk9TOPi_gvIpowc1jI9_BDADSS9hw",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.huntmobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.rapidfiregames.backpackbrawl",
+      "title": "백팩 브롤",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/WHTTqig9pqPSGj2k82DsdPZNhtAF0m-4nEU-JfPG278T-s3y1w7yK8rxOvQ-0Dv5dzpWJLiWarg8hxZtZ9KFFQ",
+      "url": "https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
