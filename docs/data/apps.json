@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T06:05:27.361Z",
+  "updatedAt": "2026-03-30T07:59:49.943Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -216,7 +216,17 @@
     "com.generagames.gunsatdawn.shooter",
     "com.ninjakiwi.bloonstdbattles2",
     "com.tensquaregames.huntmobile",
-    "com.rapidfiregames.backpackbrawl"
+    "com.rapidfiregames.backpackbrawl",
+    "grill.sort.food.games.match.puzzle",
+    "com.easybrain.block.puzzle.games",
+    "com.g5e.pyramidofmahjong.android",
+    "com.miramerge",
+    "com.resestudio.jewelcastle.jewelslegend",
+    "com.twinklegames.rescuestory",
+    "com.igg.android.fatewar",
+    "com.playhardlab.defenders",
+    "com.lumber.inc",
+    "com.amanotes.beathopper"
   ],
   "seenItems": [
     {
@@ -2160,6 +2170,96 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/WHTTqig9pqPSGj2k82DsdPZNhtAF0m-4nEU-JfPG278T-s3y1w7yK8rxOvQ-0Dv5dzpWJLiWarg8hxZtZ9KFFQ",
       "url": "https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "grill.sort.food.games.match.puzzle",
+      "title": "Grill Sort - 고기구이, 바비큐 맞추기",
+      "developer": "Gloryway Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/iTZTmXv0iNvwq0mp0mz-HIh0uTEaC5LlZ0QvkY6-3J5cn9Rcf9tas0CGmkHCftAQVg",
+      "url": "https://play.google.com/store/apps/details?id=grill.sort.food.games.match.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.block.puzzle.games",
+      "title": "Blockudoku - 블록 퍼즐 게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/W8z6q7pwgiG_uFjot7r_MoCg9ltwAePGLU0Gb-OKEb2sIRIH-n8j5bMsZxBm_ExCRw",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.block.puzzle.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.pyramidofmahjong.android",
+      "title": "Pyramid of Mahjong: 타일 짝 맞추기",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/Z-xHJ5ikqi7HA5kTojLS-pGY1Uz_9LD-f09NYAPLMDcAz58mUyosSKiyoLUIRNQ1K7o",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.pyramidofmahjong.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.miramerge",
+      "title": "Star Merge: Merge Match Puzzle",
+      "developer": "Plummy Games OU",
+      "icon": "https://play-lh.googleusercontent.com/tJdw8u36L1Hq95eoQgrLncOecuR88Ba6Tl6uxTJjF6ViGt-FV-AI0Dgfiw4dQojuGH4",
+      "url": "https://play.google.com/store/apps/details?id=com.miramerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.resestudio.jewelcastle.jewelslegend",
+      "title": "보석 성-클래식 매치 3 퍼즐",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/URgEduL6SMoK_IHsTSpkPVPXHUQ5b2_H3d_S0fC2Gjpv3Sro1OdHTvVwhyrWrGZ2v6A",
+      "url": "https://play.google.com/store/apps/details?id=com.resestudio.jewelcastle.jewelslegend&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.twinklegames.rescuestory",
+      "title": "Rescue Family: 나사를 조여주는 게임",
+      "developer": "Twinkle Games",
+      "icon": "https://play-lh.googleusercontent.com/msx1Ws4bp2E4zelY2TF0Da3JSIIizciHuHOrO0mEcH81JAgKSAEGxo9o2VHO3BdBZg",
+      "url": "https://play.google.com/store/apps/details?id=com.twinklegames.rescuestory&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.android.fatewar",
+      "title": "페이트 워",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/LzScvHGRIUDY1RXfEdkIFWxcLSmBGpDhzWx1kaGATpxojRuk5Q0kD97xzo3wLWnA",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.fatewar&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.playhardlab.defenders",
+      "title": "우르르 수비대! - 디펜스 RPG",
+      "developer": "PLAYHARD STUDIO",
+      "icon": "https://play-lh.googleusercontent.com/pC2ouY4DO8_T_VPFE7zOfkVVxtIC0n_xkstZ6iWyfjMuY2wb0bImhvIQWQnYESLYhJTEhY0CJzktDt__dOTvr5Q",
+      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.defenders&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.lumber.inc",
+      "title": "시뮬레이션 게임 (Idle Lumber Empire)",
+      "developer": "AppQuantum",
+      "icon": "https://play-lh.googleusercontent.com/o06DJGrldQaxQCTDgJ7Sd_30NgNDss3McgmuvwjeN8bzDDMX4RmNPfZy2a9vOdP4YFv92hN-5FfvkhwkZK3GcA",
+      "url": "https://play.google.com/store/apps/details?id=com.lumber.inc&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.amanotes.beathopper",
+      "title": "Tiles Hop Music & Ball Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/uA2SPkUUN4feau4S-JtJrxjTfjQ7s5_9vTA2dj1ECSPQy_GrQXGzSp_PH0eTibmymsM",
+      "url": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
@@ -4106,6 +4206,96 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/WHTTqig9pqPSGj2k82DsdPZNhtAF0m-4nEU-JfPG278T-s3y1w7yK8rxOvQ-0Dv5dzpWJLiWarg8hxZtZ9KFFQ",
       "url": "https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "grill.sort.food.games.match.puzzle",
+      "title": "Grill Sort - 고기구이, 바비큐 맞추기",
+      "developer": "Gloryway Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/iTZTmXv0iNvwq0mp0mz-HIh0uTEaC5LlZ0QvkY6-3J5cn9Rcf9tas0CGmkHCftAQVg",
+      "url": "https://play.google.com/store/apps/details?id=grill.sort.food.games.match.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.block.puzzle.games",
+      "title": "Blockudoku - 블록 퍼즐 게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/W8z6q7pwgiG_uFjot7r_MoCg9ltwAePGLU0Gb-OKEb2sIRIH-n8j5bMsZxBm_ExCRw",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.block.puzzle.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.pyramidofmahjong.android",
+      "title": "Pyramid of Mahjong: 타일 짝 맞추기",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/Z-xHJ5ikqi7HA5kTojLS-pGY1Uz_9LD-f09NYAPLMDcAz58mUyosSKiyoLUIRNQ1K7o",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.pyramidofmahjong.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.miramerge",
+      "title": "Star Merge: Merge Match Puzzle",
+      "developer": "Plummy Games OU",
+      "icon": "https://play-lh.googleusercontent.com/tJdw8u36L1Hq95eoQgrLncOecuR88Ba6Tl6uxTJjF6ViGt-FV-AI0Dgfiw4dQojuGH4",
+      "url": "https://play.google.com/store/apps/details?id=com.miramerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.resestudio.jewelcastle.jewelslegend",
+      "title": "보석 성-클래식 매치 3 퍼즐",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/URgEduL6SMoK_IHsTSpkPVPXHUQ5b2_H3d_S0fC2Gjpv3Sro1OdHTvVwhyrWrGZ2v6A",
+      "url": "https://play.google.com/store/apps/details?id=com.resestudio.jewelcastle.jewelslegend&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.twinklegames.rescuestory",
+      "title": "Rescue Family: 나사를 조여주는 게임",
+      "developer": "Twinkle Games",
+      "icon": "https://play-lh.googleusercontent.com/msx1Ws4bp2E4zelY2TF0Da3JSIIizciHuHOrO0mEcH81JAgKSAEGxo9o2VHO3BdBZg",
+      "url": "https://play.google.com/store/apps/details?id=com.twinklegames.rescuestory&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.android.fatewar",
+      "title": "페이트 워",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/LzScvHGRIUDY1RXfEdkIFWxcLSmBGpDhzWx1kaGATpxojRuk5Q0kD97xzo3wLWnA",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.fatewar&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.playhardlab.defenders",
+      "title": "우르르 수비대! - 디펜스 RPG",
+      "developer": "PLAYHARD STUDIO",
+      "icon": "https://play-lh.googleusercontent.com/pC2ouY4DO8_T_VPFE7zOfkVVxtIC0n_xkstZ6iWyfjMuY2wb0bImhvIQWQnYESLYhJTEhY0CJzktDt__dOTvr5Q",
+      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.defenders&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.lumber.inc",
+      "title": "시뮬레이션 게임 (Idle Lumber Empire)",
+      "developer": "AppQuantum",
+      "icon": "https://play-lh.googleusercontent.com/o06DJGrldQaxQCTDgJ7Sd_30NgNDss3McgmuvwjeN8bzDDMX4RmNPfZy2a9vOdP4YFv92hN-5FfvkhwkZK3GcA",
+      "url": "https://play.google.com/store/apps/details?id=com.lumber.inc&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.amanotes.beathopper",
+      "title": "Tiles Hop Music & Ball Game",
+      "developer": "AMANOTES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/uA2SPkUUN4feau4S-JtJrxjTfjQ7s5_9vTA2dj1ECSPQy_GrQXGzSp_PH0eTibmymsM",
+      "url": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
