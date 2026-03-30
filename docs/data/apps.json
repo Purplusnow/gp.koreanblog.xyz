@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T22:51:56.632Z",
+  "updatedAt": "2026-03-30T23:49:00.856Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -45,6 +45,22 @@
     "com.outfit7.herodash",
     "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu",
     "merge.archers",
+    "com.com2us.acefishing.normal.freefull.google.global.android.common",
+    "com.dragonscapes.global",
+    "com.nexon.er",
+    "com.smallgiantgames.empires",
+    "com.tiltingpoint.spongebob",
+    "com.zitga.empire.warriors.td",
+    "com.outfit7.mytalkingtomfriends",
+    "com.crazylabs.fashion.squad",
+    "com.duige.hzw.multilingual",
+    "com.evrika.miner.camp",
+    "com.mytona.cookingdiary.android",
+    "com.sinyee.babybus.market",
+    "com.sinyee.babybus.marketIII",
+    "com.tapps.virtual.pet.games.myboo2",
+    "com.luckyskeletonstudios.idlebanktycoon",
+    "com.outfit7.mytalkingtomfriends2",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -332,22 +348,12 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.com2us.acefishing.normal.freefull.google.global.android.common",
-    "com.dragonscapes.global",
-    "com.nexon.er",
-    "com.smallgiantgames.empires",
-    "com.tiltingpoint.spongebob",
-    "com.zitga.empire.warriors.td",
-    "com.outfit7.mytalkingtomfriends",
-    "com.crazylabs.fashion.squad",
-    "com.duige.hzw.multilingual",
-    "com.evrika.miner.camp",
-    "com.mytona.cookingdiary.android",
-    "com.sinyee.babybus.market",
-    "com.sinyee.babybus.marketIII",
-    "com.tapps.virtual.pet.games.myboo2",
-    "com.luckyskeletonstudios.idlebanktycoon",
-    "com.outfit7.mytalkingtomfriends2"
+    "com.kakaogames.odin",
+    "com.crypt.gram.puzz",
+    "com.com2us.imo.normal.freefull.google.global.android.common",
+    "com.geewa.smashingfour",
+    "com.herocraft.game.drag.auto.street.racing.heat",
+    "com.miniclip.puresoldier"
   ],
   "seenItems": [
     {
@@ -887,6 +893,60 @@
       "developer": "Outfit7 Limited",
       "icon": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.kakaogames.odin",
+      "title": "오딘: 발할라 라이징",
+      "developer": "Kakao Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/Vp2SoryMyx4j8nscYRusCtksEuNWcIwbBkBwzZ8ObajeKnzknn25rj436TVAiQ373ZBE",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.crypt.gram.puzz",
+      "title": "Cryptogram: 로직단어 게임!",
+      "developer": "Gismart",
+      "icon": "https://play-lh.googleusercontent.com/l8bbDAllrsTmKIxnT3NClL710FhbfSp4MuBtB7wtYGtu49ZCpEDWjU9uneNy86-9sQPY",
+      "url": "https://play.google.com/store/apps/details?id=com.crypt.gram.puzz&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.imo.normal.freefull.google.global.android.common",
+      "title": "아이모: The World of Magic",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/PzKwygP2WjYoxNPuIUPqrPp_8VDZAYa7FDw5clIjl_VAE5xV5O-kR5Cn6h8Votukn5sQCHTT8-cxeHeIi4gD",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.imo.normal.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.geewa.smashingfour",
+      "title": "Smashing Four: PvP Hero bump",
+      "developer": "By Aliens L.L.C-F.Z",
+      "icon": "https://play-lh.googleusercontent.com/_eyErMN_7avszAgfX6UIL8yv8IEADE2SHhm_4FUuEsyhZZYbJsPDyqv-dJVLiYvm26IF",
+      "url": "https://play.google.com/store/apps/details?id=com.geewa.smashingfour&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.drag.auto.street.racing.heat",
+      "title": "SRGT－Racing & Car Driving Game",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/GP0uBbuthPxxC6kdByXvCXfM6INKbAXGc2rFaWLkr0yyX4f3iDFtmCoBPmmpmBCU2YA",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.drag.auto.street.racing.heat&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.puresoldier",
+      "title": "War Sniper: FPS 슈팅 게임",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/auUty1c-CMZKVK1UzwZv8K3zjnCFtkQgl818ZBShLK85zPHACgRoevEi2Djj8xrqJVc",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.puresoldier&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4012,6 +4072,60 @@
       "developer": "Outfit7 Limited",
       "icon": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.kakaogames.odin",
+      "title": "오딘: 발할라 라이징",
+      "developer": "Kakao Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/Vp2SoryMyx4j8nscYRusCtksEuNWcIwbBkBwzZ8ObajeKnzknn25rj436TVAiQ373ZBE",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.crypt.gram.puzz",
+      "title": "Cryptogram: 로직단어 게임!",
+      "developer": "Gismart",
+      "icon": "https://play-lh.googleusercontent.com/l8bbDAllrsTmKIxnT3NClL710FhbfSp4MuBtB7wtYGtu49ZCpEDWjU9uneNy86-9sQPY",
+      "url": "https://play.google.com/store/apps/details?id=com.crypt.gram.puzz&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.imo.normal.freefull.google.global.android.common",
+      "title": "아이모: The World of Magic",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/PzKwygP2WjYoxNPuIUPqrPp_8VDZAYa7FDw5clIjl_VAE5xV5O-kR5Cn6h8Votukn5sQCHTT8-cxeHeIi4gD",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.imo.normal.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.geewa.smashingfour",
+      "title": "Smashing Four: PvP Hero bump",
+      "developer": "By Aliens L.L.C-F.Z",
+      "icon": "https://play-lh.googleusercontent.com/_eyErMN_7avszAgfX6UIL8yv8IEADE2SHhm_4FUuEsyhZZYbJsPDyqv-dJVLiYvm26IF",
+      "url": "https://play.google.com/store/apps/details?id=com.geewa.smashingfour&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.drag.auto.street.racing.heat",
+      "title": "SRGT－Racing & Car Driving Game",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/GP0uBbuthPxxC6kdByXvCXfM6INKbAXGc2rFaWLkr0yyX4f3iDFtmCoBPmmpmBCU2YA",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.drag.auto.street.racing.heat&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.puresoldier",
+      "title": "War Sniper: FPS 슈팅 게임",
+      "developer": "Mobile Gaming Studios Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/auUty1c-CMZKVK1UzwZv8K3zjnCFtkQgl818ZBShLK85zPHACgRoevEi2Djj8xrqJVc",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.puresoldier&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
