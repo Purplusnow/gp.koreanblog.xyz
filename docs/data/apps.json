@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-03-30T17:09:42.140Z",
+  "updatedAt": "2026-03-30T19:16:09.510Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
     "com.computerlunch.evolution",
+    "linkdesks.block.puzzle.classic.puzzlegames",
+    "studio.gameberry.idlehunter",
+    "com.screw3d.match.nuts.bolts.pin.jam.away.puzzle",
+    "com.GoPlayGames.FCM26",
+    "com.miniclip.cricketleague",
+    "com.nautilus.realcricket",
+    "com.touch2goal.soccer",
+    "and.lihuhu.tilesinhole",
+    "com.cyberjoy.galaxydefense",
+    "com.herocraft.game.free.armorage",
+    "com.king.knightsrage",
+    "com.ludia.jw2",
+    "com.millionvictories.games.millionlords",
+    "com.my.hc.rpg.kingdom.simulator",
+    "com.rbx.battle.android",
+    "com.reliancegames.rschampions",
+    "games.onebutton.golfstrike",
+    "com.Earthkwak.Platformer",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -291,24 +309,20 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "linkdesks.block.puzzle.classic.puzzlegames",
-    "studio.gameberry.idlehunter",
-    "com.screw3d.match.nuts.bolts.pin.jam.away.puzzle",
-    "com.GoPlayGames.FCM26",
-    "com.miniclip.cricketleague",
-    "com.nautilus.realcricket",
-    "com.touch2goal.soccer",
-    "and.lihuhu.tilesinhole",
-    "com.cyberjoy.galaxydefense",
-    "com.herocraft.game.free.armorage",
-    "com.king.knightsrage",
-    "com.ludia.jw2",
-    "com.millionvictories.games.millionlords",
-    "com.my.hc.rpg.kingdom.simulator",
-    "com.rbx.battle.android",
-    "com.reliancegames.rschampions",
-    "games.onebutton.golfstrike",
-    "com.Earthkwak.Platformer"
+    "com.g5e.jewelsofegypt.android",
+    "com.hybeim.intheseom",
+    "com.playstudios.tetrisblockparty",
+    "com.wildlifestudios.merge.slot.gilded.gardens",
+    "tile.master.connect.matching.game",
+    "com.wood.block.sudoku.puzzle.bm",
+    "com.find.out.hidden.objects",
+    "com.kr.firegp",
+    "com.football.soccer.league",
+    "com.fungames.battletanksbeta",
+    "com.netmarble.ma9bkr",
+    "com.byril.stickmanarcher",
+    "com.miniclip.checkers",
+    "com.albiononline"
   ],
   "seenItems": [
     {
@@ -497,6 +511,132 @@
       "developer": "Earthkwak Games",
       "icon": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
       "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.jewelsofegypt.android",
+      "title": "Jewels of Egypt: 이집트 짝맞추기 게임",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/MirQW0OyJwUw8PKYgHohmqd6j_bJwzBipZUiTwCfzkBI-GQt0xc28o5_LkcLA7mZB0Bn",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofegypt.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hybeim.intheseom",
+      "title": "인더섬 with BTS 퍼즐",
+      "developer": "DRIMAGE Co., Ltd",
+      "icon": "https://play-lh.googleusercontent.com/YUW4MlkmPvghvUbQnXcxAk9wQW3gpTXb_yKMROlHFTjhvgZMl_AehhRrm98VdmcbN1bXdTuN8sCsKnX4lVxPmA",
+      "url": "https://play.google.com/store/apps/details?id=com.hybeim.intheseom&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.playstudios.tetrisblockparty",
+      "title": "Tetris Block Party: 새로운 테트리스",
+      "developer": "PLAYSTUDIOS US, LLC",
+      "icon": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
+      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildlifestudios.merge.slot.gilded.gardens",
+      "title": "미다스 머지",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/pN1ajR6kaL7BCLCeLEHqbRX3bb-RIQRAMB33Xian4Z-ly6NqBB-IEeYKeHgzdsKSxw",
+      "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.merge.slot.gilded.gardens&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "tile.master.connect.matching.game",
+      "title": "3 Tiles - 타일을 연결하여 블록 퍼즐 맞추기",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/zUrPJGSut7YBx30xUMGnBMbymtAM_E-05VN4hRAVZKUnKAFzXz3a1dXWng4kSo88uA",
+      "url": "https://play.google.com/store/apps/details?id=tile.master.connect.matching.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.wood.block.sudoku.puzzle.bm",
+      "title": "블록 크러시: 블록 블라스트 퍼즐",
+      "developer": "Wonderful  Studio",
+      "icon": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.find.out.hidden.objects",
+      "title": "Find Out®: 숨은 물건 찾기",
+      "developer": "Focus apps",
+      "icon": "https://play-lh.googleusercontent.com/8PV0ag8vG6yqBIX515RIOYZMJy0qAzogOO6F7uEloClM4E9bDHtFs6wKtL1XlwwzjNVc",
+      "url": "https://play.google.com/store/apps/details?id=com.find.out.hidden.objects&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.kr.firegp",
+      "title": "I9: 인페르노 나인 - 1주년",
+      "developer": "Leniu Technology Co., Limited",
+      "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
+      "url": "https://play.google.com/store/apps/details?id=com.kr.firegp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.football.soccer.league",
+      "title": "축구 리그 2026",
+      "developer": "MOBILE SOCCER",
+      "icon": "https://play-lh.googleusercontent.com/F7DtJlSuZewLgNwyo8eabJjm4Unk6v7CEBbu-U3h1tXMyO82xmNKuxHtHnLgLblDkLU",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.fungames.battletanksbeta",
+      "title": "워머신 : 탱크 군단 게임 (War Machines)",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/Ssl7ING8dUU-MTci8iAbpeb0MnlE3ap1Iz10czcl6N9b0V67CHcxXHmbhraEVsULlwE",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.ma9bkr",
+      "title": "마구마구 2026: 풀체인지",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/PURv6_XrCBDnomnRafBcU3cBbvJsr8KHfRy5xTAKTR9zO_zbnoq_xepYrkluVguftstQ1RDJNVQUlwFFrid6it4",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.ma9bkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.byril.stickmanarcher",
+      "title": "Archers Online: PvP",
+      "developer": "Byril",
+      "icon": "https://play-lh.googleusercontent.com/oJffAr9SAuJuJESER5Lu3pllycWt60Kvx2y89O3lat7XPLCgrC1vdyjjrGToxCGnDwl6PahdUQB_Nkg4J16dBbk",
+      "url": "https://play.google.com/store/apps/details?id=com.byril.stickmanarcher&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.checkers",
+      "title": "Checkers Clash: Online Game",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/_2ZV4Ph5ubIWVpfqajNhDr6JvWd2705bbSY-zqtANY0qeBkzbNNHlKTZF_2uAU6GFYQ",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.checkers&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.albiononline",
+      "title": "알비온 온라인 - 방대한 오픈 월드 MMORPG",
+      "developer": "Sandbox Interactive GmbH",
+      "icon": "https://play-lh.googleusercontent.com/aD5_k-I2kBPCp_rfpVgTComICbSXH6VBDjQFYek_JeZ_1jDgSAMSNn7Cow4ZsiZ1bEL_-nOOh62Oo_J9B4dMIoc",
+      "url": "https://play.google.com/store/apps/details?id=com.albiononline&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -3271,6 +3411,132 @@
       "developer": "Earthkwak Games",
       "icon": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
       "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.jewelsofegypt.android",
+      "title": "Jewels of Egypt: 이집트 짝맞추기 게임",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/MirQW0OyJwUw8PKYgHohmqd6j_bJwzBipZUiTwCfzkBI-GQt0xc28o5_LkcLA7mZB0Bn",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofegypt.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hybeim.intheseom",
+      "title": "인더섬 with BTS 퍼즐",
+      "developer": "DRIMAGE Co., Ltd",
+      "icon": "https://play-lh.googleusercontent.com/YUW4MlkmPvghvUbQnXcxAk9wQW3gpTXb_yKMROlHFTjhvgZMl_AehhRrm98VdmcbN1bXdTuN8sCsKnX4lVxPmA",
+      "url": "https://play.google.com/store/apps/details?id=com.hybeim.intheseom&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.playstudios.tetrisblockparty",
+      "title": "Tetris Block Party: 새로운 테트리스",
+      "developer": "PLAYSTUDIOS US, LLC",
+      "icon": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
+      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildlifestudios.merge.slot.gilded.gardens",
+      "title": "미다스 머지",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/pN1ajR6kaL7BCLCeLEHqbRX3bb-RIQRAMB33Xian4Z-ly6NqBB-IEeYKeHgzdsKSxw",
+      "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.merge.slot.gilded.gardens&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "tile.master.connect.matching.game",
+      "title": "3 Tiles - 타일을 연결하여 블록 퍼즐 맞추기",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/zUrPJGSut7YBx30xUMGnBMbymtAM_E-05VN4hRAVZKUnKAFzXz3a1dXWng4kSo88uA",
+      "url": "https://play.google.com/store/apps/details?id=tile.master.connect.matching.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.wood.block.sudoku.puzzle.bm",
+      "title": "블록 크러시: 블록 블라스트 퍼즐",
+      "developer": "Wonderful  Studio",
+      "icon": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.find.out.hidden.objects",
+      "title": "Find Out®: 숨은 물건 찾기",
+      "developer": "Focus apps",
+      "icon": "https://play-lh.googleusercontent.com/8PV0ag8vG6yqBIX515RIOYZMJy0qAzogOO6F7uEloClM4E9bDHtFs6wKtL1XlwwzjNVc",
+      "url": "https://play.google.com/store/apps/details?id=com.find.out.hidden.objects&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.kr.firegp",
+      "title": "I9: 인페르노 나인 - 1주년",
+      "developer": "Leniu Technology Co., Limited",
+      "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
+      "url": "https://play.google.com/store/apps/details?id=com.kr.firegp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.football.soccer.league",
+      "title": "축구 리그 2026",
+      "developer": "MOBILE SOCCER",
+      "icon": "https://play-lh.googleusercontent.com/F7DtJlSuZewLgNwyo8eabJjm4Unk6v7CEBbu-U3h1tXMyO82xmNKuxHtHnLgLblDkLU",
+      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.fungames.battletanksbeta",
+      "title": "워머신 : 탱크 군단 게임 (War Machines)",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/Ssl7ING8dUU-MTci8iAbpeb0MnlE3ap1Iz10czcl6N9b0V67CHcxXHmbhraEVsULlwE",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.ma9bkr",
+      "title": "마구마구 2026: 풀체인지",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/PURv6_XrCBDnomnRafBcU3cBbvJsr8KHfRy5xTAKTR9zO_zbnoq_xepYrkluVguftstQ1RDJNVQUlwFFrid6it4",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.ma9bkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.byril.stickmanarcher",
+      "title": "Archers Online: PvP",
+      "developer": "Byril",
+      "icon": "https://play-lh.googleusercontent.com/oJffAr9SAuJuJESER5Lu3pllycWt60Kvx2y89O3lat7XPLCgrC1vdyjjrGToxCGnDwl6PahdUQB_Nkg4J16dBbk",
+      "url": "https://play.google.com/store/apps/details?id=com.byril.stickmanarcher&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.checkers",
+      "title": "Checkers Clash: Online Game",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/_2ZV4Ph5ubIWVpfqajNhDr6JvWd2705bbSY-zqtANY0qeBkzbNNHlKTZF_2uAU6GFYQ",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.checkers&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.albiononline",
+      "title": "알비온 온라인 - 방대한 오픈 월드 MMORPG",
+      "developer": "Sandbox Interactive GmbH",
+      "icon": "https://play-lh.googleusercontent.com/aD5_k-I2kBPCp_rfpVgTComICbSXH6VBDjQFYek_JeZ_1jDgSAMSNn7Cow4ZsiZ1bEL_-nOOh62Oo_J9B4dMIoc",
+      "url": "https://play.google.com/store/apps/details?id=com.albiononline&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
