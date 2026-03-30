@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T20:58:39.494Z",
+  "updatedAt": "2026-03-30T21:54:22.486Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -36,6 +36,14 @@
     "com.byril.stickmanarcher",
     "com.miniclip.checkers",
     "com.albiononline",
+    "com.merge.game.foodstars",
+    "trophy.hunter.hunting.games.sniper.shooting",
+    "com.gametree.qyfhl.pd",
+    "com.billionairegames.serares",
+    "com.matryoshka.royal.cooking.kitchen.madness",
+    "com.outfit7.mytalkingangela2",
+    "com.outfit7.herodash",
+    "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -323,14 +331,7 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.merge.game.foodstars",
-    "trophy.hunter.hunting.games.sniper.shooting",
-    "com.gametree.qyfhl.pd",
-    "com.billionairegames.serares",
-    "com.matryoshka.royal.cooking.kitchen.madness",
-    "com.outfit7.mytalkingangela2",
-    "com.outfit7.herodash",
-    "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu"
+    "merge.archers"
   ],
   "seenItems": [
     {
@@ -717,6 +718,15 @@
       "developer": "Gloryway Puzzle",
       "icon": "https://play-lh.googleusercontent.com/TpiUkMDNqT_l1nUqAjcGfpr8TH5lphg5-fkUceXm6jc9zR1CGq7zowVZySWO82xJxg",
       "url": "https://play.google.com/store/apps/details?id=diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "merge.archers",
+      "title": "궁수 병합: 졸라맨 아처 타워 디펜스 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/vfLTSVTVwcRFFNDVieQEPbkRCnUFAf7AwfKnTr-2DtgTH1RfkrH5Ee0eAiv3MHcVrqFw",
+      "url": "https://play.google.com/store/apps/details?id=merge.archers&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -3689,6 +3699,15 @@
       "developer": "Gloryway Puzzle",
       "icon": "https://play-lh.googleusercontent.com/TpiUkMDNqT_l1nUqAjcGfpr8TH5lphg5-fkUceXm6jc9zR1CGq7zowVZySWO82xJxg",
       "url": "https://play.google.com/store/apps/details?id=diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "merge.archers",
+      "title": "궁수 병합: 졸라맨 아처 타워 디펜스 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/vfLTSVTVwcRFFNDVieQEPbkRCnUFAf7AwfKnTr-2DtgTH1RfkrH5Ee0eAiv3MHcVrqFw",
+      "url": "https://play.google.com/store/apps/details?id=merge.archers&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
