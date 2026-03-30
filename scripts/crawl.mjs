@@ -32,19 +32,30 @@ function todayKst() {
 function loadExistingData() {
   try {
     if (!fs.existsSync(DATA_PATH)) {
-      return { items: [], seenAppIds: [], seenItems: [] };
+      return {
+        updatedAt: null,
+        seenAppIds: [],
+        seenItems: [],
+        items: []
+      };
     }
 
     const raw = fs.readFileSync(DATA_PATH, "utf8");
     const json = JSON.parse(raw);
 
     return {
-      items: Array.isArray(json.items) ? json.items : [],
+      updatedAt: json.updatedAt || null,
       seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : [],
-      seenItems: Array.isArray(json.seenItems) ? json.seenItems : []
+      seenItems: Array.isArray(json.seenItems) ? json.seenItems : [],
+      items: Array.isArray(json.items) ? json.items : []
     };
   } catch {
-    return { items: [], seenAppIds: [], seenItems: [] };
+    return {
+      updatedAt: null,
+      seenAppIds: [],
+      seenItems: [],
+      items: []
+    };
   }
 }
 
@@ -82,6 +93,34 @@ function parseAppIdFromHref(href) {
   } catch {
     return null;
   }
+}
+
+function dedupeKeepEarliest(items) {
+  const map = new Map();
+
+  for (const item of items) {
+    if (!item || !item.appId) continue;
+
+    const existing = map.get(item.appId);
+
+    if (!existing) {
+      map.set(item.appId, item);
+      continue;
+    }
+
+    const existingDate = existing.discoveredDate || "9999-99-99";
+    const currentDate = item.discoveredDate || "9999-99-99";
+
+    if (currentDate < existingDate) {
+      map.set(item.appId, {
+        ...existing,
+        ...item,
+        discoveredDate: item.discoveredDate
+      });
+    }
+  }
+
+  return Array.from(map.values());
 }
 
 async function getCandidateAppIds() {
@@ -136,7 +175,7 @@ async function getAppDetail(appId) {
     if (href) categoryHrefs.push(href);
   });
 
-  const isGame = categoryHrefs.some(href =>
+  const isGame = categoryHrefs.some((href) =>
     href.includes("/store/apps/category/GAME")
   );
 
@@ -157,25 +196,25 @@ async function main() {
 
   const existingData = loadExistingData();
 
-  const existingItems = (Array.isArray(existingData.items) ? existingData.items : [])
-    .filter(item => item.isGame !== false);
+  // 전체 누적 원본은 seenItems 하나만 사용
+  const masterSeenItems = dedupeKeepEarliest(
+    Array.isArray(existingData.seenItems) ? existingData.seenItems : []
+  ).filter((item) => item.isGame !== false);
 
-  const seenItems = Array.isArray(existingData.seenItems) ? existingData.seenItems : [];
-  const seenSet = new Set(Array.isArray(existingData.seenAppIds) ? existingData.seenAppIds : []);
-
-  for (const item of existingItems) {
-    if (item.appId) seenSet.add(item.appId);
-  }
-
-  for (const item of seenItems) {
-    if (item.appId) seenSet.add(item.appId);
+  const seenMap = new Map();
+  for (const item of masterSeenItems) {
+    if (item.appId) {
+      seenMap.set(item.appId, item);
+    }
   }
 
   let addedCount = 0;
+  let skippedSeen = 0;
   let skippedNonGame = 0;
 
   for (const appId of appIds) {
-    if (seenSet.has(appId)) {
+    if (seenMap.has(appId)) {
+      skippedSeen += 1;
       console.log(`SKIP SEEN: ${appId}`);
       continue;
     }
@@ -199,9 +238,8 @@ async function main() {
         isGame: true
       };
 
-      existingItems.push(newItem);
-      seenItems.push(newItem);
-      seenSet.add(appId);
+      masterSeenItems.push(newItem);
+      seenMap.set(appId, newItem);
       addedCount += 1;
 
       console.log(`ADD: ${appId} / ${detail.title}`);
@@ -212,35 +250,30 @@ async function main() {
     await sleep(700);
   }
 
-  existingItems.sort((a, b) => {
+  // 추천일 최신순
+  masterSeenItems.sort((a, b) => {
     const da = new Date(a.discoveredDate || 0).getTime();
     const db = new Date(b.discoveredDate || 0).getTime();
     return db - da;
   });
 
-  seenItems.sort((a, b) => {
-    const da = new Date(a.discoveredDate || 0).getTime();
-    const db = new Date(b.discoveredDate || 0).getTime();
-    return db - da;
-  });
-
-  const trimmed = existingItems.slice(0, MAX_ITEMS);
+  const visibleItems = masterSeenItems.slice(0, MAX_ITEMS);
 
   const output = {
     updatedAt: new Date().toISOString(),
-    seenAppIds: [...seenSet],
-    seenItems,
-    items: trimmed
+    seenAppIds: Array.from(seenMap.keys()),
+    seenItems: masterSeenItems,
+    items: visibleItems
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
   fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
   console.log(`Added ${addedCount}`);
+  console.log(`Skipped seen ${skippedSeen}`);
   console.log(`Skipped non-games ${skippedNonGame}`);
-  console.log(`Saved ${trimmed.length} visible items`);
-  console.log(`Tracked ${seenSet.size} seen app ids`);
-  console.log(`Saved ${seenItems.length} archive items`);
+  console.log(`Saved ${visibleItems.length} visible items`);
+  console.log(`Saved ${masterSeenItems.length} archive items`);
 }
 
 main().catch((err) => {
