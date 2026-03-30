@@ -1,6 +1,9 @@
 {
-  "updatedAt": "2026-03-30T15:17:46.354Z",
+  "updatedAt": "2026-03-30T17:09:42.140Z",
   "seenAppIds": [
+    "bubbleshooter.orig",
+    "com.goblins.idle.merge.game",
+    "com.computerlunch.evolution",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -288,9 +291,24 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "bubbleshooter.orig",
-    "com.goblins.idle.merge.game",
-    "com.computerlunch.evolution"
+    "linkdesks.block.puzzle.classic.puzzlegames",
+    "studio.gameberry.idlehunter",
+    "com.screw3d.match.nuts.bolts.pin.jam.away.puzzle",
+    "com.GoPlayGames.FCM26",
+    "com.miniclip.cricketleague",
+    "com.nautilus.realcricket",
+    "com.touch2goal.soccer",
+    "and.lihuhu.tilesinhole",
+    "com.cyberjoy.galaxydefense",
+    "com.herocraft.game.free.armorage",
+    "com.king.knightsrage",
+    "com.ludia.jw2",
+    "com.millionvictories.games.millionlords",
+    "com.my.hc.rpg.kingdom.simulator",
+    "com.rbx.battle.android",
+    "com.reliancegames.rschampions",
+    "games.onebutton.golfstrike",
+    "com.Earthkwak.Platformer"
   ],
   "seenItems": [
     {
@@ -317,6 +335,168 @@
       "developer": "ComputerLunch",
       "icon": "https://play-lh.googleusercontent.com/HYkWj58ldj71Pruhz1PTEah_cuQokBboG5RFV_73D8FIftmoBZYyWc40fmJ1Ymp1sQ2zgwxwbFxgyV0s8_Fn",
       "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.block.puzzle.classic.puzzlegames",
+      "title": "블럭 퍼즐: 놀면 놀수록 더 똑똑해지는 게임!",
+      "developer": "LinkDesks Daily Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/KNX8z_99xjKxK0puDZvdNARH-lY6axzilF4xxmaldtMMuFWBtrveWjt9bJdg4oaiNlrN",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.block.puzzle.classic.puzzlegames&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "studio.gameberry.idlehunter",
+      "title": "헌터 키우기 : 방치형 RPG",
+      "developer": "gameberry studio(Idle RPG, Simulation)",
+      "icon": "https://play-lh.googleusercontent.com/hoLdsGh8KZpSNMYvCjLoNGJKXaufv0UyAyRcnKILjHpCcdN9Af4CObMOUe6UHJ1X_rEB",
+      "url": "https://play.google.com/store/apps/details?id=studio.gameberry.idlehunter&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.screw3d.match.nuts.bolts.pin.jam.away.puzzle",
+      "title": "3D Bolt Master: 나사 핀 잼",
+      "developer": "Joymaster Puzzle Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/paJoS-vuC8XdnGdFzEUG2TjaeYKJrgpdBYwN3J4XFl4YcW-qHIG_2fALnJnM8ldvHNc",
+      "url": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.GoPlayGames.FCM26",
+      "title": "Football Club Management 2026",
+      "developer": "Go Play Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/XuGEe6BCbL3goHw3WWRHkweKUcMjAXTK2bL5B8-ViK1Wm0Hr976uwJqOuANGcXbxVEkFg4Cb2FZo_8iFN-RJYm8",
+      "url": "https://play.google.com/store/apps/details?id=com.GoPlayGames.FCM26&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.cricketleague",
+      "title": "Cricket League",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/qg4R7pbyQGIqynCvRXH97pbcyAg8yU4VXzF9kj-bRSfNb7X14x5NeJLo7HwzdrBhqkc",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.nautilus.realcricket",
+      "title": "Real Cricket™",
+      "developer": "KRAFTON, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/Ol9N2EPA2qt3ukaLSTvhRCwV4LP9l5Q4NmYmSkCNZW42TtvhT4bEIl4WYacW0Jfw6PR8sIBwYdXFmPPudknzKg",
+      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.touch2goal.soccer",
+      "title": "Mini Soccer Star: Football Cup",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/D1zoPdgy7On558yunZhRMKbxAaRYKF-gTNF_GFHRXAyk7yi6HNozP3c2n2prixJurZTu",
+      "url": "https://play.google.com/store/apps/details?id=com.touch2goal.soccer&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "and.lihuhu.tilesinhole",
+      "title": "Tiles in Hole 타일 인 홀: 먹는 게임",
+      "developer": "LIHUHU PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/9CudkmeL679fmfHzPaVJ1nRJbcV6zWfXPcrfj-OwJld17-kbqFJ_RinoH6l6eZh8aRM",
+      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.tilesinhole&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.galaxydefense",
+      "title": "갤럭시 디펜스 (Galaxy Defense)",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/GLSSHDxAyPjMiu2oUrncfoQb1VD1brX5Xh801DAizXN6O7uz5ZUxpMhaMuSywdLsHGYC",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.galaxydefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.free.armorage",
+      "title": "Armor Age: 제2차 세계 대전 탱크 전략 게임",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.king.knightsrage",
+      "title": "나이트후드",
+      "developer": "RPG Raid Roleplaying Games",
+      "icon": "https://play-lh.googleusercontent.com/qU0KrJTE8ROp2ldv_OJwrB0FUof_sEwLS-lMQTHxqPPwOn1PSzGf9n4IGZnt7Rwo9Xg",
+      "url": "https://play.google.com/store/apps/details?id=com.king.knightsrage&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ludia.jw2",
+      "title": "Jurassic World Alive",
+      "developer": "Ludia Inc.",
+      "icon": "https://play-lh.googleusercontent.com/8zzrv0A1DGdwmmL6JqoXiRsDG1CgDj7y-R7FwtXQtRGcJc2dWofxBCjjy6LlviEUgco",
+      "url": "https://play.google.com/store/apps/details?id=com.ludia.jw2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.millionvictories.games.millionlords",
+      "title": "밀리언 로드: 월드 컨퀘스트",
+      "developer": "MILLION VICTORIES",
+      "icon": "https://play-lh.googleusercontent.com/gmUkdyFyn8Z0WJRbyD1v2WC8I6WD1OTOedF6BhZrdGftwLS8N-hyKGRhw0x7pxcOqY_XzAiW6ZaojQ2pgcwNhbg",
+      "url": "https://play.google.com/store/apps/details?id=com.millionvictories.games.millionlords&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.hc.rpg.kingdom.simulator",
+      "title": "Hustle Castle: 캐슬 건축! 중세 킹덤 게임",
+      "developer": "MY.GAMES B.V.",
+      "icon": "https://play-lh.googleusercontent.com/U8TvlVrmSrfs9rZi5G1EGrq2tcN8Cvj-VFPfbYTx0KqLCNct3SXc_-5A6jOEwm2v2_6EehwJdcxFcCyHBaDZQws",
+      "url": "https://play.google.com/store/apps/details?id=com.my.hc.rpg.kingdom.simulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.battle.android",
+      "title": "배틀 아레나 — 아레나, RPG 전투. 캐릭터 개발",
+      "developer": "RED BRIX WALL",
+      "icon": "https://play-lh.googleusercontent.com/jSaQgJYz8qNJPFZ9Uuzv_-Zxf5WVAC8tlEAVSwKJtdANJyCdukB1odp4jEar7Hfg6NY",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.battle.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.reliancegames.rschampions",
+      "title": "Real Steel Boxing Champions",
+      "developer": "Reliance Games",
+      "icon": "https://play-lh.googleusercontent.com/y_JIVdZBSwkhSBjEt_hccLBYd-XnN0oxge4JKtZL9kBbfTM_IdCSP6hAn2bYcva-Sg",
+      "url": "https://play.google.com/store/apps/details?id=com.reliancegames.rschampions&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "games.onebutton.golfstrike",
+      "title": "Golf Strike",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/KWZAVfxHye9bpTmX_4-4WfDVkGIqRgtsq-8J_HLONsqfI1t-ohi3mM3mvsR2oIXtf1Y",
+      "url": "https://play.google.com/store/apps/details?id=games.onebutton.golfstrike&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.Earthkwak.Platformer",
+      "title": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -2929,6 +3109,168 @@
       "developer": "ComputerLunch",
       "icon": "https://play-lh.googleusercontent.com/HYkWj58ldj71Pruhz1PTEah_cuQokBboG5RFV_73D8FIftmoBZYyWc40fmJ1Ymp1sQ2zgwxwbFxgyV0s8_Fn",
       "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.block.puzzle.classic.puzzlegames",
+      "title": "블럭 퍼즐: 놀면 놀수록 더 똑똑해지는 게임!",
+      "developer": "LinkDesks Daily Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/KNX8z_99xjKxK0puDZvdNARH-lY6axzilF4xxmaldtMMuFWBtrveWjt9bJdg4oaiNlrN",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.block.puzzle.classic.puzzlegames&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "studio.gameberry.idlehunter",
+      "title": "헌터 키우기 : 방치형 RPG",
+      "developer": "gameberry studio(Idle RPG, Simulation)",
+      "icon": "https://play-lh.googleusercontent.com/hoLdsGh8KZpSNMYvCjLoNGJKXaufv0UyAyRcnKILjHpCcdN9Af4CObMOUe6UHJ1X_rEB",
+      "url": "https://play.google.com/store/apps/details?id=studio.gameberry.idlehunter&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.screw3d.match.nuts.bolts.pin.jam.away.puzzle",
+      "title": "3D Bolt Master: 나사 핀 잼",
+      "developer": "Joymaster Puzzle Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/paJoS-vuC8XdnGdFzEUG2TjaeYKJrgpdBYwN3J4XFl4YcW-qHIG_2fALnJnM8ldvHNc",
+      "url": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.GoPlayGames.FCM26",
+      "title": "Football Club Management 2026",
+      "developer": "Go Play Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/XuGEe6BCbL3goHw3WWRHkweKUcMjAXTK2bL5B8-ViK1Wm0Hr976uwJqOuANGcXbxVEkFg4Cb2FZo_8iFN-RJYm8",
+      "url": "https://play.google.com/store/apps/details?id=com.GoPlayGames.FCM26&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.cricketleague",
+      "title": "Cricket League",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/qg4R7pbyQGIqynCvRXH97pbcyAg8yU4VXzF9kj-bRSfNb7X14x5NeJLo7HwzdrBhqkc",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.nautilus.realcricket",
+      "title": "Real Cricket™",
+      "developer": "KRAFTON, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/Ol9N2EPA2qt3ukaLSTvhRCwV4LP9l5Q4NmYmSkCNZW42TtvhT4bEIl4WYacW0Jfw6PR8sIBwYdXFmPPudknzKg",
+      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.touch2goal.soccer",
+      "title": "Mini Soccer Star: Football Cup",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/D1zoPdgy7On558yunZhRMKbxAaRYKF-gTNF_GFHRXAyk7yi6HNozP3c2n2prixJurZTu",
+      "url": "https://play.google.com/store/apps/details?id=com.touch2goal.soccer&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "and.lihuhu.tilesinhole",
+      "title": "Tiles in Hole 타일 인 홀: 먹는 게임",
+      "developer": "LIHUHU PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/9CudkmeL679fmfHzPaVJ1nRJbcV6zWfXPcrfj-OwJld17-kbqFJ_RinoH6l6eZh8aRM",
+      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.tilesinhole&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.galaxydefense",
+      "title": "갤럭시 디펜스 (Galaxy Defense)",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/GLSSHDxAyPjMiu2oUrncfoQb1VD1brX5Xh801DAizXN6O7uz5ZUxpMhaMuSywdLsHGYC",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.galaxydefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.free.armorage",
+      "title": "Armor Age: 제2차 세계 대전 탱크 전략 게임",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.king.knightsrage",
+      "title": "나이트후드",
+      "developer": "RPG Raid Roleplaying Games",
+      "icon": "https://play-lh.googleusercontent.com/qU0KrJTE8ROp2ldv_OJwrB0FUof_sEwLS-lMQTHxqPPwOn1PSzGf9n4IGZnt7Rwo9Xg",
+      "url": "https://play.google.com/store/apps/details?id=com.king.knightsrage&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ludia.jw2",
+      "title": "Jurassic World Alive",
+      "developer": "Ludia Inc.",
+      "icon": "https://play-lh.googleusercontent.com/8zzrv0A1DGdwmmL6JqoXiRsDG1CgDj7y-R7FwtXQtRGcJc2dWofxBCjjy6LlviEUgco",
+      "url": "https://play.google.com/store/apps/details?id=com.ludia.jw2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.millionvictories.games.millionlords",
+      "title": "밀리언 로드: 월드 컨퀘스트",
+      "developer": "MILLION VICTORIES",
+      "icon": "https://play-lh.googleusercontent.com/gmUkdyFyn8Z0WJRbyD1v2WC8I6WD1OTOedF6BhZrdGftwLS8N-hyKGRhw0x7pxcOqY_XzAiW6ZaojQ2pgcwNhbg",
+      "url": "https://play.google.com/store/apps/details?id=com.millionvictories.games.millionlords&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.hc.rpg.kingdom.simulator",
+      "title": "Hustle Castle: 캐슬 건축! 중세 킹덤 게임",
+      "developer": "MY.GAMES B.V.",
+      "icon": "https://play-lh.googleusercontent.com/U8TvlVrmSrfs9rZi5G1EGrq2tcN8Cvj-VFPfbYTx0KqLCNct3SXc_-5A6jOEwm2v2_6EehwJdcxFcCyHBaDZQws",
+      "url": "https://play.google.com/store/apps/details?id=com.my.hc.rpg.kingdom.simulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.battle.android",
+      "title": "배틀 아레나 — 아레나, RPG 전투. 캐릭터 개발",
+      "developer": "RED BRIX WALL",
+      "icon": "https://play-lh.googleusercontent.com/jSaQgJYz8qNJPFZ9Uuzv_-Zxf5WVAC8tlEAVSwKJtdANJyCdukB1odp4jEar7Hfg6NY",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.battle.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.reliancegames.rschampions",
+      "title": "Real Steel Boxing Champions",
+      "developer": "Reliance Games",
+      "icon": "https://play-lh.googleusercontent.com/y_JIVdZBSwkhSBjEt_hccLBYd-XnN0oxge4JKtZL9kBbfTM_IdCSP6hAn2bYcva-Sg",
+      "url": "https://play.google.com/store/apps/details?id=com.reliancegames.rschampions&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "games.onebutton.golfstrike",
+      "title": "Golf Strike",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/KWZAVfxHye9bpTmX_4-4WfDVkGIqRgtsq-8J_HLONsqfI1t-ohi3mM3mvsR2oIXtf1Y",
+      "url": "https://play.google.com/store/apps/details?id=games.onebutton.golfstrike&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.Earthkwak.Platformer",
+      "title": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
+      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
