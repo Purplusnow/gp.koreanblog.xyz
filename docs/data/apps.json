@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T21:54:22.486Z",
+  "updatedAt": "2026-03-30T22:51:56.632Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -44,6 +44,7 @@
     "com.outfit7.mytalkingangela2",
     "com.outfit7.herodash",
     "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu",
+    "merge.archers",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -331,7 +332,22 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "merge.archers"
+    "com.com2us.acefishing.normal.freefull.google.global.android.common",
+    "com.dragonscapes.global",
+    "com.nexon.er",
+    "com.smallgiantgames.empires",
+    "com.tiltingpoint.spongebob",
+    "com.zitga.empire.warriors.td",
+    "com.outfit7.mytalkingtomfriends",
+    "com.crazylabs.fashion.squad",
+    "com.duige.hzw.multilingual",
+    "com.evrika.miner.camp",
+    "com.mytona.cookingdiary.android",
+    "com.sinyee.babybus.market",
+    "com.sinyee.babybus.marketIII",
+    "com.tapps.virtual.pet.games.myboo2",
+    "com.luckyskeletonstudios.idlebanktycoon",
+    "com.outfit7.mytalkingtomfriends2"
   ],
   "seenItems": [
     {
@@ -727,6 +743,150 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/vfLTSVTVwcRFFNDVieQEPbkRCnUFAf7AwfKnTr-2DtgTH1RfkrH5Ee0eAiv3MHcVrqFw",
       "url": "https://play.google.com/store/apps/details?id=merge.archers&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.acefishing.normal.freefull.google.global.android.common",
+      "title": "낚시의 신",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/mqpcEOLHjjY3cJvyyENbwt5z43VSZKTflGc5GmRjjK63ENneQzVWyKnAFkYMTq72Zb0",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dragonscapes.global",
+      "title": "꿈의 드래곤 어드벤처",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/HTi3nPPZHKNczjcDggQpWvJa1G1IKEOcS5atdFsZItmk1TFw9J8ms7sjnwXPMzhITEbe",
+      "url": "https://play.google.com/store/apps/details?id=com.dragonscapes.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.er",
+      "title": "프라시아 전기",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/25HVuJSH-Bcmsrv18ZMtRoLxsihD-Kjfp6ABY-FfW2h2eBw5fOdb3ZeYAIf6DchThg",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.er&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.smallgiantgames.empires",
+      "title": "엠파이어 & 퍼즐 (Empires & Puzzles)",
+      "developer": "Small Giant Games",
+      "icon": "https://play-lh.googleusercontent.com/fLeGp78TjhGB_tHS-gC52lKUdtO37fxpEl8gkwbjForb_hqHonsT8Z9mE73tZ2w9UBc",
+      "url": "https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.tiltingpoint.spongebob",
+      "title": "네모바지 스폰지밥 : 집게리아 요리 콘테스트",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/FjEfVpCC4kxmfYJvIrzm8ikRJKWcitTGfKssiWEJthJ1ZHCpUhc312koPMge0Blud5Y",
+      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.spongebob&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.zitga.empire.warriors.td",
+      "title": "Empire Warriors: 타워 디펜스",
+      "developer": "Putaleng",
+      "icon": "https://play-lh.googleusercontent.com/WwpeyOpHD8utmDfEXRmhO1bQ69EAqWtNEpChngCkXZoEqff_DKGeGLRJAWkv2r7MrHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingtomfriends",
+      "title": "마이토킹톰 프렌즈",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.crazylabs.fashion.squad",
+      "title": "Glow Fashion Idol",
+      "developer": "CrazyLabs LTD",
+      "icon": "https://play-lh.googleusercontent.com/MlE3OAudo_engERQkOQYeeRoaGJ9Y52Lfbj-UGze0nCQ-ctEU6lnUlBfRXI5EWQG7paU",
+      "url": "https://play.google.com/store/apps/details?id=com.crazylabs.fashion.squad&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.duige.hzw.multilingual",
+      "title": "봉황비전",
+      "developer": "Modo Global",
+      "icon": "https://play-lh.googleusercontent.com/TrVEF0C2jWnsV90qp_7SkZ46b8991FGTDkQwSLWDn0G5CPFvME3_qeRxLzx1r60-U7EDsWHs_9vhGuAC33kSLw",
+      "url": "https://play.google.com/store/apps/details?id=com.duige.hzw.multilingual&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.evrika.miner.camp",
+      "title": "Orecraft: Orc Mining Camp",
+      "developer": "Evrika Games LLC",
+      "icon": "https://play-lh.googleusercontent.com/D6ioAbMf5lcH7MuK5PPsja9-EV9rRbdMaY5z83aaWfKob-XdfKfDbmlc2Zh1NoSDOgw",
+      "url": "https://play.google.com/store/apps/details?id=com.evrika.miner.camp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.mytona.cookingdiary.android",
+      "title": "쿠킹 다이어리: 요리 게임",
+      "developer": "Mytona",
+      "icon": "https://play-lh.googleusercontent.com/Ah9MZ1szmG-iahoBMWGD_tRIQabAZEHQ69frire64GcWPLn4uJuOcB4Q50WDSTSYp3sL8KIzp72GXOJ23-62Wg",
+      "url": "https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.market",
+      "title": "Baby Panda's Town: 나의 세상",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/sDg8LOtJ7DC1dTfYhgfxwIsr6VM8qRIS1kVvLIxt2iHYswUOmHRQXVDjzrmXQxnXJOjF",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.market&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.marketIII",
+      "title": "Baby Panda's Town: 홈",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/M_eFnLXD0YPasJ4vbLRERD1QS3ebpoKeVvT6d_R2bskzCZNlCdsks-flbZ33H3c4lg",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketIII&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapps.virtual.pet.games.myboo2",
+      "title": "My Boo 2: My Virtual Pet Game",
+      "developer": "Tapps Games - PT",
+      "icon": "https://play-lh.googleusercontent.com/R8PzwNax24z3oAzrl-Z0I4NJqrolusZ4qT_nsE2x3H7-KHM9bP3_05T1VrQYgw2cE8wn",
+      "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.games.myboo2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.luckyskeletonstudios.idlebanktycoon",
+      "title": "유휴 은행 타이쿤 (Idle Bank Tycoon)",
+      "developer": "Kolibri Games",
+      "icon": "https://play-lh.googleusercontent.com/UFMaJVqzvSsS9cQVvVpRfz2kRSbj4cKTEUiNqf9G7jvWRavBQxUv6bbWPq1P6nactOk",
+      "url": "https://play.google.com/store/apps/details?id=com.luckyskeletonstudios.idlebanktycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingtomfriends2",
+      "title": "마이토킹톰 프렌즈 2",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -3708,6 +3868,150 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/vfLTSVTVwcRFFNDVieQEPbkRCnUFAf7AwfKnTr-2DtgTH1RfkrH5Ee0eAiv3MHcVrqFw",
       "url": "https://play.google.com/store/apps/details?id=merge.archers&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.acefishing.normal.freefull.google.global.android.common",
+      "title": "낚시의 신",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/mqpcEOLHjjY3cJvyyENbwt5z43VSZKTflGc5GmRjjK63ENneQzVWyKnAFkYMTq72Zb0",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dragonscapes.global",
+      "title": "꿈의 드래곤 어드벤처",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/HTi3nPPZHKNczjcDggQpWvJa1G1IKEOcS5atdFsZItmk1TFw9J8ms7sjnwXPMzhITEbe",
+      "url": "https://play.google.com/store/apps/details?id=com.dragonscapes.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.er",
+      "title": "프라시아 전기",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/25HVuJSH-Bcmsrv18ZMtRoLxsihD-Kjfp6ABY-FfW2h2eBw5fOdb3ZeYAIf6DchThg",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.er&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.smallgiantgames.empires",
+      "title": "엠파이어 & 퍼즐 (Empires & Puzzles)",
+      "developer": "Small Giant Games",
+      "icon": "https://play-lh.googleusercontent.com/fLeGp78TjhGB_tHS-gC52lKUdtO37fxpEl8gkwbjForb_hqHonsT8Z9mE73tZ2w9UBc",
+      "url": "https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.tiltingpoint.spongebob",
+      "title": "네모바지 스폰지밥 : 집게리아 요리 콘테스트",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/FjEfVpCC4kxmfYJvIrzm8ikRJKWcitTGfKssiWEJthJ1ZHCpUhc312koPMge0Blud5Y",
+      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.spongebob&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.zitga.empire.warriors.td",
+      "title": "Empire Warriors: 타워 디펜스",
+      "developer": "Putaleng",
+      "icon": "https://play-lh.googleusercontent.com/WwpeyOpHD8utmDfEXRmhO1bQ69EAqWtNEpChngCkXZoEqff_DKGeGLRJAWkv2r7MrHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingtomfriends",
+      "title": "마이토킹톰 프렌즈",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.crazylabs.fashion.squad",
+      "title": "Glow Fashion Idol",
+      "developer": "CrazyLabs LTD",
+      "icon": "https://play-lh.googleusercontent.com/MlE3OAudo_engERQkOQYeeRoaGJ9Y52Lfbj-UGze0nCQ-ctEU6lnUlBfRXI5EWQG7paU",
+      "url": "https://play.google.com/store/apps/details?id=com.crazylabs.fashion.squad&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.duige.hzw.multilingual",
+      "title": "봉황비전",
+      "developer": "Modo Global",
+      "icon": "https://play-lh.googleusercontent.com/TrVEF0C2jWnsV90qp_7SkZ46b8991FGTDkQwSLWDn0G5CPFvME3_qeRxLzx1r60-U7EDsWHs_9vhGuAC33kSLw",
+      "url": "https://play.google.com/store/apps/details?id=com.duige.hzw.multilingual&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.evrika.miner.camp",
+      "title": "Orecraft: Orc Mining Camp",
+      "developer": "Evrika Games LLC",
+      "icon": "https://play-lh.googleusercontent.com/D6ioAbMf5lcH7MuK5PPsja9-EV9rRbdMaY5z83aaWfKob-XdfKfDbmlc2Zh1NoSDOgw",
+      "url": "https://play.google.com/store/apps/details?id=com.evrika.miner.camp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.mytona.cookingdiary.android",
+      "title": "쿠킹 다이어리: 요리 게임",
+      "developer": "Mytona",
+      "icon": "https://play-lh.googleusercontent.com/Ah9MZ1szmG-iahoBMWGD_tRIQabAZEHQ69frire64GcWPLn4uJuOcB4Q50WDSTSYp3sL8KIzp72GXOJ23-62Wg",
+      "url": "https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.market",
+      "title": "Baby Panda's Town: 나의 세상",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/sDg8LOtJ7DC1dTfYhgfxwIsr6VM8qRIS1kVvLIxt2iHYswUOmHRQXVDjzrmXQxnXJOjF",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.market&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.marketIII",
+      "title": "Baby Panda's Town: 홈",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/M_eFnLXD0YPasJ4vbLRERD1QS3ebpoKeVvT6d_R2bskzCZNlCdsks-flbZ33H3c4lg",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketIII&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapps.virtual.pet.games.myboo2",
+      "title": "My Boo 2: My Virtual Pet Game",
+      "developer": "Tapps Games - PT",
+      "icon": "https://play-lh.googleusercontent.com/R8PzwNax24z3oAzrl-Z0I4NJqrolusZ4qT_nsE2x3H7-KHM9bP3_05T1VrQYgw2cE8wn",
+      "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.games.myboo2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.luckyskeletonstudios.idlebanktycoon",
+      "title": "유휴 은행 타이쿤 (Idle Bank Tycoon)",
+      "developer": "Kolibri Games",
+      "icon": "https://play-lh.googleusercontent.com/UFMaJVqzvSsS9cQVvVpRfz2kRSbj4cKTEUiNqf9G7jvWRavBQxUv6bbWPq1P6nactOk",
+      "url": "https://play.google.com/store/apps/details?id=com.luckyskeletonstudios.idlebanktycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingtomfriends2",
+      "title": "마이토킹톰 프렌즈 2",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
