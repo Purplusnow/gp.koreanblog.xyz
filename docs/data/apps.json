@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T09:26:07.356Z",
+  "updatedAt": "2026-03-30T11:14:32.973Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -238,7 +238,33 @@
     "com.rvappstudios.puzzle.game.find.difference.ftd",
     "com.scopely.wheeloffortune",
     "com.twoheadedshark.tco",
-    "uk.co.yakuto.PingPongKing"
+    "uk.co.yakuto.PingPongKing",
+    "com.act7ent.evilsword",
+    "com.angames.android.google.avatarbendingtheworld",
+    "com.bhk.newslgkr",
+    "com.bigcool.puzzle.merge.city",
+    "com.buffstudio.stillpoint",
+    "com.chillyroom.monstergirls.gp",
+    "com.codemon.HeroLandlord",
+    "com.cookapps.bouncedefense",
+    "com.daeri.TenValkyrie",
+    "com.dalcomsoft.ssbl",
+    "com.dino.steelkr",
+    "com.dogbytegames.otrnext",
+    "com.ellagames.bigguy",
+    "com.emagroups.zs",
+    "com.feelingtouch.rush",
+    "com.finalflow.cupblast",
+    "com.finalflow.imagejam",
+    "com.gamee.godslayer.rpg.rougelike",
+    "com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy",
+    "com.hidea.cat.magicrecipe",
+    "com.easybrain.sudoku.android",
+    "com.tripledot.blockbash",
+    "rpg.arcade.space.shooter.dragon.wings",
+    "com.Boomware.CafePanic",
+    "com.master.hotelmaster",
+    "com.baby.toddler.games"
   ],
   "seenItems": [
     {
@@ -2380,6 +2406,240 @@
       "developer": "Yakuto",
       "icon": "https://play-lh.googleusercontent.com/Mq440gkqrlRScHfiefmWtnWbDn1lNbOoNGpfEYYy28OO3mKgnSjly3ux6RNk3BjGOA",
       "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.PingPongKing&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.act7ent.evilsword",
+      "title": "이블 소드",
+      "developer": "Act Seven Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/ZrWofP2gaUU48PxhYLKTxrL6jDh3keJqVR6W5iZiHsB0dPHEpyVeeiGmLfXXfO3Hd0M6nR042dlgjj0Jf2wQYw",
+      "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.angames.android.google.avatarbendingtheworld",
+      "title": "Avatar: Realms Collide",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/kPG0VvHmBDElyr4V6SlcnBhBC5iPso951dBgFtmXKdw6A11uNN8hIVbqGuelDJIDChXNhKo025jJoJE50-rUgIY",
+      "url": "https://play.google.com/store/apps/details?id=com.angames.android.google.avatarbendingtheworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.bhk.newslgkr",
+      "title": "삼국지: 천하결전",
+      "developer": "BILIBILI",
+      "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
+      "url": "https://play.google.com/store/apps/details?id=com.bhk.newslgkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.puzzle.merge.city",
+      "title": "머지 시티: 데이터 필요없는 퍼즐 게임",
+      "developer": "Bigcool Games",
+      "icon": "https://play-lh.googleusercontent.com/RS_h0AnNGsLS2uPex8O3-IysgGSj7nD0BrEryBNw6jXJZqF6vBfyVoa5lMQ0KCWnUK0k71alLXaAM5RLMHKxVw",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.city&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.buffstudio.stillpoint",
+      "title": "스틸포인트: 미니멀 타워 디펜스",
+      "developer": "Buff Studio Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/jQOe7iFjnTpO198XnZ9TqvUVbSK-ipLuAS0qB27kPO3YpNPhf0CSHbjY9Xxq4_9A7Cql",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.chillyroom.monstergirls.gp",
+      "title": "Guild of Monster Girls",
+      "developer": "ChillyRoom",
+      "icon": "https://play-lh.googleusercontent.com/4jqB6p0_gPzpX6Uy-m1643CcrVMTD6pr5XCQl9v96VabUEYi_0FBBCM1LMeNx98R1QpjNDqXjM-n0Ks_bUMGBQ",
+      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.monstergirls.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.codemon.HeroLandlord",
+      "title": "용사는 건물주 - 방치형 RPG",
+      "developer": "CODEMON",
+      "icon": "https://play-lh.googleusercontent.com/9BH4fXj-KvosAGTHx0X9ulFzhlSpL965l0cTQRyapAb06_WOiJMMgkTMiVcA7AD5xSJqz2OLtqoD03-3amKCXg",
+      "url": "https://play.google.com/store/apps/details?id=com.codemon.HeroLandlord&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.bouncedefense",
+      "title": "통통 디펜스 : 핀볼 히어로",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/zrt6OpA3euFMbANod2A7yuYiGoVvPR1q-hA_FbGjbWav2ivqcxdzTEhzseSUZ2kTd9-QQxV_yoPVt5MCpbtlDU4",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.bouncedefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.daeri.TenValkyrie",
+      "title": "텐 발키리",
+      "developer": "DAERI SOFT Inc",
+      "icon": "https://play-lh.googleusercontent.com/ACRWLVOLPMDEHjfrKiUbLsSAYhfzyn15uMQ2Q_MsEunWUcxNWtx8pXGwf_E1kX6-yW0wuJ_uZ_B8nhBU8YOB",
+      "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dalcomsoft.ssbl",
+      "title": "SUPERSTAR THEBLACKLABEL",
+      "developer": "Dalcomsoft, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/qqVOlkIJ-mo5VywhItE28AlWuSOVDdnpSWhYyGkvpfCTFalvpMCrvrcsuBadYwTAac9_3_seYhMwui-qUnrG",
+      "url": "https://play.google.com/store/apps/details?id=com.dalcomsoft.ssbl&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dino.steelkr",
+      "title": "서바이벌 메카",
+      "developer": "BLANCOZONE NETWORK KOREA",
+      "icon": "https://play-lh.googleusercontent.com/Qnh1F8RDhAFOt-JN97YSpRCh4DPMFBKooNIq5vL6dL9IUYQlFr8vbfyOO0uwJ-tz2lc",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.steelkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dogbytegames.otrnext",
+      "title": "OTR 2",
+      "developer": "DogByte Games",
+      "icon": "https://play-lh.googleusercontent.com/FCeX-hQ6LlcWDWKNyQfOidND6tubGAB-UfvEChMkf9gh4hTOf4O3j5PFvzA0hVFjRXKyL5IDhDUymJdMmZI53w",
+      "url": "https://play.google.com/store/apps/details?id=com.dogbytegames.otrnext&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ellagames.bigguy",
+      "title": "뚱기사 키우기",
+      "developer": "ELLA Games",
+      "icon": "https://play-lh.googleusercontent.com/ou8_NEOogWYEKx2DDD2bWsEMHdU_GzOT5ePR02QO4-2uE8TL472pf2a1Gfu7q-3b7UVoTjdoaYl1Ox-tvpZ49Q",
+      "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.emagroups.zs",
+      "title": "Dynasty Warriors: Overlords",
+      "developer": "NEOCRAFT LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/bnRNTMLq31Xz0zAodb7zyqgxGVXn5fE40WtySObWnVfkm0-50gaxTuUw-qJQxkYTjSNfFXmxut5DqTOAk9GCtMA",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.feelingtouch.rush",
+      "title": "Zombie World War: Storm",
+      "developer": "FT Games",
+      "icon": "https://play-lh.googleusercontent.com/uZCla3mPuEDvIOQ_4Q4nqqr1Lr9B2aVe1E5ZUcfF2_itX8dufK_Tb0TTExAfPhsdfAWhHifGNpaI8D0cyUKh",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rush&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.finalflow.cupblast",
+      "title": "Cup Blast",
+      "developer": "Finalflow",
+      "icon": "https://play-lh.googleusercontent.com/r08Y7qJ49b2D2v9WYygVFrWH1I6kDz3ASrPeRG4Tc59iDFVbB4H57eJqm-cWgjN9qUajc6MUX48yRFeJ1XFJdw",
+      "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.finalflow.imagejam",
+      "title": "Image Jam : Color Puzzle",
+      "developer": "Finalflow",
+      "icon": "https://play-lh.googleusercontent.com/dEZUYYwCkXXDsaLD84GLOIT_EP_Da8VC6KlKaf__V9zLa5brWV3zxgb4w_9_wXl0NyWulAybs07A9njg5yQvXQ",
+      "url": "https://play.google.com/store/apps/details?id=com.finalflow.imagejam&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.godslayer.rpg.rougelike",
+      "title": "God Rivals: RPG Roguelike",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/wDhsT_rYqVyQttvWRDbN92rWSq7xUqXaFzuLN3K3962Ty5xF_dlzgb_k8lLdZ1hU7RSYh9mh8rDc06pWO0IkFw",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy",
+      "title": "Heavenfall Arena",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/KF6oniU6cny2mqChSQ2W5DrakgcVwnEez-L4qEcv5lwivUcUATkvz8TW4sJ6tJLQwspKmLSm_-AKeHp0hYLbTn4",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.hidea.cat.magicrecipe",
+      "title": "고양이와 스프 : 마법의 레시피",
+      "developer": "NEOWIZ",
+      "icon": "https://play-lh.googleusercontent.com/6fkZoj6vjBkGR7u-uSTNieCvMMHKuzA3CE808LPrRPbYQ6t2KJHdKEULCfof5CpCSxVgfipoEb941uMs2F_Y",
+      "url": "https://play.google.com/store/apps/details?id=com.hidea.cat.magicrecipe&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.sudoku.android",
+      "title": "스도쿠 - 두뇌 훈련용 퍼즐 게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/DXTADSCjRBr0kOgfOt927vTqcxb5O4jcLQRUKVFTe5WblKMcB1spJ0W_A8VEf6v3Zb0",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tripledot.blockbash",
+      "title": "Woodoku Blast",
+      "developer": "Tripledot Studios Limited",
+      "icon": "https://play-lh.googleusercontent.com/3zYytd77MXlmtvwNZW_L0icufZPK2EIVBpa-asmPeVTaWdZvnL_ERldsqM_ujX6PfclG4A5jbvC9w1vZk6MDpQ",
+      "url": "https://play.google.com/store/apps/details?id=com.tripledot.blockbash&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "rpg.arcade.space.shooter.dragon.wings",
+      "title": "드래곤 윙즈 - 스페이스 슈터",
+      "developer": "Spirit Bomb - Heartcore Games",
+      "icon": "https://play-lh.googleusercontent.com/TQP4ywpn2QKIt1YhWM03bINRGBywSQlxWDBVvpBxoXwa2zpw9ub9L6_b2aDLYbAs3X4",
+      "url": "https://play.google.com/store/apps/details?id=rpg.arcade.space.shooter.dragon.wings&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.Boomware.CafePanic",
+      "title": "카페 패닉: 요리게임 식당",
+      "developer": "Boomware Studio",
+      "icon": "https://play-lh.googleusercontent.com/jzUBm50TBZC3oMHt-47VOO5g9FA2lqn2I1sGzq47uOMv3iejaalYbH_iQlgss6SIMT5WjYj5l-TTvyIwPZTR",
+      "url": "https://play.google.com/store/apps/details?id=com.Boomware.CafePanic&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.master.hotelmaster",
+      "title": "호텔 제국 건설 (My Perfect Hotel)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/8P748vOHE4mCetsk2_Ss34HxSJoHtlnIxFLB3pFRawM3MR9VLDceIxbNQBdLBnM6mkMR",
+      "url": "https://play.google.com/store/apps/details?id=com.master.hotelmaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.baby.toddler.games",
+      "title": "2세 및 3세 유아용 게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/Nl1yE5j-lpOSG_6-elVvf3HGsdqGr57SLgYZvHDEVGRzxo7varc66UbAwU0eDnBa9Uc",
+      "url": "https://play.google.com/store/apps/details?id=com.baby.toddler.games&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
@@ -4524,6 +4784,240 @@
       "developer": "Yakuto",
       "icon": "https://play-lh.googleusercontent.com/Mq440gkqrlRScHfiefmWtnWbDn1lNbOoNGpfEYYy28OO3mKgnSjly3ux6RNk3BjGOA",
       "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.PingPongKing&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.act7ent.evilsword",
+      "title": "이블 소드",
+      "developer": "Act Seven Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/ZrWofP2gaUU48PxhYLKTxrL6jDh3keJqVR6W5iZiHsB0dPHEpyVeeiGmLfXXfO3Hd0M6nR042dlgjj0Jf2wQYw",
+      "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.angames.android.google.avatarbendingtheworld",
+      "title": "Avatar: Realms Collide",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/kPG0VvHmBDElyr4V6SlcnBhBC5iPso951dBgFtmXKdw6A11uNN8hIVbqGuelDJIDChXNhKo025jJoJE50-rUgIY",
+      "url": "https://play.google.com/store/apps/details?id=com.angames.android.google.avatarbendingtheworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.bhk.newslgkr",
+      "title": "삼국지: 천하결전",
+      "developer": "BILIBILI",
+      "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
+      "url": "https://play.google.com/store/apps/details?id=com.bhk.newslgkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.puzzle.merge.city",
+      "title": "머지 시티: 데이터 필요없는 퍼즐 게임",
+      "developer": "Bigcool Games",
+      "icon": "https://play-lh.googleusercontent.com/RS_h0AnNGsLS2uPex8O3-IysgGSj7nD0BrEryBNw6jXJZqF6vBfyVoa5lMQ0KCWnUK0k71alLXaAM5RLMHKxVw",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.city&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.buffstudio.stillpoint",
+      "title": "스틸포인트: 미니멀 타워 디펜스",
+      "developer": "Buff Studio Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/jQOe7iFjnTpO198XnZ9TqvUVbSK-ipLuAS0qB27kPO3YpNPhf0CSHbjY9Xxq4_9A7Cql",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.chillyroom.monstergirls.gp",
+      "title": "Guild of Monster Girls",
+      "developer": "ChillyRoom",
+      "icon": "https://play-lh.googleusercontent.com/4jqB6p0_gPzpX6Uy-m1643CcrVMTD6pr5XCQl9v96VabUEYi_0FBBCM1LMeNx98R1QpjNDqXjM-n0Ks_bUMGBQ",
+      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.monstergirls.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.codemon.HeroLandlord",
+      "title": "용사는 건물주 - 방치형 RPG",
+      "developer": "CODEMON",
+      "icon": "https://play-lh.googleusercontent.com/9BH4fXj-KvosAGTHx0X9ulFzhlSpL965l0cTQRyapAb06_WOiJMMgkTMiVcA7AD5xSJqz2OLtqoD03-3amKCXg",
+      "url": "https://play.google.com/store/apps/details?id=com.codemon.HeroLandlord&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.bouncedefense",
+      "title": "통통 디펜스 : 핀볼 히어로",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/zrt6OpA3euFMbANod2A7yuYiGoVvPR1q-hA_FbGjbWav2ivqcxdzTEhzseSUZ2kTd9-QQxV_yoPVt5MCpbtlDU4",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.bouncedefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.daeri.TenValkyrie",
+      "title": "텐 발키리",
+      "developer": "DAERI SOFT Inc",
+      "icon": "https://play-lh.googleusercontent.com/ACRWLVOLPMDEHjfrKiUbLsSAYhfzyn15uMQ2Q_MsEunWUcxNWtx8pXGwf_E1kX6-yW0wuJ_uZ_B8nhBU8YOB",
+      "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dalcomsoft.ssbl",
+      "title": "SUPERSTAR THEBLACKLABEL",
+      "developer": "Dalcomsoft, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/qqVOlkIJ-mo5VywhItE28AlWuSOVDdnpSWhYyGkvpfCTFalvpMCrvrcsuBadYwTAac9_3_seYhMwui-qUnrG",
+      "url": "https://play.google.com/store/apps/details?id=com.dalcomsoft.ssbl&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dino.steelkr",
+      "title": "서바이벌 메카",
+      "developer": "BLANCOZONE NETWORK KOREA",
+      "icon": "https://play-lh.googleusercontent.com/Qnh1F8RDhAFOt-JN97YSpRCh4DPMFBKooNIq5vL6dL9IUYQlFr8vbfyOO0uwJ-tz2lc",
+      "url": "https://play.google.com/store/apps/details?id=com.dino.steelkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dogbytegames.otrnext",
+      "title": "OTR 2",
+      "developer": "DogByte Games",
+      "icon": "https://play-lh.googleusercontent.com/FCeX-hQ6LlcWDWKNyQfOidND6tubGAB-UfvEChMkf9gh4hTOf4O3j5PFvzA0hVFjRXKyL5IDhDUymJdMmZI53w",
+      "url": "https://play.google.com/store/apps/details?id=com.dogbytegames.otrnext&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ellagames.bigguy",
+      "title": "뚱기사 키우기",
+      "developer": "ELLA Games",
+      "icon": "https://play-lh.googleusercontent.com/ou8_NEOogWYEKx2DDD2bWsEMHdU_GzOT5ePR02QO4-2uE8TL472pf2a1Gfu7q-3b7UVoTjdoaYl1Ox-tvpZ49Q",
+      "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.emagroups.zs",
+      "title": "Dynasty Warriors: Overlords",
+      "developer": "NEOCRAFT LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/bnRNTMLq31Xz0zAodb7zyqgxGVXn5fE40WtySObWnVfkm0-50gaxTuUw-qJQxkYTjSNfFXmxut5DqTOAk9GCtMA",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.feelingtouch.rush",
+      "title": "Zombie World War: Storm",
+      "developer": "FT Games",
+      "icon": "https://play-lh.googleusercontent.com/uZCla3mPuEDvIOQ_4Q4nqqr1Lr9B2aVe1E5ZUcfF2_itX8dufK_Tb0TTExAfPhsdfAWhHifGNpaI8D0cyUKh",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rush&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.finalflow.cupblast",
+      "title": "Cup Blast",
+      "developer": "Finalflow",
+      "icon": "https://play-lh.googleusercontent.com/r08Y7qJ49b2D2v9WYygVFrWH1I6kDz3ASrPeRG4Tc59iDFVbB4H57eJqm-cWgjN9qUajc6MUX48yRFeJ1XFJdw",
+      "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.finalflow.imagejam",
+      "title": "Image Jam : Color Puzzle",
+      "developer": "Finalflow",
+      "icon": "https://play-lh.googleusercontent.com/dEZUYYwCkXXDsaLD84GLOIT_EP_Da8VC6KlKaf__V9zLa5brWV3zxgb4w_9_wXl0NyWulAybs07A9njg5yQvXQ",
+      "url": "https://play.google.com/store/apps/details?id=com.finalflow.imagejam&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.godslayer.rpg.rougelike",
+      "title": "God Rivals: RPG Roguelike",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/wDhsT_rYqVyQttvWRDbN92rWSq7xUqXaFzuLN3K3962Ty5xF_dlzgb_k8lLdZ1hU7RSYh9mh8rDc06pWO0IkFw",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy",
+      "title": "Heavenfall Arena",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/KF6oniU6cny2mqChSQ2W5DrakgcVwnEez-L4qEcv5lwivUcUATkvz8TW4sJ6tJLQwspKmLSm_-AKeHp0hYLbTn4",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.hidea.cat.magicrecipe",
+      "title": "고양이와 스프 : 마법의 레시피",
+      "developer": "NEOWIZ",
+      "icon": "https://play-lh.googleusercontent.com/6fkZoj6vjBkGR7u-uSTNieCvMMHKuzA3CE808LPrRPbYQ6t2KJHdKEULCfof5CpCSxVgfipoEb941uMs2F_Y",
+      "url": "https://play.google.com/store/apps/details?id=com.hidea.cat.magicrecipe&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.sudoku.android",
+      "title": "스도쿠 - 두뇌 훈련용 퍼즐 게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/DXTADSCjRBr0kOgfOt927vTqcxb5O4jcLQRUKVFTe5WblKMcB1spJ0W_A8VEf6v3Zb0",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tripledot.blockbash",
+      "title": "Woodoku Blast",
+      "developer": "Tripledot Studios Limited",
+      "icon": "https://play-lh.googleusercontent.com/3zYytd77MXlmtvwNZW_L0icufZPK2EIVBpa-asmPeVTaWdZvnL_ERldsqM_ujX6PfclG4A5jbvC9w1vZk6MDpQ",
+      "url": "https://play.google.com/store/apps/details?id=com.tripledot.blockbash&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "rpg.arcade.space.shooter.dragon.wings",
+      "title": "드래곤 윙즈 - 스페이스 슈터",
+      "developer": "Spirit Bomb - Heartcore Games",
+      "icon": "https://play-lh.googleusercontent.com/TQP4ywpn2QKIt1YhWM03bINRGBywSQlxWDBVvpBxoXwa2zpw9ub9L6_b2aDLYbAs3X4",
+      "url": "https://play.google.com/store/apps/details?id=rpg.arcade.space.shooter.dragon.wings&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.Boomware.CafePanic",
+      "title": "카페 패닉: 요리게임 식당",
+      "developer": "Boomware Studio",
+      "icon": "https://play-lh.googleusercontent.com/jzUBm50TBZC3oMHt-47VOO5g9FA2lqn2I1sGzq47uOMv3iejaalYbH_iQlgss6SIMT5WjYj5l-TTvyIwPZTR",
+      "url": "https://play.google.com/store/apps/details?id=com.Boomware.CafePanic&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.master.hotelmaster",
+      "title": "호텔 제국 건설 (My Perfect Hotel)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/8P748vOHE4mCetsk2_Ss34HxSJoHtlnIxFLB3pFRawM3MR9VLDceIxbNQBdLBnM6mkMR",
+      "url": "https://play.google.com/store/apps/details?id=com.master.hotelmaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.baby.toddler.games",
+      "title": "2세 및 3세 유아용 게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/Nl1yE5j-lpOSG_6-elVvf3HGsdqGr57SLgYZvHDEVGRzxo7varc66UbAwU0eDnBa9Uc",
+      "url": "https://play.google.com/store/apps/details?id=com.baby.toddler.games&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
