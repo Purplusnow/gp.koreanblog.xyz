@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T01:38:06.661Z",
+  "updatedAt": "2026-03-30T03:34:47.402Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -185,7 +185,22 @@
     "com.scopely.monopolygo",
     "com.gof.global",
     "com.threebit.heartwoodonline",
-    "ru.SOFFGames.gco"
+    "ru.SOFFGames.gco",
+    "com.whalo.games.fishoffortune",
+    "puzzle.yarn.fever.unravel.puzzle",
+    "com.netmarble.nanakr",
+    "com.gamee.royal.escape.kingdom.castle.match.puzzle",
+    "com.yodo1.rodeo.safari",
+    "com.fungames.blockcraft",
+    "com.haegin.playtogether",
+    "com.smilegate.lordnine.stove.google",
+    "com.dc.gok.google",
+    "com.gameloft.android.ANMP.GloftGHHM",
+    "com.infoldgames.infinitynikkias",
+    "com.simutronics.b17",
+    "com.stratospheregames.miniciv",
+    "com.yottagames.mafiawar",
+    "com.pocketchamps.game"
   ],
   "seenItems": [
     {
@@ -1850,6 +1865,141 @@
       "developer": "Jet Games FZ-LLC",
       "icon": "https://play-lh.googleusercontent.com/HAVGVpHuMSgn2DGzRqJdIf4NI-EjFOkyRNR6p0K0mBDd5xSiKzLkGhd-0aWzbmJz_ck",
       "url": "https://play.google.com/store/apps/details?id=ru.SOFFGames.gco&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.whalo.games.fishoffortune",
+      "title": "Fish of Fortune™",
+      "developer": "Whalo",
+      "icon": "https://play-lh.googleusercontent.com/3fC7fxsF2qHgmAfs3XuMNNbLu9qFuKBIR-rtCe_pfoFijW34s3UYUJqxAl4dTJM8wytyaIjGRnjsXDxzmVTnCRM",
+      "url": "https://play.google.com/store/apps/details?id=com.whalo.games.fishoffortune&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "puzzle.yarn.fever.unravel.puzzle",
+      "title": "Yarn Fever! Unravel Puzzle",
+      "developer": "Brave HK Limited",
+      "icon": "https://play-lh.googleusercontent.com/eQGfBb1JJswvnFASnsWExK_JboqU3bMAJRo-ko-ZOwqiuOH7mdrvYKxmSwFwMPLK3Q",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.yarn.fever.unravel.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.nanakr",
+      "title": "일곱 개의 대죄: GRAND CROSS",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/yiPr5aPkajf90mlPdyiJKdteQU7Y3SP-ftUH8Pu6131Kl3vyBvfXtP9JqhcAl2asZwM6eKURR_UENCfz8IkyCA",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanakr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.royal.escape.kingdom.castle.match.puzzle",
+      "title": "킹 이스케이프: 로열 캐슬 (King Escape)",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/nNv2sW5qFtOHW7bAM_KD_uiM7SYE8lfUhNqxqbLatKRyocoKt2EgD4wao-y2y7HgIhc",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.royal.escape.kingdom.castle.match.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.yodo1.rodeo.safari",
+      "title": "로데오 스템피드: 스카이 동물원 사파리",
+      "developer": "Yodo1 Games",
+      "icon": "https://play-lh.googleusercontent.com/lYL9Q3H-582iEv42JfeIXQ2ccD49anbXGDOQ5RwI8B5Y6AuKZMmzz1oR8cCbIGv2nQ",
+      "url": "https://play.google.com/store/apps/details?id=com.yodo1.rodeo.safari&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.fungames.blockcraft",
+      "title": "블록 크래프트 3D(Block Craft): 건설 게임",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.haegin.playtogether",
+      "title": "플레이투게더: 아바타로 즐기는 소셜 놀이터",
+      "developer": "HAEGIN Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/gVdBiz2eVaoSilhe2Fm7B7yryPZduDehBlg03lMJjIvVRrV2fnnFr65XOnoBZriPeG6A",
+      "url": "https://play.google.com/store/apps/details?id=com.haegin.playtogether&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.smilegate.lordnine.stove.google",
+      "title": "로드나인",
+      "developer": "Smilegate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/gf1zo3glPzI9MXdz7tJcxFLkORjATJ979mtFia2OMkLkNPQRCK_mMgV6C1tVia9Eag",
+      "url": "https://play.google.com/store/apps/details?id=com.smilegate.lordnine.stove.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dc.gok.google",
+      "title": "정복자: 칸",
+      "developer": "Clicktouch Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/DcN3KK2N-98HAPw4wo92XM4K5Ss7Yt9j6Iwy00_woYO1XEjXzrnlKZuFlkSzWSag6Q",
+      "url": "https://play.google.com/store/apps/details?id=com.dc.gok.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftGHHM",
+      "title": "March of Empires: War Games",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/ZrCR2Pf8eRFxUaUIDNHlC66GVZpcfl4DGCMWnhe14DOfl71PPaW8gVE8R0KHyyZVqYg",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGHHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.infoldgames.infinitynikkias",
+      "title": "인피니티 니키",
+      "developer": "InFold Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/CdF7uSg6iS9jY-DLEutsDpxl_UrGtyI2ypOVyl6m0x_BoEmaMXEc43-1saGSDwu28nkTDW-LszkBs7PtZDKETg",
+      "url": "https://play.google.com/store/apps/details?id=com.infoldgames.infinitynikkias&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.simutronics.b17",
+      "title": "SIEGE: World War II",
+      "developer": "Imperia Online JSC",
+      "icon": "https://play-lh.googleusercontent.com/0YE5MfUsw8Z4kdczdV0_liNc-N-QBO3dl3cbm5ZABc0ZIMs22ZoFfE1gWOtk6EREioA",
+      "url": "https://play.google.com/store/apps/details?id=com.simutronics.b17&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.stratospheregames.miniciv",
+      "title": "Dawn of Ages: Medieval Wars",
+      "developer": "BoomBit Games",
+      "icon": "https://play-lh.googleusercontent.com/dzydc6vQ87BmRgRkKMhJweHv1bwpqF7SZK_tffdJRqFExliBfHg_oKSj-geraS_q",
+      "url": "https://play.google.com/store/apps/details?id=com.stratospheregames.miniciv&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.yottagames.mafiawar",
+      "title": "마피아 시티",
+      "developer": "Phantix Games",
+      "icon": "https://play-lh.googleusercontent.com/odcxZ_C2LiZJzHVhYIudrCbZ4SUC9AxHEAXJ3U2gbskcQ4rFep9p_uU_l1giA3UOobYT",
+      "url": "https://play.google.com/store/apps/details?id=com.yottagames.mafiawar&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.pocketchamps.game",
+      "title": "포켓 챔프: 3D 레이싱 게임",
+      "developer": "Madbox",
+      "icon": "https://play-lh.googleusercontent.com/VOHFS_ynG--Snu-hXpagEVdN-UXqlqB0NQJMoFkuP5NAOFbwgOo12zVBmsDLwGpugqTN",
+      "url": "https://play.google.com/store/apps/details?id=com.pocketchamps.game&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
@@ -3517,6 +3667,141 @@
       "developer": "Jet Games FZ-LLC",
       "icon": "https://play-lh.googleusercontent.com/HAVGVpHuMSgn2DGzRqJdIf4NI-EjFOkyRNR6p0K0mBDd5xSiKzLkGhd-0aWzbmJz_ck",
       "url": "https://play.google.com/store/apps/details?id=ru.SOFFGames.gco&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.whalo.games.fishoffortune",
+      "title": "Fish of Fortune™",
+      "developer": "Whalo",
+      "icon": "https://play-lh.googleusercontent.com/3fC7fxsF2qHgmAfs3XuMNNbLu9qFuKBIR-rtCe_pfoFijW34s3UYUJqxAl4dTJM8wytyaIjGRnjsXDxzmVTnCRM",
+      "url": "https://play.google.com/store/apps/details?id=com.whalo.games.fishoffortune&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "puzzle.yarn.fever.unravel.puzzle",
+      "title": "Yarn Fever! Unravel Puzzle",
+      "developer": "Brave HK Limited",
+      "icon": "https://play-lh.googleusercontent.com/eQGfBb1JJswvnFASnsWExK_JboqU3bMAJRo-ko-ZOwqiuOH7mdrvYKxmSwFwMPLK3Q",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.yarn.fever.unravel.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.nanakr",
+      "title": "일곱 개의 대죄: GRAND CROSS",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/yiPr5aPkajf90mlPdyiJKdteQU7Y3SP-ftUH8Pu6131Kl3vyBvfXtP9JqhcAl2asZwM6eKURR_UENCfz8IkyCA",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanakr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.royal.escape.kingdom.castle.match.puzzle",
+      "title": "킹 이스케이프: 로열 캐슬 (King Escape)",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/nNv2sW5qFtOHW7bAM_KD_uiM7SYE8lfUhNqxqbLatKRyocoKt2EgD4wao-y2y7HgIhc",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.royal.escape.kingdom.castle.match.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.yodo1.rodeo.safari",
+      "title": "로데오 스템피드: 스카이 동물원 사파리",
+      "developer": "Yodo1 Games",
+      "icon": "https://play-lh.googleusercontent.com/lYL9Q3H-582iEv42JfeIXQ2ccD49anbXGDOQ5RwI8B5Y6AuKZMmzz1oR8cCbIGv2nQ",
+      "url": "https://play.google.com/store/apps/details?id=com.yodo1.rodeo.safari&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.fungames.blockcraft",
+      "title": "블록 크래프트 3D(Block Craft): 건설 게임",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.haegin.playtogether",
+      "title": "플레이투게더: 아바타로 즐기는 소셜 놀이터",
+      "developer": "HAEGIN Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/gVdBiz2eVaoSilhe2Fm7B7yryPZduDehBlg03lMJjIvVRrV2fnnFr65XOnoBZriPeG6A",
+      "url": "https://play.google.com/store/apps/details?id=com.haegin.playtogether&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.smilegate.lordnine.stove.google",
+      "title": "로드나인",
+      "developer": "Smilegate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/gf1zo3glPzI9MXdz7tJcxFLkORjATJ979mtFia2OMkLkNPQRCK_mMgV6C1tVia9Eag",
+      "url": "https://play.google.com/store/apps/details?id=com.smilegate.lordnine.stove.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.dc.gok.google",
+      "title": "정복자: 칸",
+      "developer": "Clicktouch Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/DcN3KK2N-98HAPw4wo92XM4K5Ss7Yt9j6Iwy00_woYO1XEjXzrnlKZuFlkSzWSag6Q",
+      "url": "https://play.google.com/store/apps/details?id=com.dc.gok.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftGHHM",
+      "title": "March of Empires: War Games",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/ZrCR2Pf8eRFxUaUIDNHlC66GVZpcfl4DGCMWnhe14DOfl71PPaW8gVE8R0KHyyZVqYg",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGHHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.infoldgames.infinitynikkias",
+      "title": "인피니티 니키",
+      "developer": "InFold Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/CdF7uSg6iS9jY-DLEutsDpxl_UrGtyI2ypOVyl6m0x_BoEmaMXEc43-1saGSDwu28nkTDW-LszkBs7PtZDKETg",
+      "url": "https://play.google.com/store/apps/details?id=com.infoldgames.infinitynikkias&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.simutronics.b17",
+      "title": "SIEGE: World War II",
+      "developer": "Imperia Online JSC",
+      "icon": "https://play-lh.googleusercontent.com/0YE5MfUsw8Z4kdczdV0_liNc-N-QBO3dl3cbm5ZABc0ZIMs22ZoFfE1gWOtk6EREioA",
+      "url": "https://play.google.com/store/apps/details?id=com.simutronics.b17&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.stratospheregames.miniciv",
+      "title": "Dawn of Ages: Medieval Wars",
+      "developer": "BoomBit Games",
+      "icon": "https://play-lh.googleusercontent.com/dzydc6vQ87BmRgRkKMhJweHv1bwpqF7SZK_tffdJRqFExliBfHg_oKSj-geraS_q",
+      "url": "https://play.google.com/store/apps/details?id=com.stratospheregames.miniciv&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.yottagames.mafiawar",
+      "title": "마피아 시티",
+      "developer": "Phantix Games",
+      "icon": "https://play-lh.googleusercontent.com/odcxZ_C2LiZJzHVhYIudrCbZ4SUC9AxHEAXJ3U2gbskcQ4rFep9p_uU_l1giA3UOobYT",
+      "url": "https://play.google.com/store/apps/details?id=com.yottagames.mafiawar&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.pocketchamps.game",
+      "title": "포켓 챔프: 3D 레이싱 게임",
+      "developer": "Madbox",
+      "icon": "https://play-lh.googleusercontent.com/VOHFS_ynG--Snu-hXpagEVdN-UXqlqB0NQJMoFkuP5NAOFbwgOo12zVBmsDLwGpugqTN",
+      "url": "https://play.google.com/store/apps/details?id=com.pocketchamps.game&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
