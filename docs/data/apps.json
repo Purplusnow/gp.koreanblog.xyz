@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T13:59:00.243Z",
+  "updatedAt": "2026-03-30T15:17:46.354Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -287,9 +287,39 @@
     "com.AlfaBravo.CombatMaster",
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
-    "com.chucklefish.stardewvalley"
+    "com.chucklefish.stardewvalley",
+    "bubbleshooter.orig",
+    "com.goblins.idle.merge.game",
+    "com.computerlunch.evolution"
   ],
   "seenItems": [
+    {
+      "appId": "bubbleshooter.orig",
+      "title": "Bubble Shooter",
+      "developer": "Bubble Shooter",
+      "icon": "https://play-lh.googleusercontent.com/NT-OSgIaYHcXakVJ83koTtly-TgbQDJSbt1JhHLIbakzkfb3Ynbc7qCpWLeCIRAwig",
+      "url": "https://play.google.com/store/apps/details?id=bubbleshooter.orig&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.goblins.idle.merge.game",
+      "title": "Goblin Miner: Idle Merger",
+      "developer": "ProGamesLab",
+      "icon": "https://play-lh.googleusercontent.com/kls6DBoOPjyJ0vc0_eZFSB_ZPG1IohBui61qxSJ9gMEC3fSJP5nRMIeY7Nn2nnk9UW-A",
+      "url": "https://play.google.com/store/apps/details?id=com.goblins.idle.merge.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.computerlunch.evolution",
+      "title": "세포 - 특이성 - 진화가 끝나지 않는다",
+      "developer": "ComputerLunch",
+      "icon": "https://play-lh.googleusercontent.com/HYkWj58ldj71Pruhz1PTEah_cuQokBboG5RFV_73D8FIftmoBZYyWc40fmJ1Ymp1sQ2zgwxwbFxgyV0s8_Fn",
+      "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
     {
       "appId": "com.netmarble.stonkey",
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
@@ -2875,6 +2905,33 @@
     }
   ],
   "items": [
+    {
+      "appId": "bubbleshooter.orig",
+      "title": "Bubble Shooter",
+      "developer": "Bubble Shooter",
+      "icon": "https://play-lh.googleusercontent.com/NT-OSgIaYHcXakVJ83koTtly-TgbQDJSbt1JhHLIbakzkfb3Ynbc7qCpWLeCIRAwig",
+      "url": "https://play.google.com/store/apps/details?id=bubbleshooter.orig&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.goblins.idle.merge.game",
+      "title": "Goblin Miner: Idle Merger",
+      "developer": "ProGamesLab",
+      "icon": "https://play-lh.googleusercontent.com/kls6DBoOPjyJ0vc0_eZFSB_ZPG1IohBui61qxSJ9gMEC3fSJP5nRMIeY7Nn2nnk9UW-A",
+      "url": "https://play.google.com/store/apps/details?id=com.goblins.idle.merge.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.computerlunch.evolution",
+      "title": "세포 - 특이성 - 진화가 끝나지 않는다",
+      "developer": "ComputerLunch",
+      "icon": "https://play-lh.googleusercontent.com/HYkWj58ldj71Pruhz1PTEah_cuQokBboG5RFV_73D8FIftmoBZYyWc40fmJ1Ymp1sQ2zgwxwbFxgyV0s8_Fn",
+      "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
     {
       "appId": "com.netmarble.stonkey",
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
