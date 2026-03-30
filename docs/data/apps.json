@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T11:14:32.973Z",
+  "updatedAt": "2026-03-30T13:59:00.243Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -264,7 +264,30 @@
     "rpg.arcade.space.shooter.dragon.wings",
     "com.Boomware.CafePanic",
     "com.master.hotelmaster",
-    "com.baby.toddler.games"
+    "com.baby.toddler.games",
+    "com.europosit.pixelcoloring",
+    "com.game.candywitch.cookie.stars.free",
+    "com.hutchgames.carsm3",
+    "com.qingyuegames.petmatch",
+    "com.tapblaze.homecraft",
+    "linkdesks.tile.match.fun",
+    "car.jam.traffic.seat.unblock",
+    "io.voodoo.holeio",
+    "com.JindoBlu.Antistress",
+    "blockpuzzle.new1010.jewelgames.puzzlegames",
+    "com.JindoBlu.TwoPlayerGamesChallenge",
+    "com.easybrain.number.puzzle.game",
+    "com.gamovation.mahjongclub",
+    "br.com.tapps.myvirtualpetshop",
+    "com.NHNEnt.MSudda",
+    "com.pjsekai.kr",
+    "solitaire.patience.card.games.klondike.free",
+    "io.state.fight",
+    "com.proximabeta.mf.uamo",
+    "com.AlfaBravo.CombatMaster",
+    "com.axlebolt.standoff2",
+    "com.riotgames.league.wildrift",
+    "com.chucklefish.stardewvalley"
   ],
   "seenItems": [
     {
@@ -2640,6 +2663,213 @@
       "developer": "IDZ Digital Private Limited",
       "icon": "https://play-lh.googleusercontent.com/Nl1yE5j-lpOSG_6-elVvf3HGsdqGr57SLgYZvHDEVGRzxo7varc66UbAwU0eDnBa9Uc",
       "url": "https://play.google.com/store/apps/details?id=com.baby.toddler.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.europosit.pixelcoloring",
+      "title": "픽셀 아트 - 숫자 색칠게임 책",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
+      "url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.candywitch.cookie.stars.free",
+      "title": "Candy Witch",
+      "developer": "gameone",
+      "icon": "https://play-lh.googleusercontent.com/0uDKIklp-nX_G4YzKlX3X6qnaygwy-fn9RaTUKtcYbyBmA9pnZDalMNhE7CEjbHj2YWbuoq68Gabm673uaR7jhI",
+      "url": "https://play.google.com/store/apps/details?id=com.game.candywitch.cookie.stars.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.hutchgames.carsm3",
+      "title": "Matchcreek Motors: 자동차 커스텀",
+      "developer": "Hutch Games",
+      "icon": "https://play-lh.googleusercontent.com/trXp1irMNjzPy-9bbcJSn3lEhDjkAqMVl_XwooOD00xJiqG8TrLzqjRhGFH-30wLzfYN",
+      "url": "https://play.google.com/store/apps/details?id=com.hutchgames.carsm3&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.qingyuegames.petmatch",
+      "title": "스위티 레전드",
+      "developer": "Qingyue Games",
+      "icon": "https://play-lh.googleusercontent.com/VQjguc5mjpqRoyTQ0muUu2SxoIyzfEuRqaTaVYFHQIdOHPgYQjyqSwIhLLUVy2b3cf8",
+      "url": "https://play.google.com/store/apps/details?id=com.qingyuegames.petmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapblaze.homecraft",
+      "title": "홈크래프트 - 홈 디자인 게임",
+      "developer": "TapBlaze",
+      "icon": "https://play-lh.googleusercontent.com/c8U5LOrLi8k6AJqQ95WFQT2fbfTSfHaES5Foi1MAjZHWDPcZNfKWWDnJkOlbtveojQwnFZJqhPKPG7Ia30P699Y",
+      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.homecraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.tile.match.fun",
+      "title": "트리플 타일 매치",
+      "developer": "LinkDesks Daily Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/x9m53Q8j7tJJkmw1UygH22LiVcpe-1WJDB8arVSzxqXYrmhJAPZHuIvpJldWrJNXhhY",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.tile.match.fun&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "car.jam.traffic.seat.unblock",
+      "title": "Car Jam：자동차 게임・주차의 달인",
+      "developer": "Shycheese",
+      "icon": "https://play-lh.googleusercontent.com/bE3UCTHxRml6Y3sGSdqBJPkMDtys8GXVMJ5f_faU-iwvi-dCi7_rFZhM8kJGXpGvllyISvdQ70Pt3BSfzTsc",
+      "url": "https://play.google.com/store/apps/details?id=car.jam.traffic.seat.unblock&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "io.voodoo.holeio",
+      "title": "Hole.io",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.JindoBlu.Antistress",
+      "title": "안티스트레스 - 릴렉스 토이",
+      "developer": "JindoBlu",
+      "icon": "https://play-lh.googleusercontent.com/7Q4BJMSZZ4e0hSIw_yOlXzg6ACUIwOTJ3ePdIsFdWO2KkIputOaxY-CAb0AodacMQaQ",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.Antistress&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "blockpuzzle.new1010.jewelgames.puzzlegames",
+      "title": "Block Puzzle - 블럭 퍼즐",
+      "developer": "Block Puzzle Jewel Games",
+      "icon": "https://play-lh.googleusercontent.com/7KOeuxJZ4nW7hchEolHcCHOWmA89-cuWzl3nr4IX74YfKtm8mMYCCNa3hl-5-2_OSxw",
+      "url": "https://play.google.com/store/apps/details?id=blockpuzzle.new1010.jewelgames.puzzlegames&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.JindoBlu.TwoPlayerGamesChallenge",
+      "title": "2인용 게임: 도전",
+      "developer": "JindoBlu",
+      "icon": "https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.number.puzzle.game",
+      "title": "넘버 매치 - 숫자 로직 퍼즐",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/-U5ol_iA3Fq1lvyJ1q1JEJamTuSBNx1vclmR0mA4gDSBXS4f8cebBWKA2llk7AaDsQ",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.number.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamovation.mahjongclub",
+      "title": "마작 클럽 - 솔리테어 게임",
+      "developer": "GamoVation",
+      "icon": "https://play-lh.googleusercontent.com/InxnR_89wzWkXIV4BwJyBCvhyQ__IGXnzhiSi1ddNbh0wZe-rBBqlWl6cRq--GlGyzg",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.mahjongclub&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.myvirtualpetshop",
+      "title": "My Virtual Pet Shop: Animals",
+      "developer": "Tapps Games",
+      "icon": "https://play-lh.googleusercontent.com/zRjY_rYgateoWXfq1oVQK8iXSsA5r83Coe0T8FfWfwYZgBSR4J6DAvK0ZdmFv3Ig_A",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.myvirtualpetshop&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.NHNEnt.MSudda",
+      "title": "한게임 섯다&맞고",
+      "developer": "NHN Corp.",
+      "icon": "https://play-lh.googleusercontent.com/wXOujB_kNtS-oJpSkz7BJjR1syEeeZ86LNIUnLiCzGCF1QbHq-gIdFKpKiT6hqsF9Fex",
+      "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.pjsekai.kr",
+      "title": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
+      "developer": "Nuverse",
+      "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq",
+      "url": "https://play.google.com/store/apps/details?id=com.pjsekai.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "solitaire.patience.card.games.klondike.free",
+      "title": "솔리테어 - 클래식 카드게임, Solitaire",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/4N1bKGONEllL7uNKI-9bAdmuSmKLqSFZQtUxSme3kD-0OkFZzjzyR-YercQ6nbJ6Ppfm",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "io.state.fight",
+      "title": "스테이트.io — 전략 게임에서 세계를 정복하라",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/axUXnzlLPrANfsvL_AyWSZBn4g_28nkXqvHVHRURITqTXeb7xobmdoeiZIqsof-vvA",
+      "url": "https://play.google.com/store/apps/details?id=io.state.fight&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.proximabeta.mf.uamo",
+      "title": "아레나 브레이크아웃: 현실 지향 FPS",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/vL-xYJhmXTiaQewThy9DMHkk_zdtSHqKcRDp8iYip6C-OB764enYRA1CrmHSRoW1rsAEkyJT5a8By3ADMbd5",
+      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.AlfaBravo.CombatMaster",
+      "title": "Combat Master Mobile FPS",
+      "developer": "Alfa Bravo Inc.",
+      "icon": "https://play-lh.googleusercontent.com/E8zf-LRFY2J7NV4EdifkgaQS5woA7VMolvwzZObx6pshA92CSrvXweRxSH37TxZOebrs",
+      "url": "https://play.google.com/store/apps/details?id=com.AlfaBravo.CombatMaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.axlebolt.standoff2",
+      "title": "Standoff 2",
+      "developer": "AXLEBOLT LTD",
+      "icon": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
+      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.riotgames.league.wildrift",
+      "title": "리그 오브 레전드: 와일드 리프트",
+      "developer": "Riot Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/7-kbcpgrCOE1mleJ9g0d61sJeoqKcQRIj4iFvJ8DjPlRIfocOWfOQsXzKWw2I5oHySVdbjR2fvzfCCz1FYQ-RQ",
+      "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.chucklefish.stardewvalley",
+      "title": "스타듀 밸리 Stardew Valley",
+      "developer": "ConcernedApe",
+      "icon": "https://play-lh.googleusercontent.com/He92papZcOmkgTi1sLHXQQb02aoyRtJ8ml96njM_cSAcpHhILvxMjhLix4mYEIKXPq4",
+      "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
@@ -5018,6 +5248,213 @@
       "developer": "IDZ Digital Private Limited",
       "icon": "https://play-lh.googleusercontent.com/Nl1yE5j-lpOSG_6-elVvf3HGsdqGr57SLgYZvHDEVGRzxo7varc66UbAwU0eDnBa9Uc",
       "url": "https://play.google.com/store/apps/details?id=com.baby.toddler.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.europosit.pixelcoloring",
+      "title": "픽셀 아트 - 숫자 색칠게임 책",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
+      "url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.candywitch.cookie.stars.free",
+      "title": "Candy Witch",
+      "developer": "gameone",
+      "icon": "https://play-lh.googleusercontent.com/0uDKIklp-nX_G4YzKlX3X6qnaygwy-fn9RaTUKtcYbyBmA9pnZDalMNhE7CEjbHj2YWbuoq68Gabm673uaR7jhI",
+      "url": "https://play.google.com/store/apps/details?id=com.game.candywitch.cookie.stars.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.hutchgames.carsm3",
+      "title": "Matchcreek Motors: 자동차 커스텀",
+      "developer": "Hutch Games",
+      "icon": "https://play-lh.googleusercontent.com/trXp1irMNjzPy-9bbcJSn3lEhDjkAqMVl_XwooOD00xJiqG8TrLzqjRhGFH-30wLzfYN",
+      "url": "https://play.google.com/store/apps/details?id=com.hutchgames.carsm3&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.qingyuegames.petmatch",
+      "title": "스위티 레전드",
+      "developer": "Qingyue Games",
+      "icon": "https://play-lh.googleusercontent.com/VQjguc5mjpqRoyTQ0muUu2SxoIyzfEuRqaTaVYFHQIdOHPgYQjyqSwIhLLUVy2b3cf8",
+      "url": "https://play.google.com/store/apps/details?id=com.qingyuegames.petmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapblaze.homecraft",
+      "title": "홈크래프트 - 홈 디자인 게임",
+      "developer": "TapBlaze",
+      "icon": "https://play-lh.googleusercontent.com/c8U5LOrLi8k6AJqQ95WFQT2fbfTSfHaES5Foi1MAjZHWDPcZNfKWWDnJkOlbtveojQwnFZJqhPKPG7Ia30P699Y",
+      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.homecraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.tile.match.fun",
+      "title": "트리플 타일 매치",
+      "developer": "LinkDesks Daily Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/x9m53Q8j7tJJkmw1UygH22LiVcpe-1WJDB8arVSzxqXYrmhJAPZHuIvpJldWrJNXhhY",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.tile.match.fun&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "car.jam.traffic.seat.unblock",
+      "title": "Car Jam：자동차 게임・주차의 달인",
+      "developer": "Shycheese",
+      "icon": "https://play-lh.googleusercontent.com/bE3UCTHxRml6Y3sGSdqBJPkMDtys8GXVMJ5f_faU-iwvi-dCi7_rFZhM8kJGXpGvllyISvdQ70Pt3BSfzTsc",
+      "url": "https://play.google.com/store/apps/details?id=car.jam.traffic.seat.unblock&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "io.voodoo.holeio",
+      "title": "Hole.io",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.JindoBlu.Antistress",
+      "title": "안티스트레스 - 릴렉스 토이",
+      "developer": "JindoBlu",
+      "icon": "https://play-lh.googleusercontent.com/7Q4BJMSZZ4e0hSIw_yOlXzg6ACUIwOTJ3ePdIsFdWO2KkIputOaxY-CAb0AodacMQaQ",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.Antistress&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "blockpuzzle.new1010.jewelgames.puzzlegames",
+      "title": "Block Puzzle - 블럭 퍼즐",
+      "developer": "Block Puzzle Jewel Games",
+      "icon": "https://play-lh.googleusercontent.com/7KOeuxJZ4nW7hchEolHcCHOWmA89-cuWzl3nr4IX74YfKtm8mMYCCNa3hl-5-2_OSxw",
+      "url": "https://play.google.com/store/apps/details?id=blockpuzzle.new1010.jewelgames.puzzlegames&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.JindoBlu.TwoPlayerGamesChallenge",
+      "title": "2인용 게임: 도전",
+      "developer": "JindoBlu",
+      "icon": "https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc",
+      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.number.puzzle.game",
+      "title": "넘버 매치 - 숫자 로직 퍼즐",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/-U5ol_iA3Fq1lvyJ1q1JEJamTuSBNx1vclmR0mA4gDSBXS4f8cebBWKA2llk7AaDsQ",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.number.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamovation.mahjongclub",
+      "title": "마작 클럽 - 솔리테어 게임",
+      "developer": "GamoVation",
+      "icon": "https://play-lh.googleusercontent.com/InxnR_89wzWkXIV4BwJyBCvhyQ__IGXnzhiSi1ddNbh0wZe-rBBqlWl6cRq--GlGyzg",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.mahjongclub&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.myvirtualpetshop",
+      "title": "My Virtual Pet Shop: Animals",
+      "developer": "Tapps Games",
+      "icon": "https://play-lh.googleusercontent.com/zRjY_rYgateoWXfq1oVQK8iXSsA5r83Coe0T8FfWfwYZgBSR4J6DAvK0ZdmFv3Ig_A",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.myvirtualpetshop&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.NHNEnt.MSudda",
+      "title": "한게임 섯다&맞고",
+      "developer": "NHN Corp.",
+      "icon": "https://play-lh.googleusercontent.com/wXOujB_kNtS-oJpSkz7BJjR1syEeeZ86LNIUnLiCzGCF1QbHq-gIdFKpKiT6hqsF9Fex",
+      "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.pjsekai.kr",
+      "title": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
+      "developer": "Nuverse",
+      "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq",
+      "url": "https://play.google.com/store/apps/details?id=com.pjsekai.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "solitaire.patience.card.games.klondike.free",
+      "title": "솔리테어 - 클래식 카드게임, Solitaire",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/4N1bKGONEllL7uNKI-9bAdmuSmKLqSFZQtUxSme3kD-0OkFZzjzyR-YercQ6nbJ6Ppfm",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "io.state.fight",
+      "title": "스테이트.io — 전략 게임에서 세계를 정복하라",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/axUXnzlLPrANfsvL_AyWSZBn4g_28nkXqvHVHRURITqTXeb7xobmdoeiZIqsof-vvA",
+      "url": "https://play.google.com/store/apps/details?id=io.state.fight&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.proximabeta.mf.uamo",
+      "title": "아레나 브레이크아웃: 현실 지향 FPS",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/vL-xYJhmXTiaQewThy9DMHkk_zdtSHqKcRDp8iYip6C-OB764enYRA1CrmHSRoW1rsAEkyJT5a8By3ADMbd5",
+      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.AlfaBravo.CombatMaster",
+      "title": "Combat Master Mobile FPS",
+      "developer": "Alfa Bravo Inc.",
+      "icon": "https://play-lh.googleusercontent.com/E8zf-LRFY2J7NV4EdifkgaQS5woA7VMolvwzZObx6pshA92CSrvXweRxSH37TxZOebrs",
+      "url": "https://play.google.com/store/apps/details?id=com.AlfaBravo.CombatMaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.axlebolt.standoff2",
+      "title": "Standoff 2",
+      "developer": "AXLEBOLT LTD",
+      "icon": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
+      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.riotgames.league.wildrift",
+      "title": "리그 오브 레전드: 와일드 리프트",
+      "developer": "Riot Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/7-kbcpgrCOE1mleJ9g0d61sJeoqKcQRIj4iFvJ8DjPlRIfocOWfOQsXzKWw2I5oHySVdbjR2fvzfCCz1FYQ-RQ",
+      "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.chucklefish.stardewvalley",
+      "title": "스타듀 밸리 Stardew Valley",
+      "developer": "ConcernedApe",
+      "icon": "https://play-lh.googleusercontent.com/He92papZcOmkgTi1sLHXQQb02aoyRtJ8ml96njM_cSAcpHhILvxMjhLix4mYEIKXPq4",
+      "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
