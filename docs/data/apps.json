@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T19:16:09.510Z",
+  "updatedAt": "2026-03-30T20:58:39.494Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -22,6 +22,20 @@
     "com.reliancegames.rschampions",
     "games.onebutton.golfstrike",
     "com.Earthkwak.Platformer",
+    "com.g5e.jewelsofegypt.android",
+    "com.hybeim.intheseom",
+    "com.playstudios.tetrisblockparty",
+    "com.wildlifestudios.merge.slot.gilded.gardens",
+    "tile.master.connect.matching.game",
+    "com.wood.block.sudoku.puzzle.bm",
+    "com.find.out.hidden.objects",
+    "com.kr.firegp",
+    "com.football.soccer.league",
+    "com.fungames.battletanksbeta",
+    "com.netmarble.ma9bkr",
+    "com.byril.stickmanarcher",
+    "com.miniclip.checkers",
+    "com.albiononline",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -309,20 +323,14 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.g5e.jewelsofegypt.android",
-    "com.hybeim.intheseom",
-    "com.playstudios.tetrisblockparty",
-    "com.wildlifestudios.merge.slot.gilded.gardens",
-    "tile.master.connect.matching.game",
-    "com.wood.block.sudoku.puzzle.bm",
-    "com.find.out.hidden.objects",
-    "com.kr.firegp",
-    "com.football.soccer.league",
-    "com.fungames.battletanksbeta",
-    "com.netmarble.ma9bkr",
-    "com.byril.stickmanarcher",
-    "com.miniclip.checkers",
-    "com.albiononline"
+    "com.merge.game.foodstars",
+    "trophy.hunter.hunting.games.sniper.shooting",
+    "com.gametree.qyfhl.pd",
+    "com.billionairegames.serares",
+    "com.matryoshka.royal.cooking.kitchen.madness",
+    "com.outfit7.mytalkingangela2",
+    "com.outfit7.herodash",
+    "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu"
   ],
   "seenItems": [
     {
@@ -637,6 +645,78 @@
       "developer": "Sandbox Interactive GmbH",
       "icon": "https://play-lh.googleusercontent.com/aD5_k-I2kBPCp_rfpVgTComICbSXH6VBDjQFYek_JeZ_1jDgSAMSNn7Cow4ZsiZ1bEL_-nOOh62Oo_J9B4dMIoc",
       "url": "https://play.google.com/store/apps/details?id=com.albiononline&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.merge.game.foodstars",
+      "title": "푸드스타: 합쳐서 요리하기",
+      "developer": "Happibits Game",
+      "icon": "https://play-lh.googleusercontent.com/mBa3s3QhDC8deWTgp3H1gtII7L6lLzxnYAtfLl4OhWtuxl-sPqPjVpO_ggSdZgdOPUqyCNJXf9H44UX4T7vULg",
+      "url": "https://play.google.com/store/apps/details?id=com.merge.game.foodstars&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "trophy.hunter.hunting.games.sniper.shooting",
+      "title": "Trophy Hunter: 캐주얼 사냥",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/DACsJJcoO9wE9negXmh17zkZfwXa5Xeuw4xpmrXB--8eiawxTmt2FuEHA-yrNOWRc_BrBQzXy69-EiyjhnV9pZA",
+      "url": "https://play.google.com/store/apps/details?id=trophy.hunter.hunting.games.sniper.shooting&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gametree.qyfhl.pd",
+      "title": "심쿵 삼국지: 방치형 RPG",
+      "developer": "HongKong GameTree Limited",
+      "icon": "https://play-lh.googleusercontent.com/rSNS5b9uKneFd5fIBhVirPQuBdVxKkWeP2BbYe83_RrdhkLtTZKKYVKT-QCwYmSsJXQ0Xy7cwSy7maE3vhDbyNI",
+      "url": "https://play.google.com/store/apps/details?id=com.gametree.qyfhl.pd&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.billionairegames.serares",
+      "title": "변신 키우기",
+      "developer": "BillionaireGames",
+      "icon": "https://play-lh.googleusercontent.com/_BjyLC_y-w36hAxYWkngsi2WWsppSLSC7SrZYnfBZSs4r-ljRrmiRY25qOo3MB6gBTw",
+      "url": "https://play.google.com/store/apps/details?id=com.billionairegames.serares&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.matryoshka.royal.cooking.kitchen.madness",
+      "title": "요리게임 & 쿠킹피버 (Royal Cooking)",
+      "developer": "Matryoshka",
+      "icon": "https://play-lh.googleusercontent.com/AgR1Qf8zBhY6ka1dxlRMDeFZL26N9niEC-xmSD78YqkNF_onbX9vM4MDq56PEbYAUs8",
+      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.royal.cooking.kitchen.madness&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingangela2",
+      "title": "마이토킹안젤라 2",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/ZVpnMlxvEZYVUh4R_JtJW6PO_qABoCN8VbXVY1DgNPZtqrd6UKlQRbTTXj2cIgigJLs",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.herodash",
+      "title": "토킹톰 히어로 대시",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/ter284TompNzGRzbrnzHiAPpLCU7Nre-R7NgGpCVTi1-Wyt_mlpuyglBXWwlpEiAQpY",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu",
+      "title": "Makeup Beauty: 메이크업 게임 · 화장 게임",
+      "developer": "Gloryway Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/TpiUkMDNqT_l1nUqAjcGfpr8TH5lphg5-fkUceXm6jc9zR1CGq7zowVZySWO82xJxg",
+      "url": "https://play.google.com/store/apps/details?id=diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -3537,6 +3617,78 @@
       "developer": "Sandbox Interactive GmbH",
       "icon": "https://play-lh.googleusercontent.com/aD5_k-I2kBPCp_rfpVgTComICbSXH6VBDjQFYek_JeZ_1jDgSAMSNn7Cow4ZsiZ1bEL_-nOOh62Oo_J9B4dMIoc",
       "url": "https://play.google.com/store/apps/details?id=com.albiononline&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.merge.game.foodstars",
+      "title": "푸드스타: 합쳐서 요리하기",
+      "developer": "Happibits Game",
+      "icon": "https://play-lh.googleusercontent.com/mBa3s3QhDC8deWTgp3H1gtII7L6lLzxnYAtfLl4OhWtuxl-sPqPjVpO_ggSdZgdOPUqyCNJXf9H44UX4T7vULg",
+      "url": "https://play.google.com/store/apps/details?id=com.merge.game.foodstars&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "trophy.hunter.hunting.games.sniper.shooting",
+      "title": "Trophy Hunter: 캐주얼 사냥",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/DACsJJcoO9wE9negXmh17zkZfwXa5Xeuw4xpmrXB--8eiawxTmt2FuEHA-yrNOWRc_BrBQzXy69-EiyjhnV9pZA",
+      "url": "https://play.google.com/store/apps/details?id=trophy.hunter.hunting.games.sniper.shooting&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gametree.qyfhl.pd",
+      "title": "심쿵 삼국지: 방치형 RPG",
+      "developer": "HongKong GameTree Limited",
+      "icon": "https://play-lh.googleusercontent.com/rSNS5b9uKneFd5fIBhVirPQuBdVxKkWeP2BbYe83_RrdhkLtTZKKYVKT-QCwYmSsJXQ0Xy7cwSy7maE3vhDbyNI",
+      "url": "https://play.google.com/store/apps/details?id=com.gametree.qyfhl.pd&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.billionairegames.serares",
+      "title": "변신 키우기",
+      "developer": "BillionaireGames",
+      "icon": "https://play-lh.googleusercontent.com/_BjyLC_y-w36hAxYWkngsi2WWsppSLSC7SrZYnfBZSs4r-ljRrmiRY25qOo3MB6gBTw",
+      "url": "https://play.google.com/store/apps/details?id=com.billionairegames.serares&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.matryoshka.royal.cooking.kitchen.madness",
+      "title": "요리게임 & 쿠킹피버 (Royal Cooking)",
+      "developer": "Matryoshka",
+      "icon": "https://play-lh.googleusercontent.com/AgR1Qf8zBhY6ka1dxlRMDeFZL26N9niEC-xmSD78YqkNF_onbX9vM4MDq56PEbYAUs8",
+      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.royal.cooking.kitchen.madness&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingangela2",
+      "title": "마이토킹안젤라 2",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/ZVpnMlxvEZYVUh4R_JtJW6PO_qABoCN8VbXVY1DgNPZtqrd6UKlQRbTTXj2cIgigJLs",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.herodash",
+      "title": "토킹톰 히어로 대시",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/ter284TompNzGRzbrnzHiAPpLCU7Nre-R7NgGpCVTi1-Wyt_mlpuyglBXWwlpEiAQpY",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu",
+      "title": "Makeup Beauty: 메이크업 게임 · 화장 게임",
+      "developer": "Gloryway Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/TpiUkMDNqT_l1nUqAjcGfpr8TH5lphg5-fkUceXm6jc9zR1CGq7zowVZySWO82xJxg",
+      "url": "https://play.google.com/store/apps/details?id=diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
