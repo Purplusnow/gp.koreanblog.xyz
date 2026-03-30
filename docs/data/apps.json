@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T07:59:49.943Z",
+  "updatedAt": "2026-03-30T09:26:07.356Z",
   "seenAppIds": [
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
@@ -226,7 +226,19 @@
     "com.igg.android.fatewar",
     "com.playhardlab.defenders",
     "com.lumber.inc",
-    "com.amanotes.beathopper"
+    "com.amanotes.beathopper",
+    "com.nexon.devcat.mm",
+    "net.peakgames.toonblast",
+    "com.webzen.mumonarch2.google",
+    "com.com2usholdings.soulstrike.android.google.global.normal",
+    "com.extremedevelopers.forceofwarships",
+    "com.ftxgames.narcos",
+    "com.hyperkani.bomberfriends",
+    "com.miniclip.soccerstars",
+    "com.rvappstudios.puzzle.game.find.difference.ftd",
+    "com.scopely.wheeloffortune",
+    "com.twoheadedshark.tco",
+    "uk.co.yakuto.PingPongKing"
   ],
   "seenItems": [
     {
@@ -2260,6 +2272,114 @@
       "developer": "AMANOTES PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/uA2SPkUUN4feau4S-JtJrxjTfjQ7s5_9vTA2dj1ECSPQy_GrQXGzSp_PH0eTibmymsM",
       "url": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.devcat.mm",
+      "title": "마비노기 모바일",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/JfGzWE_v-KjofJoJ9eo1oBixex2sHlrSbSte4UG2g6CWDkolbvxI1qV2M_E1JgbjNeDcOrvrTYS7ko1Bb7TPmA",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "net.peakgames.toonblast",
+      "title": "Toon Blast",
+      "developer": "Peak",
+      "icon": "https://play-lh.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU",
+      "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.webzen.mumonarch2.google",
+      "title": "뮤 모나크2",
+      "developer": "Webzen Inc.",
+      "icon": "https://play-lh.googleusercontent.com/2gp6GXk0PmCpkJsebFK2vsbINe9bStBtDJx23uC9zCjhXK0hByjklYtGMG5q1uQFyQ",
+      "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2usholdings.soulstrike.android.google.global.normal",
+      "title": "소울 스트라이크: 제노니아 키우기",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/FhPwKGBJmX3ONq6QnQt8eVE8b6_PebylDFUgGgPlPHYsUQRSFomC40c3p2umuXQ8hmVT",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.soulstrike.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.extremedevelopers.forceofwarships",
+      "title": "Force of Warships: 전쟁 배틀 배",
+      "developer": "XDEVS LTD",
+      "icon": "https://play-lh.googleusercontent.com/KNFzUkNMSf--o3Y4_yJAmsGa_DFoSFagltsuorBwhhAJl3b2CN5-9jPWKAPxBGsvvDQ",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.forceofwarships&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ftxgames.narcos",
+      "title": "Narcos: Cartel Wars & Strategy",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/ooMXStAR9IcwdXpbHgyxSvr4Gp_iIkd_QPHzB-ZQ4UHB3LP5DR5Nl1Cfp2q66r2s1HY",
+      "url": "https://play.google.com/store/apps/details?id=com.ftxgames.narcos&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.hyperkani.bomberfriends",
+      "title": "폭격기 친구",
+      "developer": "Hyperkani",
+      "icon": "https://play-lh.googleusercontent.com/Ld3UVdsryjuoK_FEhT0eroDFqno8pVLMxfeYdGEGDva88i3aJ5FlyPv71M5oVsM9Qkw",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.soccerstars",
+      "title": "Soccer Stars: Football Games",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/0O356A1jbsxyZPJ10Qav7B0-HQgRY_XYkYUTo0N3gqs_PNaMS9r8iP5roaAvx4cjSL8",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.soccerstars&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.rvappstudios.puzzle.game.find.difference.ftd",
+      "title": "틀린 그림 찾기: 퍼즐",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/e22gjWl-FRWAn4xxS7PD6ZjGr6pudpSfIroNtsHDoImsGY4mPcS0PTpffpTrf_XSstk",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.puzzle.game.find.difference.ftd&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.scopely.wheeloffortune",
+      "title": "Wheel of Fortune: TV Game",
+      "developer": "Scopely",
+      "icon": "https://play-lh.googleusercontent.com/WXosayyX2iku1e60MJDQ6fZRYAH-17XdqfTKtiN0QpFXDhSL-WEgRUQWVu5k7ExDpiWn9piFhK8gcDsaesQ",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.wheeloffortune&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.twoheadedshark.tco",
+      "title": "Tuning Club Online",
+      "developer": "Two Headed Shark DMCC",
+      "icon": "https://play-lh.googleusercontent.com/wQcONpQNyQKNs-XhySmhx1Ix7H_itRtB0yWLE2kAUCaelkDhdy3daN6_uuoIi6GhueE",
+      "url": "https://play.google.com/store/apps/details?id=com.twoheadedshark.tco&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "uk.co.yakuto.PingPongKing",
+      "title": "Ping Pong Fury",
+      "developer": "Yakuto",
+      "icon": "https://play-lh.googleusercontent.com/Mq440gkqrlRScHfiefmWtnWbDn1lNbOoNGpfEYYy28OO3mKgnSjly3ux6RNk3BjGOA",
+      "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.PingPongKing&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
@@ -4296,6 +4416,114 @@
       "developer": "AMANOTES PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/uA2SPkUUN4feau4S-JtJrxjTfjQ7s5_9vTA2dj1ECSPQy_GrQXGzSp_PH0eTibmymsM",
       "url": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.devcat.mm",
+      "title": "마비노기 모바일",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/JfGzWE_v-KjofJoJ9eo1oBixex2sHlrSbSte4UG2g6CWDkolbvxI1qV2M_E1JgbjNeDcOrvrTYS7ko1Bb7TPmA",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "net.peakgames.toonblast",
+      "title": "Toon Blast",
+      "developer": "Peak",
+      "icon": "https://play-lh.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU",
+      "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.webzen.mumonarch2.google",
+      "title": "뮤 모나크2",
+      "developer": "Webzen Inc.",
+      "icon": "https://play-lh.googleusercontent.com/2gp6GXk0PmCpkJsebFK2vsbINe9bStBtDJx23uC9zCjhXK0hByjklYtGMG5q1uQFyQ",
+      "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2usholdings.soulstrike.android.google.global.normal",
+      "title": "소울 스트라이크: 제노니아 키우기",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/FhPwKGBJmX3ONq6QnQt8eVE8b6_PebylDFUgGgPlPHYsUQRSFomC40c3p2umuXQ8hmVT",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.soulstrike.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.extremedevelopers.forceofwarships",
+      "title": "Force of Warships: 전쟁 배틀 배",
+      "developer": "XDEVS LTD",
+      "icon": "https://play-lh.googleusercontent.com/KNFzUkNMSf--o3Y4_yJAmsGa_DFoSFagltsuorBwhhAJl3b2CN5-9jPWKAPxBGsvvDQ",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.forceofwarships&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ftxgames.narcos",
+      "title": "Narcos: Cartel Wars & Strategy",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/ooMXStAR9IcwdXpbHgyxSvr4Gp_iIkd_QPHzB-ZQ4UHB3LP5DR5Nl1Cfp2q66r2s1HY",
+      "url": "https://play.google.com/store/apps/details?id=com.ftxgames.narcos&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.hyperkani.bomberfriends",
+      "title": "폭격기 친구",
+      "developer": "Hyperkani",
+      "icon": "https://play-lh.googleusercontent.com/Ld3UVdsryjuoK_FEhT0eroDFqno8pVLMxfeYdGEGDva88i3aJ5FlyPv71M5oVsM9Qkw",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.soccerstars",
+      "title": "Soccer Stars: Football Games",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/0O356A1jbsxyZPJ10Qav7B0-HQgRY_XYkYUTo0N3gqs_PNaMS9r8iP5roaAvx4cjSL8",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.soccerstars&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.rvappstudios.puzzle.game.find.difference.ftd",
+      "title": "틀린 그림 찾기: 퍼즐",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/e22gjWl-FRWAn4xxS7PD6ZjGr6pudpSfIroNtsHDoImsGY4mPcS0PTpffpTrf_XSstk",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.puzzle.game.find.difference.ftd&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.scopely.wheeloffortune",
+      "title": "Wheel of Fortune: TV Game",
+      "developer": "Scopely",
+      "icon": "https://play-lh.googleusercontent.com/WXosayyX2iku1e60MJDQ6fZRYAH-17XdqfTKtiN0QpFXDhSL-WEgRUQWVu5k7ExDpiWn9piFhK8gcDsaesQ",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.wheeloffortune&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.twoheadedshark.tco",
+      "title": "Tuning Club Online",
+      "developer": "Two Headed Shark DMCC",
+      "icon": "https://play-lh.googleusercontent.com/wQcONpQNyQKNs-XhySmhx1Ix7H_itRtB0yWLE2kAUCaelkDhdy3daN6_uuoIi6GhueE",
+      "url": "https://play.google.com/store/apps/details?id=com.twoheadedshark.tco&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "uk.co.yakuto.PingPongKing",
+      "title": "Ping Pong Fury",
+      "developer": "Yakuto",
+      "icon": "https://play-lh.googleusercontent.com/Mq440gkqrlRScHfiefmWtnWbDn1lNbOoNGpfEYYy28OO3mKgnSjly3ux6RNk3BjGOA",
+      "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.PingPongKing&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
