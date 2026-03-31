@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T04:18:59.408Z",
+  "updatedAt": "2026-03-31T04:26:49.397Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -88,6 +88,10 @@
     "com.FoxieGames.HorseRidingTales",
     "com.action.survival.craft.rpg",
     "com.hypgames.ultimategolf",
+    "com.kiwifun.game.android.screw.master",
+    "com.idle.food.bar.tycoon",
+    "com.bubbleshooter.bubblepopstar",
+    "com.dominigames.mf",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -375,10 +379,11 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.kiwifun.game.android.screw.master",
-    "com.idle.food.bar.tycoon",
-    "com.bubbleshooter.bubblepopstar",
-    "com.dominigames.mf"
+    "com.ecffri.arrows",
+    "com.fansipan.summoners.era.idle",
+    "com.hunt.royale",
+    "com.imc.mtos",
+    "com.masomo.basketballarena"
   ],
   "seenItems": [
     {
@@ -1197,6 +1202,51 @@
       "developer": "Do Games Limited",
       "icon": "https://play-lh.googleusercontent.com/Wctcx7YZd2LZkDdkKoAqHBlX_-vNC1ee3wYjiXe83sKk0AxdQkRQgodF-1qmEhJEh-3T",
       "url": "https://play.google.com/store/apps/details?id=com.dominigames.mf&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ecffri.arrows",
+      "title": "애로우즈 – 퍼즐 이스케이프 (Arrows)",
+      "developer": "Lessmore UG",
+      "icon": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.fansipan.summoners.era.idle",
+      "title": "Summoners Era: Idle RPG Heroes",
+      "developer": "Fansipan Limited",
+      "icon": "https://play-lh.googleusercontent.com/WqLSWy1jU96sybK54YISD_OvN-souD1fn8igjj-4hL4RIyGaJIKzYpCFh7cwlrd5bfY",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.summoners.era.idle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hunt.royale",
+      "title": "헌트 로얄: 배틀 아레나",
+      "developer": "BoomBit Games",
+      "icon": "https://play-lh.googleusercontent.com/CaIEKonCoDnXtpyQJtOpfgUE-8U5HAtXPocgCoziYbBfwWRn9DhMNguqMHKk63740Aw",
+      "url": "https://play.google.com/store/apps/details?id=com.hunt.royale&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.imc.mtos",
+      "title": "트리 오브 세이비어M - 시즌서버!",
+      "developer": "imcGAMES",
+      "icon": "https://play-lh.googleusercontent.com/78RttaQNs9g9M6XSrZdUvv6do7gLCmQ3SvwxlilMkhJam6N24dPEEX5jjM_kRxNcpC4ZhmKfPzcWWc35gL06",
+      "url": "https://play.google.com/store/apps/details?id=com.imc.mtos&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.masomo.basketballarena",
+      "title": "Basketball Arena: 온라인 스포츠 게임",
+      "developer": "Masomo Gaming",
+      "icon": "https://play-lh.googleusercontent.com/GbCZ7Ey_xqVuYaag2ZcXaHiajcUX7YEMdE3Xw_Ax9AqExmt7bS4EE4ftzFtgPqy3Pyc",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.basketballarena&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4601,6 +4651,51 @@
       "developer": "Do Games Limited",
       "icon": "https://play-lh.googleusercontent.com/Wctcx7YZd2LZkDdkKoAqHBlX_-vNC1ee3wYjiXe83sKk0AxdQkRQgodF-1qmEhJEh-3T",
       "url": "https://play.google.com/store/apps/details?id=com.dominigames.mf&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ecffri.arrows",
+      "title": "애로우즈 – 퍼즐 이스케이프 (Arrows)",
+      "developer": "Lessmore UG",
+      "icon": "https://play-lh.googleusercontent.com/f3szQ-tBQ5FVtiO2hwnJ6Gg4LbckQ9qKD099oiFqlvDo78uaD85Zn9G4o-W9390XnQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.fansipan.summoners.era.idle",
+      "title": "Summoners Era: Idle RPG Heroes",
+      "developer": "Fansipan Limited",
+      "icon": "https://play-lh.googleusercontent.com/WqLSWy1jU96sybK54YISD_OvN-souD1fn8igjj-4hL4RIyGaJIKzYpCFh7cwlrd5bfY",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.summoners.era.idle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hunt.royale",
+      "title": "헌트 로얄: 배틀 아레나",
+      "developer": "BoomBit Games",
+      "icon": "https://play-lh.googleusercontent.com/CaIEKonCoDnXtpyQJtOpfgUE-8U5HAtXPocgCoziYbBfwWRn9DhMNguqMHKk63740Aw",
+      "url": "https://play.google.com/store/apps/details?id=com.hunt.royale&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.imc.mtos",
+      "title": "트리 오브 세이비어M - 시즌서버!",
+      "developer": "imcGAMES",
+      "icon": "https://play-lh.googleusercontent.com/78RttaQNs9g9M6XSrZdUvv6do7gLCmQ3SvwxlilMkhJam6N24dPEEX5jjM_kRxNcpC4ZhmKfPzcWWc35gL06",
+      "url": "https://play.google.com/store/apps/details?id=com.imc.mtos&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.masomo.basketballarena",
+      "title": "Basketball Arena: 온라인 스포츠 게임",
+      "developer": "Masomo Gaming",
+      "icon": "https://play-lh.googleusercontent.com/GbCZ7Ey_xqVuYaag2ZcXaHiajcUX7YEMdE3Xw_Ax9AqExmt7bS4EE4ftzFtgPqy3Pyc",
+      "url": "https://play.google.com/store/apps/details?id=com.masomo.basketballarena&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
