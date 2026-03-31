@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T07:18:24.784Z",
+  "updatedAt": "2026-03-31T07:42:21.024Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -411,7 +411,12 @@
     "com.weplaydots.twodotsandroid",
     "com.webelinx.EscapeRoom.Free.Portrait.Game",
     "com.generagames.resistance",
-    "com.bitmango.go.wordcookies"
+    "com.bitmango.go.wordcookies",
+    "com.dysugar.jewels.prince",
+    "com.dp.hidden.objects",
+    "com.hundred_doors_game.escape_from_prison",
+    "com.apocalypse.zombie.games",
+    "com.bitmango.go.jewelsmagicmysterymatch3"
   ],
   "items": [
     {
@@ -1527,6 +1532,51 @@
       "developer": "BitMango",
       "icon": "https://play-lh.googleusercontent.com/G81Ds_vE_ED-3kkXKRsQ_fuMeoKjsNM5n_adR9XRZrVTYKRajB_mlrmUHECMHJwz96Q",
       "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.wordcookies&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dysugar.jewels.prince",
+      "title": "고전 보석 왕자",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/2Ah-k7zr9PrfjoKfpyvWCgTuuFLVOf3DkIXrWKZ14qBsgkb2WaE3JrGb76f9CApO3Lc",
+      "url": "https://play.google.com/store/apps/details?id=com.dysugar.jewels.prince&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dp.hidden.objects",
+      "title": "히든 오브젝트 - 포토 퍼즐 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/eexFQXzI4MsWzSNoKkKR-xd6kylwk6M38JOl07SPyyxUh2yxySI29tOuPwKBNRUA93w",
+      "url": "https://play.google.com/store/apps/details?id=com.dp.hidden.objects&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hundred_doors_game.escape_from_prison",
+      "title": "100 개의 문 감옥에서 탈출해보세요— 감옥 탈출 게임",
+      "developer": "Peaksel Games",
+      "icon": "https://play-lh.googleusercontent.com/F5d6KOFAAceFFcelbEdFiTNd-vIzDq6NzHgL5r0wEeNew6_H6JAH4XkhpkoQ93xvdw",
+      "url": "https://play.google.com/store/apps/details?id=com.hundred_doors_game.escape_from_prison&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.apocalypse.zombie.games",
+      "title": "파이어 슈터: 좀비 오프라인",
+      "developer": "VNGGames Studios",
+      "icon": "https://play-lh.googleusercontent.com/Gr0BmVsMFvoIlUDgNqaFhJvYP6oKfM-HfczWTIHv9mBiskDFqmPxfGoV6X8kPyQ15MM",
+      "url": "https://play.google.com/store/apps/details?id=com.apocalypse.zombie.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bitmango.go.jewelsmagicmysterymatch3",
+      "title": "Jewels Magic: Mystery Match3",
+      "developer": "Puzzle1Studio",
+      "icon": "https://play-lh.googleusercontent.com/434ET2YGH832jVxW5saYavmdHaQ4metJ1I_IkWq0MxnKsI3Xzkl0E1vuESRjDGvoTyc",
+      "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.jewelsmagicmysterymatch3&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
