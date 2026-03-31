@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T15:16:08.305Z",
+  "updatedAt": "2026-03-31T17:11:27.599Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -451,7 +451,11 @@
     "com.sinyee.babybus.mathIII",
     "com.match.triple.games.sort3d.puzzle",
     "com.sinyee.babybus.icecream",
-    "com.wildlifestudios.merge.animal.sanctuary"
+    "com.wildlifestudios.merge.animal.sanctuary",
+    "com.smokoko.race",
+    "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
+    "com.dc.hwsj",
+    "br.com.tapps.vloggergoviral"
   ],
   "items": [
     {
@@ -487,6 +491,42 @@
       "developer": "Wildlife Studios",
       "icon": "https://play-lh.googleusercontent.com/mCOZI5VtiUvbngm_YK-OhXJtRVdZFrNOPSa97L0g31fNQLM-43R8yJSaOM0x4uOT7OY",
       "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.merge.animal.sanctuary&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.smokoko.race",
+      "title": "레이스: 로켓 아레나 카 익스트림",
+      "developer": "SMOKOKO LTD",
+      "icon": "https://play-lh.googleusercontent.com/yk0P5tfGO-kznJfx_xUY-Y3ZqWum-XvedOODl7NQQ6VOhgrw7ZdRqwnokQFSruiLBlY",
+      "url": "https://play.google.com/store/apps/details?id=com.smokoko.race&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
+      "title": "Blitz: 영웅의 등장",
+      "developer": "WhaleApp LTD",
+      "icon": "https://play-lh.googleusercontent.com/H4Y0eYG352USMUPdbv38sWSfaFILO8X1kOKcPFnwXtKXNtgHBxzBe_VFV21sxd38oz3l",
+      "url": "https://play.google.com/store/apps/details?id=com.whaleapp.blitz.rise.heroes.idle.rpg.battle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.dc.hwsj",
+      "title": "Game of Sultans - 술탄의 궁중비사",
+      "developer": "DreamPlus Games",
+      "icon": "https://play-lh.googleusercontent.com/7ovbzZUVhMXd9ns8ydnamU98taakaeTDg2YRCNbS3xYvwhE98lpdSM94q05DkFKjwuA",
+      "url": "https://play.google.com/store/apps/details?id=com.dc.hwsj&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.vloggergoviral",
+      "title": "Vlogger Go Viral: 유튜브 게임 시뮬레이터",
+      "developer": "Tapps Games",
+      "icon": "https://play-lh.googleusercontent.com/CjqujQvE_c52rtxOxim3o5khwQv4tRXzCQnu_VRRx7zQkL6oB3TzqU4Sr6F0vd0L2hU",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
