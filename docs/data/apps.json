@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:18:47.396Z",
+  "updatedAt": "2026-03-31T05:24:45.106Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -470,6 +470,15 @@
       "isGame": true
     },
     {
+      "appId": "games.onebutton.golfstrike",
+      "title": "Golf Strike",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/KWZAVfxHye9bpTmX_4-4WfDVkGIqRgtsq-8J_HLONsqfI1t-ohi3mM3mvsR2oIXtf1Y",
+      "url": "https://play.google.com/store/apps/details?id=games.onebutton.golfstrike&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.goblins.idle.merge.game",
       "title": "Goblin Miner: Idle Merger",
       "developer": "ProGamesLab",
@@ -628,15 +637,6 @@
       "developer": "Reliance Games",
       "icon": "https://play-lh.googleusercontent.com/y_JIVdZBSwkhSBjEt_hccLBYd-XnN0oxge4JKtZL9kBbfTM_IdCSP6hAn2bYcva-Sg",
       "url": "https://play.google.com/store/apps/details?id=com.reliancegames.rschampions&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "games.onebutton.golfstrike",
-      "title": "Golf Strike",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/KWZAVfxHye9bpTmX_4-4WfDVkGIqRgtsq-8J_HLONsqfI1t-ohi3mM3mvsR2oIXtf1Y",
-      "url": "https://play.google.com/store/apps/details?id=games.onebutton.golfstrike&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
