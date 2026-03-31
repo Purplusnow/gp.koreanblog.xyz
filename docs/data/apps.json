@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T10:03:32.491Z",
+  "updatedAt": "2026-03-31T10:31:37.352Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -439,7 +439,11 @@
     "com.creations.runnergame",
     "coloring.color.number.happy.paint.art.drawing.puzzle",
     "com.eastsidegames.rupaulmatch",
-    "com.ea.BejeweledBlitz_row"
+    "com.ea.BejeweledBlitz_row",
+    "com.moonfrog.parchisi.club",
+    "in.playsimple.wordtrip",
+    "com.zeptolab.cats.google",
+    "com.trophygames.truckmanager"
   ],
   "items": [
     {
@@ -542,6 +546,15 @@
       "isGame": true
     },
     {
+      "appId": "com.herocraft.game.free.armorage",
+      "title": "Armor Age: 제2차 세계 대전 탱크 전략 게임",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.goblins.idle.merge.game",
       "title": "Goblin Miner: Idle Merger",
       "developer": "ProGamesLab",
@@ -619,15 +632,6 @@
       "developer": "CyberJoy Games",
       "icon": "https://play-lh.googleusercontent.com/GLSSHDxAyPjMiu2oUrncfoQb1VD1brX5Xh801DAizXN6O7uz5ZUxpMhaMuSywdLsHGYC",
       "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.galaxydefense&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.herocraft.game.free.armorage",
-      "title": "Armor Age: 제2차 세계 대전 탱크 전략 게임",
-      "developer": "HeroCraft Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
-      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -1807,6 +1811,42 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/RY1ONIXP4NT_HfMgSq9cG1b6AqHKppYy3-3FN9nFXE7Vbz50TkM6TeOgtnasw3Qo6w",
       "url": "https://play.google.com/store/apps/details?id=com.ea.BejeweledBlitz_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.moonfrog.parchisi.club",
+      "title": "Parchis CLUB - Pro Ludo",
+      "developer": "Moonfrog",
+      "icon": "https://play-lh.googleusercontent.com/Rw6hj9dAOLMq_pXyugQud5uWvT7J94PFK3obx6z0xhkdjF6S-ZGb2m3Hmh9W5LvDmzw",
+      "url": "https://play.google.com/store/apps/details?id=com.moonfrog.parchisi.club&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "in.playsimple.wordtrip",
+      "title": "Word Trip - Word Puzzle Game",
+      "developer": "PlaySimple Games",
+      "icon": "https://play-lh.googleusercontent.com/BOcl4qoOu1Q8UUp2nZxwe0orcyLka1-0dpS6Y9zUZH9nWCgK0s4RUmKgqWyPC-Lz6c2WBgSQlR2q375i0K3v",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordtrip&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.zeptolab.cats.google",
+      "title": "CATS: Crash Arena Turbo Stars",
+      "developer": "Nazara Publishing",
+      "icon": "https://play-lh.googleusercontent.com/0nJegBwmob3M-qm4p9EfcHmCKOE0HM_f66ZgsOPUtwW5apuQtUPl02py5i7tL-UQG8I",
+      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.cats.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.trophygames.truckmanager",
+      "title": "Truck Manager - 2026",
+      "developer": "Xombat Development - Airline manager games",
+      "icon": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
+      "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
