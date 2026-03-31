@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T21:51:04.685Z",
+  "updatedAt": "2026-03-31T22:47:36.361Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -484,7 +484,9 @@
     "com.vizorapps.roadtrip",
     "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
     "com.firsttouchgames.story",
-    "com.zynga.FarmVille2CountryEscape"
+    "com.zynga.FarmVille2CountryEscape",
+    "com.rom.game",
+    "com.madovergames.BubbleShooterPro"
   ],
   "items": [
     {
@@ -817,6 +819,24 @@
       "developer": "Zynga",
       "icon": "https://play-lh.googleusercontent.com/EAV-SSBtlehOwKzZiOfCsdKLwSA6tdCRQGwZtnjm714ARbiW0np7FC61k123foeblmw",
       "url": "https://play.google.com/store/apps/details?id=com.zynga.FarmVille2CountryEscape&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.rom.game",
+      "title": "Realm of Mystery",
+      "developer": "Puzala",
+      "icon": "https://play-lh.googleusercontent.com/CEL8ySWr8VMCi0ZPzqEkgN-EEJo7K_eii7_0s-ILXmoYLm8RlMikGYByaylHueN4MA",
+      "url": "https://play.google.com/store/apps/details?id=com.rom.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.madovergames.BubbleShooterPro",
+      "title": "버블 슈터 프로 2026",
+      "developer": "Bubble Shooter @ MadOverGames",
+      "icon": "https://play-lh.googleusercontent.com/Yn_T4lqXDnvqNdsIBGH7hpNU7x9Zl4LosHNYSrGpF6CIj_YkyeV7yYN6dBeNcSjtZQE",
+      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterPro&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
