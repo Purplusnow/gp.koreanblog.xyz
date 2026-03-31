@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T08:59:43.794Z",
+  "updatedAt": "2026-03-31T09:14:04.084Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -432,7 +432,11 @@
     "com.outfit7.mytalkingtomfree",
     "com.dieselpuppet.hidden",
     "com.criticalforceentertainment.criticalops",
-    "com.creativemobile.nno"
+    "com.creativemobile.nno",
+    "com.bubadu.buildergame",
+    "com.Zeeppo.ChaosRoad",
+    "linkdesks.tile.match.story",
+    "com.creations.runnergame"
   ],
   "items": [
     {
@@ -522,6 +526,15 @@
       "developer": "Go Play Games Ltd",
       "icon": "https://play-lh.googleusercontent.com/XuGEe6BCbL3goHw3WWRHkweKUcMjAXTK2bL5B8-ViK1Wm0Hr976uwJqOuANGcXbxVEkFg4Cb2FZo_8iFN-RJYm8",
       "url": "https://play.google.com/store/apps/details?id=com.GoPlayGames.FCM26&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dragonscapes.global",
+      "title": "꿈의 드래곤 어드벤처",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/HTi3nPPZHKNczjcDggQpWvJa1G1IKEOcS5atdFsZItmk1TFw9J8ms7sjnwXPMzhITEbe",
+      "url": "https://play.google.com/store/apps/details?id=com.dragonscapes.global&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -837,15 +850,6 @@
       "developer": "Com2uS",
       "icon": "https://play-lh.googleusercontent.com/mqpcEOLHjjY3cJvyyENbwt5z43VSZKTflGc5GmRjjK63ENneQzVWyKnAFkYMTq72Zb0",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.dragonscapes.global",
-      "title": "꿈의 드래곤 어드벤처",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/HTi3nPPZHKNczjcDggQpWvJa1G1IKEOcS5atdFsZItmk1TFw9J8ms7sjnwXPMzhITEbe",
-      "url": "https://play.google.com/store/apps/details?id=com.dragonscapes.global&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -1737,6 +1741,42 @@
       "developer": "Supercharge Mobile",
       "icon": "https://play-lh.googleusercontent.com/6FHCQUjmVijXEPXiqRjGUIUw5H-V0aTKdXFiVRTWJKk3Di7mFVup6VGl4PYsaLg-WYTy",
       "url": "https://play.google.com/store/apps/details?id=com.creativemobile.nno&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubadu.buildergame",
+      "title": "Builder Game (빌더 게임)",
+      "developer": "FM by Bubadu",
+      "icon": "https://play-lh.googleusercontent.com/IWv4HoGVAIfEKu33DYAl7bgAz5APlMwstPOKL5lvlFKIy-vYVsR9Fib9Dc9IKkGFsMDr",
+      "url": "https://play.google.com/store/apps/details?id=com.bubadu.buildergame&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.Zeeppo.ChaosRoad",
+      "title": "Chaos Road: 전투 레이싱",
+      "developer": "Supercharge Mobile",
+      "icon": "https://play-lh.googleusercontent.com/1tBBI27jYlrhIyBdY0s5xpwXqzPnOnhjJzNCmQlPRw01W3adESxQdOX-XAs2EMwGzQ",
+      "url": "https://play.google.com/store/apps/details?id=com.Zeeppo.ChaosRoad&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.tile.match.story",
+      "title": "타일 매치 스토리",
+      "developer": "LinkDesks Classic Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/eD7JNAfe5sjl-TA8iuhH9Jsm7yJY1jYLPWY_RqKLagkjG2gfQtWkFVYE63NaEh8o4sI",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.tile.match.story&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.creations.runnergame",
+      "title": "Kooply Run™: Play and Create!",
+      "developer": "KOOPLY",
+      "icon": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
+      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
