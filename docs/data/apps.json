@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T02:43:13.407Z",
+  "updatedAt": "2026-03-31T02:58:02.627Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -76,6 +76,8 @@
     "com.gameloft.android.ANMP.GloftPOHM",
     "com.sinyee.babybus.diner",
     "com.tiltingpoint.sbadventures",
+    "com.bandainamcoent.dblegends_ww",
+    "com.carxtech.carxdr2",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -363,8 +365,9 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.bandainamcoent.dblegends_ww",
-    "com.carxtech.carxdr2"
+    "com.starplay.spider.fighter.openworld",
+    "com.playgendary.ktbremaster",
+    "com.inforcegames.blackdeck"
   ],
   "seenItems": [
     {
@@ -1057,6 +1060,33 @@
       "developer": "CarX Technologies",
       "icon": "https://play-lh.googleusercontent.com/vcksPh2sItgUw_wdttyWDiNP7ncDDnelA18iXhJe_SpODAASHsg3ZzHDvxBRIpIvKg",
       "url": "https://play.google.com/store/apps/details?id=com.carxtech.carxdr2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.starplay.spider.fighter.openworld",
+      "title": "Spider Fighter 3",
+      "developer": "Starplay FZCO",
+      "icon": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
+      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.ktbremaster",
+      "title": "Kick the Buddy: Second Kick",
+      "developer": "Playgendary Limited",
+      "icon": "https://play-lh.googleusercontent.com/YaaDJ4YEUzdDIFlkvlLs5UvV_O3QQY9-cVbbE-bHzIld7BKJXwATB1BYIO_xf1M2IA0",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.ktbremaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.inforcegames.blackdeck",
+      "title": "어둠의 덱 (Black Deck)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/AENWpfnuEiuq3Zr88rlsag8Do2FzXtaoZlUgvbT3sgoLG9NOQKBKzB1_rLkmdOpsMSs",
+      "url": "https://play.google.com/store/apps/details?id=com.inforcegames.blackdeck&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4335,6 +4365,33 @@
       "developer": "CarX Technologies",
       "icon": "https://play-lh.googleusercontent.com/vcksPh2sItgUw_wdttyWDiNP7ncDDnelA18iXhJe_SpODAASHsg3ZzHDvxBRIpIvKg",
       "url": "https://play.google.com/store/apps/details?id=com.carxtech.carxdr2&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.starplay.spider.fighter.openworld",
+      "title": "Spider Fighter 3",
+      "developer": "Starplay FZCO",
+      "icon": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
+      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.ktbremaster",
+      "title": "Kick the Buddy: Second Kick",
+      "developer": "Playgendary Limited",
+      "icon": "https://play-lh.googleusercontent.com/YaaDJ4YEUzdDIFlkvlLs5UvV_O3QQY9-cVbbE-bHzIld7BKJXwATB1BYIO_xf1M2IA0",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.ktbremaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.inforcegames.blackdeck",
+      "title": "어둠의 덱 (Black Deck)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/AENWpfnuEiuq3Zr88rlsag8Do2FzXtaoZlUgvbT3sgoLG9NOQKBKzB1_rLkmdOpsMSs",
+      "url": "https://play.google.com/store/apps/details?id=com.inforcegames.blackdeck&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
