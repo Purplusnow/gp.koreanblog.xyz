@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:17:46.691Z",
+  "updatedAt": "2026-03-31T05:18:47.396Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -399,7 +399,11 @@
     "uk.co.yakuto.DartsOfFury",
     "com.rovio.dream",
     "com.tapblaze.coffeebusiness",
-    "com.bubadu.mimmi"
+    "com.bubadu.mimmi",
+    "com.proxima.dfm",
+    "com.easybrain.art.puzzle",
+    "com.easybrain.nonogram",
+    "com.Hypemasters.rts"
   ],
   "items": [
     {
@@ -1407,6 +1411,42 @@
       "developer": "Bubadu",
       "icon": "https://play-lh.googleusercontent.com/AINuWx1TbYjGwDllG3wgHkQUdVn1vNME56rUr2zN1t-7FEHDL_fGWdY3ltpxaD37Ug",
       "url": "https://play.google.com/store/apps/details?id=com.bubadu.mimmi&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.proxima.dfm",
+      "title": "Delta Force",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/oLgL7u-F5_q_gdqiPgtQbEZZk-0Mmn6fGP15VbwHiNO3lIcpsc_RzDYhUG8XynBxltU",
+      "url": "https://play.google.com/store/apps/details?id=com.proxima.dfm&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.art.puzzle",
+      "title": "Art Puzzle - 퍼즐 게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/clrLTyY9aavoqE1drpoxikhvbL9BPhF_ZEW7T4flilKiy1RvzlcFd1vr1o69JrNQ6H8AmcTMvY9TLlDH_jflTtQ",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.art.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.nonogram",
+      "title": "노노그램 - 픽처 크로스 퍼즐",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/hkT49tQvIp2WBwLlricTSrg-0Xm8Tv4Al0SwKNXt048BaatQZOmEJY4S-TNUbfZWNAdb",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.nonogram&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.Hypemasters.rts",
+      "title": "World War Armies: WW2 PvP RTS",
+      "developer": "Hypemasters, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/iK6Hy6lsWsqeWK0ybwQTtYBaSSZLCokXQRyyygXHAZVWEMQuJ3uvW-R48qew49TNqoO4",
+      "url": "https://play.google.com/store/apps/details?id=com.Hypemasters.rts&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
