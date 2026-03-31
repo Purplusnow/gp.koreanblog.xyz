@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T10:31:37.352Z",
+  "updatedAt": "2026-03-31T11:06:46.294Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -443,7 +443,8 @@
     "com.moonfrog.parchisi.club",
     "in.playsimple.wordtrip",
     "com.zeptolab.cats.google",
-    "com.trophygames.truckmanager"
+    "com.trophygames.truckmanager",
+    "games.bit.storyngtonhall"
   ],
   "items": [
     {
@@ -1847,6 +1848,15 @@
       "developer": "Xombat Development - Airline manager games",
       "icon": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
       "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "games.bit.storyngtonhall",
+      "title": "Storyngton Hall: 홈 디자인 게임",
+      "developer": "BIT.GAMES",
+      "icon": "https://play-lh.googleusercontent.com/xHTwYKVVRIrJbOVDf7qLmJ9tT9LzpcRBzskBKn--Fy_wnydleL5tht-d82I_gLq6hCw",
+      "url": "https://play.google.com/store/apps/details?id=games.bit.storyngtonhall&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
