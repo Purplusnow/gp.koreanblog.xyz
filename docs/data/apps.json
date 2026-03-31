@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T20:54:04.849Z",
+  "updatedAt": "2026-03-31T21:51:04.685Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -476,7 +476,15 @@
     "com.sinyee.babybus.city",
     "com.goodgamestudios.bigfarmmobileharvest",
     "com.matryoshka.cooking.vibes",
-    "com.sinyee.babybus.shopping"
+    "com.sinyee.babybus.shopping",
+    "br.com.tapps.mygrumpy",
+    "com.big.my.cruise.ship",
+    "com.ndemiccreations.rebelinc",
+    "com.tutotoons.app.gigglebabies",
+    "com.vizorapps.roadtrip",
+    "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
+    "com.firsttouchgames.story",
+    "com.zynga.FarmVille2CountryEscape"
   ],
   "items": [
     {
@@ -737,6 +745,78 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/0M_JAsj7ofKR-AJfXS0MuD6zOtupjwsFhIxVHIoNismbF0e16HQx65P6ZOX_VK4BLHs",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.shopping&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.mygrumpy",
+      "title": "My Grumpy: Funny Virtual Pet",
+      "developer": "Tapps Games",
+      "icon": "https://play-lh.googleusercontent.com/2SWZJGspC-qMq-gZ1m1Hfew4aOOTI0gcdaSt8H2AEkIB1VKvlC_JLAVXgf0W-uIjUQ",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.mygrumpy&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.big.my.cruise.ship",
+      "title": "마이 크루즈：보트 시뮬레이션 타이쿤",
+      "developer": "Focus apps",
+      "icon": "https://play-lh.googleusercontent.com/XFmPN1DsJ835nLLO4GVYgbXbpOxFg1vFUoJtqp2SJcbkJfz5o5ahDRbawXusR8toVcI",
+      "url": "https://play.google.com/store/apps/details?id=com.big.my.cruise.ship&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.ndemiccreations.rebelinc",
+      "title": "Rebel Inc. (반란 주식회사)",
+      "developer": "Ndemic Creations",
+      "icon": "https://play-lh.googleusercontent.com/bgUo4YWugpiG0AeJoUP-xs85RD_1_e6b0Z8bM7vTp07NWF30mdYAO-nOvMvvvIRUZgxZ",
+      "url": "https://play.google.com/store/apps/details?id=com.ndemiccreations.rebelinc&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.gigglebabies",
+      "title": "Giggle Babies - 아기 돌보기",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/mVkkSGw_cuPUt6H6EulDFFjyddGUE_nY1SgKTSv42ig10a8C0OaEqI0w0qYRrR1oXQ",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.gigglebabies&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.vizorapps.roadtrip",
+      "title": "로드 트립: 로얄 병합 게임 Road Trip",
+      "developer": "VIZOR APPS LTD.",
+      "icon": "https://play-lh.googleusercontent.com/1SgbekA5XGnCaU6hH_h6RK1PgEIp8WfcZjKOr0vib8A4mS-TdPC9Y85vJqQ86Es0BsBJ9WuG_e6toASKScjelw",
+      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.roadtrip&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
+      "title": "Train Station 3",
+      "developer": "PIXEL FEDERATION, s.r.o.",
+      "icon": "https://play-lh.googleusercontent.com/uaVblXNUq4iSdruR_BkXpVkSFL7gYleOzMBLtG9Zqq2dxuE9VnwSm5ldnH-oES3vP7lOr1iugkWvJwZP2sHWHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.firsttouchgames.story",
+      "title": "Score! Hero",
+      "developer": "First Touch Games Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/ufqvcHKWB7NVjQ1wLtacnwSj-Jx6PtYuGJtxTp09eGTRtBHSD5Q8gzw-Jq-PBhaH4UXPnUskWfZrMDaGZd8h",
+      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.zynga.FarmVille2CountryEscape",
+      "title": "FarmVille 2: 컨트리이스케이프",
+      "developer": "Zynga",
+      "icon": "https://play-lh.googleusercontent.com/EAV-SSBtlehOwKzZiOfCsdKLwSA6tdCRQGwZtnjm714ARbiW0np7FC61k123foeblmw",
+      "url": "https://play.google.com/store/apps/details?id=com.zynga.FarmVille2CountryEscape&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
