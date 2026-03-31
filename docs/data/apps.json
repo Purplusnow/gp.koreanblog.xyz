@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T17:11:27.599Z",
+  "updatedAt": "2026-03-31T19:16:00.579Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -455,7 +455,18 @@
     "com.smokoko.race",
     "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
     "com.dc.hwsj",
-    "br.com.tapps.vloggergoviral"
+    "br.com.tapps.vloggergoviral",
+    "com.ironhidegames.android.kingdomrushfrontiers",
+    "com.lexenzolab.vs",
+    "com.sinyee.babybus.princess_coloring_fantasy_magic_girls_games",
+    "com.bubadu.duddu",
+    "com.nintendo.zaha",
+    "com.com2usholdings.heiroflight2.android.google.global.normal",
+    "com.heliogames.amikin.survival",
+    "com.kids.vs.zombies.pvp.multiplayer.pve.brawl.first.person.fps.shooter.action.games",
+    "com.redtailworks.slimetd",
+    "games.ugo.merge.secrets",
+    "com.bubadu.bubbu"
   ],
   "items": [
     {
@@ -527,6 +538,105 @@
       "developer": "Tapps Games",
       "icon": "https://play-lh.googleusercontent.com/CjqujQvE_c52rtxOxim3o5khwQv4tRXzCQnu_VRRx7zQkL6oB3TzqU4Sr6F0vd0L2hU",
       "url": "https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.kingdomrushfrontiers",
+      "title": "Kingdom Rush Frontiers TD",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/-lORHqIO92Umf6xjBdN6Yj8B2HZ-nXhSMkcepVBK4PEEcoHOMdfhPIP1dVJ-OSLZW24",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushfrontiers&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.lexenzolab.vs",
+      "title": "Zombusters",
+      "developer": "voilà!",
+      "icon": "https://play-lh.googleusercontent.com/gdmik-o7Zk44xyINx_w1Moqiet9sjI2BZY3Xd7v43sEwTTEqb4geJjbTXisPCvWhB5A",
+      "url": "https://play.google.com/store/apps/details?id=com.lexenzolab.vs&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.princess_coloring_fantasy_magic_girls_games",
+      "title": "프린세스 게임: 판타지 컬러링",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/tBq509qh92BvQeKmZEGZfGudM9cNpN4OXOOzjaXtq9skfltvvPle7nfSMNvpvs_oZko11RkWINFGxUXM_RaVyXg",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.princess_coloring_fantasy_magic_girls_games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubadu.duddu",
+      "title": "Duddu - 나의 가상 반려견",
+      "developer": "Bubadu",
+      "icon": "https://play-lh.googleusercontent.com/vDeQJOsDg3TqDVNsY-o8Vg-9aEfWZy7AdUvZed-upFW5v-CQrk9jbOzVDPNcFdADR9I",
+      "url": "https://play.google.com/store/apps/details?id=com.bubadu.duddu&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.nintendo.zaha",
+      "title": "파이어 엠블렘 섀도즈",
+      "developer": "Nintendo Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/lxhvaomYTF_jWXw0rrqwTL4CFwQy4NWr3ssoGrfftNiUPmZJ5p5ihpH9DZHijP8ZsDBgL4JM9iyrYFKiuWP5_Y8",
+      "url": "https://play.google.com/store/apps/details?id=com.nintendo.zaha&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2usholdings.heiroflight2.android.google.global.normal",
+      "title": "빛의 계승자 이클립스",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/ElFuq8vXXFb21CEeBAzs1C2_6e-xrzTfxmodE3RwDjtcI0bZFKV_D17Q5qJTklKKyA",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.heiroflight2.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.heliogames.amikin.survival",
+      "title": "아미킨 마을: 마법 RPG",
+      "developer": "Helio Games",
+      "icon": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg",
+      "url": "https://play.google.com/store/apps/details?id=com.heliogames.amikin.survival&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.kids.vs.zombies.pvp.multiplayer.pve.brawl.first.person.fps.shooter.action.games",
+      "title": "Donut Punks: Online Epic Brawl",
+      "developer": "Donut Lab",
+      "icon": "https://play-lh.googleusercontent.com/d6BJwqgUpyqCvGejitfKPtq4Z6uYB6nis8tJyhnqCAvWZDO2s4tuztCrM2bBQLMdJD8",
+      "url": "https://play.google.com/store/apps/details?id=com.kids.vs.zombies.pvp.multiplayer.pve.brawl.first.person.fps.shooter.action.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.redtailworks.slimetd",
+      "title": "슬라임 성 - 아이들 타워 디펜스",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/iqD-RhFE3FZSkfzYWlQmgOda60XHapHUXnYyX7NmTvqtsVhLHtVtwAGNjZpeo_I5pA",
+      "url": "https://play.google.com/store/apps/details?id=com.redtailworks.slimetd&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "games.ugo.merge.secrets",
+      "title": "Secrets of Paradise Merge Game",
+      "developer": "UGO Games",
+      "icon": "https://play-lh.googleusercontent.com/e6gi8X2MOkb-8M7ERtEEaZuOJ2j4-iQkFHeC0TYLbiHs6sL4izzD23vxp7rUbSe0WKY",
+      "url": "https://play.google.com/store/apps/details?id=games.ugo.merge.secrets&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubadu.bubbu",
+      "title": "Bubbu - 부부 – 나만의 가상 애완동물",
+      "developer": "Bubadu",
+      "icon": "https://play-lh.googleusercontent.com/9Fc1ttY63284Uz2KF6fqjVK0SpDeSyhx4BjkBROPfVCeUVPGur5O-eGfEP6wnoBReQ",
+      "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
