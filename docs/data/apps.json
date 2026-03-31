@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T02:14:49.327Z",
+  "updatedAt": "2026-03-31T02:35:29.310Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -67,6 +67,10 @@
     "com.geewa.smashingfour",
     "com.herocraft.game.drag.auto.street.racing.heat",
     "com.miniclip.puresoldier",
+    "com.jarvigames.viceonline",
+    "br.com.tapps.cowevolution",
+    "com.dopuz.panda.saga",
+    "com.rhythmdance.taptile.dancingcats",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -354,10 +358,11 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.jarvigames.viceonline",
-    "br.com.tapps.cowevolution",
-    "com.dopuz.panda.saga",
-    "com.rhythmdance.taptile.dancingcats"
+    "com.sinyee.babybus.taxi",
+    "com.eastsidegames.lowerdecks",
+    "com.gameloft.android.ANMP.GloftPOHM",
+    "com.sinyee.babybus.diner",
+    "com.tiltingpoint.sbadventures"
   ],
   "seenItems": [
     {
@@ -987,6 +992,51 @@
       "developer": "Cobby Labs",
       "icon": "https://play-lh.googleusercontent.com/VdwSN4bgijc28wQpTPwOd7MXn7kQuNfdrH6YpQqttMfK9_bgH_I2TQ9K0U_4wGjrQ58",
       "url": "https://play.google.com/store/apps/details?id=com.rhythmdance.taptile.dancingcats&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.taxi",
+      "title": "아기 팬더의 스쿨버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/QA6Q40ZseGCrM4krzYJOQEln-VXKgnZ__ztqAh6HaHIdouz_9EoyVQyvhwt9x2SL4wo",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.eastsidegames.lowerdecks",
+      "title": "Star Trek Lower Decks Game",
+      "developer": "East Side Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/ERiOsIaglmR7ytEV5dEudnmm8QpzGWi7XYIQZumaGOzN9dVs3BkkkbentlQwNVKEhEA",
+      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.lowerdecks&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftPOHM",
+      "title": "My Little Pony: 매직 프린세스",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/A5lKvTMk9fzXCVyH_ypXytF9YFg_IiEJ-BbL3JVO0NU00DFFD3nmpNFvTT5e_h2-Hiw",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftPOHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.diner",
+      "title": "아기 팬더의 식당",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/-OuQ6gX9JtUSOWcx2vfv6IJTstbGq6y_I6H9Z4FhXBC4N5wrTMKEwb6jVkpH01wZniw",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.diner&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.tiltingpoint.sbadventures",
+      "title": "SpongeBob Adventures: In A Jam",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/8Fi_VpNYHBMCtzcminHVeOrEJ0LY9MIQ5bhQH7EbOvzvGdNZWHJ-_rn4MNLEw2Sflf8I",
+      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4202,6 +4252,51 @@
       "developer": "Cobby Labs",
       "icon": "https://play-lh.googleusercontent.com/VdwSN4bgijc28wQpTPwOd7MXn7kQuNfdrH6YpQqttMfK9_bgH_I2TQ9K0U_4wGjrQ58",
       "url": "https://play.google.com/store/apps/details?id=com.rhythmdance.taptile.dancingcats&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.taxi",
+      "title": "아기 팬더의 스쿨버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/QA6Q40ZseGCrM4krzYJOQEln-VXKgnZ__ztqAh6HaHIdouz_9EoyVQyvhwt9x2SL4wo",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.eastsidegames.lowerdecks",
+      "title": "Star Trek Lower Decks Game",
+      "developer": "East Side Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/ERiOsIaglmR7ytEV5dEudnmm8QpzGWi7XYIQZumaGOzN9dVs3BkkkbentlQwNVKEhEA",
+      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.lowerdecks&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftPOHM",
+      "title": "My Little Pony: 매직 프린세스",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/A5lKvTMk9fzXCVyH_ypXytF9YFg_IiEJ-BbL3JVO0NU00DFFD3nmpNFvTT5e_h2-Hiw",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftPOHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.diner",
+      "title": "아기 팬더의 식당",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/-OuQ6gX9JtUSOWcx2vfv6IJTstbGq6y_I6H9Z4FhXBC4N5wrTMKEwb6jVkpH01wZniw",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.diner&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.tiltingpoint.sbadventures",
+      "title": "SpongeBob Adventures: In A Jam",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/8Fi_VpNYHBMCtzcminHVeOrEJ0LY9MIQ5bhQH7EbOvzvGdNZWHJ-_rn4MNLEw2Sflf8I",
+      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
