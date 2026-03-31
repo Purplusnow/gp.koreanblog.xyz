@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:34:59.005Z",
+  "updatedAt": "2026-03-31T05:38:07.020Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -406,7 +406,10 @@
     "com.Hypemasters.rts",
     "com.miniclip.realsniper",
     "com.easybrain.spider.solitaire",
-    "eu.nordeus.topeleven.android"
+    "eu.nordeus.topeleven.android",
+    "com.bricks.vs.balls.breaker",
+    "com.weplaydots.twodotsandroid",
+    "com.webelinx.EscapeRoom.Free.Portrait.Game"
   ],
   "items": [
     {
@@ -1481,6 +1484,33 @@
       "isGame": true
     },
     {
+      "appId": "com.bricks.vs.balls.breaker",
+      "title": "Bricks vs Balls Breaker",
+      "developer": "Bricks Ball Games",
+      "icon": "https://play-lh.googleusercontent.com/7sfGYB6f26D9XlKbmBBKGivAUcrYMnvgTKGTlFXYvYq2nqIaedrcYTJqIICOgNxm3NuS",
+      "url": "https://play.google.com/store/apps/details?id=com.bricks.vs.balls.breaker&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.weplaydots.twodotsandroid",
+      "title": "Two Dots",
+      "developer": "PlayDots",
+      "icon": "https://play-lh.googleusercontent.com/MePTYYTEbb6fb40AYk7KWphkYcqoAq9l2T7VaAk8N3S5UpWB5WIIMnnGh7imx-ZPWuM",
+      "url": "https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.webelinx.EscapeRoom.Free.Portrait.Game",
+      "title": "Escape Time: 방탈출 논리 게임",
+      "developer": "Webelinx Games",
+      "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
+      "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.netmarble.stonkey",
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
       "developer": "Netmarble",
@@ -1715,6 +1745,15 @@
       "isGame": true
     },
     {
+      "appId": "com.block.juggle",
+      "title": "블록 블라스트 (Block Blast)",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
       "appId": "com.neptune.ehrpis",
       "title": "에르피스",
       "developer": "Neptune Corp.",
@@ -1909,15 +1948,6 @@
       "developer": "FDG Entertainment GmbH & Co.KG",
       "icon": "https://play-lh.googleusercontent.com/_2RsmTzfPHkBeSmDVOzgKaSQGLNqYep9mRsuYErzIcQslzAt_0hQDgoP4wJCwvMJkizT",
       "url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.redball4.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.block.juggle",
-      "title": "블록 블라스트 (Block Blast)",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
-      "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
