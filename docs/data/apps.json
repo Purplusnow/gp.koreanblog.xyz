@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T09:14:04.084Z",
+  "updatedAt": "2026-03-31T10:03:32.491Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -436,7 +436,10 @@
     "com.bubadu.buildergame",
     "com.Zeeppo.ChaosRoad",
     "linkdesks.tile.match.story",
-    "com.creations.runnergame"
+    "com.creations.runnergame",
+    "coloring.color.number.happy.paint.art.drawing.puzzle",
+    "com.eastsidegames.rupaulmatch",
+    "com.ea.BejeweledBlitz_row"
   ],
   "items": [
     {
@@ -1781,6 +1784,33 @@
       "isGame": true
     },
     {
+      "appId": "coloring.color.number.happy.paint.art.drawing.puzzle",
+      "title": "Tap Color Pro: 숫자로 색칠하기",
+      "developer": "Tap Color Studio",
+      "icon": "https://play-lh.googleusercontent.com/Z8rFy3l6FTceoLr6n4L9MTV1KxJ_TOGxWlUKZD_yieurc9dPRz9WvWPOIBD4gbnDz0c",
+      "url": "https://play.google.com/store/apps/details?id=coloring.color.number.happy.paint.art.drawing.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.eastsidegames.rupaulmatch",
+      "title": "RuPaul's Drag Race Match Queen",
+      "developer": "East Side Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/llf0dCqyiRnbz2CMv8wCP-UOkmozxDH09iloyaegAibBQUYfHe2GrAT_L1RzHchbQKrWWLhHt_qlXJiTar_Imw",
+      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.rupaulmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.BejeweledBlitz_row",
+      "title": "Bejeweled Blitz",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/RY1ONIXP4NT_HfMgSq9cG1b6AqHKppYy3-3FN9nFXE7Vbz50TkM6TeOgtnasw3Qo6w",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.BejeweledBlitz_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.netmarble.stonkey",
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
       "developer": "Netmarble",
@@ -2029,6 +2059,15 @@
       "developer": "NEXON Company",
       "icon": "https://play-lh.googleusercontent.com/2_M3GXptvR4z83AuWce9xAKKKhCOEZLVOeediIMRSe5hcKApDmLVefT9q8xpZZrWTB0",
       "url": "https://play.google.com/store/apps/details?id=com.nexon.mdnf&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2usholdings.soulstrike.android.google.global.normal",
+      "title": "소울 스트라이크: 제노니아 키우기",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/FhPwKGBJmX3ONq6QnQt8eVE8b6_PebylDFUgGgPlPHYsUQRSFomC40c3p2umuXQ8hmVT",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.soulstrike.android.google.global.normal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
@@ -3865,15 +3904,6 @@
       "developer": "Webzen Inc.",
       "icon": "https://play-lh.googleusercontent.com/2gp6GXk0PmCpkJsebFK2vsbINe9bStBtDJx23uC9zCjhXK0hByjklYtGMG5q1uQFyQ",
       "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2usholdings.soulstrike.android.google.global.normal",
-      "title": "소울 스트라이크: 제노니아 키우기",
-      "developer": "Com2uS Holdings",
-      "icon": "https://play-lh.googleusercontent.com/FhPwKGBJmX3ONq6QnQt8eVE8b6_PebylDFUgGgPlPHYsUQRSFomC40c3p2umuXQ8hmVT",
-      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.soulstrike.android.google.global.normal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
