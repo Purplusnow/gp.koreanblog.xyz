@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:38:07.020Z",
+  "updatedAt": "2026-03-31T05:44:40.287Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1754,6 +1754,15 @@
       "isGame": true
     },
     {
+      "appId": "com.nexon.mdnf",
+      "title": "던전앤파이터 모바일",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/2_M3GXptvR4z83AuWce9xAKKKhCOEZLVOeediIMRSe5hcKApDmLVefT9q8xpZZrWTB0",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.mdnf&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
       "appId": "com.neptune.ehrpis",
       "title": "에르피스",
       "developer": "Neptune Corp.",
@@ -2038,15 +2047,6 @@
       "developer": "Magic Tavern, Inc.",
       "icon": "https://play-lh.googleusercontent.com/JIFYEeZtGEb9Av-qb_J3vQeS0mOtDt60bGRTQi2nMRloLEk3cZ3rgxoRigVlQxvqHZ2NtcspCVJFL5gYTGep5A",
       "url": "https://play.google.com/store/apps/details?id=com.bgg.jump&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.mdnf",
-      "title": "던전앤파이터 모바일",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/2_M3GXptvR4z83AuWce9xAKKKhCOEZLVOeediIMRSe5hcKApDmLVefT9q8xpZZrWTB0",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.mdnf&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
