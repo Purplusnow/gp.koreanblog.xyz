@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T00:24:58.825Z",
+  "updatedAt": "2026-03-31T02:14:49.327Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -353,7 +353,11 @@
     "com.AlfaBravo.CombatMaster",
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
-    "com.chucklefish.stardewvalley"
+    "com.chucklefish.stardewvalley",
+    "com.jarvigames.viceonline",
+    "br.com.tapps.cowevolution",
+    "com.dopuz.panda.saga",
+    "com.rhythmdance.taptile.dancingcats"
   ],
   "seenItems": [
     {
@@ -947,6 +951,42 @@
       "developer": "Mobile Gaming Studios Ltd.",
       "icon": "https://play-lh.googleusercontent.com/auUty1c-CMZKVK1UzwZv8K3zjnCFtkQgl818ZBShLK85zPHACgRoevEi2Djj8xrqJVc",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.puresoldier&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.jarvigames.viceonline",
+      "title": "Flex City RP: 온라인 오픈 월드",
+      "developer": "Jarvi Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/DJ6QPP2ghfpdSwBUL7DlVr1GFjK8xBIqz-he6Guui1eSlKIVzl8WPJcoTRbh36ob9Kw",
+      "url": "https://play.google.com/store/apps/details?id=com.jarvigames.viceonline&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.cowevolution",
+      "title": "Cow Evolution: 암소 게임",
+      "developer": "Tapps Games",
+      "icon": "https://play-lh.googleusercontent.com/WabxR_SLPLyabrMnujqtBo4cP8v98jxGqSul4Hgkw2YtiWazi2OZVXBgh93u-9pZU98",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.cowevolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dopuz.panda.saga",
+      "title": "Bubble Shooter: Bubble Pop",
+      "developer": "HDuo Fun Games",
+      "icon": "https://play-lh.googleusercontent.com/BC2GpSm_Xq_xygyG1Sme5sz8M4tcIuZYVnh3fz7hhcLiDNffzscus4RdXcnWHvsPVCgE",
+      "url": "https://play.google.com/store/apps/details?id=com.dopuz.panda.saga&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.rhythmdance.taptile.dancingcats",
+      "title": "Dancing Cats: 고양이 리듬 게임",
+      "developer": "Cobby Labs",
+      "icon": "https://play-lh.googleusercontent.com/VdwSN4bgijc28wQpTPwOd7MXn7kQuNfdrH6YpQqttMfK9_bgH_I2TQ9K0U_4wGjrQ58",
+      "url": "https://play.google.com/store/apps/details?id=com.rhythmdance.taptile.dancingcats&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4126,6 +4166,42 @@
       "developer": "Mobile Gaming Studios Ltd.",
       "icon": "https://play-lh.googleusercontent.com/auUty1c-CMZKVK1UzwZv8K3zjnCFtkQgl818ZBShLK85zPHACgRoevEi2Djj8xrqJVc",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.puresoldier&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.jarvigames.viceonline",
+      "title": "Flex City RP: 온라인 오픈 월드",
+      "developer": "Jarvi Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/DJ6QPP2ghfpdSwBUL7DlVr1GFjK8xBIqz-he6Guui1eSlKIVzl8WPJcoTRbh36ob9Kw",
+      "url": "https://play.google.com/store/apps/details?id=com.jarvigames.viceonline&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.cowevolution",
+      "title": "Cow Evolution: 암소 게임",
+      "developer": "Tapps Games",
+      "icon": "https://play-lh.googleusercontent.com/WabxR_SLPLyabrMnujqtBo4cP8v98jxGqSul4Hgkw2YtiWazi2OZVXBgh93u-9pZU98",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.cowevolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dopuz.panda.saga",
+      "title": "Bubble Shooter: Bubble Pop",
+      "developer": "HDuo Fun Games",
+      "icon": "https://play-lh.googleusercontent.com/BC2GpSm_Xq_xygyG1Sme5sz8M4tcIuZYVnh3fz7hhcLiDNffzscus4RdXcnWHvsPVCgE",
+      "url": "https://play.google.com/store/apps/details?id=com.dopuz.panda.saga&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.rhythmdance.taptile.dancingcats",
+      "title": "Dancing Cats: 고양이 리듬 게임",
+      "developer": "Cobby Labs",
+      "icon": "https://play-lh.googleusercontent.com/VdwSN4bgijc28wQpTPwOd7MXn7kQuNfdrH6YpQqttMfK9_bgH_I2TQ9K0U_4wGjrQ58",
+      "url": "https://play.google.com/store/apps/details?id=com.rhythmdance.taptile.dancingcats&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
