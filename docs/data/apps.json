@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:31:44.352Z",
+  "updatedAt": "2026-03-31T05:34:59.005Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -403,7 +403,10 @@
     "com.proxima.dfm",
     "com.easybrain.art.puzzle",
     "com.easybrain.nonogram",
-    "com.Hypemasters.rts"
+    "com.Hypemasters.rts",
+    "com.miniclip.realsniper",
+    "com.easybrain.spider.solitaire",
+    "eu.nordeus.topeleven.android"
   ],
   "items": [
     {
@@ -1451,6 +1454,33 @@
       "isGame": true
     },
     {
+      "appId": "com.miniclip.realsniper",
+      "title": "Pure Sniper: 슈팅 저격 액션  게임",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/CPc45Ft9-LCjGoPS2MU7OZzwxBwnAVUAIqhqF6DtLaFMrCCYJvcn85Yf4EXpKTOH0kE",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.spider.solitaire",
+      "title": "스파이더 카드놀이 - 카드 게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/-o2rLygRffYP9B2U8v9eyJc44vsOUdjU8hU3OCQYFnvNOnN54O4JCTLv5Lsty1TPFOp0",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.spider.solitaire&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "eu.nordeus.topeleven.android",
+      "title": "Top Eleven 2026: 축구 감독 게임",
+      "developer": "Nordeus",
+      "icon": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
+      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.netmarble.stonkey",
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
       "developer": "Netmarble",
@@ -1672,6 +1702,15 @@
       "developer": "ConcernedApe",
       "icon": "https://play-lh.googleusercontent.com/He92papZcOmkgTi1sLHXQQb02aoyRtJ8ml96njM_cSAcpHhILvxMjhLix4mYEIKXPq4",
       "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.futurecpb.android.google.global.normal",
+      "title": "컴투스프로야구V26",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/m0ee9LIppykg3JqKBftJwZPIV0Pl13IVQgeKcSJfDo-zoC2yAFaGbYFFK_k-Z-OXkHO_cV4xITZKrHHVUbzU1A",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
@@ -1924,15 +1963,6 @@
       "developer": "NEOWIZ",
       "icon": "https://play-lh.googleusercontent.com/E1Arlrs20aAWy5BvOvDN0tTbAw3q32KghgQCy5q_e5lPOg8wTaK6rYgHcI0wRmCKiqA0EvgOIClzqJjHS80bAw",
       "url": "https://play.google.com/store/apps/details?id=com.hidea.cat&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.futurecpb.android.google.global.normal",
-      "title": "컴투스프로야구V26",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/m0ee9LIppykg3JqKBftJwZPIV0Pl13IVQgeKcSJfDo-zoC2yAFaGbYFFK_k-Z-OXkHO_cV4xITZKrHHVUbzU1A",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
