@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T04:26:49.397Z",
+  "updatedAt": "2026-03-31T04:46:52.479Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -92,6 +92,11 @@
     "com.idle.food.bar.tycoon",
     "com.bubbleshooter.bubblepopstar",
     "com.dominigames.mf",
+    "com.ecffri.arrows",
+    "com.fansipan.summoners.era.idle",
+    "com.hunt.royale",
+    "com.imc.mtos",
+    "com.masomo.basketballarena",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -379,11 +384,14 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.ecffri.arrows",
-    "com.fansipan.summoners.era.idle",
-    "com.hunt.royale",
-    "com.imc.mtos",
-    "com.masomo.basketballarena"
+    "find.out.hidden.objects.seek.puzzle.games.free",
+    "com.iz.pretend.play.my.monster.town.airport.games.kids",
+    "com.rbx.city.android",
+    "com.ea.game.simcitymobile_row",
+    "com.oppanagames.car.simulator",
+    "com.outfit7.mytalkinghank",
+    "com.zuuks.truck.simulator.ultimate",
+    "com.outfit7.talkingtom"
   ],
   "seenItems": [
     {
@@ -1247,6 +1255,78 @@
       "developer": "Masomo Gaming",
       "icon": "https://play-lh.googleusercontent.com/GbCZ7Ey_xqVuYaag2ZcXaHiajcUX7YEMdE3Xw_Ax9AqExmt7bS4EE4ftzFtgPqy3Pyc",
       "url": "https://play.google.com/store/apps/details?id=com.masomo.basketballarena&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "find.out.hidden.objects.seek.puzzle.games.free",
+      "title": "개체 찾기 - 숨은그림찾기 게임",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/JjByKjPxSqD9oRRwwt_cDT-0VdK0MekYxwTtYp8p5SidOGyQkimiFXxBpB2C2UjETtkh",
+      "url": "https://play.google.com/store/apps/details?id=find.out.hidden.objects.seek.puzzle.games.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.pretend.play.my.monster.town.airport.games.kids",
+      "title": "티지 공항 : 아이들을위한 내 비행기 게임",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/JfevWri5aCvumF3640PI9QIyNpEzIKDv_Zza0yUyU0xb9JZLvULkXZaNOeoSCgBIow",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.pretend.play.my.monster.town.airport.games.kids&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.city.android",
+      "title": "Global City: 도시건설 시뮬레이션 게임",
+      "developer": "UPWAKE.ME",
+      "icon": "https://play-lh.googleusercontent.com/FNNgm0tffYSCtHFlC_CQWjL8sZEqaWIDkAGOQmGNJc5bv9P8n4MtJDXhYu87MqmxHA",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.city.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.game.simcitymobile_row",
+      "title": "심시티빌드잇",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.oppanagames.car.simulator",
+      "title": "Car Simulator 2",
+      "developer": "OppanaGames FZC LLC",
+      "icon": "https://play-lh.googleusercontent.com/8-Et-EAqUoidEHn-Upo25msFUVrXo3mrZPA5U_arfQlw4DXSMzChclRB6c7_PG9u8l5H",
+      "url": "https://play.google.com/store/apps/details?id=com.oppanagames.car.simulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkinghank",
+      "title": "마이토킹행크: 아일랜드",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/BNFM2OG1bfNW6bAmF8mIMPocNUsj0bqiFW-ccrsIsZHDvdxeEoDb88wElvujDcR6QTXl",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.zuuks.truck.simulator.ultimate",
+      "title": "Truck Simulator : Ultimate",
+      "developer": "Zuuks Games",
+      "icon": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
+      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.talkingtom",
+      "title": "말하는 고양이 토킹톰",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/m2H0K49W3XwG5N3nM4VvqHxPwdvb3-ExNhsSof2FU0o5OmG2UtsocAX6-HSTajJHCqKo8a1Gh6v-hrkfVfmWlA",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4696,6 +4776,78 @@
       "developer": "Masomo Gaming",
       "icon": "https://play-lh.googleusercontent.com/GbCZ7Ey_xqVuYaag2ZcXaHiajcUX7YEMdE3Xw_Ax9AqExmt7bS4EE4ftzFtgPqy3Pyc",
       "url": "https://play.google.com/store/apps/details?id=com.masomo.basketballarena&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "find.out.hidden.objects.seek.puzzle.games.free",
+      "title": "개체 찾기 - 숨은그림찾기 게임",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/JjByKjPxSqD9oRRwwt_cDT-0VdK0MekYxwTtYp8p5SidOGyQkimiFXxBpB2C2UjETtkh",
+      "url": "https://play.google.com/store/apps/details?id=find.out.hidden.objects.seek.puzzle.games.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.pretend.play.my.monster.town.airport.games.kids",
+      "title": "티지 공항 : 아이들을위한 내 비행기 게임",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/JfevWri5aCvumF3640PI9QIyNpEzIKDv_Zza0yUyU0xb9JZLvULkXZaNOeoSCgBIow",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.pretend.play.my.monster.town.airport.games.kids&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.city.android",
+      "title": "Global City: 도시건설 시뮬레이션 게임",
+      "developer": "UPWAKE.ME",
+      "icon": "https://play-lh.googleusercontent.com/FNNgm0tffYSCtHFlC_CQWjL8sZEqaWIDkAGOQmGNJc5bv9P8n4MtJDXhYu87MqmxHA",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.city.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.game.simcitymobile_row",
+      "title": "심시티빌드잇",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.oppanagames.car.simulator",
+      "title": "Car Simulator 2",
+      "developer": "OppanaGames FZC LLC",
+      "icon": "https://play-lh.googleusercontent.com/8-Et-EAqUoidEHn-Upo25msFUVrXo3mrZPA5U_arfQlw4DXSMzChclRB6c7_PG9u8l5H",
+      "url": "https://play.google.com/store/apps/details?id=com.oppanagames.car.simulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkinghank",
+      "title": "마이토킹행크: 아일랜드",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/BNFM2OG1bfNW6bAmF8mIMPocNUsj0bqiFW-ccrsIsZHDvdxeEoDb88wElvujDcR6QTXl",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.zuuks.truck.simulator.ultimate",
+      "title": "Truck Simulator : Ultimate",
+      "developer": "Zuuks Games",
+      "icon": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
+      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.talkingtom",
+      "title": "말하는 고양이 토킹톰",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/m2H0K49W3XwG5N3nM4VvqHxPwdvb3-ExNhsSof2FU0o5OmG2UtsocAX6-HSTajJHCqKo8a1Gh6v-hrkfVfmWlA",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
