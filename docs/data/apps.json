@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T22:47:36.361Z",
+  "updatedAt": "2026-03-31T23:45:01.403Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -486,7 +486,11 @@
     "com.firsttouchgames.story",
     "com.zynga.FarmVille2CountryEscape",
     "com.rom.game",
-    "com.madovergames.BubbleShooterPro"
+    "com.madovergames.BubbleShooterPro",
+    "com.stgl.global",
+    "com.biglime.cookingmadness",
+    "my.arena",
+    "com.com2us.kbomanager.normal2.freefull.google.global.android.common"
   ],
   "items": [
     {
@@ -837,6 +841,42 @@
       "developer": "Bubble Shooter @ MadOverGames",
       "icon": "https://play-lh.googleusercontent.com/Yn_T4lqXDnvqNdsIBGH7hpNU7x9Zl4LosHNYSrGpF6CIj_YkyeV7yYN6dBeNcSjtZQE",
       "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterPro&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.stgl.global",
+      "title": "War and Magic: Kingdom Reborn",
+      "developer": "GOAT Games",
+      "icon": "https://play-lh.googleusercontent.com/ESreNMKxJq8oihuimmGv2qltqJBGgk0eH1kf-ECZ2Nf3PiHsTADTHU8hX3x9wG6SA-w",
+      "url": "https://play.google.com/store/apps/details?id=com.stgl.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.biglime.cookingmadness",
+      "title": "쿠킹 매드니스 - 셰프의 레스토랑 게임",
+      "developer": "ZenLife Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/GkQt7bnV75imAMpQ1dvd5WbTGvawyD80IaXb1ELhySklCLGMGJRzCEZ-9jJOZsAeq-0",
+      "url": "https://play.google.com/store/apps/details?id=com.biglime.cookingmadness&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "my.arena",
+      "title": "캐슬 듀얼: PvP 전장을 지배하라!",
+      "developer": "MYGAMES MENA FZ LLC",
+      "icon": "https://play-lh.googleusercontent.com/W42CdlsXsI7slrik0JRYR-6dOs9tIYdMpJi2qz8ci0ot7bipYr7kxGAwtLmljK049I_gl9uAg5BMrxkwft78cQ",
+      "url": "https://play.google.com/store/apps/details?id=my.arena&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.kbomanager.normal2.freefull.google.global.android.common",
+      "title": "컴투스프로야구매니저 LIVE 2026",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/piT2tsljMd-wNPCYf3T8DxGpjdIi6wPUFd5dlv3Ytoj6OMMrHEU1QFiqX9NqGVFnIrD-_55FEMw8OYZ3OPCT",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.kbomanager.normal2.freefull.google.global.android.common&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
