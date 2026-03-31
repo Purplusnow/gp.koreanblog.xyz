@@ -3,7 +3,9 @@ import * as cheerio from "cheerio";
 
 const BASE_URL = "https://play.google.com";
 const DATA_PATH = "./docs/data/apps.json";
-const MAX_ITEMS = 3000;
+const REVIEW_MAP_PATH = "./docs/data/review-map.json";
+const MAX_ITEMS = 500;
+const DETAIL_CONCURRENCY = 6;
 
 const SOURCE_URLS = [
   "https://play.google.com/store/games?hl=ko&gl=KR",
@@ -29,34 +31,28 @@ function todayKst() {
   return kst.toISOString().slice(0, 10);
 }
 
-function loadExistingData() {
+function loadJson(path, fallback) {
   try {
-    if (!fs.existsSync(DATA_PATH)) {
-      return {
-        updatedAt: null,
-        seenAppIds: [],
-        seenItems: [],
-        items: []
-      };
-    }
-
-    const raw = fs.readFileSync(DATA_PATH, "utf8");
-    const json = JSON.parse(raw);
-
-    return {
-      updatedAt: json.updatedAt || null,
-      seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : [],
-      seenItems: Array.isArray(json.seenItems) ? json.seenItems : [],
-      items: Array.isArray(json.items) ? json.items : []
-    };
+    if (!fs.existsSync(path)) return fallback;
+    return JSON.parse(fs.readFileSync(path, "utf8"));
   } catch {
-    return {
-      updatedAt: null,
-      seenAppIds: [],
-      seenItems: [],
-      items: []
-    };
+    return fallback;
   }
+}
+
+function loadExistingData() {
+  const json = loadJson(DATA_PATH, {});
+
+  return {
+    updatedAt: json.updatedAt || null,
+    seenAppIds: Array.isArray(json.seenAppIds) ? json.seenAppIds : [],
+    items: Array.isArray(json.items) ? json.items : []
+  };
+}
+
+function loadReviewMap() {
+  const json = loadJson(REVIEW_MAP_PATH, {});
+  return json && typeof json === "object" ? json : {};
 }
 
 async function fetchHtml(url) {
@@ -95,39 +91,92 @@ function parseAppIdFromHref(href) {
   }
 }
 
-function dedupeKeepEarliest(items) {
+function normalizeItem(item, todayStr) {
+  return {
+    appId: item.appId,
+    title: item.title || "",
+    developer: item.developer || "",
+    icon: item.icon || "",
+    url: item.url ? normalizePlayUrl(item.url) : "",
+    discoveredDate: item.discoveredDate || todayStr,
+    isGame: item.isGame !== false
+  };
+}
+
+function mergeItems(oldItems, newItems, todayStr) {
   const map = new Map();
 
-  for (const item of items) {
+  for (const item of oldItems) {
+    if (!item || !item.appId) continue;
+    map.set(item.appId, normalizeItem(item, todayStr));
+  }
+
+  for (const item of newItems) {
     if (!item || !item.appId) continue;
 
-    const existing = map.get(item.appId);
+    const normalized = normalizeItem(item, todayStr);
+    const existing = map.get(normalized.appId);
 
-    if (!existing) {
-      map.set(item.appId, item);
-      continue;
-    }
-
-    const existingDate = existing.discoveredDate || "9999-99-99";
-    const currentDate = item.discoveredDate || "9999-99-99";
-
-    if (currentDate < existingDate) {
-      map.set(item.appId, {
+    if (existing) {
+      map.set(normalized.appId, {
         ...existing,
-        ...item,
-        discoveredDate: item.discoveredDate
+        ...normalized,
+        discoveredDate: existing.discoveredDate || normalized.discoveredDate || todayStr
       });
+    } else {
+      map.set(normalized.appId, normalized);
     }
   }
 
   return Array.from(map.values());
 }
 
+function hasReview(item, reviewMap) {
+  const reviewUrl = reviewMap[item.appId];
+  return Boolean(reviewUrl && String(reviewUrl).trim());
+}
+
+function pruneToLimit(items, reviewMap, limit = MAX_ITEMS) {
+  const reviewed = [];
+  const unreviewed = [];
+
+  for (const item of items) {
+    if (!item || !item.appId) continue;
+    if (hasReview(item, reviewMap)) reviewed.push(item);
+    else unreviewed.push(item);
+  }
+
+  reviewed.sort((a, b) => {
+    const da = new Date(a.discoveredDate || 0).getTime();
+    const db = new Date(b.discoveredDate || 0).getTime();
+    return db - da;
+  });
+
+  unreviewed.sort((a, b) => {
+    const da = new Date(a.discoveredDate || 0).getTime();
+    const db = new Date(b.discoveredDate || 0).getTime();
+    return da - db;
+  });
+
+  if (reviewed.length >= limit) {
+    return reviewed;
+  }
+
+  const keepUnreviewedCount = Math.max(0, limit - reviewed.length);
+  const keptUnreviewed = unreviewed.slice(-keepUnreviewedCount);
+
+  return [...reviewed, ...keptUnreviewed].sort((a, b) => {
+    const da = new Date(a.discoveredDate || 0).getTime();
+    const db = new Date(b.discoveredDate || 0).getTime();
+    return db - da;
+  });
+}
+
 async function getCandidateAppIds() {
   const ids = new Set();
 
-  for (const sourceUrl of SOURCE_URLS) {
-    try {
+  const results = await Promise.allSettled(
+    SOURCE_URLS.map(async (sourceUrl) => {
       console.log(`SOURCE: ${sourceUrl}`);
       const html = await fetchHtml(sourceUrl);
       const $ = cheerio.load(html);
@@ -139,12 +188,14 @@ async function getCandidateAppIds() {
         const appId = parseAppIdFromHref(href);
         if (appId) ids.add(appId);
       });
-    } catch (err) {
-      console.error(`SOURCE FAIL: ${sourceUrl} / ${err.message}`);
-    }
+    })
+  );
 
-    await sleep(500);
-  }
+  results.forEach((result, index) => {
+    if (result.status === "rejected") {
+      console.error(`SOURCE FAIL: ${SOURCE_URLS[index]} / ${result.reason?.message || result.reason}`);
+    }
+  });
 
   return [...ids];
 }
@@ -175,9 +226,7 @@ async function getAppDetail(appId) {
     if (href) categoryHrefs.push(href);
   });
 
-  const isGame = categoryHrefs.some((href) =>
-    href.includes("/store/apps/category/GAME")
-  );
+  const isGame = categoryHrefs.some((href) => href.includes("/store/apps/category/GAME"));
 
   return {
     appId,
@@ -189,91 +238,119 @@ async function getAppDetail(appId) {
   };
 }
 
-async function main() {
-  console.log("Collecting candidate app ids...");
-  const appIds = await getCandidateAppIds();
-  console.log(`Collected ${appIds.length} candidate ids`);
+async function mapWithConcurrency(items, worker, concurrency = DETAIL_CONCURRENCY) {
+  const results = [];
+  let cursor = 0;
 
-  const existingData = loadExistingData();
+  async function runner() {
+    while (true) {
+      const currentIndex = cursor;
+      cursor += 1;
 
-  // 전체 누적 원본은 seenItems 하나만 사용
-  const masterSeenItems = dedupeKeepEarliest(
-    Array.isArray(existingData.seenItems) ? existingData.seenItems : []
-  ).filter((item) => item.isGame !== false);
+      if (currentIndex >= items.length) return;
 
-  const seenMap = new Map();
-  for (const item of masterSeenItems) {
-    if (item.appId) {
-      seenMap.set(item.appId, item);
+      const item = items[currentIndex];
+      const result = await worker(item, currentIndex);
+      if (result) results.push(result);
     }
   }
 
-  let addedCount = 0;
-  let skippedSeen = 0;
-  let skippedNonGame = 0;
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => runner());
+  await Promise.all(workers);
+  return results;
+}
 
-  for (const appId of appIds) {
-    if (seenMap.has(appId)) {
+async function fetchDetailsForNewApps(appIds, todayStr) {
+  return await mapWithConcurrency(
+    appIds,
+    async (appId) => {
+      try {
+        const detail = await getAppDetail(appId);
+
+        if (!detail.isGame) {
+          console.log(`SKIP NON-GAME: ${appId} / ${detail.title}`);
+          return null;
+        }
+
+        console.log(`ADD: ${appId} / ${detail.title}`);
+
+        return {
+          appId: detail.appId,
+          title: detail.title,
+          developer: detail.developer,
+          icon: detail.icon,
+          url: detail.url,
+          discoveredDate: todayStr,
+          isGame: true
+        };
+      } catch (err) {
+        console.error(`FAIL: ${appId} / ${err.message}`);
+        return null;
+      } finally {
+        await sleep(250);
+      }
+    },
+    DETAIL_CONCURRENCY
+  );
+}
+
+async function main() {
+  const todayStr = todayKst();
+  const existingData = loadExistingData();
+  const reviewMap = loadReviewMap();
+
+  console.log("Collecting candidate app ids...");
+  const candidateAppIds = await getCandidateAppIds();
+  console.log(`Collected ${candidateAppIds.length} candidate ids`);
+
+  const existingItems = mergeItems(existingData.items, [], todayStr).filter((item) => item.isGame !== false);
+  const existingMap = new Map(existingItems.map((item) => [item.appId, item]));
+  const seenAppIds = new Set(existingData.seenAppIds.filter(Boolean));
+
+  for (const appId of existingMap.keys()) {
+    seenAppIds.add(appId);
+  }
+
+  const uniqueCandidateAppIds = [...new Set(candidateAppIds)].filter(Boolean);
+
+  let skippedSeen = 0;
+  const trulyNewAppIds = [];
+
+  for (const appId of uniqueCandidateAppIds) {
+    if (seenAppIds.has(appId)) {
       skippedSeen += 1;
-      console.log(`SKIP SEEN: ${appId}`);
       continue;
     }
-
-    try {
-      const detail = await getAppDetail(appId);
-
-      if (!detail.isGame) {
-        skippedNonGame += 1;
-        console.log(`SKIP NON-GAME: ${appId} / ${detail.title}`);
-        continue;
-      }
-
-      const newItem = {
-        appId: detail.appId,
-        title: detail.title,
-        developer: detail.developer,
-        icon: detail.icon,
-        url: detail.url,
-        discoveredDate: todayKst(),
-        isGame: true
-      };
-
-      masterSeenItems.push(newItem);
-      seenMap.set(appId, newItem);
-      addedCount += 1;
-
-      console.log(`ADD: ${appId} / ${detail.title}`);
-    } catch (err) {
-      console.error(`FAIL: ${appId} / ${err.message}`);
-    }
-
-    await sleep(700);
+    trulyNewAppIds.push(appId);
   }
 
-  // 추천일 최신순
-  masterSeenItems.sort((a, b) => {
-    const da = new Date(a.discoveredDate || 0).getTime();
-    const db = new Date(b.discoveredDate || 0).getTime();
-    return db - da;
-  });
+  console.log(`New candidate ids: ${trulyNewAppIds.length}`);
+  const newItems = await fetchDetailsForNewApps(trulyNewAppIds, todayStr);
 
-  const visibleItems = masterSeenItems.slice(0, MAX_ITEMS);
+  for (const item of newItems) {
+    seenAppIds.add(item.appId);
+  }
+
+  const mergedItems = mergeItems(existingItems, newItems, todayStr);
+  const finalItems = pruneToLimit(mergedItems, reviewMap, MAX_ITEMS);
+
+  const reviewedCount = finalItems.filter((item) => hasReview(item, reviewMap)).length;
+  const unreviewedCount = finalItems.length - reviewedCount;
 
   const output = {
     updatedAt: new Date().toISOString(),
-    seenAppIds: Array.from(seenMap.keys()),
-    seenItems: masterSeenItems,
-    items: visibleItems
+    seenAppIds: Array.from(seenAppIds),
+    items: finalItems
   };
 
   fs.mkdirSync("./docs/data", { recursive: true });
   fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), "utf8");
 
-  console.log(`Added ${addedCount}`);
   console.log(`Skipped seen ${skippedSeen}`);
-  console.log(`Skipped non-games ${skippedNonGame}`);
-  console.log(`Saved ${visibleItems.length} visible items`);
-  console.log(`Saved ${masterSeenItems.length} archive items`);
+  console.log(`Added ${newItems.length}`);
+  console.log(`Saved ${finalItems.length} visible items`);
+  console.log(`Reviewed kept ${reviewedCount}`);
+  console.log(`Unreviewed kept ${unreviewedCount}`);
 }
 
 main().catch((err) => {
