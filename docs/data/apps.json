@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T03:25:08.453Z",
+  "updatedAt": "2026-03-31T04:18:59.408Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -85,6 +85,9 @@
     "com.mobilechess.gp",
     "com.wildspike.wormszone",
     "com.netmarble.skiagb",
+    "com.FoxieGames.HorseRidingTales",
+    "com.action.survival.craft.rpg",
+    "com.hypgames.ultimategolf",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -372,9 +375,10 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.FoxieGames.HorseRidingTales",
-    "com.action.survival.craft.rpg",
-    "com.hypgames.ultimategolf"
+    "com.kiwifun.game.android.screw.master",
+    "com.idle.food.bar.tycoon",
+    "com.bubbleshooter.bubblepopstar",
+    "com.dominigames.mf"
   ],
   "seenItems": [
     {
@@ -1157,6 +1161,42 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/AXqftKxe9Yv9_wA_0UzEIpv-sar9zQONyr4qUDcaNkDWCyJt_XfA0hxWQwpD5OLNoIQ",
       "url": "https://play.google.com/store/apps/details?id=com.hypgames.ultimategolf&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.kiwifun.game.android.screw.master",
+      "title": "나사 3D 퍼즐: 핀 풀기 게임",
+      "developer": "Kiwi Fun",
+      "icon": "https://play-lh.googleusercontent.com/CNO8jDVTtanOmjJMDxbzlG718K8JcHUPrkQXQe3rmjlSE7LKF0uHi_SmzyjvFmqIQw",
+      "url": "https://play.google.com/store/apps/details?id=com.kiwifun.game.android.screw.master&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.idle.food.bar.tycoon",
+      "title": "Idle Food Bar",
+      "developer": "MAGIC SEVEN CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/APnZkvLF1MRWRYKmH_zUuF-oL53B_PT3xkY0gxsX7NfgvxfA22MBcsC7a6wi3CA60Stv",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.food.bar.tycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubbleshooter.bubblepopstar",
+      "title": "버블 팝 스타!",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/ugo2XUbXy1kkoURNYlrgbOjURenO_QS2GxkUkhQ7KgjMOJCDusPkCH4XXfvZ40UK4Q",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.bubblepopstar&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dominigames.mf",
+      "title": "미스터리 파일: 숨은 물건 찾기",
+      "developer": "Do Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/Wctcx7YZd2LZkDdkKoAqHBlX_-vNC1ee3wYjiXe83sKk0AxdQkRQgodF-1qmEhJEh-3T",
+      "url": "https://play.google.com/store/apps/details?id=com.dominigames.mf&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4525,6 +4565,42 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/AXqftKxe9Yv9_wA_0UzEIpv-sar9zQONyr4qUDcaNkDWCyJt_XfA0hxWQwpD5OLNoIQ",
       "url": "https://play.google.com/store/apps/details?id=com.hypgames.ultimategolf&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.kiwifun.game.android.screw.master",
+      "title": "나사 3D 퍼즐: 핀 풀기 게임",
+      "developer": "Kiwi Fun",
+      "icon": "https://play-lh.googleusercontent.com/CNO8jDVTtanOmjJMDxbzlG718K8JcHUPrkQXQe3rmjlSE7LKF0uHi_SmzyjvFmqIQw",
+      "url": "https://play.google.com/store/apps/details?id=com.kiwifun.game.android.screw.master&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.idle.food.bar.tycoon",
+      "title": "Idle Food Bar",
+      "developer": "MAGIC SEVEN CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/APnZkvLF1MRWRYKmH_zUuF-oL53B_PT3xkY0gxsX7NfgvxfA22MBcsC7a6wi3CA60Stv",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.food.bar.tycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubbleshooter.bubblepopstar",
+      "title": "버블 팝 스타!",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/ugo2XUbXy1kkoURNYlrgbOjURenO_QS2GxkUkhQ7KgjMOJCDusPkCH4XXfvZ40UK4Q",
+      "url": "https://play.google.com/store/apps/details?id=com.bubbleshooter.bubblepopstar&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dominigames.mf",
+      "title": "미스터리 파일: 숨은 물건 찾기",
+      "developer": "Do Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/Wctcx7YZd2LZkDdkKoAqHBlX_-vNC1ee3wYjiXe83sKk0AxdQkRQgodF-1qmEhJEh-3T",
+      "url": "https://play.google.com/store/apps/details?id=com.dominigames.mf&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
