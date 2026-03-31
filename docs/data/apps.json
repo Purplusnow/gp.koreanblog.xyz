@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T07:42:21.024Z",
+  "updatedAt": "2026-03-31T08:59:43.794Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -416,7 +416,23 @@
     "com.dp.hidden.objects",
     "com.hundred_doors_game.escape_from_prison",
     "com.apocalypse.zombie.games",
-    "com.bitmango.go.jewelsmagicmysterymatch3"
+    "com.bitmango.go.jewelsmagicmysterymatch3",
+    "com.bestplaygame.screwmatch",
+    "com.matching.games.goods.sort.triple.puzzle",
+    "killer.sudoku.free.brain.puzzle",
+    "com.fc.nut.screw.bolt.washer.fastener.puzzle",
+    "com.pank0.usagishima",
+    "com.runninggame.subwayrunner.heroes",
+    "com.storytoys.lego.duplo.peppa.pig.googleplay",
+    "com.outfit7.mytalkingangelafree",
+    "com.snake.io.slither.worms",
+    "com.orange.kidspiano.music.songs",
+    "com.zytoona.wordscrush",
+    "com.solou.catendless.run",
+    "com.outfit7.mytalkingtomfree",
+    "com.dieselpuppet.hidden",
+    "com.criticalforceentertainment.criticalops",
+    "com.creativemobile.nno"
   ],
   "items": [
     {
@@ -501,6 +517,15 @@
       "isGame": true
     },
     {
+      "appId": "com.GoPlayGames.FCM26",
+      "title": "Football Club Management 2026",
+      "developer": "Go Play Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/XuGEe6BCbL3goHw3WWRHkweKUcMjAXTK2bL5B8-ViK1Wm0Hr976uwJqOuANGcXbxVEkFg4Cb2FZo_8iFN-RJYm8",
+      "url": "https://play.google.com/store/apps/details?id=com.GoPlayGames.FCM26&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.goblins.idle.merge.game",
       "title": "Goblin Miner: Idle Merger",
       "developer": "ProGamesLab",
@@ -533,15 +558,6 @@
       "developer": "Joymaster Puzzle Game Studio",
       "icon": "https://play-lh.googleusercontent.com/paJoS-vuC8XdnGdFzEUG2TjaeYKJrgpdBYwN3J4XFl4YcW-qHIG_2fALnJnM8ldvHNc",
       "url": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.GoPlayGames.FCM26",
-      "title": "Football Club Management 2026",
-      "developer": "Go Play Games Ltd",
-      "icon": "https://play-lh.googleusercontent.com/XuGEe6BCbL3goHw3WWRHkweKUcMjAXTK2bL5B8-ViK1Wm0Hr976uwJqOuANGcXbxVEkFg4Cb2FZo_8iFN-RJYm8",
-      "url": "https://play.google.com/store/apps/details?id=com.GoPlayGames.FCM26&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -1577,6 +1593,150 @@
       "developer": "Puzzle1Studio",
       "icon": "https://play-lh.googleusercontent.com/434ET2YGH832jVxW5saYavmdHaQ4metJ1I_IkWq0MxnKsI3Xzkl0E1vuESRjDGvoTyc",
       "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.jewelsmagicmysterymatch3&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bestplaygame.screwmatch",
+      "title": "Screw Match™: ASMR Blast",
+      "developer": "AlphaPlay Games",
+      "icon": "https://play-lh.googleusercontent.com/RlAHBisFN1-7LolONp-kUjPHtA2YEQLDJPHcGAu2IZwJMNJMMoqUngbIf-jtx50xtB0",
+      "url": "https://play.google.com/store/apps/details?id=com.bestplaygame.screwmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.matching.games.goods.sort.triple.puzzle",
+      "title": "상품 3D 스토어 게임",
+      "developer": "LifePulse Puzzle Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/vhiQBGxyPSGcEBaZm1zjZPX0-zpAVpoB50m82gNIhHwGdZ7JPy7Wu1uu7p-APCLhkE3edg1VzsjM3TMLXUAkYA",
+      "url": "https://play.google.com/store/apps/details?id=com.matching.games.goods.sort.triple.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "killer.sudoku.free.brain.puzzle",
+      "title": "킬러 스도쿠, 스도쿠 퍼즐, 두뇌 게임",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/OJx0Od46u7bQCOVwYYqyQzWTSl2YeWqgJoJuPF4BNIkyGcqvb1sOyiQOlKNKRJ635zE8",
+      "url": "https://play.google.com/store/apps/details?id=killer.sudoku.free.brain.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.fc.nut.screw.bolt.washer.fastener.puzzle",
+      "title": "나사 퍼즐: 나무 너트 & 볼트",
+      "developer": "FALCON GAMES",
+      "icon": "https://play-lh.googleusercontent.com/ldlsCvWUaR4HUFGer3rub7KH4QuhylnuzTNusOFLZFVSqBQw_eqC2nweDXccxPn3om8",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.nut.screw.bolt.washer.fastener.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.pank0.usagishima",
+      "title": "토끼의 섬: 귀여운 토끼 게임",
+      "developer": "studio rabbiko",
+      "icon": "https://play-lh.googleusercontent.com/NRtommUBTU56a85lzZ1N6U_e6-VrmnerymY4LGfW9EXBZA9M7ebWhAYdtMnazXNPjEE",
+      "url": "https://play.google.com/store/apps/details?id=com.pank0.usagishima&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.runninggame.subwayrunner.heroes",
+      "title": "Runner Heroes",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/EnOnISNs-nuZUUjN-pUVx9Np19OtZSwfbPHvrZK-PeRe3Cz_2LKnPe9zlAXOeAdgy_Rs",
+      "url": "https://play.google.com/store/apps/details?id=com.runninggame.subwayrunner.heroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.storytoys.lego.duplo.peppa.pig.googleplay",
+      "title": "LEGO® DUPLO® 페파 피그",
+      "developer": "StoryToys",
+      "icon": "https://play-lh.googleusercontent.com/2iO9PB-eaTkHf6uxB_5epgsXRql86i2aXUd3HsKIgFzl_1-8Sz2Q-HYo04exrOgjS7bZ2bzb9T660VIqMReY",
+      "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.peppa.pig.googleplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingangelafree",
+      "title": "마이토킹안젤라",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.snake.io.slither.worms",
+      "title": "Snake Lite® - Worm Snake Game",
+      "developer": "Hippo Lab",
+      "icon": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
+      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.orange.kidspiano.music.songs",
+      "title": "피아노 키즈 - 음악 및 노래",
+      "developer": "Orange Studios Games",
+      "icon": "https://play-lh.googleusercontent.com/FafD4vlzxogAHYu3KaNuQ0mlKY0FIm11SqAXrqOIPPWsPMhTZUJ6LwuBJktMU_JT0_w",
+      "url": "https://play.google.com/store/apps/details?id=com.orange.kidspiano.music.songs&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.zytoona.wordscrush",
+      "title": "كلمات كراش - لعبة تسلية وتحدي",
+      "developer": "Zytoona",
+      "icon": "https://play-lh.googleusercontent.com/6eXjWA5R0IYsSQdSzdCw_fYqCPy0cP8LauA1HhbhrDnxBDz5VG8g1za1j3H8vOa6aQ",
+      "url": "https://play.google.com/store/apps/details?id=com.zytoona.wordscrush&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.solou.catendless.run",
+      "title": "Cat Runner: Decorate Home",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/8AnunWyaQ_vbaDwrsv6z7B5aej_hFVAWLdor0P6Xhiw73kdssaJPtP_3e0bAZWEg6ts",
+      "url": "https://play.google.com/store/apps/details?id=com.solou.catendless.run&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.outfit7.mytalkingtomfree",
+      "title": "마이토킹톰",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
+      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dieselpuppet.hidden",
+      "title": "히든 저니: 숨은그림찾기",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/zUis6PGQ6XlMzhO9zEGmSeLlAGMNxRL4KIw1B2VQCcgWJUshqIOcSBYuk3TDRVRf9Wg",
+      "url": "https://play.google.com/store/apps/details?id=com.dieselpuppet.hidden&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.criticalforceentertainment.criticalops",
+      "title": "Critical Ops: Multiplayer FPS",
+      "developer": "Critical Force Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/EPb8BSLfRYiTScThq4f0fVT_SWIYZXdUyPGX0dopRS_WmbN1t0i6r8Q-Md9SFqlgtnk",
+      "url": "https://play.google.com/store/apps/details?id=com.criticalforceentertainment.criticalops&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.creativemobile.nno",
+      "title": "Nitro Nation 드래그 & 드리프트 레이싱",
+      "developer": "Supercharge Mobile",
+      "icon": "https://play-lh.googleusercontent.com/6FHCQUjmVijXEPXiqRjGUIUw5H-V0aTKdXFiVRTWJKk3Di7mFVup6VGl4PYsaLg-WYTy",
+      "url": "https://play.google.com/store/apps/details?id=com.creativemobile.nno&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
