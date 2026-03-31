@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:49:46.020Z",
+  "updatedAt": "2026-03-31T07:18:24.784Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -409,7 +409,9 @@
     "eu.nordeus.topeleven.android",
     "com.bricks.vs.balls.breaker",
     "com.weplaydots.twodotsandroid",
-    "com.webelinx.EscapeRoom.Free.Portrait.Game"
+    "com.webelinx.EscapeRoom.Free.Portrait.Game",
+    "com.generagames.resistance",
+    "com.bitmango.go.wordcookies"
   ],
   "items": [
     {
@@ -485,20 +487,20 @@
       "isGame": true
     },
     {
-      "appId": "com.goblins.idle.merge.game",
-      "title": "Goblin Miner: Idle Merger",
-      "developer": "ProGamesLab",
-      "icon": "https://play-lh.googleusercontent.com/kls6DBoOPjyJ0vc0_eZFSB_ZPG1IohBui61qxSJ9gMEC3fSJP5nRMIeY7Nn2nnk9UW-A",
-      "url": "https://play.google.com/store/apps/details?id=com.goblins.idle.merge.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
       "appId": "com.computerlunch.evolution",
       "title": "세포 - 특이성 - 진화가 끝나지 않는다",
       "developer": "ComputerLunch",
       "icon": "https://play-lh.googleusercontent.com/HYkWj58ldj71Pruhz1PTEah_cuQokBboG5RFV_73D8FIftmoBZYyWc40fmJ1Ymp1sQ2zgwxwbFxgyV0s8_Fn",
       "url": "https://play.google.com/store/apps/details?id=com.computerlunch.evolution&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.goblins.idle.merge.game",
+      "title": "Goblin Miner: Idle Merger",
+      "developer": "ProGamesLab",
+      "icon": "https://play-lh.googleusercontent.com/kls6DBoOPjyJ0vc0_eZFSB_ZPG1IohBui61qxSJ9gMEC3fSJP5nRMIeY7Nn2nnk9UW-A",
+      "url": "https://play.google.com/store/apps/details?id=com.goblins.idle.merge.game&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -1507,6 +1509,24 @@
       "developer": "Webelinx Games",
       "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
       "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.generagames.resistance",
+      "title": "Cover Fire (커버 파이어) - 슈팅 게임",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/OG9XusJv0lU1S7nfKxUiuv4gRDR9Fxm6IlCYU4atvL0XQqLG_BLhRjKC6mxyVwD8s9I",
+      "url": "https://play.google.com/store/apps/details?id=com.generagames.resistance&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bitmango.go.wordcookies",
+      "title": "워드 쿠키즈! ®",
+      "developer": "BitMango",
+      "icon": "https://play-lh.googleusercontent.com/G81Ds_vE_ED-3kkXKRsQ_fuMeoKjsNM5n_adR9XRZrVTYKRajB_mlrmUHECMHJwz96Q",
+      "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.wordcookies&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
