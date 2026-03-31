@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T02:58:02.627Z",
+  "updatedAt": "2026-03-31T03:23:45.664Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -78,6 +78,9 @@
     "com.tiltingpoint.sbadventures",
     "com.bandainamcoent.dblegends_ww",
     "com.carxtech.carxdr2",
+    "com.starplay.spider.fighter.openworld",
+    "com.playgendary.ktbremaster",
+    "com.inforcegames.blackdeck",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -365,9 +368,10 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.starplay.spider.fighter.openworld",
-    "com.playgendary.ktbremaster",
-    "com.inforcegames.blackdeck"
+    "com.gamevil.heiroflight.android.google.global.normal",
+    "com.mobilechess.gp",
+    "com.wildspike.wormszone",
+    "com.netmarble.skiagb"
   ],
   "seenItems": [
     {
@@ -1087,6 +1091,42 @@
       "developer": "SayGames Ltd",
       "icon": "https://play-lh.googleusercontent.com/AENWpfnuEiuq3Zr88rlsag8Do2FzXtaoZlUgvbT3sgoLG9NOQKBKzB1_rLkmdOpsMSs",
       "url": "https://play.google.com/store/apps/details?id=com.inforcegames.blackdeck&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamevil.heiroflight.android.google.global.normal",
+      "title": "빛의 계승자 (HEIR OF LIGHT)",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/NkC4y8rzbgIgcaw3UQo7r72M7oTj4NrDTNybiULyFHsCl-D9TRxSJeoQrJKCv8eihPs2",
+      "url": "https://play.google.com/store/apps/details?id=com.gamevil.heiroflight.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobilechess.gp",
+      "title": "Magic Chess: Go Go",
+      "developer": "Vizta Games",
+      "icon": "https://play-lh.googleusercontent.com/uJ43VeRAaOu2hqvP5RQNrUejveyRGX3pvBBszbu6gJbBiZqeQsQ6brRCuzsDHvPixbpDD7kRal-Z24lPVtyzEQ",
+      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildspike.wormszone",
+      "title": "웜스 존.io - 게걸스러운 뱀",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/IFZh4-P3WEpHhFOoGDFpmcWWw-ehjPMn9zF6uEuHsyGXLM9io3q3gAXSKZTda3qYOg",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.skiagb",
+      "title": "세븐나이츠 키우기",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/22kPomgM8a0DWQgTIlSaktotGU_riwsNOluGvr-aED--NsvQYsiSo6cz_vUMK4yIGoQCocDSdk7hmbcoJZY-VQ",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.skiagb&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4392,6 +4432,42 @@
       "developer": "SayGames Ltd",
       "icon": "https://play-lh.googleusercontent.com/AENWpfnuEiuq3Zr88rlsag8Do2FzXtaoZlUgvbT3sgoLG9NOQKBKzB1_rLkmdOpsMSs",
       "url": "https://play.google.com/store/apps/details?id=com.inforcegames.blackdeck&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamevil.heiroflight.android.google.global.normal",
+      "title": "빛의 계승자 (HEIR OF LIGHT)",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/NkC4y8rzbgIgcaw3UQo7r72M7oTj4NrDTNybiULyFHsCl-D9TRxSJeoQrJKCv8eihPs2",
+      "url": "https://play.google.com/store/apps/details?id=com.gamevil.heiroflight.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobilechess.gp",
+      "title": "Magic Chess: Go Go",
+      "developer": "Vizta Games",
+      "icon": "https://play-lh.googleusercontent.com/uJ43VeRAaOu2hqvP5RQNrUejveyRGX3pvBBszbu6gJbBiZqeQsQ6brRCuzsDHvPixbpDD7kRal-Z24lPVtyzEQ",
+      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildspike.wormszone",
+      "title": "웜스 존.io - 게걸스러운 뱀",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/IFZh4-P3WEpHhFOoGDFpmcWWw-ehjPMn9zF6uEuHsyGXLM9io3q3gAXSKZTda3qYOg",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.skiagb",
+      "title": "세븐나이츠 키우기",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/22kPomgM8a0DWQgTIlSaktotGU_riwsNOluGvr-aED--NsvQYsiSo6cz_vUMK4yIGoQCocDSdk7hmbcoJZY-VQ",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.skiagb&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
