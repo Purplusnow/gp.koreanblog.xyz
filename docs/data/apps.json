@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T03:23:45.664Z",
+  "updatedAt": "2026-03-31T03:25:08.453Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -81,6 +81,10 @@
     "com.starplay.spider.fighter.openworld",
     "com.playgendary.ktbremaster",
     "com.inforcegames.blackdeck",
+    "com.gamevil.heiroflight.android.google.global.normal",
+    "com.mobilechess.gp",
+    "com.wildspike.wormszone",
+    "com.netmarble.skiagb",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -368,10 +372,9 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.gamevil.heiroflight.android.google.global.normal",
-    "com.mobilechess.gp",
-    "com.wildspike.wormszone",
-    "com.netmarble.skiagb"
+    "com.FoxieGames.HorseRidingTales",
+    "com.action.survival.craft.rpg",
+    "com.hypgames.ultimategolf"
   ],
   "seenItems": [
     {
@@ -1127,6 +1130,33 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/22kPomgM8a0DWQgTIlSaktotGU_riwsNOluGvr-aED--NsvQYsiSo6cz_vUMK4yIGoQCocDSdk7hmbcoJZY-VQ",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.skiagb&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.FoxieGames.HorseRidingTales",
+      "title": "승마 이야기 - 친구와 함께 말타기",
+      "developer": "Foxie Ventures",
+      "icon": "https://play-lh.googleusercontent.com/qbwdhrahERgk9B-2Z9b6j1Ic2n8rp4t93yBeyhXX3iKfA5IlAak9x4L8a7IIUhkT68w",
+      "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.HorseRidingTales&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.action.survival.craft.rpg",
+      "title": "생존의 기술 - 알비온에서 살아남은 불멸의 검투사",
+      "developer": "101XP LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/ebfOp0k55nOx5jDfanfvH5Jm9UehcXA4zuIJiE9-muPOe2aVyUQZhdw4shwq21WN0sU",
+      "url": "https://play.google.com/store/apps/details?id=com.action.survival.craft.rpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hypgames.ultimategolf",
+      "title": "Ultimate Golf!",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/AXqftKxe9Yv9_wA_0UzEIpv-sar9zQONyr4qUDcaNkDWCyJt_XfA0hxWQwpD5OLNoIQ",
+      "url": "https://play.google.com/store/apps/details?id=com.hypgames.ultimategolf&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4468,6 +4498,33 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/22kPomgM8a0DWQgTIlSaktotGU_riwsNOluGvr-aED--NsvQYsiSo6cz_vUMK4yIGoQCocDSdk7hmbcoJZY-VQ",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.skiagb&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.FoxieGames.HorseRidingTales",
+      "title": "승마 이야기 - 친구와 함께 말타기",
+      "developer": "Foxie Ventures",
+      "icon": "https://play-lh.googleusercontent.com/qbwdhrahERgk9B-2Z9b6j1Ic2n8rp4t93yBeyhXX3iKfA5IlAak9x4L8a7IIUhkT68w",
+      "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.HorseRidingTales&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.action.survival.craft.rpg",
+      "title": "생존의 기술 - 알비온에서 살아남은 불멸의 검투사",
+      "developer": "101XP LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/ebfOp0k55nOx5jDfanfvH5Jm9UehcXA4zuIJiE9-muPOe2aVyUQZhdw4shwq21WN0sU",
+      "url": "https://play.google.com/store/apps/details?id=com.action.survival.craft.rpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hypgames.ultimategolf",
+      "title": "Ultimate Golf!",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/AXqftKxe9Yv9_wA_0UzEIpv-sar9zQONyr4qUDcaNkDWCyJt_XfA0hxWQwpD5OLNoIQ",
+      "url": "https://play.google.com/store/apps/details?id=com.hypgames.ultimategolf&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
