@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T02:35:29.310Z",
+  "updatedAt": "2026-03-31T02:43:13.407Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -71,6 +71,11 @@
     "br.com.tapps.cowevolution",
     "com.dopuz.panda.saga",
     "com.rhythmdance.taptile.dancingcats",
+    "com.sinyee.babybus.taxi",
+    "com.eastsidegames.lowerdecks",
+    "com.gameloft.android.ANMP.GloftPOHM",
+    "com.sinyee.babybus.diner",
+    "com.tiltingpoint.sbadventures",
     "com.netmarble.stonkey",
     "com.nhn.abyssdia",
     "com.fh.kr.drc.gp",
@@ -358,11 +363,8 @@
     "com.axlebolt.standoff2",
     "com.riotgames.league.wildrift",
     "com.chucklefish.stardewvalley",
-    "com.sinyee.babybus.taxi",
-    "com.eastsidegames.lowerdecks",
-    "com.gameloft.android.ANMP.GloftPOHM",
-    "com.sinyee.babybus.diner",
-    "com.tiltingpoint.sbadventures"
+    "com.bandainamcoent.dblegends_ww",
+    "com.carxtech.carxdr2"
   ],
   "seenItems": [
     {
@@ -1037,6 +1039,24 @@
       "developer": "Tilting Point",
       "icon": "https://play-lh.googleusercontent.com/8Fi_VpNYHBMCtzcminHVeOrEJ0LY9MIQ5bhQH7EbOvzvGdNZWHJ-_rn4MNLEw2Sflf8I",
       "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.dblegends_ww",
+      "title": "DRAGON BALL LEGENDS 드래곤 볼 레전즈",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/h6dF0CjkpaHkV89xzUX1j8h3MfgcXb2uNLM5XzlC7y_b4iXsnKBZYvTV4khEFIBiBn8fLLzqtJou9YGspUNFlEY",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.carxtech.carxdr2",
+      "title": "CarX Drift Racing 2",
+      "developer": "CarX Technologies",
+      "icon": "https://play-lh.googleusercontent.com/vcksPh2sItgUw_wdttyWDiNP7ncDDnelA18iXhJe_SpODAASHsg3ZzHDvxBRIpIvKg",
+      "url": "https://play.google.com/store/apps/details?id=com.carxtech.carxdr2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4297,6 +4317,24 @@
       "developer": "Tilting Point",
       "icon": "https://play-lh.googleusercontent.com/8Fi_VpNYHBMCtzcminHVeOrEJ0LY9MIQ5bhQH7EbOvzvGdNZWHJ-_rn4MNLEw2Sflf8I",
       "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.dblegends_ww",
+      "title": "DRAGON BALL LEGENDS 드래곤 볼 레전즈",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/h6dF0CjkpaHkV89xzUX1j8h3MfgcXb2uNLM5XzlC7y_b4iXsnKBZYvTV4khEFIBiBn8fLLzqtJou9YGspUNFlEY",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.carxtech.carxdr2",
+      "title": "CarX Drift Racing 2",
+      "developer": "CarX Technologies",
+      "icon": "https://play-lh.googleusercontent.com/vcksPh2sItgUw_wdttyWDiNP7ncDDnelA18iXhJe_SpODAASHsg3ZzHDvxBRIpIvKg",
+      "url": "https://play.google.com/store/apps/details?id=com.carxtech.carxdr2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
