@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T19:16:00.579Z",
+  "updatedAt": "2026-03-31T20:54:04.849Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -466,7 +466,17 @@
     "com.kids.vs.zombies.pvp.multiplayer.pve.brawl.first.person.fps.shooter.action.games",
     "com.redtailworks.slimetd",
     "games.ugo.merge.secrets",
-    "com.bubadu.bubbu"
+    "com.bubadu.bubbu",
+    "com.farlightgames.samo.gp.kr",
+    "com.homagames.studio.allinhole",
+    "com.maxgames.stickwarlegacy",
+    "com.tutotoons.app.kpopsiescuteunicornpets",
+    "com.sinyee.babybus.restaurant",
+    "com.sweet.candy.match.gp",
+    "com.sinyee.babybus.city",
+    "com.goodgamestudios.bigfarmmobileharvest",
+    "com.matryoshka.cooking.vibes",
+    "com.sinyee.babybus.shopping"
   ],
   "items": [
     {
@@ -637,6 +647,96 @@
       "developer": "Bubadu",
       "icon": "https://play-lh.googleusercontent.com/9Fc1ttY63284Uz2KF6fqjVK0SpDeSyhx4BjkBROPfVCeUVPGur5O-eGfEP6wnoBReQ",
       "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.farlightgames.samo.gp.kr",
+      "title": "콜 오브 드래곤즈",
+      "developer": "FARLIGHT",
+      "icon": "https://play-lh.googleusercontent.com/_RfXWqDkmCbpur-TDq-bkfIlu6sXt5noe9bk9lij53cfr7u8ySbwUjilvlWSsWTgIJs",
+      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.samo.gp.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.homagames.studio.allinhole",
+      "title": "올인홀 All in Hole",
+      "developer": "Homa",
+      "icon": "https://play-lh.googleusercontent.com/_arjau3jAT_apGbNgnwv5QCqRGLXSNKLZCvjEuoPovBaz-jpWOCAiQ6mB2KXA6dS55jRy1cJ71jBPAOh2vQEZg",
+      "url": "https://play.google.com/store/apps/details?id=com.homagames.studio.allinhole&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.maxgames.stickwarlegacy",
+      "title": "스틱 워: 레거시",
+      "developer": "Max Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/ORpdNiFMJhZEUB_lXhlf_ez2pBkugwKoc_RxW4S5ic7cyf021hE22tXmAxHWadK2OKs",
+      "url": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.kpopsiescuteunicornpets",
+      "title": "Kpopsies - 팝스타 유니콘 밴드를 부화시키세요",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/c8n7xRmy4WyzRRmxo6Fd2Xw7HZd0B-Cb3ukqW87LuXl3yJ2GqFvZftcNocx0ohJOQ4I",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.kpopsiescuteunicornpets&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.restaurant",
+      "title": "레스토랑 주방놀이 - 베이비버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/F-bzmuNUjn6rcsNk6p4OuiRFYkyD1pA4egHL4G1DDmWCsKznlJ-pys90wQoV9Zi_SYs",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.restaurant&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sweet.candy.match.gp",
+      "title": "달콤한 캔디 매치",
+      "developer": "Bubblescapes",
+      "icon": "https://play-lh.googleusercontent.com/hvQ8juDCRxKQcly1mpS6lG7kqWGRFmYAIbymmoNVhgUyPF4CgtJq9W2W2b7CYge395c",
+      "url": "https://play.google.com/store/apps/details?id=com.sweet.candy.match.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.city",
+      "title": "아기 팬더의 도시",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/1sW7L6lB7AyU_4-_L0y8J7_tMIMnNakqO_z0iyRNyuAzCWNea_sKLIpNeL9djghmoiQ",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.city&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.goodgamestudios.bigfarmmobileharvest",
+      "title": "빅팜 : 모바일",
+      "developer": "Goodgame Studios",
+      "icon": "https://play-lh.googleusercontent.com/pvhHTMKR8Yf-zmKCSaQBCzF5uPTSlfIbNVZ0L0Bm-KlqJzAOqeBee_0JN9-8fmwGdFlv",
+      "url": "https://play.google.com/store/apps/details?id=com.goodgamestudios.bigfarmmobileharvest&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.matryoshka.cooking.vibes",
+      "title": "We Are Cooking: 레스토랑 게임",
+      "developer": "Matryoshka",
+      "icon": "https://play-lh.googleusercontent.com/rBLH1025XsHh60LUolgBtPTlQVfFz54-e14A8u8op5PUf1wVYUPHpq2fpyTZPnN-Slc",
+      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.cooking.vibes&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.shopping",
+      "title": "마트놀이 - 베이비버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/0M_JAsj7ofKR-AJfXS0MuD6zOtupjwsFhIxVHIoNismbF0e16HQx65P6ZOX_VK4BLHs",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.shopping&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
