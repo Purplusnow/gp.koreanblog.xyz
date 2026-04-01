@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T23:45:01.403Z",
+  "updatedAt": "2026-04-01T00:25:47.356Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -490,9 +490,23 @@
     "com.stgl.global",
     "com.biglime.cookingmadness",
     "my.arena",
-    "com.com2us.kbomanager.normal2.freefull.google.global.android.common"
+    "com.com2us.kbomanager.normal2.freefull.google.global.android.common",
+    "com.mxdzzkr.google",
+    "com.studiobside.starMain",
+    "com.neowiz.game.anne",
+    "com.edujoy.kidecats",
+    "com.me2zen.tripeaks"
   ],
   "items": [
+    {
+      "appId": "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
+      "title": "Blitz: 영웅의 등장",
+      "developer": "WhaleApp LTD",
+      "icon": "https://play-lh.googleusercontent.com/H4Y0eYG352USMUPdbv38sWSfaFILO8X1kOKcPFnwXtKXNtgHBxzBe_VFV21sxd38oz3l",
+      "url": "https://play.google.com/store/apps/details?id=com.whaleapp.blitz.rise.heroes.idle.rpg.battle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
     {
       "appId": "com.sinyee.babybus.mathIII",
       "title": "BabyBus 키즈 수학게임",
@@ -535,15 +549,6 @@
       "developer": "SMOKOKO LTD",
       "icon": "https://play-lh.googleusercontent.com/yk0P5tfGO-kznJfx_xUY-Y3ZqWum-XvedOODl7NQQ6VOhgrw7ZdRqwnokQFSruiLBlY",
       "url": "https://play.google.com/store/apps/details?id=com.smokoko.race&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
-      "title": "Blitz: 영웅의 등장",
-      "developer": "WhaleApp LTD",
-      "icon": "https://play-lh.googleusercontent.com/H4Y0eYG352USMUPdbv38sWSfaFILO8X1kOKcPFnwXtKXNtgHBxzBe_VFV21sxd38oz3l",
-      "url": "https://play.google.com/store/apps/details?id=com.whaleapp.blitz.rise.heroes.idle.rpg.battle&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -877,6 +882,51 @@
       "developer": "Com2uS",
       "icon": "https://play-lh.googleusercontent.com/piT2tsljMd-wNPCYf3T8DxGpjdIi6wPUFd5dlv3Ytoj6OMMrHEU1QFiqX9NqGVFnIrD-_55FEMw8OYZ3OPCT",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.kbomanager.normal2.freefull.google.global.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.mxdzzkr.google",
+      "title": "버섯커 키우기-3000뽑기 증정",
+      "developer": "Joy Nice Games",
+      "icon": "https://play-lh.googleusercontent.com/olgO91YKKQE8d46Mt97SCkZM-SYJBvxrCeP_LRJeewclKhP1K8npUYnUAvkIJ8sEzz0c67Z778p1yV7INLsiQck",
+      "url": "https://play.google.com/store/apps/details?id=com.mxdzzkr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.studiobside.starMain",
+      "title": "스타세이비어",
+      "developer": "STUDIOBSIDE",
+      "icon": "https://play-lh.googleusercontent.com/UiSDupKVwV4Kpd1i1UZXCfH_SvMHuRqbzGuT9MLcgUDHgRzzFFXRx_ljuirQI7_vdS_-usRClFSqAIvITK6PKA",
+      "url": "https://play.google.com/store/apps/details?id=com.studiobside.starMain&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.neowiz.game.anne",
+      "title": "오 마이 앤 : 퍼즐 & 집 꾸미기",
+      "developer": "NEOWIZ",
+      "icon": "https://play-lh.googleusercontent.com/MWgJztGKr1SFzYiG6qBeFRs-7ALMHi8ABA062cpJCZ0J-GrOc30WOgQVmnFk0Dqk0V0",
+      "url": "https://play.google.com/store/apps/details?id=com.neowiz.game.anne&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.edujoy.kidecats",
+      "title": "Kid-E-Cats. Educational Games",
+      "developer": "AppQuiz",
+      "icon": "https://play-lh.googleusercontent.com/OIjB8K435z2-rxyxDHDI6e96KMJOrP30feFVYeiWTiv-xks3G7naSq3XVF_DMl6VfaA",
+      "url": "https://play.google.com/store/apps/details?id=com.edujoy.kidecats&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.me2zen.tripeaks",
+      "title": "솔리테르 트라이픽스 져니",
+      "developer": "Ghost Studio Company",
+      "icon": "https://play-lh.googleusercontent.com/kSyxps9LNf4Ok0yUgN7qcLQ0putiLUmJS84uG2RMNUB7w1Qt9Tjfofvlxetasu-u5jJuGdCe897hiLGTeD3uzQ",
+      "url": "https://play.google.com/store/apps/details?id=com.me2zen.tripeaks&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
