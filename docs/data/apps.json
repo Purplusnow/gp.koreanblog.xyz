@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T15:19:57.785Z",
+  "updatedAt": "2026-04-01T17:08:37.270Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -533,7 +533,12 @@
     "com.devsisters.ck",
     "com.nexon.nsc.maplem",
     "com.yatzy.classic.dice.duel.game",
-    "com.yottagames.gameofmafiakr"
+    "com.yottagames.gameofmafiakr",
+    "com.moossangjr.mjko",
+    "com.archosaur.kr.sgzw.gp",
+    "com.kongregate.mobile.bitheroes.google",
+    "azurgames.idle.war",
+    "com.zynga.pottermatch"
   ],
   "items": [
     {
@@ -560,6 +565,51 @@
       "developer": "Phantix Games",
       "icon": "https://play-lh.googleusercontent.com/9kDChO8vAGnWVZg34V4c9LizZa5tmsm4GWytIxmZr66_rpRtHf72Hl6ULsEdlMisIg",
       "url": "https://play.google.com/store/apps/details?id=com.yottagames.gameofmafiakr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.moossangjr.mjko",
+      "title": "Dynasty Legends 2: 무쌍전란",
+      "developer": "HK TAIHE INTERACTIVE LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/kGg3M7RIpm47LflxKX6xiSCJQHESitrzckVrpo2qCSjr2iz7VP1N_ZLd6wv1L075wL4",
+      "url": "https://play.google.com/store/apps/details?id=com.moossangjr.mjko&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.archosaur.kr.sgzw.gp",
+      "title": "삼국지워",
+      "developer": "Archosaur Games",
+      "icon": "https://play-lh.googleusercontent.com/IeF-5hYbYtkPwUUhPfvHFUcvjcEOjSt3sLG7zbD2Ugi7ZcWUPVe2Ah2gQTGNU0r93Y4J",
+      "url": "https://play.google.com/store/apps/details?id=com.archosaur.kr.sgzw.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.kongregate.mobile.bitheroes.google",
+      "title": "비트 히어로즈 퀘스:트픽셀 RPG",
+      "developer": "Kongregate",
+      "icon": "https://play-lh.googleusercontent.com/YWKlt0hkMEtlyPvyvor4470KKzivPibKduAQKB8XkyzjR7j2eha_gXJp_ONvphFceLY",
+      "url": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.bitheroes.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "azurgames.idle.war",
+      "title": "킹덤 클래시 - 중세 전략",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/4coyiJulfacItuxK3Kpbt1oJG2wiVRHraf7BYm3yBNeEGyPz-XxejOfkighbxhc2tK0",
+      "url": "https://play.google.com/store/apps/details?id=azurgames.idle.war&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.zynga.pottermatch",
+      "title": "해리포터: 퍼즐과 마법 - 퍼즐게임",
+      "developer": "Zynga",
+      "icon": "https://play-lh.googleusercontent.com/ZMtIaA6ZCli4-nU1dKv9RPII7s893n-fyT2yysVmTERnb3lwgavD9K64dYj3rek1Yr7m",
+      "url": "https://play.google.com/store/apps/details?id=com.zynga.pottermatch&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3017,51 +3067,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nianticlabs.pokemongo",
-      "title": "Pokémon GO",
-      "developer": "Niantic, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.oakever.tiletrip",
-      "title": "Tile Explorer - 트리플 매치",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nebula.mahjongtile",
-      "title": "마작 블래스트 (Mahjong Blast)",
-      "developer": "Nebula  Studio",
-      "icon": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.JindoBlu.FourPlayers",
-      "title": "1 2 3 4인용 게임 - 오프라인",
-      "developer": "JindoBlu",
-      "icon": "https://play-lh.googleusercontent.com/T1ekib6mm06SnURnCaL0UOJGlzyLgwsda7CxM977oGdmzw1DjoJbcfJhQLGh2TQ1x18C",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.superplaystudios.disneysolitairedreams",
-      "title": "Disney Solitaire",
-      "developer": "SuperPlay.",
-      "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
-      "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
