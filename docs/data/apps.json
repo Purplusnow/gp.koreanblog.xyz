@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T20:57:37.137Z",
+  "updatedAt": "2026-04-01T21:53:51.111Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -543,7 +543,11 @@
     "com.critical.strike2",
     "com.slg.savagesurvival",
     "com.iz.kids.construction.vehicles.truck.building.games",
-    "com.herocraft.game.piratearena"
+    "com.herocraft.game.piratearena",
+    "com.nexon.dominations.asia.g",
+    "bg.xssoftware.ladypopular.fashionarena",
+    "com.pixelfederation.portcity.ship.tycoon.strategy.simulation",
+    "com.loltap.farmland"
   ],
   "items": [
     {
@@ -660,6 +664,42 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/knl0BlwEwcYVDHTWaqNdeNVj07wlAzWZQL5DTgJ-HtRHJJhXOcVLgrMj7cFlYQ6SL_14",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.piratearena&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.dominations.asia.g",
+      "title": "도미네이션즈",
+      "developer": "Big Huge Games.",
+      "icon": "https://play-lh.googleusercontent.com/zVBPWFlFto8I8dGZdzOxav0ihBrJ9-f3ckb1mUypDPfw779yTxDZqLF_BGKE-XR9IPg",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.dominations.asia.g&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "bg.xssoftware.ladypopular.fashionarena",
+      "title": "Lady Popular: Fashion Arena",
+      "developer": "XS Software AD",
+      "icon": "https://play-lh.googleusercontent.com/vOalTquk3cOn5KCc4GwZ7YyefbAvNBI7h1fCe2mqBO5gf9IJD47pCItYs-waIxIKfY4",
+      "url": "https://play.google.com/store/apps/details?id=bg.xssoftware.ladypopular.fashionarena&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixelfederation.portcity.ship.tycoon.strategy.simulation",
+      "title": "Port City: Ship Transit Tycoon",
+      "developer": "PIXEL FEDERATION, s.r.o.",
+      "icon": "https://play-lh.googleusercontent.com/-oqGZkACCdCpIGaA3YqLjJPwIlRmK3kGCih5eoYrwiif_S9aZMK7622IROinBSE2gm1eWpB57IzS3J0C-A4O",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.portcity.ship.tycoon.strategy.simulation&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.loltap.farmland",
+      "title": "팜랜드",
+      "developer": "Homa",
+      "icon": "https://play-lh.googleusercontent.com/tD58VAhX1FSZIiusN5VwNsS8-8SyRlx_6D-oW4Bj3kFHzuIZR36BD1u9rOAz1I-VbA",
+      "url": "https://play.google.com/store/apps/details?id=com.loltap.farmland&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3117,42 +3157,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.probaseball3d.normal.freefull.google.global.android.common",
-      "title": "컴투스프로야구2026",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/E0h6-P9lKwA9s0i7ggU2ewrk8qAn2Y13d77ydsEm9mq9dAXjqE-ZKkBHr8SiVEUKZEDZDThfoD6rezD_dXF9X2s",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.probaseball3d.normal.freefull.google.global.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.soccer.score.star",
-      "title": "사커 슈퍼스타(Soccer Superstar)",
-      "developer": "Real Freestyle Soccer",
-      "icon": "https://play-lh.googleusercontent.com/utNyP5-jVUjmuAzED5v2H-SbOisTOBjiu0FS2qeCJ7l40CEADbQxHxrGtmcurkXs5QJH",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "sudoku.puzzle.free.game.brain",
-      "title": "스도쿠-스도쿠 퍼즐, 두뇌 게임, 숫자 게임",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/Ng5nd9ltUUsoSj1zE3Hil8BGXg468BYWUY8pswIf-ORKM9DzOWqblPaXyPBekok4V9JqnS4meLxsfzS7mIvHPQ",
-      "url": "https://play.google.com/store/apps/details?id=sudoku.puzzle.free.game.brain&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ludia.jurassicworld",
-      "title": "Jurassic World™: The Game",
-      "developer": "Ludia Inc.",
-      "icon": "https://play-lh.googleusercontent.com/7q9T0W5_qIu_qykhYm0CloMD_6ZWhKqFhCas3P-8XKQyHLqMQ2KyrRtzmMsSLg6FNdI",
-      "url": "https://play.google.com/store/apps/details?id=com.ludia.jurassicworld&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
