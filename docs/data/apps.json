@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T03:37:04.348Z",
+  "updatedAt": "2026-04-01T06:02:20.655Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -513,7 +513,11 @@
     "park.master.car.parking.games",
     "com.fanatee.cody",
     "com.ironhidegames.android.kingdomrush.alliance",
-    "com.savysoda.pixelstarships"
+    "com.savysoda.pixelstarships",
+    "com.plarium.mechlegion",
+    "com.peoplefun.wordsolitaire",
+    "spider.solitaire.card.games.free.klondike.patience",
+    "com.redvel.soccer.star.football.legends.games.clash.multiplayer.online"
   ],
   "items": [
     {
@@ -1107,6 +1111,42 @@
       "developer": "Savy Soda",
       "icon": "https://play-lh.googleusercontent.com/Yed2kAOPwV6f22GZQfpjAHvVwjF9FiSaUZPblfk31FiEVAk9TCQpFMRLENl-7FiUMQ",
       "url": "https://play.google.com/store/apps/details?id=com.savysoda.pixelstarships&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.plarium.mechlegion",
+      "title": "Mech Arena (메크 아레나)",
+      "developer": "Plarium Global Ltd",
+      "icon": "https://play-lh.googleusercontent.com/YmC3PbhCybbBi1YN57foR-kfEY50z7Bm4ku7a_lauo5y_pd-AAIQM7WXrsN-H0DDXEA",
+      "url": "https://play.google.com/store/apps/details?id=com.plarium.mechlegion&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.peoplefun.wordsolitaire",
+      "title": "Wordscapes Solitaire",
+      "developer": "PeopleFun",
+      "icon": "https://play-lh.googleusercontent.com/y38JErzXUPrERQm8e24LIyy3LveFEDOSXRuxVEYKkzNVt7weB6-7jphZ-iK7ZBg3gfs",
+      "url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordsolitaire&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "spider.solitaire.card.games.free.klondike.patience",
+      "title": "카드게임 - 스파이더카드놀이",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/nAYT7nHsy7QMEzJJCITNyNPpQZYv8z8vcFvvYZK8CY9J8koR8houV10ynZWbHDP6b0me",
+      "url": "https://play.google.com/store/apps/details?id=spider.solitaire.card.games.free.klondike.patience&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.redvel.soccer.star.football.legends.games.clash.multiplayer.online",
+      "title": "Soccer Star Super Football",
+      "developer": "Redvel Sports Games",
+      "icon": "https://play-lh.googleusercontent.com/sr9XFBB12SZTKslbE1mJ9Ray0_zLLHZnthnyOOLubswGT4kTohv4eabEs96DUecwh_N6",
+      "url": "https://play.google.com/store/apps/details?id=com.redvel.soccer.star.football.legends.games.clash.multiplayer.online&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2817,42 +2857,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.hidden.spots",
-      "title": "숨은 장소 - 숨은그림찾기로 물체의 위치를 찾아보세요",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/1Ia_u8FCGX4bNO18AqdqyF_6g9Nifk3VVcBfwNlaACFcHe3BceE69sLHj2BaHY4E9ME7Rd-XpvTZfP-loFlhqA",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.hidden.spots&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.master.triple3d.find",
-      "title": "Triple Match 3D",
-      "developer": "Boombox Games LTD",
-      "icon": "https://play-lh.googleusercontent.com/Aoy0oz6uytHijNFegFMvy79flsZOEMTDGh08i2onZxom87smWdi_RN-GiuUiZSyiRvQ",
-      "url": "https://play.google.com/store/apps/details?id=com.master.triple3d.find&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.sortmatch.triple.drop.goods.puzzle",
-      "title": "Sort Match™:3D Goods Puzzle",
-      "developer": "Jewel Loft",
-      "icon": "https://play-lh.googleusercontent.com/r9a9lDYb9loAcRY-6518SopxUaTToeVX3T4B-ogUr4CWJdYUXYetboz7K26Zm3c2oJMfwruHH_pSZocJlRXq1-s",
-      "url": "https://play.google.com/store/apps/details?id=com.sortmatch.triple.drop.goods.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.zimad.puzzle.villa.jigsaw",
-      "title": "Jigsaw Puzzle Villa: 편안한 퍼즐 게임",
-      "developer": "ZiMAD",
-      "icon": "https://play-lh.googleusercontent.com/lIYumvnVgxAifdqU-t8jN__TyZ809cq1SD9FYOc9soe8hvKmCf1f-onwOBHs69uYXAE",
-      "url": "https://play.google.com/store/apps/details?id=com.zimad.puzzle.villa.jigsaw&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
