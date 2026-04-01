@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T13:59:25.376Z",
+  "updatedAt": "2026-04-01T15:19:57.785Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -530,9 +530,39 @@
     "com.stone3.ig",
     "com.Gaggle.fun.GooseGooseDuck",
     "com.ea.game.pvz2_row",
-    "com.devsisters.ck"
+    "com.devsisters.ck",
+    "com.nexon.nsc.maplem",
+    "com.yatzy.classic.dice.duel.game",
+    "com.yottagames.gameofmafiakr"
   ],
   "items": [
+    {
+      "appId": "com.nexon.nsc.maplem",
+      "title": "메이플스토리M",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/owWNVyxgBbz-pQzCa6DWQPCsaV1Fs1lLIhXw8L6fof119ERZaGepBfRgbIboHMlZMZaQu_DMhi2zz1_-th95JA",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.yatzy.classic.dice.duel.game",
+      "title": "Yatzy GO! Classic Dice Game",
+      "developer": "Game In Life",
+      "icon": "https://play-lh.googleusercontent.com/7JpahXmAkLS2c5J8xsQhz5VjOsr2nxz1gVok_M-yonmPWv1IMFpb71P3cLwtVgec5g",
+      "url": "https://play.google.com/store/apps/details?id=com.yatzy.classic.dice.duel.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.yottagames.gameofmafiakr",
+      "title": "The Grand Mafia-더 그랜드 마피아",
+      "developer": "Phantix Games",
+      "icon": "https://play-lh.googleusercontent.com/9kDChO8vAGnWVZg34V4c9LizZa5tmsm4GWytIxmZr66_rpRtHf72Hl6ULsEdlMisIg",
+      "url": "https://play.google.com/store/apps/details?id=com.yottagames.gameofmafiakr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
     {
       "appId": "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
       "title": "Blitz: 영웅의 등장",
@@ -2987,33 +3017,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.dbgekishinsquadra",
-      "title": "DRAGON BALL GEKISHIN SQUADRA",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/_R-khqtcK_O_Syy520O08-OG3tvIfkqz4HwvNkAMLFqgsPzoCFkpLG7SPOa3kqnBe3eNmvj3O0DXbxU9IL_u",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dbgekishinsquadra&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bgg.jump",
-      "title": "Project Makeover",
-      "developer": "Magic Tavern, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/JIFYEeZtGEb9Av-qb_J3vQeS0mOtDt60bGRTQi2nMRloLEk3cZ3rgxoRigVlQxvqHZ2NtcspCVJFL5gYTGep5A",
-      "url": "https://play.google.com/store/apps/details?id=com.bgg.jump&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.rc.cityCleaner",
-      "title": "Triple Match City",
-      "developer": "Ferah Games",
-      "icon": "https://play-lh.googleusercontent.com/9VLUCIT5P1vjQHkkX7UBQrIBxNQ5NeZVHNZYtG8RG8CWWc9ZL97Q6G4PsyqAkW77Kw",
-      "url": "https://play.google.com/store/apps/details?id=com.rc.cityCleaner&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
