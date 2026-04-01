@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T00:25:47.356Z",
+  "updatedAt": "2026-04-01T00:34:53.579Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -495,7 +495,17 @@
     "com.studiobside.starMain",
     "com.neowiz.game.anne",
     "com.edujoy.kidecats",
-    "com.me2zen.tripeaks"
+    "com.me2zen.tripeaks",
+    "com.run.tower.defense",
+    "com.evogames.slavsforvk",
+    "com.nordcurrent.fashion",
+    "com.sinyee.babybus.career",
+    "com.tutotoons.app.princesses",
+    "com.TwinCrab.Motorpolia",
+    "com.badbeans.DarkIdle",
+    "com.cookingo.perfect.meal",
+    "com.metroville.global",
+    "com.asanteegames.magicrampage"
   ],
   "items": [
     {
@@ -504,6 +514,24 @@
       "developer": "WhaleApp LTD",
       "icon": "https://play-lh.googleusercontent.com/H4Y0eYG352USMUPdbv38sWSfaFILO8X1kOKcPFnwXtKXNtgHBxzBe_VFV21sxd38oz3l",
       "url": "https://play.google.com/store/apps/details?id=com.whaleapp.blitz.rise.heroes.idle.rpg.battle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.smokoko.race",
+      "title": "레이스: 로켓 아레나 카 익스트림",
+      "developer": "SMOKOKO LTD",
+      "icon": "https://play-lh.googleusercontent.com/yk0P5tfGO-kznJfx_xUY-Y3ZqWum-XvedOODl7NQQ6VOhgrw7ZdRqwnokQFSruiLBlY",
+      "url": "https://play.google.com/store/apps/details?id=com.smokoko.race&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.run.tower.defense",
+      "title": "킹샷:Kingshot",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
+      "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -540,15 +568,6 @@
       "developer": "Wildlife Studios",
       "icon": "https://play-lh.googleusercontent.com/mCOZI5VtiUvbngm_YK-OhXJtRVdZFrNOPSa97L0g31fNQLM-43R8yJSaOM0x4uOT7OY",
       "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.merge.animal.sanctuary&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.smokoko.race",
-      "title": "레이스: 로켓 아레나 카 익스트림",
-      "developer": "SMOKOKO LTD",
-      "icon": "https://play-lh.googleusercontent.com/yk0P5tfGO-kznJfx_xUY-Y3ZqWum-XvedOODl7NQQ6VOhgrw7ZdRqwnokQFSruiLBlY",
-      "url": "https://play.google.com/store/apps/details?id=com.smokoko.race&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -927,6 +946,87 @@
       "developer": "Ghost Studio Company",
       "icon": "https://play-lh.googleusercontent.com/kSyxps9LNf4Ok0yUgN7qcLQ0putiLUmJS84uG2RMNUB7w1Qt9Tjfofvlxetasu-u5jJuGdCe897hiLGTeD3uzQ",
       "url": "https://play.google.com/store/apps/details?id=com.me2zen.tripeaks&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.evogames.slavsforvk",
+      "title": "하베스트 랜드",
+      "developer": "MTAG PUBLISHING LTD",
+      "icon": "https://play-lh.googleusercontent.com/gbHW5DLoAP2-7OK4VwQ6OL7ykLmsi00gSZEJRcnMib548OR2bAwWS49WFBs2qMd60ME",
+      "url": "https://play.google.com/store/apps/details?id=com.evogames.slavsforvk&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.nordcurrent.fashion",
+      "title": "Pocket Styler: 옷 입히기 게임",
+      "developer": "Nordcurrent Games",
+      "icon": "https://play-lh.googleusercontent.com/Bl6ojaqSm0r4pWI8W1gg3j_0Dx6dpr1PfOPptLdLSgpKEB5939xlhTj8wNYwkH4CBYs",
+      "url": "https://play.google.com/store/apps/details?id=com.nordcurrent.fashion&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.career",
+      "title": "다양한 직업체험놀이 - 베이비버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/XShrMUvxCDddKNHNmv2-mgJSrt1B2VhP6vvvfl0cv-UcLkMipPQWGtaRjhB6poDRw9Y",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.career&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.princesses",
+      "title": "Princesses - Enchanted Castle",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/k-r3KdwLO8g6E5y4to2H0WbQkjDobEazBKDfnHKmVEyIIW4WQLBjYI7PepS4Q7GNOO_N",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.princesses&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.TwinCrab.Motorpolia",
+      "title": "스테이트 커넥트: 교통 통제",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/-TSJthRTGWUi3S-gSvpkAkeJTLWvFp8n4had4iON78KGU7Zo_iMVVn3qHvPlOPB6o-A",
+      "url": "https://play.google.com/store/apps/details?id=com.TwinCrab.Motorpolia&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.badbeans.DarkIdle",
+      "title": "임모탈 키우기 : 복귀 이벤트 리뉴얼",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/eZ1NkayhxQ5BxYAdFyKJtiHx7I9qjH_Lf7TnSrk5BwhKnXYXuGpst1saGJYmxNuo7xIOh_wC_RhY17_kgBwnm6Y",
+      "url": "https://play.google.com/store/apps/details?id=com.badbeans.DarkIdle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookingo.perfect.meal",
+      "title": "Cookingo: Perfect Meal",
+      "developer": "DIGO Lab",
+      "icon": "https://play-lh.googleusercontent.com/lOiC0VEsUHjQZx9eXptJLBKuwdYMkBc-rzO0jLBWutWld-lSTQOLutXMpQF_-pmDhpAO",
+      "url": "https://play.google.com/store/apps/details?id=com.cookingo.perfect.meal&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.metroville.global",
+      "title": "Livetopia: Party!",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/aYEmJm5FRSPeymXEUfffLWSjfhCeemvVKo4bCql6JBqjEJIwNLXyqjCLzX-Gk2suzGw",
+      "url": "https://play.google.com/store/apps/details?id=com.metroville.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.asanteegames.magicrampage",
+      "title": "Magic Rampage",
+      "developer": "Asantee Games",
+      "icon": "https://play-lh.googleusercontent.com/ZSI9gI6BuA7ifN3maQanSFFCCQZnsspPnWf4YwvrIpTa-oBF8iarFIz0BaUuA9eBUbM",
+      "url": "https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2628,51 +2728,6 @@
       "developer": "Com2uS Holdings",
       "icon": "https://play-lh.googleusercontent.com/FhPwKGBJmX3ONq6QnQt8eVE8b6_PebylDFUgGgPlPHYsUQRSFomC40c3p2umuXQ8hmVT",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.soulstrike.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.neptune.ehrpis",
-      "title": "에르피스",
-      "developer": "Neptune Corp.",
-      "icon": "https://play-lh.googleusercontent.com/7xGXOKQakqje8mHVQoR83HXdMDpsOcDdN1ho6VAMAllKXrZfKck-UW0flnqRfJ8uZrZNEIAqtC5CKFJsao3wb94",
-      "url": "https://play.google.com/store/apps/details?id=com.neptune.ehrpis&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.funplus.ts.global",
-      "title": "타일 서바이벌",
-      "developer": "FunPlus International AG",
-      "icon": "https://play-lh.googleusercontent.com/zckZa4Pytdr9QxK-Xv6XlbJo62tZV4pk3VPLBnuUXzR-pmM5nWWHUbo3MT1Lu9xxIRye",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.funfizz.palmon.gp",
-      "title": "팰몬: 서바이벌",
-      "developer": "LILITH TECHNOLOGY HONG KONG LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/NJQ-gcs1UskYccneIHvjpWShJdmH7VieuT_7itMrO2A29m1DP_nJACa0Qk-86CJXBfXOguMgaN5YilJD-lyKN00",
-      "url": "https://play.google.com/store/apps/details?id=com.funfizz.palmon.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.iogame.gearworld",
-      "title": "기어 작동: 최후의 요새-Gear Defenders",
-      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/Mfx1KraZT204_q6SU72F_NObvTzMUQHxwxocwi97aKvS_GWXmIIwVzCcXhOuFtFOvkj9POgeXrHjyTGXrI6Z",
-      "url": "https://play.google.com/store/apps/details?id=com.iogame.gearworld&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.merge.cooking.theme.restaurant.food",
-      "title": "머지 쿠킹 테마 레스토랑",
-      "developer": "Happibits Game",
-      "icon": "https://play-lh.googleusercontent.com/Kw29pYIvvJn9N_YN_9UFPkdRP3hlrgniYsIm33NconuH2u4nlvip3rd6x-jdjYn5C0Kjtfv9GwvyfaTVQ-EF",
-      "url": "https://play.google.com/store/apps/details?id=com.merge.cooking.theme.restaurant.food&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
