@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T11:09:58.121Z",
+  "updatedAt": "2026-04-01T13:59:25.376Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -527,7 +527,10 @@
     "com.rbx.alice.android.prod",
     "com.smilegate.outerplane.stove.google",
     "com.ironhidegames.android.ironmarines.invasion.rts",
-    "com.stone3.ig"
+    "com.stone3.ig",
+    "com.Gaggle.fun.GooseGooseDuck",
+    "com.ea.game.pvz2_row",
+    "com.devsisters.ck"
   ],
   "items": [
     {
@@ -1247,6 +1250,33 @@
       "developer": "STONE3 PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/fsGDGS-woG6WlbzzMwpOCDFLOX-WEnld77igrR3pUZDVnyX3bmPdVwTiyJyUe_Y_6wM",
       "url": "https://play.google.com/store/apps/details?id=com.stone3.ig&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.Gaggle.fun.GooseGooseDuck",
+      "title": "Goose Goose Duck",
+      "developer": "Gaggle Studios, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/2l652ZLy6I_sz1hYKEKHxAlIt65gQfXqBSRLF3WCSxj_51_i_xUyxuRxY6r5ionKJHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.game.pvz2_row",
+      "title": "플랜츠 vs. 좀비 2",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/r8kGrEySHDwfk2bv1HYmk4K76ioLYeDgr6W5SEAsNhoYlHdu-4kVJdaK9NIyVv9z__0_WOOQpSa2qMkaR9m5JQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.ck",
+      "title": "쿠키런: 킹덤",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/7i60FokaELq3mE5v-EDFSAj8pcQTY63N5otoEl0tw1GneccJHz-UcxiNzvJtOFXg2ZeLgjPKWUfbZh6nAVjb0w",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2957,33 +2987,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "math.puzzle.games.crossmath.number.puzzles.free",
-      "title": "수학 퍼즐 게임 - 크로스매스",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/dOwtrHWN1fCW_A-VBZjnyPlYoQG5Air-DTbaBrTnIdjGazXGK0APVXc7cR5ehObb4fwt8Vkm25PpOPJItPsc",
-      "url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.epic.stickman.survival.rpg.idle.game",
-      "title": "에픽 스틱맨: 방치형 RPG 전쟁",
-      "developer": "Fansipan Limited",
-      "icon": "https://play-lh.googleusercontent.com/NStkWX9LCf08xPoAaQCHh1898pyeFRaYCFiVGLNVnUkWL1pTe_6nNuKmc4C6v541f2n9DIf8Rd8JWgigOdWu",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.epic.stickman.survival.rpg.idle.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gearpaw.defenders.td.game",
-      "title": "기어몬: 타워 디펜스",
-      "developer": "Perfeggs",
-      "icon": "https://play-lh.googleusercontent.com/o3vqaTfFRSzsu1ZfhWmLOPrgROz6BpOGMPnTq1ovxKRVHdZOvnFckcODaIkqPyno5eErx5fnmeRlCglvA0mt3To",
-      "url": "https://play.google.com/store/apps/details?id=com.gearpaw.defenders.td.game&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
