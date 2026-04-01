@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T07:50:38.071Z",
+  "updatedAt": "2026-04-01T09:19:48.627Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -522,7 +522,9 @@
     "com.ailiyong.world.course",
     "com.crazysort.supermarket.goodstriple",
     "com.playfirst.cookingdashx",
-    "com.tutotoons.app.smolsiesmycutepethouse.free"
+    "com.tutotoons.app.smolsiesmycutepethouse.free",
+    "com.jamcity.pdt",
+    "com.rbx.alice.android.prod"
   ],
   "items": [
     {
@@ -1197,6 +1199,24 @@
       "developer": "TutoTOONS",
       "icon": "https://play-lh.googleusercontent.com/_2ELP6TEN_cQJ_1cIlDR_gDNjZ2cXVQtEcza_s5wuS2bEQwdQPQLMhUkNyKJ36sAEA",
       "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.smolsiesmycutepethouse.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.jamcity.pdt",
+      "title": "Disney Magic Match 3D 매직 매치",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/qconeayUXUcn7AjcSLFOHp9b12b1j6TzblZx0UJvJ4HWjg-03ImNAj2wNk-g5kyMknKb",
+      "url": "https://play.google.com/store/apps/details?id=com.jamcity.pdt&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.alice.android.prod",
+      "title": "Alice's Hotel - Match Story",
+      "developer": "RED BRIX WALL",
+      "icon": "https://play-lh.googleusercontent.com/8PZKVKcuWeRwolVR9N-_lnBsExFN2WnrO08uBstluFeOS1znX1YRD7p7YEZyJ2kl-MgB",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.alice.android.prod&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2907,24 +2927,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "jp.pokemon.pokemontcgp",
-      "title": "포켓몬 카드 게임 Pocket",
-      "developer": "The Pokémon Company",
-      "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.wemademax.projectsc",
-      "title": "악마단 돌겨억!",
-      "developer": "Wemade Max Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/f6MRrLZTdhvrj-lBrJiRyLAjgYlCgBLb9UtJfXtYMv6bo25iPJUL4mKTx4YDuG3iCaaSy9Mwv3KedWHL2Z4U",
-      "url": "https://play.google.com/store/apps/details?id=com.wemademax.projectsc&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
