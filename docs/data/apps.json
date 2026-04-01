@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T00:34:53.579Z",
+  "updatedAt": "2026-04-01T02:48:08.017Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -505,7 +505,11 @@
     "com.badbeans.DarkIdle",
     "com.cookingo.perfect.meal",
     "com.metroville.global",
-    "com.asanteegames.magicrampage"
+    "com.asanteegames.magicrampage",
+    "com.cola.game",
+    "com.wireless.defenseland",
+    "com.gameloft.android.ANMP.GloftDOHM",
+    "merge.magic.merge"
   ],
   "items": [
     {
@@ -1027,6 +1031,42 @@
       "developer": "Asantee Games",
       "icon": "https://play-lh.googleusercontent.com/ZSI9gI6BuA7ifN3maQanSFFCCQZnsspPnWf4YwvrIpTa-oBF8iarFIz0BaUuA9eBUbM",
       "url": "https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.cola.game",
+      "title": "핫레스토랑: 머지&쿠킹",
+      "developer": "Microfun Limited",
+      "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+      "url": "https://play.google.com/store/apps/details?id=com.cola.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.wireless.defenseland",
+      "title": "레이드 러시: 타워 디펜스",
+      "developer": "Panteon",
+      "icon": "https://play-lh.googleusercontent.com/8suVlcKa-KLQcRxFS6p7R5uD8jW1Sutm1vfy_iqZnrTyvo6iug4h8R3Ds4gBGwRl0Q",
+      "url": "https://play.google.com/store/apps/details?id=com.wireless.defenseland&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftDOHM",
+      "title": "드래곤 매니아 레전드",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/VknD6MWP2FtYSPTWxlI1H_ad2BaAdzMzfE5SKW3WczbP7glBE4Ykgrdzh8giSXEvPQ",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDOHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "merge.magic.merge",
+      "title": "머지 매직: 머지 & 보수",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/c46l_O08I8pv3-i6dGIfIQpUZVPqg1-B8wak6iCfGtNKG7RbDRR6b4AIAQ_cDuVsPllP",
+      "url": "https://play.google.com/store/apps/details?id=merge.magic.merge&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2732,38 +2772,11 @@
       "isGame": true
     },
     {
-      "appId": "com.rovio.baba",
-      "title": "앵그리버드2",
-      "developer": "Rovio Entertainment Oy",
-      "icon": "https://play-lh.googleusercontent.com/AijtYd3ELvSg4ItDkO4NmG-F0PL5qE8AxgNqB-OflSakAiM9ulL5K9k0IOqB16TFJw",
-      "url": "https://play.google.com/store/apps/details?id=com.rovio.baba&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.funtomic.matchmasters",
-      "title": "Match Masters",
-      "developer": "Candivore",
-      "icon": "https://play-lh.googleusercontent.com/N4kk_6IIYx3maOSOSLZgSw-EyK-iO30SOQo2607N5_Heodgfz7h7keqYtX55LlS6xSUVbVyfeP_mi8nO6E_r_w",
-      "url": "https://play.google.com/store/apps/details?id=com.funtomic.matchmasters&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcake.android.mahjongmatch",
-      "title": "데일리 마작 매치",
-      "developer": "Big Cake",
-      "icon": "https://play-lh.googleusercontent.com/68Yobdji4hZcg2ik-dGr5EKtVFohP95Ri7Vaaprbc5CZN8jlhF9OP1FIkI2uiy_-0rew",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.mahjongmatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixel.art.coloring.color.number",
-      "title": "Happy Color® – 컬러링북, 숫자 색칠 게임",
-      "developer": "X-FLOW",
-      "icon": "https://play-lh.googleusercontent.com/paB5-2s6q3uXd3nRE0-2QzCLeLklmemDepD0_Erald5YQUazuiOhMvJ8giFluMAX0w",
-      "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=ko&gl=KR",
+      "appId": "com.yodo1.crossyroad",
+      "title": "길건너 친구들",
+      "developer": "HIPSTER WHALE",
+      "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
+      "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
@@ -3502,15 +3515,6 @@
       "developer": "VOODOO",
       "icon": "https://play-lh.googleusercontent.com/2-adXm4hUVrlSrBhuCy_IHg6vKOF0jF_IE8JdsEeU9kwKZBrzx39mQJidYVSbEPzTgDJ",
       "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.yodo1.crossyroad",
-      "title": "길건너 친구들",
-      "developer": "HIPSTER WHALE",
-      "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
-      "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
