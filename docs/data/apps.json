@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T09:19:48.627Z",
+  "updatedAt": "2026-04-01T11:09:58.121Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -524,7 +524,10 @@
     "com.playfirst.cookingdashx",
     "com.tutotoons.app.smolsiesmycutepethouse.free",
     "com.jamcity.pdt",
-    "com.rbx.alice.android.prod"
+    "com.rbx.alice.android.prod",
+    "com.smilegate.outerplane.stove.google",
+    "com.ironhidegames.android.ironmarines.invasion.rts",
+    "com.stone3.ig"
   ],
   "items": [
     {
@@ -1217,6 +1220,33 @@
       "developer": "RED BRIX WALL",
       "icon": "https://play-lh.googleusercontent.com/8PZKVKcuWeRwolVR9N-_lnBsExFN2WnrO08uBstluFeOS1znX1YRD7p7YEZyJ2kl-MgB",
       "url": "https://play.google.com/store/apps/details?id=com.rbx.alice.android.prod&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.smilegate.outerplane.stove.google",
+      "title": "아우터플레인 (OUTERPLANE)",
+      "developer": "Major9",
+      "icon": "https://play-lh.googleusercontent.com/PKMsanVZjsl6FD5Qc5Y5Ezw-l2J6Xtskqxfrf8PpQQtcbd011gepryahqjVyBMM_u3PBOPklHTG1kLFZLv3p",
+      "url": "https://play.google.com/store/apps/details?id=com.smilegate.outerplane.stove.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.ironmarines.invasion.rts",
+      "title": "아이언 마린 Invasion: SF RTS 게임",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/Z3rDUkzHmiGSWyz-upjb1teT9hoM4_9DsZngFaaFomaMt4mJnp1HuuLwjj6Y_ERpuYJx",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.ironmarines.invasion.rts&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.stone3.ig",
+      "title": "Nova: Space Armada",
+      "developer": "STONE3 PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/fsGDGS-woG6WlbzzMwpOCDFLOX-WEnld77igrR3pUZDVnyX3bmPdVwTiyJyUe_Y_6wM",
+      "url": "https://play.google.com/store/apps/details?id=com.stone3.ig&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2927,33 +2957,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.netease.dfjskr",
-      "title": "레이싱 마스터(Racing Master)",
-      "developer": "Exptional Global",
-      "icon": "https://play-lh.googleusercontent.com/HUD0g9JK351QmVOM6DVG_HwZd13V35tJOV8hYDEHNGYzWPfhzUsQH4FxzUgwC1QaWWpI6IBd3krGg5Tp4dxuRw",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.dfjskr&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobile.legends",
-      "title": "모바일 레전드: Bang Bang",
-      "developer": "MOONTON",
-      "icon": "https://play-lh.googleusercontent.com/mpABry50mxiZ5AjxKnCmwq6z_xwhG01p44gqXTodnYVptriDW6BPAEjncRN-5HmwbCpvK8alO-Xp8NJAeu96tg",
-      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.hidea.cat",
-      "title": "고양이와 스프: 힐링 고양이 키우기 게임",
-      "developer": "NEOWIZ",
-      "icon": "https://play-lh.googleusercontent.com/E1Arlrs20aAWy5BvOvDN0tTbAw3q32KghgQCy5q_e5lPOg8wTaK6rYgHcI0wRmCKiqA0EvgOIClzqJjHS80bAw",
-      "url": "https://play.google.com/store/apps/details?id=com.hidea.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
