@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T17:08:37.270Z",
+  "updatedAt": "2026-04-01T19:17:37.055Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -538,7 +538,12 @@
     "com.archosaur.kr.sgzw.gp",
     "com.kongregate.mobile.bitheroes.google",
     "azurgames.idle.war",
-    "com.zynga.pottermatch"
+    "com.zynga.pottermatch",
+    "ig.com.hot.pot.qdc",
+    "com.critical.strike2",
+    "com.slg.savagesurvival",
+    "com.iz.kids.construction.vehicles.truck.building.games",
+    "com.herocraft.game.piratearena"
   ],
   "items": [
     {
@@ -610,6 +615,51 @@
       "developer": "Zynga",
       "icon": "https://play-lh.googleusercontent.com/ZMtIaA6ZCli4-nU1dKv9RPII7s893n-fyT2yysVmTERnb3lwgavD9K64dYj3rek1Yr7m",
       "url": "https://play.google.com/store/apps/details?id=com.zynga.pottermatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "ig.com.hot.pot.qdc",
+      "title": "Hotpot Fever: Food Games",
+      "developer": "iKame Games - Zego Studio",
+      "icon": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
+      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.critical.strike2",
+      "title": "Critical Strike: 총게임 온라인게임 FPS",
+      "developer": "VERTIGO GAMES",
+      "icon": "https://play-lh.googleusercontent.com/1csTjOtbTC2EveysnGzqzQ_rQU3qjdBv4BK8DJo0LfZO9U12g1KltGPdHBS2x6ym1NTw",
+      "url": "https://play.google.com/store/apps/details?id=com.critical.strike2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.slg.savagesurvival",
+      "title": "새비지 서바이벌: 쥬라기 아일",
+      "developer": "Phantix Games",
+      "icon": "https://play-lh.googleusercontent.com/lQk91XJ-esQ23lf8xLgjdZx1Kq9SeX73T6N2Yx7Q0jjFDluIOue8swaSQZ_qM7VMrBO6evc2tY0P3yf0ypM6YUo",
+      "url": "https://play.google.com/store/apps/details?id=com.slg.savagesurvival&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.kids.construction.vehicles.truck.building.games",
+      "title": "건설 차량과 트럭",
+      "developer": "Timpy Games For Kids, Toddlers & Baby",
+      "icon": "https://play-lh.googleusercontent.com/Dd22yHUK59e13qTqfgW8vgJb7h3yzoPvxHcc3VVDeDyhi_KeNIeZCKlwnoanWIZEbQ4",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.kids.construction.vehicles.truck.building.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.piratearena",
+      "title": "대항해해적-해적 배틀아레나",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/knl0BlwEwcYVDHTWaqNdeNVj07wlAzWZQL5DTgJ-HtRHJJhXOcVLgrMj7cFlYQ6SL_14",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.piratearena&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3067,51 +3117,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.roblox.client",
-      "title": "로블록스 (Roblox)",
-      "developer": "Roblox Corporation",
-      "icon": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.sundaytoz.mobile.anipang2.google.kakao.service",
-      "title": "애니팡2",
-      "developer": "Wemade Play Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/8NC_ZZrSysKpJrz_kBaHuq4grx9DN3O2A443HzIaryk-eJVwAKLGA2cIft4_H92J6NbyzyAOvnBI_3TpRnGJAw",
-      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.mobile.anipang2.google.kakao.service&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.playgendary.kickthebuddy",
-      "title": "Kick the Buddy: 스트레스 해소 미니게임",
-      "developer": "Playgendary Limited",
-      "icon": "https://play-lh.googleusercontent.com/4zT9waZhwrqSCMVFBXCi7jSzjMRP9LMdR4ZylVTd4KRRBy0aK79-IZvQWawRTSb-CLE",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.innersloth.spacemafia",
-      "title": "Among Us",
-      "developer": "Innersloth LLC",
-      "icon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
-      "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.youmusic.magictiles",
-      "title": "매직 타일 3: 피아노 게임 케이팝 노래",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/u94NKpNjH1sBOiKHevX3_ATM-ozNHg6b186oU9GfnPnHwbdJ7RaeipkCRcVPdf1KRA",
-      "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
