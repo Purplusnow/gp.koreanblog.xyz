@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T22:52:54.697Z",
+  "updatedAt": "2026-04-01T23:47:46.846Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -547,7 +547,8 @@
     "com.nexon.dominations.asia.g",
     "bg.xssoftware.ladypopular.fashionarena",
     "com.pixelfederation.portcity.ship.tycoon.strategy.simulation",
-    "com.loltap.farmland"
+    "com.loltap.farmland",
+    "com.cyberjoy.prjw5n2"
   ],
   "items": [
     {
@@ -700,6 +701,15 @@
       "developer": "Homa",
       "icon": "https://play-lh.googleusercontent.com/tD58VAhX1FSZIiusN5VwNsS8-8SyRlx_6D-oW4Bj3kFHzuIZR36BD1u9rOAz1I-VbA",
       "url": "https://play.google.com/store/apps/details?id=com.loltap.farmland&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.prjw5n2",
+      "title": "플래닛 디펜스(Planet Defense)",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/xbak8iQv5Y31_ImbVHy88I1ITaU8RBBv9IA3JBOSZAuURso_yRFDEP0Xw7i6lnBceuvX",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.prjw5n2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3157,15 +3167,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.moonactive.cmboard",
-      "title": "Coin Master: 보드 어드벤처",
-      "developer": "Moon Active",
-      "icon": "https://play-lh.googleusercontent.com/pFMYxxHpIsLKeaxO9wjVRpAsgMaLKbT1kPwofNQtGi69-6fF_eUyIViAMY66auDrvsJnw2h6S5rpF8XaZcrm",
-      "url": "https://play.google.com/store/apps/details?id=com.moonactive.cmboard&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
