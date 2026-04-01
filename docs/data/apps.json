@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T02:48:08.017Z",
+  "updatedAt": "2026-04-01T03:37:04.348Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -509,7 +509,11 @@
     "com.cola.game",
     "com.wireless.defenseland",
     "com.gameloft.android.ANMP.GloftDOHM",
-    "merge.magic.merge"
+    "merge.magic.merge",
+    "park.master.car.parking.games",
+    "com.fanatee.cody",
+    "com.ironhidegames.android.kingdomrush.alliance",
+    "com.savysoda.pixelstarships"
   ],
   "items": [
     {
@@ -1067,6 +1071,42 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/c46l_O08I8pv3-i6dGIfIQpUZVPqg1-B8wak6iCfGtNKG7RbDRR6b4AIAQ_cDuVsPllP",
       "url": "https://play.google.com/store/apps/details?id=merge.magic.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "park.master.car.parking.games",
+      "title": "Car Out: 카잼 차빼기 - 주차게임 마스터의 세계",
+      "developer": "GameLord 3D",
+      "icon": "https://play-lh.googleusercontent.com/CeG9tAteo3d2aTdqAP5DMHeNFS9AvWYzN0VAQYczVvlZTghx_iV0hIQJpkPCCWxocrw",
+      "url": "https://play.google.com/store/apps/details?id=park.master.car.parking.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.fanatee.cody",
+      "title": "CodyCross: Crossword Puzzles",
+      "developer": "Fanatee, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/1kbpNtXjB2L3F0ZVw6B9rlo2hCdDAQxmGUhMBE60Srfv7cIWTZmRKgQ-nEoO0Bu0Hzs",
+      "url": "https://play.google.com/store/apps/details?id=com.fanatee.cody&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.kingdomrush.alliance",
+      "title": "Kingdom Rush 5: Alliance TD",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/Vko5fXLTEOKqqEKsSZmH7Lfdc9hjAmIhKSN9c3v_RZwAVkI6jWND1IrZB8211KgLO2UCDeIBuByIfKC9SEa7prc",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush.alliance&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.savysoda.pixelstarships",
+      "title": "픽셀우주선 Pixels Starships™",
+      "developer": "Savy Soda",
+      "icon": "https://play-lh.googleusercontent.com/Yed2kAOPwV6f22GZQfpjAHvVwjF9FiSaUZPblfk31FiEVAk9TCQpFMRLENl-7FiUMQ",
+      "url": "https://play.google.com/store/apps/details?id=com.savysoda.pixelstarships&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
@@ -2777,42 +2817,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookapps.ff.moderncity",
-      "title": "마이 홈 디자인 - 모던 시티",
-      "developer": "NSTAGE",
-      "icon": "https://play-lh.googleusercontent.com/4G-28UlFYS1W7zzUES0oTkmUNJhm_9Tl-w9l5P-XSwkurPgmjeh-4cBPAidasYH-Pg",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.yolo.hiddenobjects",
-      "title": "Find Hidden Objects - Spot It!",
-      "developer": "Yolo Game Studios",
-      "icon": "https://play-lh.googleusercontent.com/EsT81_ol8yp6gT23lOaHFQRfsgUGYAMgOMi_J0QVqxxo2VNGvCraellQHk6lJvsUtpA",
-      "url": "https://play.google.com/store/apps/details?id=com.yolo.hiddenobjects&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.BlackTemple.LoveArcher",
-      "title": "러브 아처",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/9jbxU_mkb-WZndQ942oK3bh_9Rn6IXCS-MLYdJ7A-5U6lz4UQHUx6BVHzvfuyA3alY-c",
-      "url": "https://play.google.com/store/apps/details?id=com.BlackTemple.LoveArcher&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.Trailmix.LoveAndPiesMerge",
-      "title": "러브 & 파이 - 머지 게임",
-      "developer": "Trailmix Ltd",
-      "icon": "https://play-lh.googleusercontent.com/H1z9D4a0_ZeGsnXi-kDYsGs4Dta_qCzSX4py9vLDXru7mkfXyjEWl23Hwd4HExvRgA",
-      "url": "https://play.google.com/store/apps/details?id=com.Trailmix.LoveAndPiesMerge&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
