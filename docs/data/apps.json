@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T21:49:49.940Z",
+  "updatedAt": "2026-04-02T22:45:26.400Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -609,7 +609,12 @@
     "com.cedargames.tileclear",
     "com.grandgames.magicsort",
     "com.ksrgland.goat",
-    "com.and.games505.TerrariaPaid"
+    "com.and.games505.TerrariaPaid",
+    "com.readygo.dark.gp",
+    "com.readygo.barrel.gp",
+    "com.greenmushroom.boomblitz.gp",
+    "com.global.pnckkr",
+    "com.bigbreakgames.wot"
   ],
   "items": [
     {
@@ -1005,6 +1010,51 @@
       "developer": "505 Games Srl",
       "icon": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos",
       "url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.readygo.dark.gp",
+      "title": "Dark War Survival",
+      "developer": "Florere Game",
+      "icon": "https://play-lh.googleusercontent.com/tDRSxFkEK59P1UigJ2u7Yy-QKTG-CiTWbztHzMUmfOEnyhEdX_6ilsqgyauDaDjitw8",
+      "url": "https://play.google.com/store/apps/details?id=com.readygo.dark.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.readygo.barrel.gp",
+      "title": "라스트 Z: 서바이벌 슈터",
+      "developer": "Florere Game",
+      "icon": "https://play-lh.googleusercontent.com/DVXTZpTR02_xoN1kOqnhOOuW9p1LiUHiu_Vw0xjzdu1SswhIbLp3OdV4x6skiarMGcE",
+      "url": "https://play.google.com/store/apps/details?id=com.readygo.barrel.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.greenmushroom.boomblitz.gp",
+      "title": "탑 히어로즈",
+      "developer": "RiverGame",
+      "icon": "https://play-lh.googleusercontent.com/jeoEzb6JQStOCUuSPNy4pwzMfpZse5JXaOojt8rO07gJs4NWeIjb-x4pOJpbjnhZNg",
+      "url": "https://play.google.com/store/apps/details?id=com.greenmushroom.boomblitz.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.global.pnckkr",
+      "title": "퍼즐 앤 카오스",
+      "developer": "BLANCOZONE NETWORK KOREA",
+      "icon": "https://play-lh.googleusercontent.com/k1VvaKYOmUYUb5wqlw7MZ3VGFi_nCJy1LZX1mSeVVLGpZMAV3v4m6AKGnsXxSv_tDAwX",
+      "url": "https://play.google.com/store/apps/details?id=com.global.pnckkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigbreakgames.wot",
+      "title": "월드 워 머신 컨퀘스트",
+      "developer": "NDREAM Corp.",
+      "icon": "https://play-lh.googleusercontent.com/DXM-tJktKtleFLcy5yWatbWRZMqWIKWLUg5W1LxT1f6gsNbYub0c4cCrtDNYYSrqbPs",
+      "url": "https://play.google.com/store/apps/details?id=com.bigbreakgames.wot&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3777,51 +3827,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcogames.dbzdokkanww",
-      "title": "DRAGON BALL Z 폭렬격전",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/Ocriolf6VBkbevJE5xWma3bD3suVqdWQGjlbrITwutUtTxzQlBtbWko5qOBWR-tK6qEwXm9YKoQuE3A6dRZE",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nintendo.zara",
-      "title": "Super Mario Run",
-      "developer": "Nintendo Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/Z--D1zI7nMNCu3rlE04O1ivp5F5OuuTAo0ozjrFUUONcYQzerixWwm-UE099VeDeDE0",
-      "url": "https://play.google.com/store/apps/details?id=com.nintendo.zara&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.wb.goog.mkx",
-      "title": "MORTAL KOMBAT",
-      "developer": "Warner Bros. International Enterprises",
-      "icon": "https://play-lh.googleusercontent.com/LSNV5P_C6MafT84ioYM4OykRJkxRAz7roKXZ6Ljc2ApRGUYSgBcp3OxQjfyM4W1RePPy",
-      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.mkx&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.studiowildcard.arkuse",
-      "title": "ARK: Ultimate Mobile Edition",
-      "developer": "Studio Wildcard",
-      "icon": "https://play-lh.googleusercontent.com/lnDJEp7CpsYkpoAqfLvAxSEFtHMV4s2DjoxkXMboLJzz8-XuEWjm6OaHIYmWMUxeQw",
-      "url": "https://play.google.com/store/apps/details?id=com.studiowildcard.arkuse&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.os.airforce",
-      "title": "1945 Air Force: 아케이드 비행기 슈팅 게임",
-      "developer": "1SOFT",
-      "icon": "https://play-lh.googleusercontent.com/97_rYmmv0WkyOB8Ni4pFgh5HPOx0uCIEUN1uROFuwrtJYFEzIXeBDfdRYmJ77lRtB2c",
-      "url": "https://play.google.com/store/apps/details?id=com.os.airforce&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
