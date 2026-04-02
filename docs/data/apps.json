@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T23:47:46.846Z",
+  "updatedAt": "2026-04-02T03:20:45.163Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -548,7 +548,12 @@
     "bg.xssoftware.ladypopular.fashionarena",
     "com.pixelfederation.portcity.ship.tycoon.strategy.simulation",
     "com.loltap.farmland",
-    "com.cyberjoy.prjw5n2"
+    "com.cyberjoy.prjw5n2",
+    "com.skgames.trafficrider",
+    "com.alicegames.idle.rpg.battler",
+    "linkdesks.oceanmatch",
+    "com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game",
+    "com.hottagames.nte"
   ],
   "items": [
     {
@@ -710,6 +715,51 @@
       "developer": "CyberJoy Games",
       "icon": "https://play-lh.googleusercontent.com/xbak8iQv5Y31_ImbVHy88I1ITaU8RBBv9IA3JBOSZAuURso_yRFDEP0Xw7i6lnBceuvX",
       "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.prjw5n2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.skgames.trafficrider",
+      "title": "Traffic Rider",
+      "developer": "skgames",
+      "icon": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.alicegames.idle.rpg.battler",
+      "title": "Darkest AFK: 턴제 액션 RPG 게임 오프라인",
+      "developer": "Three wishes slot machines game studio",
+      "icon": "https://play-lh.googleusercontent.com/95d6LWALv1fCAwLOESMPFod7Shch2ysTjaTxwedwauGOdpzzM5-rTtc1OBsEo8oqAFM",
+      "url": "https://play.google.com/store/apps/details?id=com.alicegames.idle.rpg.battler&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.oceanmatch",
+      "title": "물고기 매치 (Ocean Match)",
+      "developer": "LinkDesks Classic Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/ELPOWfI2tE7BW5DEhsBw_GxzneREneBSOaiPkhQBqp169kl3bAfRzVRvKUCeiutNwFdcxlqTztAKte0xHlMCNw",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.oceanmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game",
+      "title": "Bus Masters: India Simulator",
+      "developer": "Highbrow Interactive",
+      "icon": "https://play-lh.googleusercontent.com/BRZXSYXLSGjq2ENHCHYONLzzWV9B0S0wu7WWEVkTAUmKQU9NtNsPV0dPq90lGcoZKA",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.hottagames.nte",
+      "title": "이환",
+      "developer": "N2E",
+      "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
+      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3167,51 +3217,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.standegg.wulin",
-      "title": "잠룡 : 무협 도트 RPG",
-      "developer": "StandEgg Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/5VXF_IsaFkg1I91Vu26pmExKjop4d9blVOnUOFye0-KxfvClwhn5MVJyS1MvdjCvQ-FlY4ivmlHTsTWhV-aF4cw",
-      "url": "https://play.google.com/store/apps/details?id=com.standegg.wulin&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.puzzlegame.match.jewels.adventure",
-      "title": "보석 어드벤처（Jewels Adventure）",
-      "developer": "Lynn Mobile Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/sDkWv7flrQuCu3HKKw60Gz4D8B5T2Ql-HvSYZiiJqbCFjxXyHGsQIMj1sOnz1GN89A",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegame.match.jewels.adventure&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "in.playsimple.wordsearch",
-      "title": "단어 검색 - 단어 찾기 퍼즐",
-      "developer": "PlaySimple Games",
-      "icon": "https://play-lh.googleusercontent.com/nQ2Yf8cchz_PEbMljU272sMRlJ9ss0E_JY15mlOfWpEFEpT99h1f1jar8OAfxURWCSM",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordsearch&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "beatmaker.edm.musicgames.PianoGames",
-      "title": "Piano Fire: Edm Music & Piano",
-      "developer": "Adaric Music",
-      "icon": "https://play-lh.googleusercontent.com/zxjP9ZoFw16lNlxpJp8egiDUNnM2y_vo98NJww3kb4jOvSxQvkOQUgffquw9v-uohjU",
-      "url": "https://play.google.com/store/apps/details?id=beatmaker.edm.musicgames.PianoGames&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.fingersoft.hillclimb",
-      "title": "Hill Climb Racing",
-      "developer": "Fingersoft",
-      "icon": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
