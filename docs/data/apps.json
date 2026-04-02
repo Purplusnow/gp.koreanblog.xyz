@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T21:31:51.869Z",
+  "updatedAt": "2026-04-02T21:46:14.037Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -598,7 +598,17 @@
     "com.HoYoverse.hkrpgoversea",
     "com.ventogames.findthecat",
     "com.infiniplay.merge.fashion.romance.story",
-    "com.unicostudio.braintest"
+    "com.unicostudio.braintest",
+    "com.proximabeta.nikke",
+    "com.hwqgrhhjfd.idlefastfood",
+    "com.mojang.minecrafttrialpe",
+    "com.tree.hybrid.catslife",
+    "com.cedargames.mysterytown",
+    "supa.game.mala",
+    "com.hg.delicacy.Notes.mergegames",
+    "com.cedargames.tileclear",
+    "com.grandgames.magicsort",
+    "com.ksrgland.goat"
   ],
   "items": [
     {
@@ -607,6 +617,15 @@
       "developer": "God Rivals",
       "icon": "https://play-lh.googleusercontent.com/CefaZgvnJ5LPAPL64vubFnnOKWwA_9h9wA4F7iLUN6fySYUNFMqKYiDgGk2c-uNzkohx",
       "url": "https://play.google.com/store/apps/details?id=com.gamee.homepin2.manor.homescape&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.stove.epic7.google",
+      "title": "에픽세븐",
+      "developer": "Smilegate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/siMf4o-c3G8qXYjviTBYmVpUihRTOEqmiWC9BEdkDqPIdciir3_2pqFg8cvZekv1_y_L3sl1qtA6b_E6mwJt",
+      "url": "https://play.google.com/store/apps/details?id=com.stove.epic7.google&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -643,15 +662,6 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/cMvvRKfVO80z5aAbr8UXJsSKyyEfwxazdV29npcstlXfQukscREwZLd5SO2bQqaEf00",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.topskater&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.stove.epic7.google",
-      "title": "에픽세븐",
-      "developer": "Smilegate, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/siMf4o-c3G8qXYjviTBYmVpUihRTOEqmiWC9BEdkDqPIdciir3_2pqFg8cvZekv1_y_L3sl1qtA6b_E6mwJt",
-      "url": "https://play.google.com/store/apps/details?id=com.stove.epic7.google&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -895,6 +905,96 @@
       "developer": "Unico Studio",
       "icon": "https://play-lh.googleusercontent.com/L4-Oa6O8GV4I23JTmo-xKSjfyjowc0d2uGGfdScYkCTMk6ftxTwGowdAjgh2nOrJlEmI",
       "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.proximabeta.nikke",
+      "title": "승리의 여신: 니케",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.hwqgrhhjfd.idlefastfood",
+      "title": "Eatventure",
+      "developer": "Lessmore GmbH",
+      "icon": "https://play-lh.googleusercontent.com/iQkccRgYNjF0xdVFioJo0SabtPKO0nSZrP7p8zCLGYpUypROC-Boo9GN3GaHddhudkO7",
+      "url": "https://play.google.com/store/apps/details?id=com.hwqgrhhjfd.idlefastfood&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.mojang.minecrafttrialpe",
+      "title": "Minecraft 체험판",
+      "developer": "Mojang",
+      "icon": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.tree.hybrid.catslife",
+      "title": "고양이 라이프 : 귀여운 시뮬레이션 게임",
+      "developer": "TREEPLLA",
+      "icon": "https://play-lh.googleusercontent.com/r8H5QjIE3vu4ajTVI8LwbCWTpIcQUWUUIuUQay5TUKt5evjqdf6Rx1AZstrZh0XE6mM",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.hybrid.catslife&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.cedargames.mysterytown",
+      "title": "미스터리 타운: 합성 게임 (Mystery Town)",
+      "developer": "Cedar Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/dgF-7gzJzmqOFh6BNmg48dHIaHhqtqLWqUjDic-rS2COxhfWlBCaa5_PaLsxtvZKcLA",
+      "url": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "supa.game.mala",
+      "title": "마라마스터 : 인형계, 포토카드 포장, 마라탕 먹방",
+      "developer": "Supa Inc.",
+      "icon": "https://play-lh.googleusercontent.com/aUDqEHkWYL0Qx6kdDCE84T9fxUj2Di92Xgp4xe5BzSKLH11TiVJ5lAJqsLvd6AyRxdzYpGIYQfdXUgDTrY8jmHc",
+      "url": "https://play.google.com/store/apps/details?id=supa.game.mala&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.hg.delicacy.Notes.mergegames",
+      "title": "재탄생 레스토랑: 합성 & 스토리 게임",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/iBQo85ZjEHmdTQw-q49IRVrJ0Iv73XNdeX7vet8Yrzj3hxpQXcBtK4Y6sP267i0IDKvMF3mLUE-aPgGv6iZtEw",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.delicacy.Notes.mergegames&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.cedargames.tileclear",
+      "title": "타일 클리어 - 퍼즐 게임",
+      "developer": "Cedar Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
+      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.grandgames.magicsort",
+      "title": "매직 정렬!  (Magic Sort !)",
+      "developer": "Grand Games A.Ş.",
+      "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
+      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.ksrgland.goat",
+      "title": "King's Throne: Royal Delights",
+      "developer": "GOAT Games",
+      "icon": "https://play-lh.googleusercontent.com/D1OTNDqde01Ik8EBCCiPDjtpap22E6vCeU-_7z58LPGmszrW4YmZ7tiwyORVk3wbuKEF",
+      "url": "https://play.google.com/store/apps/details?id=com.ksrgland.goat&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3667,96 +3767,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.levelinfinite.sgameGlobal",
-      "title": "아너 오브 킹즈",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/hEm5NVeEv7UfFJaK8GZdfWe7p3DB_VvYx57qIEHbR0tMV_NToziH0Vbgd6CxLiWF-iURpAe-jsC_UGUDt0diPQ",
-      "url": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.proximabeta.aoemobile",
-      "title": "에이지 오브 엠파이어 모바일",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA",
-      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.aoemobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.gp.nbamobile",
-      "title": "EA SPORTS™ NBA LIVE Mobile",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/N3A3xxwJnGQuPz1u2TdQtYEt_v4uqJLfbTGEOqsJZDrXjCI9gcoPRzVi1rZV7oU7IPgAJHSidmRYlIhMuDYTOw",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.nbamobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.mojang.minecraftpe",
-      "title": "Minecraft: 나만의 세계를 꿈꾸고 만들어보세요",
-      "developer": "Mojang",
-      "icon": "https://play-lh.googleusercontent.com/27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftM5HM",
-      "title": "모던 컴뱃 5: 배틀 로얄 FPS e스포츠",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/9F_6e2MGuyuPd8x3u7030mh1q9VXy6toIzJ7tAQ1WUJZYu3rpJsce6PTaZklWzGKwQ",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.epicwaronline.ms",
-      "title": "모바일 스트라이크 (Mobile Strike)",
-      "developer": "Epic War",
-      "icon": "https://play-lh.googleusercontent.com/dtt3DJZcEQ0RPeGl8Hvweo0QIwno3hijLWT1Yq0NsmcP8rDuo7RLQqmE8azdNCcT2h0",
-      "url": "https://play.google.com/store/apps/details?id=com.epicwaronline.ms&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.pwrd.pwm",
-      "title": "완미세계 - Perfect World Mobile",
-      "developer": "Perfect World Games",
-      "icon": "https://play-lh.googleusercontent.com/-tnZ5aSlu7AZRCgzK1PJoY8v6_Lt09zOEuCxWUPxI8bwTGRXh9nVgo2PPJ3tm4gcjKo",
-      "url": "https://play.google.com/store/apps/details?id=com.pwrd.pwm&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.topgamesinc.evony",
-      "title": "에보니 - 왕의 귀환",
-      "developer": "TG Inc.",
-      "icon": "https://play-lh.googleusercontent.com/s-7JfFzVIC1FJW41ip-gvdMFMv2opc8qXyvDQeURVIpoOj1dvkM6QQUFJ-LpuZwI9OAD",
-      "url": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tfgco.games.sports.free.tennis.clash",
-      "title": "테니스 클래시: 멀티플레이어 게임",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/5ojJead845BdffIDWN0gOYHGihG0rtaFA1FboQz-olyrLM2aflslo8cgabgxHgiCTQ",
-      "url": "https://play.google.com/store/apps/details?id=com.tfgco.games.sports.free.tennis.clash&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nintendo.zaka",
-      "title": "Mario Kart Tour",
-      "developer": "Nintendo Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/GSAJ5JSW_0lQW9Hg13gGHkvUE4Cwsnmb8e4R48GnWTpy-GTtWiCdZ_J8SIZs42cQ4zk",
-      "url": "https://play.google.com/store/apps/details?id=com.nintendo.zaka&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
