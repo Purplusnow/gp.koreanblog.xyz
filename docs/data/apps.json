@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T11:04:31.472Z",
+  "updatedAt": "2026-04-02T11:55:41.596Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -562,7 +562,10 @@
     "com.solobandgames.worldtrmerge",
     "linkdesks.zoomatch",
     "com.puzzle.wool.away",
-    "com.mybogames.mergetown"
+    "com.mybogames.mergetown",
+    "com.ironhidegames.android.ironmarines",
+    "com.atari.mobile.rctempire",
+    "com.advant.streamer"
   ],
   "items": [
     {
@@ -850,6 +853,33 @@
       "developer": "MYBO",
       "icon": "https://play-lh.googleusercontent.com/4LTXP4JcZy5TPuXonGZkWy_vRu2KHYwaPxTSo-CQ1HOxKIwSMBKhffD0oQRYjFpoWAE",
       "url": "https://play.google.com/store/apps/details?id=com.mybogames.mergetown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.ironmarines",
+      "title": "아이언 마린, 오프라인에서 즐기는  실시간 전략 게임",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/wDprCOdIS8yKcW5gKacH3cbHEtu1IaNrHdK-Omwm8nvC9PgE_ABScgnGWwTQc7DP4ks",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.ironmarines&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.atari.mobile.rctempire",
+      "title": "RollerCoaster Tycoon® Touch™",
+      "developer": "Atari, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/uZc0UMcikiM6LNicTBmVhyLdJqj8LLFxi1_oAGUXB6fLuI8OyM1crDHzbbYRWlafrzg",
+      "url": "https://play.google.com/store/apps/details?id=com.atari.mobile.rctempire&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.advant.streamer",
+      "title": "라마 - 게으른 블로거",
+      "developer": "CrazyLabs LTD",
+      "icon": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
+      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3307,33 +3337,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "se.maginteractive.worddomination",
-      "title": "Word Domination",
-      "developer": "MAG Interactive",
-      "icon": "https://play-lh.googleusercontent.com/LSOrk0GepwfPz50rFcQd1veoUYmKOfHjLd7o-Y_8pMjVV5f8tDBLU66T7UbwXVC417s",
-      "url": "https://play.google.com/store/apps/details?id=se.maginteractive.worddomination&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.amelosinteractive.snake",
-      "title": "스네이크 아이오 - 재밌는 스네이크.io 게임들",
-      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
-      "icon": "https://play-lh.googleusercontent.com/NG4sZTG49qpKGd3tUxdoxbW2EXSp1-nAxcYr3XCO0SO1WO5P2sWkk0sBtUGZPYzPOU0",
-      "url": "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "it.rortos.aircombat",
-      "title": "Wings of Heroes: 비행 게임",
-      "developer": "RORTOS",
-      "icon": "https://play-lh.googleusercontent.com/BcLci69bGG2q-SL4KJUJqFJbX7RD2ZrvG914T7tlNsvnPS5tLzd-sy4JcyzzH71Wrnw",
-      "url": "https://play.google.com/store/apps/details?id=it.rortos.aircombat&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
