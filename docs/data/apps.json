@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T09:12:01.689Z",
+  "updatedAt": "2026-04-02T11:04:31.472Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -556,7 +556,13 @@
     "com.hottagames.nte",
     "com.dragonest.artifacts.google",
     "com.happyelements.es2.kr.gp",
-    "com.gramgames.mergedragons"
+    "com.gramgames.mergedragons",
+    "com.gamedevltd.wwh",
+    "com.eyewind.case.master",
+    "com.solobandgames.worldtrmerge",
+    "linkdesks.zoomatch",
+    "com.puzzle.wool.away",
+    "com.mybogames.mergetown"
   ],
   "items": [
     {
@@ -790,6 +796,60 @@
       "developer": "Gram Games Limited",
       "icon": "https://play-lh.googleusercontent.com/6QX_XsITM8N9JDu-rxLditJhs-gG0K_nMLAr5kiZIJRgW9u5XoyR0Xe3ytsFMFlhUPv6wqkLe239u3gBNsGy0Q",
       "url": "https://play.google.com/store/apps/details?id=com.gramgames.mergedragons&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamedevltd.wwh",
+      "title": "월드워 히어로즈: 밀리터리 슈팅 게임! 2차세계대전게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/yiunr7mRmqO2d-BmnXXrG6Y5tevGZPs-FS8yCXZoGqhFgzDfs7yLzZemGVGFnO-WK7DM",
+      "url": "https://play.google.com/store/apps/details?id=com.gamedevltd.wwh&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.eyewind.case.master",
+      "title": "Case Hunter: 진실은 언제나 하나!",
+      "developer": "Focus apps",
+      "icon": "https://play-lh.googleusercontent.com/Aq6SFaNPGzjdByFMVjiFwD7a4Lqky2hoMDbMitv-zgeuGTgDWqXbbtIG62U2l65lRg",
+      "url": "https://play.google.com/store/apps/details?id=com.eyewind.case.master&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.solobandgames.worldtrmerge",
+      "title": "World Tour Merge: 합성게임 여행 어드벤처",
+      "developer": "SoloBand Games",
+      "icon": "https://play-lh.googleusercontent.com/8XWnXHleNZ25yJyB-QZmq9fUz6zCfjU8roe60fdjg3tQxRamvyF22HIAHpEkuas7oT4",
+      "url": "https://play.google.com/store/apps/details?id=com.solobandgames.worldtrmerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.zoomatch",
+      "title": "동물원 매치 (Zoo Match)",
+      "developer": "LinkDesks Daily Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/dPn84eXZ3K_GuMxJwpPPdgi5y_kdb1HHRI0lzGkWJpv7q0Z9Vet4pLM7TVsxJ-JIkGpEluH3Py34nJ8upCSogA",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.zoomatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzle.wool.away",
+      "title": "Knit Away",
+      "developer": "PixOn Games",
+      "icon": "https://play-lh.googleusercontent.com/6i9BVKdrohyAvsj7bROAchQv7507F3u1-nueDOm4lF8sPQDUCAswcFTytpdbRyNBCZ2h",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzle.wool.away&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.mybogames.mergetown",
+      "title": "Aisle Secrets: Merge the Drama",
+      "developer": "MYBO",
+      "icon": "https://play-lh.googleusercontent.com/4LTXP4JcZy5TPuXonGZkWy_vRu2KHYwaPxTSo-CQ1HOxKIwSMBKhffD0oQRYjFpoWAE",
+      "url": "https://play.google.com/store/apps/details?id=com.mybogames.mergetown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3247,60 +3307,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "games.wfs.anothereden",
-      "title": "ANOTHER EDEN 시공을 넘는 고양이",
-      "developer": "WFS, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/_q5R0oxmlIDJlIsS4Fy1vpb0SrG6ZByuI3ZHspjW1BXL5yKG6CbGPyyuaHKlH-frK4E-zuS8ymZTaDVX4npqTw",
-      "url": "https://play.google.com/store/apps/details?id=games.wfs.anothereden&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.appsomniacs.da2",
-      "title": "Mini Militia - War.io",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/SXaV56IeGN04h6Mu-BwumPczseKuqTKOaV9zI6360ycaA4aS18F9BqSuIoldrxyjvZ4",
-      "url": "https://play.google.com/store/apps/details?id=com.appsomniacs.da2&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.boombitgames.Dartsy",
-      "title": "Darts Club: PvP Multiplayer",
-      "developer": "BoomBit Games",
-      "icon": "https://play-lh.googleusercontent.com/5SjP_zzW2yl_WjqCxOZaULrezWQiu7f0O8lqABnP7yGeRZuKwVK6dbco_rSJVMQJqtI",
-      "url": "https://play.google.com/store/apps/details?id=com.boombitgames.Dartsy&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.halfbrick.fruitninjafree",
-      "title": "Fruit Ninja®",
-      "developer": "Halfbrick Studios",
-      "icon": "https://play-lh.googleusercontent.com/eJ9OJnbRer1jjg5ZeNAnTXKcGd2B_NEqxCp2UsefcCABeFBaj_pNl_WKYBjup2GVGGc",
-      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.momend.mechwars",
-      "title": "Mech Wars : 온라인 배틀",
-      "developer": "MOMEND",
-      "icon": "https://play-lh.googleusercontent.com/RyyLljj7XzifNj3jkr6nB0OPsa7nalTXIdqTvotjf7d30fhR_d8RLSyYKH8Y3ylXbw",
-      "url": "https://play.google.com/store/apps/details?id=com.momend.mechwars&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.oasis.immortal",
-      "title": "랜드 오브 엠파이어: 이모탈",
-      "developer": "Nuverse",
-      "icon": "https://play-lh.googleusercontent.com/RjkFYpJtakHXjNQR4YWF0kLi75sL_wYRXXRAKzGBmwZ-7S7-AnsrevLiGQpQN63Z-Ls",
-      "url": "https://play.google.com/store/apps/details?id=com.oasis.immortal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
