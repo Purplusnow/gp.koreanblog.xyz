@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T15:10:13.355Z",
+  "updatedAt": "2026-04-02T17:06:47.281Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -565,9 +565,49 @@
     "com.mybogames.mergetown",
     "com.ironhidegames.android.ironmarines",
     "com.atari.mobile.rctempire",
-    "com.advant.streamer"
+    "com.advant.streamer",
+    "com.cherrypopgames.snookerblitz",
+    "kidultlovin.word.zen",
+    "com.gamee.homepin2.manor.homescape",
+    "games.spearmint.triplecrush"
   ],
   "items": [
+    {
+      "appId": "com.cherrypopgames.snookerblitz",
+      "title": "Snooker Blitz",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/FjG-ZEL69pcSlA9oMTrHvB7IX4cjLaxi9NiQ2fEH_6EYgpiTOgjvvPbPCB_k8bhToGXe",
+      "url": "https://play.google.com/store/apps/details?id=com.cherrypopgames.snookerblitz&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "kidultlovin.word.zen",
+      "title": "Zen Word® - Relax Puzzle Game",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
+      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamee.homepin2.manor.homescape",
+      "title": "Home Pin 2: 꿈의 집",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/CefaZgvnJ5LPAPL64vubFnnOKWwA_9h9wA4F7iLUN6fySYUNFMqKYiDgGk2c-uNzkohx",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.homepin2.manor.homescape&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "games.spearmint.triplecrush",
+      "title": "Tiledom",
+      "developer": "Funvent Studios DMCC",
+      "icon": "https://play-lh.googleusercontent.com/cDE8yFKapAFacxAmcQiLRlNkHbIWqj05Ey3WIejzJ5M6wvW0OyDOHwU7p_4PiTcqTSaQ0ShC4JeLvMuEe6iL78I",
+      "url": "https://play.google.com/store/apps/details?id=games.spearmint.triplecrush&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
     {
       "appId": "com.nexon.nsc.maplem",
       "title": "메이플스토리M",
@@ -3337,42 +3377,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.fingertips.kof98umol",
-      "title": "더 킹 오브 파이터즈'98 UM온라인",
-      "developer": "FingerFun Limited.",
-      "icon": "https://play-lh.googleusercontent.com/gpMA7XGEQwDjh-azioVC7Gd4gUOJwfatdxEQ_olVydShH0uoMftrJZg8BFS3O3NN5WbvHS3KDl52SuP72qcl8Q",
-      "url": "https://play.google.com/store/apps/details?id=com.fingertips.kof98umol&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.neowiz.game.baseball.clash",
-      "title": "베이스볼 PvP: 실시간 게임",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/qsnMQgJ1bvUdoamyg6bJE3auRRU5jqDDratX2aN4qpxZAMC3fZicjgDbg573MoCGypFW",
-      "url": "https://play.google.com/store/apps/details?id=com.neowiz.game.baseball.clash&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ta.strike.ops",
-      "title": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "icon": "https://play-lh.googleusercontent.com/eMg1imXugCTwXRLq5s83_cy4UzsiM7KBx8D82F1MA41-mxmCxWoSKhmJfnz7CTUEJEep",
-      "url": "https://play.google.com/store/apps/details?id=com.ta.strike.ops&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.masomo.headball2",
-      "title": "Head Ball 2 - 축구 게임",
-      "developer": "Masomo Gaming",
-      "icon": "https://play-lh.googleusercontent.com/0j0dq4LmRgx4MAqp1q_AsNWAxCsv9ZRd1pmwl0UPAnai9mu5cwlEKTg66vYH9Iv_lWM",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
