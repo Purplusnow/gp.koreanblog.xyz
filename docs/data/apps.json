@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T20:48:34.714Z",
+  "updatedAt": "2026-04-02T21:31:51.869Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -595,9 +595,21 @@
     "com.dxx.firenow",
     "com.sundaytoz.kakao.anipang4",
     "io.randomco.travel",
-    "com.HoYoverse.hkrpgoversea"
+    "com.HoYoverse.hkrpgoversea",
+    "com.ventogames.findthecat",
+    "com.infiniplay.merge.fashion.romance.story",
+    "com.unicostudio.braintest"
   ],
   "items": [
+    {
+      "appId": "com.gamee.homepin2.manor.homescape",
+      "title": "Home Pin 2: 꿈의 집",
+      "developer": "God Rivals",
+      "icon": "https://play-lh.googleusercontent.com/CefaZgvnJ5LPAPL64vubFnnOKWwA_9h9wA4F7iLUN6fySYUNFMqKYiDgGk2c-uNzkohx",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.homepin2.manor.homescape&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
     {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
@@ -613,15 +625,6 @@
       "developer": "Oakever Games",
       "icon": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
       "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamee.homepin2.manor.homescape",
-      "title": "Home Pin 2: 꿈의 집",
-      "developer": "God Rivals",
-      "icon": "https://play-lh.googleusercontent.com/CefaZgvnJ5LPAPL64vubFnnOKWwA_9h9wA4F7iLUN6fySYUNFMqKYiDgGk2c-uNzkohx",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.homepin2.manor.homescape&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -865,6 +868,33 @@
       "developer": "COGNOSPHERE PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
       "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.ventogames.findthecat",
+      "title": "Find The Cat - Spot It!",
+      "developer": "Agave Games",
+      "icon": "https://play-lh.googleusercontent.com/JVUrYb53YKB2WTdq4OXnFELdD3FqjDqZxayl9Hnzgxx-7rx_6I3NQ7j_VjCxegOz6QhFOdUAbtfejfv1siyJgQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ventogames.findthecat&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.infiniplay.merge.fashion.romance.story",
+      "title": "패션 병합（Merge Fashion）: 로맨스 스토리",
+      "developer": "Infiniplay-Game",
+      "icon": "https://play-lh.googleusercontent.com/PkJ4CUd1sTyToxvZbwGDeYKY7ivU5dSN7f4QZQl_TcoKG_EWFxsXg5eyx3zLYnMwWgk8",
+      "url": "https://play.google.com/store/apps/details?id=com.infiniplay.merge.fashion.romance.story&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.unicostudio.braintest",
+      "title": "브레인 테스트 (Brain Test): 까다로운 퍼즐",
+      "developer": "Unico Studio",
+      "icon": "https://play-lh.googleusercontent.com/L4-Oa6O8GV4I23JTmo-xKSjfyjowc0d2uGGfdScYkCTMk6ftxTwGowdAjgh2nOrJlEmI",
+      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3637,33 +3667,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.catdaddy.nba2km",
-      "title": "NBA 2K Mobile - 모바일 농구 게임",
-      "developer": "2K, Inc. - a Take-Two Interactive affiliate",
-      "icon": "https://play-lh.googleusercontent.com/2YY8WQQshXM5q9zVZy4M_oG4myIWmf9CIcsgw4tmu95RjXiHpnkH3zI93-A0jE_6sVbsXOmCvo8N2cnVr3khRw",
-      "url": "https://play.google.com/store/apps/details?id=com.catdaddy.nba2km&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.igg.android.lordsmobile",
-      "title": "로드모바일: 킹덤 워즈",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/9gTDGNC_Ly7dWNWcfZtnBKdIY8a9REzuWMCC89ycYugXGvWgAPDo4GgnyitrX2LpMqE-1yb_2CDFugre9QVKfg",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.igg.android.doomsdaylastsurvivors",
-      "title": "둠스데이: 라스트 서바이버",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/A_citum3xF47LqDCTxEjNkiQxunqoAPCIlmV3MA1sNoLSkh-Dzm9pw-VEi2tXQYff8NSf0TY7y9lyjTyJvz79WU",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
