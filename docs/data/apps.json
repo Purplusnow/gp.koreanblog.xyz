@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T17:06:47.281Z",
+  "updatedAt": "2026-04-02T19:10:49.727Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -569,7 +569,12 @@
     "com.cherrypopgames.snookerblitz",
     "kidultlovin.word.zen",
     "com.gamee.homepin2.manor.homescape",
-    "games.spearmint.triplecrush"
+    "games.spearmint.triplecrush",
+    "com.miniclip.topskater",
+    "com.stove.epic7.google",
+    "com.pockettrend.neomonsters",
+    "com.funplus.mc",
+    "idle.goblins.wood.tycoon"
   ],
   "items": [
     {
@@ -605,6 +610,51 @@
       "developer": "Funvent Studios DMCC",
       "icon": "https://play-lh.googleusercontent.com/cDE8yFKapAFacxAmcQiLRlNkHbIWqj05Ey3WIejzJ5M6wvW0OyDOHwU7p_4PiTcqTSaQ0ShC4JeLvMuEe6iL78I",
       "url": "https://play.google.com/store/apps/details?id=games.spearmint.triplecrush&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.topskater",
+      "title": "플립 스케이터",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/cMvvRKfVO80z5aAbr8UXJsSKyyEfwxazdV29npcstlXfQukscREwZLd5SO2bQqaEf00",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.topskater&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.stove.epic7.google",
+      "title": "에픽세븐",
+      "developer": "Smilegate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/siMf4o-c3G8qXYjviTBYmVpUihRTOEqmiWC9BEdkDqPIdciir3_2pqFg8cvZekv1_y_L3sl1qtA6b_E6mwJt",
+      "url": "https://play.google.com/store/apps/details?id=com.stove.epic7.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.pockettrend.neomonsters",
+      "title": "네오 몬스터",
+      "developer": "ZigZaGame Inc.",
+      "icon": "https://play-lh.googleusercontent.com/7MIw_TaxkX9d0bTe8LRRjdQHispRojxI0TlmwNWFFYpv_DAYyNJCgbsmnao-eA8xHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.funplus.mc",
+      "title": "안개의 대륙: 저주받은 섬",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/203cYa7X4hV_6JFlt21cvxDwmXvq49OjiTzdi5O1JL-uuN2k0egopYx0PjRI4aRJfAs",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.mc&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "idle.goblins.wood.tycoon",
+      "title": "Goblins Wood: 숲속 방치 타이쿤 시뮬레이터",
+      "developer": "ProGamesLab",
+      "icon": "https://play-lh.googleusercontent.com/ligY7Dtb3omnTjD45MX6HRd18SpnFG-3THMPMVZVrlYiOZzgAxBcXGwgFroYuy0Qcgg",
+      "url": "https://play.google.com/store/apps/details?id=idle.goblins.wood.tycoon&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3377,51 +3427,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.google.android.play.games",
-      "title": "Google Play 게임즈",
-      "developer": "Google LLC",
-      "icon": "https://play-lh.googleusercontent.com/wpRQkfqbkPztp1US6HDr8E41We8GyY-B4CG1PMmWI3WKDk9OeYh4ehXwKIfZB7dm-sc",
-      "url": "https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.kiloo.subwaysurf",
-      "title": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon": "https://play-lh.googleusercontent.com/I7CQ7JWKDgh5bNebcSJmVIYsrfvTxDMk_HXR7yBtcTGFOv6ubA2SJk4dwOlb27Y8IjE",
-      "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.king.candycrushsaga",
-      "title": "캔디크러쉬사가 (Candy Crush Saga)",
-      "developer": "King",
-      "icon": "https://play-lh.googleusercontent.com/foyZT9IAmYNt27tmy_V7XJKxtne7HVw7Px_HOfPQBIh4Ox1W8OJuFTCp55C5Rg6ozhM",
-      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.pazugames.avatarworld",
-      "title": "Avatar World ®",
-      "developer": "Pazu Games",
-      "icon": "https://play-lh.googleusercontent.com/mgK6C51SbNXQoSANdqkoeJdVqlmVQ1GxW6OsLAEjnsVoslRqd2LQJLhjKDxtptVEQlZ3wz-yKDl1MidgX12v_A",
-      "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.dreamgames.royalmatch",
-      "title": "로얄 매치 Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
