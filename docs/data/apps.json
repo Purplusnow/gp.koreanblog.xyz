@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T22:45:26.400Z",
+  "updatedAt": "2026-04-02T23:47:19.621Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -614,7 +614,16 @@
     "com.readygo.barrel.gp",
     "com.greenmushroom.boomblitz.gp",
     "com.global.pnckkr",
-    "com.bigbreakgames.wot"
+    "com.bigbreakgames.wot",
+    "com.percent.aos.cooptd",
+    "rts.bunker.wars",
+    "com.percent.royaldice",
+    "com.xh.penguin.android",
+    "com.spcomes.hellotown",
+    "com.nordcurrent.happyclinicf2p",
+    "jp.co.imagineer.sumikkogurashi.farm",
+    "com.actgames.HelloKittyMDS",
+    "com.shimmergames.tenants.gp"
   ],
   "items": [
     {
@@ -1055,6 +1064,87 @@
       "developer": "NDREAM Corp.",
       "icon": "https://play-lh.googleusercontent.com/DXM-tJktKtleFLcy5yWatbWRZMqWIKWLUg5W1LxT1f6gsNbYub0c4cCrtDNYYSrqbPs",
       "url": "https://play.google.com/store/apps/details?id=com.bigbreakgames.wot&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.percent.aos.cooptd",
+      "title": "협동 타워 디펜스 : 친구와 함께",
+      "developer": "Supermagic",
+      "icon": "https://play-lh.googleusercontent.com/Hlc2-66nb99p3dy5qJE095Di19ib_uSHaEwfJ5_j09vJb2mw98q3cSnGRg28Q-Auww",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "rts.bunker.wars",
+      "title": "Bunker Wars: 1차 세계대전 RTS 게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/awCwyIrkWQ7jwtMZLLVxOD1vS_ZOQV5q7cAuRSfW1oOL6xsdmB-TPSC0F6Zudpfry5QB",
+      "url": "https://play.google.com/store/apps/details?id=rts.bunker.wars&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.percent.royaldice",
+      "title": "랜덤 다이스 디펜스 : PVP 타워 디펜스",
+      "developer": "111%",
+      "icon": "https://play-lh.googleusercontent.com/Nr7NsP1WRrzcMZA-93rlDvm03scNvOhZqAUVPPzQdFcG9XfnApBxtSFRxn7WwW4cFlc",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.royaldice&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.xh.penguin.android",
+      "title": "펭귄 대모험 : 꽁꽁 방어전",
+      "developer": "POPJOY",
+      "icon": "https://play-lh.googleusercontent.com/WUKysAG664jEe8MINILGGFjjencMWt4i8JuOK9Rh7IFa7onmvoCjkYAqSIg8DJ6FVQ",
+      "url": "https://play.google.com/store/apps/details?id=com.xh.penguin.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.spcomes.hellotown",
+      "title": "헬로 타운 : 신입사원 머지 성공 스토리",
+      "developer": "Springcomes",
+      "icon": "https://play-lh.googleusercontent.com/SSNukhchpbRZqfI0ytTwNsbu_7wW3xXZ60Z-OlmN03Q9nioqgQ2VRbmyPvdzjy3mI9n9",
+      "url": "https://play.google.com/store/apps/details?id=com.spcomes.hellotown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.nordcurrent.happyclinicf2p",
+      "title": "해피 클리닉: 병원 시뮬레이션 게임",
+      "developer": "Nordcurrent Games",
+      "icon": "https://play-lh.googleusercontent.com/x9DpM9PihtGDo3-3TD3eMt_3G3RXwJl6fLSb1oXmRuKtIIrOLzqqDlny7yLk3Y7FjbP4",
+      "url": "https://play.google.com/store/apps/details?id=com.nordcurrent.happyclinicf2p&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "jp.co.imagineer.sumikkogurashi.farm",
+      "title": "Sumikkogurashi Farm",
+      "developer": "Imagineer Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/hsk_Sb2qEzLeYRZhHwN1WK8GUMLhqgf4rMiI7-jJ5FGTdC6yEcLxiHU8ZX3afVWFCDxL202fVoYyt53UXE4pWvQ",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.sumikkogurashi.farm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.actgames.HelloKittyMDS",
+      "title": "헬로키티 마이 드림 스토어",
+      "developer": "ACTGames Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/oeSmBipeMSBbmIOvRs3Me2hIZNrmK6bGSZ2jsIizR957jhZJaCA5KR8a46VuUqM0y5AJaswHKc1RGonlYjam",
+      "url": "https://play.google.com/store/apps/details?id=com.actgames.HelloKittyMDS&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.shimmergames.tenants.gp",
+      "title": "갓물주 키우기",
+      "developer": "ShimmerGames",
+      "icon": "https://play-lh.googleusercontent.com/0eUCp4jK2Z4jC0hybwX36-ixM4Pnmgohb4sTv4bl46WCOVTnYvF9XylgDFP3prWjKc44",
+      "url": "https://play.google.com/store/apps/details?id=com.shimmergames.tenants.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3827,87 +3917,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nekki.shadowfight3",
-      "title": "섀도우 파이트 3",
-      "developer": "NEKKI",
-      "icon": "https://play-lh.googleusercontent.com/mNbe4RCs92XXpSmrheXWLs4Dl9OO6NcVdneyYSGKupzmjPo8-5wm51mS-uli5ylWWgt1",
-      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.reliancegames.wwemayhem",
-      "title": "WWE 신체 상해",
-      "developer": "Reliance Games",
-      "icon": "https://play-lh.googleusercontent.com/voHPquozqNtCn0z-8Yx7acDPcz19bRlsjOOlk2QZ-kpjEXqCNc8js-qLzJPZ-CJz92qcoNauE2RqY-jx6swQrA",
-      "url": "https://play.google.com/store/apps/details?id=com.reliancegames.wwemayhem&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.geargames.aow",
-      "title": "아트 오브 워 3:온라인 실시간 RTS 전쟁 전략 게임",
-      "developer": "Gear Games Global",
-      "icon": "https://play-lh.googleusercontent.com/cKYwBOv_IJxbp73hiQ9fX4w3H26Y8oTzBp58Yu0xUQdp0cuXACiqQEn0Pnwq0op9xXs",
-      "url": "https://play.google.com/store/apps/details?id=com.geargames.aow&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixonic.wwr",
-      "title": "War Robots. 6대6 택티컬 멀티플레이어 전투",
-      "developer": "MYGAMES MENA FZ LLC",
-      "icon": "https://play-lh.googleusercontent.com/CG7lf2XiunLAhR5uj42-Fg9cMCsnyV1gWnvbOySFYyYuIlui9EkyaJJb9Nm6OCA7sw",
-      "url": "https://play.google.com/store/apps/details?id=com.pixonic.wwr&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamedevltd.modernstrike",
-      "title": "Modern Strike Online FPS 사격 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/_3KQrZzfCV0Xui1upWTEph7BpJXXwLzhcEm8DbARbr9fMxa7Coohz1Yd9X2UZCZx4hw",
-      "url": "https://play.google.com/store/apps/details?id=com.gamedevltd.modernstrike&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.supercell.clashofclans",
-      "title": "클래시 오브 클랜",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.supercell.clashroyale",
-      "title": "클래시 로얄 (Clash Royale)",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.asobimo.toramonline",
-      "title": "RPG 토람 온라인 Toram Online MMORPG",
-      "developer": "Asobimo, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/DsLFbYlkQeah-R6gWYdstbgmy6PwQjVDCvNFfLnV2d2Ki6vYq0ZET2IwSq9PS-rK7aHlvXpPBcSKlSaoH45LHAc",
-      "url": "https://play.google.com/store/apps/details?id=com.asobimo.toramonline&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.totalbattle",
-      "title": "Total Battle: 전술 전략 전쟁 게임",
-      "developer": "Scorewarrior",
-      "icon": "https://play-lh.googleusercontent.com/tVu9zOuRBk4aUjro3Rgt0XUug_DxzjkyHxaslu9Q1dRd3XTOAw5Pn7UPT_xG4Se4rKS-",
-      "url": "https://play.google.com/store/apps/details?id=com.totalbattle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
