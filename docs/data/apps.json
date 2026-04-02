@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T05:46:36.153Z",
+  "updatedAt": "2026-04-02T07:38:58.889Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -555,7 +555,8 @@
     "com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game",
     "com.hottagames.nte",
     "com.dragonest.artifacts.google",
-    "com.happyelements.es2.kr.gp"
+    "com.happyelements.es2.kr.gp",
+    "com.gramgames.mergedragons"
   ],
   "items": [
     {
@@ -780,6 +781,15 @@
       "developer": "Eureka Creation Limited",
       "icon": "https://play-lh.googleusercontent.com/ZFEYEISHj1lHP0At7eXlAshZc2vov5Oc_3Av8Qu_qD1ZBy5jKkoJUsfkO9Gtxet5xcYf3zRk0HGY5yxyR5zfCA",
       "url": "https://play.google.com/store/apps/details?id=com.happyelements.es2.kr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.gramgames.mergedragons",
+      "title": "머지 드래곤즈! (Merge Dragons!)",
+      "developer": "Gram Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/6QX_XsITM8N9JDu-rxLditJhs-gG0K_nMLAr5kiZIJRgW9u5XoyR0Xe3ytsFMFlhUPv6wqkLe239u3gBNsGy0Q",
+      "url": "https://play.google.com/store/apps/details?id=com.gramgames.mergedragons&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3237,15 +3247,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tartarus.fingerfun.gp",
-      "title": "Dark Divinity RPG：영원한 지배",
-      "developer": "FingerFun Limited.",
-      "icon": "https://play-lh.googleusercontent.com/YHY-IOmvGHJDq-A4XgEC3Bdht2mOeeItnSfV4v1iCRK6yafEOfGTRv1HYM0KCxH7c910s9Di2coV__IrGgicZQ",
-      "url": "https://play.google.com/store/apps/details?id=com.tartarus.fingerfun.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
