@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T21:46:14.037Z",
+  "updatedAt": "2026-04-02T21:49:49.940Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -608,7 +608,8 @@
     "com.hg.delicacy.Notes.mergegames",
     "com.cedargames.tileclear",
     "com.grandgames.magicsort",
-    "com.ksrgland.goat"
+    "com.ksrgland.goat",
+    "com.and.games505.TerrariaPaid"
   ],
   "items": [
     {
@@ -995,6 +996,15 @@
       "developer": "GOAT Games",
       "icon": "https://play-lh.googleusercontent.com/D1OTNDqde01Ik8EBCCiPDjtpap22E6vCeU-_7z58LPGmszrW4YmZ7tiwyORVk3wbuKEF",
       "url": "https://play.google.com/store/apps/details?id=com.ksrgland.goat&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.and.games505.TerrariaPaid",
+      "title": "Terraria",
+      "developer": "505 Games Srl",
+      "icon": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos",
+      "url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3767,15 +3777,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nekki.shadowfightarena",
-      "title": "Shadow Fight 4: Arena",
-      "developer": "NEKKI",
-      "icon": "https://play-lh.googleusercontent.com/-GxICvpiFLNSf-hKpepT6ypBg5DH-092ZWfjYyvablmoU5b4SXFxaZnK-O6Zj-3lfCU",
-      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfightarena&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
