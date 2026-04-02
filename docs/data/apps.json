@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T03:20:45.163Z",
+  "updatedAt": "2026-04-02T05:46:36.153Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -553,7 +553,9 @@
     "com.alicegames.idle.rpg.battler",
     "linkdesks.oceanmatch",
     "com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game",
-    "com.hottagames.nte"
+    "com.hottagames.nte",
+    "com.dragonest.artifacts.google",
+    "com.happyelements.es2.kr.gp"
   ],
   "items": [
     {
@@ -760,6 +762,24 @@
       "developer": "N2E",
       "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
       "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.dragonest.artifacts.google",
+      "title": "Neo Artifacts - Strategy RPG",
+      "developer": "Dragonest Games",
+      "icon": "https://play-lh.googleusercontent.com/MiBQqQf_--CAIVVCZ5uou1OLLyP0E_XgfM9H_gDulAhdvmADRskUTffURazsavyCR-ixb1xdZ4ZBmdVXMIPyT6s",
+      "url": "https://play.google.com/store/apps/details?id=com.dragonest.artifacts.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.happyelements.es2.kr.gp",
+      "title": "앙상블스타즈",
+      "developer": "Eureka Creation Limited",
+      "icon": "https://play-lh.googleusercontent.com/ZFEYEISHj1lHP0At7eXlAshZc2vov5Oc_3Av8Qu_qD1ZBy5jKkoJUsfkO9Gtxet5xcYf3zRk0HGY5yxyR5zfCA",
+      "url": "https://play.google.com/store/apps/details?id=com.happyelements.es2.kr.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-02",
       "isGame": true
     },
@@ -3217,24 +3237,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.googleplay.BarbieDreamhouse",
-      "title": "Barbie Dreamhouse Adventures",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/jXdBk0KxJHwAwiSIwQXgm7EaUZOuI1JlLjhwJoAmJMDbk8xD0zlKtM2BHxnZAg3k_nclDvvyUU-mkVciEFUCqsA",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BarbieDreamhouse&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.googleplay.BlueyBLU",
-      "title": "블루이: 같이 놀아요",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/8j6_lKnY31usC725EpIpXxgVVgUARfFsmhg-xS_svAAh0AaxvXQajwZCWW8BTH7Jt-OSM8R_z1FvJxcCSkABlA",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BlueyBLU&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
