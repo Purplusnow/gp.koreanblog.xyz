@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T17:47:48.347Z",
+  "updatedAt": "2026-04-03T19:01:41.793Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -645,9 +645,59 @@
     "com.runawayplay.birdgame",
     "com.bandainamcoent.gget_WW",
     "com.rockbite.deeptown",
-    "com.HyperBeardGames.MyDearFarm"
+    "com.HyperBeardGames.MyDearFarm",
+    "com.sundaytoz.kakao.anipang3.service",
+    "net.peakgames.amy",
+    "com.king.candycrushsodasaga",
+    "com.puzzlegame.match3.jewelcraze",
+    "com.futureplay.mergematch"
   ],
   "items": [
+    {
+      "appId": "com.sundaytoz.kakao.anipang3.service",
+      "title": "애니팡3",
+      "developer": "Wemade Play Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/PeKJ41bhOthN046zbQg1twWz4WsZNif2_SKfykWevM57i2zsYYxGyFIsIce76WcK4g3hbYOyPGsgCZyT436PTaY",
+      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang3.service&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "net.peakgames.amy",
+      "title": "Toy Blast - 토이 블라스트",
+      "developer": "Peak",
+      "icon": "https://play-lh.googleusercontent.com/uzIGk-ZqUpbSdTErg6fr4wagWHmj_ul9Bw7ZtNqZvOqnM6xgdXnqsl8GKg2u9U0Y",
+      "url": "https://play.google.com/store/apps/details?id=net.peakgames.amy&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.king.candycrushsodasaga",
+      "title": "캔디크러쉬소다",
+      "developer": "King",
+      "icon": "https://play-lh.googleusercontent.com/kPPbmjP4QOq8D7Pt0xdPG8-NeyD6zcJ0bTeSLI7eqSylss7UNmek_Ik_Q8B5T8hV2jaDda_GpqniWq7jd7ZK7Q",
+      "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzlegame.match3.jewelcraze",
+      "title": "Jewel Craze: Match 3 Puzzle",
+      "developer": "SOFISH GAMES",
+      "icon": "https://play-lh.googleusercontent.com/qTk5VP5lLyrekUw-seDMedjnJ8SqjJFHHV1aqY50uz6NA5p5S_Q66jQH51U6c8GqRfw34xbl3AVn1fgf73hH2Q",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegame.match3.jewelcraze&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.futureplay.mergematch",
+      "title": "머지 가든: 퍼즐 스토리 게임",
+      "developer": "Futureplay",
+      "icon": "https://play-lh.googleusercontent.com/CK0gdAXiiSvLKIWxkexHqDh6xhj9Q4Rt8KFEYGRiDJZB3vk-1ohmYjsemjNQ8Ag7-CvOrjcLCLaovWG_IHezuQ",
+      "url": "https://play.google.com/store/apps/details?id=com.futureplay.mergematch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
     {
       "appId": "com.gamee.homepin2.manor.homescape",
       "title": "Home Pin 2: 꿈의 집",
@@ -4137,51 +4187,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.fgol.HungrySharkEvolution",
-      "title": "헝그리 샤크 에볼루션: 최강 상어 먹방 서바이벌 게임",
-      "developer": "Ubisoft Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/6Ij3BrGOfLbkwxdB_SSX8gEvOx68QQC9IPzhmZLddxbklr1yzblPj8MYEf2XUR7n9A",
-      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.epicgames.fortnite",
-      "title": "포트나이트",
-      "developer": "Epic Games, Inc",
-      "icon": "https://play-lh.googleusercontent.com/FxJDPDIDJKlG9C8lOxaS041X27A0SrHAa46SGDIpPusAd4IEJihZTyGf-8rTZ_GpF34aeLvULilVuO0cpCJxTg",
-      "url": "https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.kingdomrush",
-      "title": "Kingdom Rush 킹덤 러쉬 전략형 타워 디펜스",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/9R86lEJfM4b9qDS0Dey5NeIvD_hXnUh4zWvWGxTytb3WuxPUr9O66OzmjUTEoIw8YFU",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.sega.sonicrumble",
-      "title": "Sonic Rumble Party",
-      "developer": "SEGA CORPORATION",
-      "icon": "https://play-lh.googleusercontent.com/Y7PKEyfvUnZ9yx6AVt3Ge0PyqCXC2kw58RXXxjnOkDv8QNUFL2dayyyxyCzp_YftDQfz1fUI-3GLJLhvFKdN",
-      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicrumble&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.imangi.templerun",
-      "title": "Temple Run",
-      "developer": "Imangi Studios",
-      "icon": "https://play-lh.googleusercontent.com/onlNBInQHIZtB2rY24BwrEsUUKwE753ao1BAvvhOw2ePEN1IHIUjaR3gvlGd3jyKTdg",
-      "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
