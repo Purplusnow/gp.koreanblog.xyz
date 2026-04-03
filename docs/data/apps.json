@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T20:50:06.356Z",
+  "updatedAt": "2026-04-03T21:46:01.880Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -652,7 +652,12 @@
     "com.puzzlegame.match3.jewelcraze",
     "com.futureplay.mergematch",
     "com.match.busters.free.gp",
-    "com.match.homemansion.design.puzzlegame"
+    "com.match.homemansion.design.puzzlegame",
+    "com.zigzagame.paranoize",
+    "com.games.foundation",
+    "com.netease.yysls",
+    "com.netmarble.nanaori",
+    "com.devsisters.cos"
   ],
   "items": [
     {
@@ -715,6 +720,51 @@
       "developer": "Enjoysports",
       "icon": "https://play-lh.googleusercontent.com/Z1PDMq6l_A2Ni3MEFsRwyNwQxbC9dgvhj2njUDi9II1v54YXGtL6LdEGrzxD-FrM1rw",
       "url": "https://play.google.com/store/apps/details?id=com.match.homemansion.design.puzzlegame&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.zigzagame.paranoize",
+      "title": "패러노이즈",
+      "developer": "ZigZaGame Inc.",
+      "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+      "url": "https://play.google.com/store/apps/details?id=com.zigzagame.paranoize&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.games.foundation",
+      "title": "파운데이션: 우주 전선",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA",
+      "url": "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.netease.yysls",
+      "title": "연운",
+      "developer": "Exptional Global",
+      "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.yysls&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.nanaori",
+      "title": "일곱 개의 대죄: Origin",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/z2HWdjO2Y3Jlpfba6MLKcTbNND79rCxeiw4Ibxzs3qQibgT7fl1GAXLIl-vAcD3lHg_h_J6oMJYpJm1I52GjSw",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.cos",
+      "title": "쿠키런: 오븐스매시",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/ZVosgO6ZTbBU6h11uLoce6rLzOiN0PoEwd8m5ghx8lFhMU4Ra91C3uXhTCYYyJldZik",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4207,51 +4257,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.movile.playkids.pkxd",
-      "title": "PK XD: 친구와 즐거운 게임",
-      "developer": "Afterverse Games",
-      "icon": "https://play-lh.googleusercontent.com/gfr2n8K9E_cNPUdnYSNDUjOPQn4Z3gBd_0Rz9T0SHlP1ViwkAC-Lj6iOwA9lr7u3f0QkRpRiQyAKPwOzmNxq",
-      "url": "https://play.google.com/store/apps/details?id=com.movile.playkids.pkxd&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.netflix.NGP.ProjectKraken",
-      "title": "오징어 게임: 모바일 서바이벌",
-      "developer": "Netflix, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/bO4YwE_Y8JWmGCHa6kCDjBq18DNqEK-RLGLsJ9rXsdLMQ9X-FooHjhttsv_O3v-YT70",
-      "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.ProjectKraken&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildlife.games.battle.royale.free.zooba",
-      "title": "Zooba: 재미있는 배틀 로얄 게임",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/_xhMsOSnPLKGcaJUG6Ca4uUoI_OJL2EWsxxGAgb8FdOLYn-CIDGlIWy9NM9DC8z_xoxV",
-      "url": "https://play.google.com/store/apps/details?id=com.wildlife.games.battle.royale.free.zooba&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.scopely.monopolygo",
-      "title": "MONOPOLY GO! (모노폴리 GO!)",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/DfYkSl-nQoMNLX2bec7EwHemrvyDYmDgzIR1jcsyt0ZAcmO_SKjuu0a1o1iSwtnl8_g",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gof.global",
-      "title": "WOS: 화이트아웃 서바이벌",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/q7KzFHxwj8SWdIeEgjw1o5FBj3lNRBtJswrtQ7EWLlSoVulSRfFqcXZrqlqCgc4H0g",
-      "url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
