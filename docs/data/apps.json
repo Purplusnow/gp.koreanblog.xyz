@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T09:07:30.262Z",
+  "updatedAt": "2026-04-03T10:57:41.790Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -635,7 +635,8 @@
     "com.warrior.officebuilding.gp",
     "com.actionfit.catmerge",
     "com.easybrain.arrow.puzzle.game",
-    "com.epidgames.trickcalrevive"
+    "com.epidgames.trickcalrevive",
+    "com.traverse.zhfx.en.gp"
   ],
   "items": [
     {
@@ -1265,6 +1266,15 @@
       "developer": "EPIDGames",
       "icon": "https://play-lh.googleusercontent.com/8GfqbOi56hkpKWFcjzeTHGygG7HB3q2wgKWfSnU5U9rGte7I8PtzkrQK83K9gaNTmuOblnyAPDnCns1BfDPr",
       "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.traverse.zhfx.en.gp",
+      "title": "악룡은 지킬 수 없다",
+      "developer": "Wonder Game Inc.",
+      "icon": "https://play-lh.googleusercontent.com/c9nUrCN6IaI4ug8ubjneAdgqv8zpFgEp1O7730jFAfJUU-NuORCGD_qz_uHqTSZ4CwqgKUZwaAyb3FWHTMUOqQ",
+      "url": "https://play.google.com/store/apps/details?id=com.traverse.zhfx.en.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -4037,15 +4047,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.playrix.fishdomdd.gplay",
-      "title": "피쉬돔 (Fishdom)",
-      "developer": "Playrix",
-      "icon": "https://play-lh.googleusercontent.com/edzeibdlmqt6q5asPDkRgFJOgVaC4BWwHJ8EZqNaFppnGdDZZJFtt1Tpn-dOkWiQwn4",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.fishdomdd.gplay&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
