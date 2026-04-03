@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T11:48:37.983Z",
+  "updatedAt": "2026-04-03T12:26:51.073Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -636,7 +636,9 @@
     "com.actionfit.catmerge",
     "com.easybrain.arrow.puzzle.game",
     "com.epidgames.trickcalrevive",
-    "com.traverse.zhfx.en.gp"
+    "com.traverse.zhfx.en.gp",
+    "com.mysterytag.paris",
+    "com.vizorapps.atlantis"
   ],
   "items": [
     {
@@ -663,6 +665,15 @@
       "developer": "Microfun Limited",
       "icon": "https://play-lh.googleusercontent.com/PmMSCDLMab3nn0wj14BFZNqPncr1C14M5VmUrM3aXNmeRa1zEhNI4N3L1F1oO3qDYRPOQigQOyXxwDuQZZvTwA",
       "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.funplus.mc",
+      "title": "안개의 대륙: 저주받은 섬",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/203cYa7X4hV_6JFlt21cvxDwmXvq49OjiTzdi5O1JL-uuN2k0egopYx0PjRI4aRJfAs",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.mc&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -708,15 +719,6 @@
       "developer": "ZigZaGame Inc.",
       "icon": "https://play-lh.googleusercontent.com/7MIw_TaxkX9d0bTe8LRRjdQHispRojxI0TlmwNWFFYpv_DAYyNJCgbsmnao-eA8xHQ",
       "url": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.funplus.mc",
-      "title": "안개의 대륙: 저주받은 섬",
-      "developer": "FunPlus International AG",
-      "icon": "https://play-lh.googleusercontent.com/203cYa7X4hV_6JFlt21cvxDwmXvq49OjiTzdi5O1JL-uuN2k0egopYx0PjRI4aRJfAs",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.mc&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -1275,6 +1277,24 @@
       "developer": "Wonder Game Inc.",
       "icon": "https://play-lh.googleusercontent.com/c9nUrCN6IaI4ug8ubjneAdgqv8zpFgEp1O7730jFAfJUU-NuORCGD_qz_uHqTSZ4CwqgKUZwaAyb3FWHTMUOqQ",
       "url": "https://play.google.com/store/apps/details?id=com.traverse.zhfx.en.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.mysterytag.paris",
+      "title": "Paris: City Adventure",
+      "developer": "MTAG PUBLISHING LTD",
+      "icon": "https://play-lh.googleusercontent.com/Z6VkKxlqtM5vXhvH7r0NWnOOAtIvYurlOFQCdCMFOsyjuuIqi-ATX2bZPVlQTNn04w",
+      "url": "https://play.google.com/store/apps/details?id=com.mysterytag.paris&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.vizorapps.atlantis",
+      "title": "Atlantis Odyssey: 어드벤처 게임",
+      "developer": "VIZOR APPS LTD.",
+      "icon": "https://play-lh.googleusercontent.com/99a7K7d8UuLvcxaOLZDVOSXRSy-3kvuAcyfYQD77bicbaEzjS8G5keartHe4Iue9ZlY",
+      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.atlantis&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -4047,24 +4067,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.whoyaho.tanghulu",
-      "title": "탕후루의 달인 - 두쫀쿠, 급식, 배달 먹방 ASMR",
-      "developer": "Whoyaho Corp.",
-      "icon": "https://play-lh.googleusercontent.com/aUA2ULhVbePpQxyc89HZLnQUd_Dz1vXXo0TwX_g8ms10vWn0gvbFTXQDhZV0bv50uWTq",
-      "url": "https://play.google.com/store/apps/details?id=com.whoyaho.tanghulu&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.kart",
-      "title": "카트라이더 러쉬플러스",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/OeKApmjk4WUCvrqgsGjnaW5tE08-mLNxJBaHPU-e_O1KVkDFC8Nk2pjq_lTOVQI2rg",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.kart&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
