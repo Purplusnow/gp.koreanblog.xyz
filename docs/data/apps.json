@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T23:47:19.621Z",
+  "updatedAt": "2026-04-03T03:22:34.519Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -623,7 +623,11 @@
     "com.nordcurrent.happyclinicf2p",
     "jp.co.imagineer.sumikkogurashi.farm",
     "com.actgames.HelloKittyMDS",
-    "com.shimmergames.tenants.gp"
+    "com.shimmergames.tenants.gp",
+    "com.detailgames.tged",
+    "screw.puzzle.match3.brain.puzz",
+    "com.riotgames.mobile.leagueconnect",
+    "com.mind.quiz.brain.out"
   ],
   "items": [
     {
@@ -1145,6 +1149,42 @@
       "developer": "ShimmerGames",
       "icon": "https://play-lh.googleusercontent.com/0eUCp4jK2Z4jC0hybwX36-ixM4Pnmgohb4sTv4bl46WCOVTnYvF9XylgDFP3prWjKc44",
       "url": "https://play.google.com/store/apps/details?id=com.shimmergames.tenants.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.detailgames.tged",
+      "title": "역대급 영지 설계사: 촤라락 디펜스",
+      "developer": "Detailgames",
+      "icon": "https://play-lh.googleusercontent.com/JysWmQVJlTQoBewLCiCGWGt92zBtrUNu-7nAAsVvvKYQtVUZnmwIR-G4NQs9INuf0Dl7ZYzz4lBa23Vpzv83y30",
+      "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "screw.puzzle.match3.brain.puzz",
+      "title": "나사 매치 - 나사풀기 핀 퍼즐 나사게임 3d",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/d3Yn1qFH6iQdqQ5wkcsf0ACzuQavPYUzsahfaUNmp4KWcrbkf_IRGTBQn6glaUk_7Oo",
+      "url": "https://play.google.com/store/apps/details?id=screw.puzzle.match3.brain.puzz&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.riotgames.mobile.leagueconnect",
+      "title": "라이엇 모바일",
+      "developer": "Riot Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/KV6LJhKnHyzT_Zlr76Qac4IG8PRqK9r-2-CCf-4zs1XDLfKSWUmkNbZlnL64IZVMzg",
+      "url": "https://play.google.com/store/apps/details?id=com.riotgames.mobile.leagueconnect&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.mind.quiz.brain.out",
+      "title": "Brain Out®: 넌센스 마스터, 두뇌 트레이닝",
+      "developer": "Focus apps",
+      "icon": "https://play-lh.googleusercontent.com/cIZT8s6NiS_Ez_t0EbD_zoMgvdUsUIP8dgArn4iWcWynE4HYSsYdG7xJTuwkl-vZ3lE",
+      "url": "https://play.google.com/store/apps/details?id=com.mind.quiz.brain.out&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3917,42 +3957,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "jp.konami.pesam",
-      "title": "eFootball™",
-      "developer": "KONAMI",
-      "icon": "https://play-lh.googleusercontent.com/o-iscF0u9uAm9jaems25nNUw3cIgxrzIELVTy-DPKb3CxN0_HLBcaWoeetZca_BBOp_u_NXeyQKz0nJkXiFMkA",
-      "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.superking.ludo.star",
-      "title": "Ludo STAR",
-      "developer": "Gameberry Labs",
-      "icon": "https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ",
-      "url": "https://play.google.com/store/apps/details?id=com.superking.ludo.star&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.footballstrike",
-      "title": "Football Strike: Online Soccer",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/QfFRLz_-JzxMFJzKyJQQpqQWQyw2f2VQLlEsr14R6SqvNe99Rdli-Qcki1MTK8Bh078",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.footballstrike&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.kitkagames.fallbuddies",
-      "title": "Stumble Guys 스텀블 가이즈",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
