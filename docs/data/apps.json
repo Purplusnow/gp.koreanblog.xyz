@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T12:26:51.073Z",
+  "updatedAt": "2026-04-03T12:45:04.034Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -638,7 +638,11 @@
     "com.epidgames.trickcalrevive",
     "com.traverse.zhfx.en.gp",
     "com.mysterytag.paris",
-    "com.vizorapps.atlantis"
+    "com.vizorapps.atlantis",
+    "com.matchinggo.puzzlegames",
+    "com.joycastle.mergematch",
+    "com.outloud.petshelter",
+    "com.runawayplay.birdgame"
   ],
   "items": [
     {
@@ -674,6 +678,15 @@
       "developer": "FunPlus International AG",
       "icon": "https://play-lh.googleusercontent.com/203cYa7X4hV_6JFlt21cvxDwmXvq49OjiTzdi5O1JL-uuN2k0egopYx0PjRI4aRJfAs",
       "url": "https://play.google.com/store/apps/details?id=com.funplus.mc&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "games.vaveda.militaryoverturn",
+      "title": "타워 워 (Tower War)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/7G_QBBufLp71rnqfwEGF9XnF33H5wx-mD9wxpKAJvVXxcc7YCgsT4yxpT7GF7sGprf8",
+      "url": "https://play.google.com/store/apps/details?id=games.vaveda.militaryoverturn&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -737,15 +750,6 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/KPupUUBsQkLiNweH5RLQz0cT9AIZtRuyHsRoop3G8V4Jj9tZR71TCUkTngcBB9vBEOwn",
       "url": "https://play.google.com/store/apps/details?id=flexus.dye.hard&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "games.vaveda.militaryoverturn",
-      "title": "타워 워 (Tower War)",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/7G_QBBufLp71rnqfwEGF9XnF33H5wx-mD9wxpKAJvVXxcc7YCgsT4yxpT7GF7sGprf8",
-      "url": "https://play.google.com/store/apps/details?id=games.vaveda.militaryoverturn&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -1295,6 +1299,42 @@
       "developer": "VIZOR APPS LTD.",
       "icon": "https://play-lh.googleusercontent.com/99a7K7d8UuLvcxaOLZDVOSXRSy-3kvuAcyfYQD77bicbaEzjS8G5keartHe4Iue9ZlY",
       "url": "https://play.google.com/store/apps/details?id=com.vizorapps.atlantis&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.matchinggo.puzzlegames",
+      "title": "매칭 고 (Matching Go!) - 퍼즐 게임",
+      "developer": "Lynn Mobile Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/pksx7PX9uVtIn7Xgm8IVxhMT_Mpji67pO_Z1npWicpTIHiyi7AGRGIIZpAq9GbkK1F0",
+      "url": "https://play.google.com/store/apps/details?id=com.matchinggo.puzzlegames&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.joycastle.mergematch",
+      "title": "Matching Story - Puzzle Games",
+      "developer": "VERTEX GAMES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/KXarpFAjxU-WsYtoa_N1H9gHrZ9-Kg_QVYnzehuykwBbAehrjuHSN-nYuJJVwmDZOpMw",
+      "url": "https://play.google.com/store/apps/details?id=com.joycastle.mergematch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.outloud.petshelter",
+      "title": "Idle Pet Shelter",
+      "developer": "Nova Sphere Limited",
+      "icon": "https://play-lh.googleusercontent.com/cpbx3HPb4_4r5curNtLWWGwC8MCEoFgrYIAKgCKE-BqksbUfetCYRVhlK_NtzT6sxNY",
+      "url": "https://play.google.com/store/apps/details?id=com.outloud.petshelter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.runawayplay.birdgame",
+      "title": "버드 포레스트",
+      "developer": "Runaway Play",
+      "icon": "https://play-lh.googleusercontent.com/EWpkqSwUpqSp8OE0jzXVhv4Rs0KhisbRlQwzSOX0l3Bp9Gio4TGSfmc8Qye_gPbBlw",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.birdgame&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -4067,42 +4107,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.opbrww",
-      "title": "ONE PIECE Bounty Rush",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/MJKv58LUS8uuQ8DXxT0__CZoexpnBz-iRzdQP2SO4oOsP1nYjO8Dsi9-tuuPdCFjXg0V2OxTyy7Axewq2qyRrA",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrww&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nflystudio.InfiniteStaircase",
-      "title": "무한의 계단 : k리그 콜라보",
-      "developer": "Neptune Corp.",
-      "icon": "https://play-lh.googleusercontent.com/vuCFZ2azvLiFyFoBE6lSlQUFBbiStTCFjdnjZF8kggiJOgFTv11Bh5QanYxxL9VzOA",
-      "url": "https://play.google.com/store/apps/details?id=com.nflystudio.InfiniteStaircase&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.CookieRunForKakao",
-      "title": "쿠키런",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/3pnCPHkP4QE7Aj_rQ8XF3Fr1qy4eomx6WL220Q1dgxMn_2Dq5bd4ctCevleSDj6cD0_rDPJWb4RapuWzb5cWRm0",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.CookieRunForKakao&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.blizzard.diablo.immortal",
-      "title": "디아블로 이모탈",
-      "developer": "Blizzard Entertainment, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/_yzPibz5HxfAfEL3oNEprE0WRoaVDLwRYNiiClFGYx8einV9t8nQjWEtbD2ysN-OYwIDIFRi6RLQyuvijv2AbmI",
-      "url": "https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
