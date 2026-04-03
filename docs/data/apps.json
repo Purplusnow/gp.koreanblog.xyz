@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T12:45:04.034Z",
+  "updatedAt": "2026-04-03T13:24:56.889Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -642,7 +642,10 @@
     "com.matchinggo.puzzlegames",
     "com.joycastle.mergematch",
     "com.outloud.petshelter",
-    "com.runawayplay.birdgame"
+    "com.runawayplay.birdgame",
+    "com.bandainamcoent.gget_WW",
+    "com.rockbite.deeptown",
+    "com.HyperBeardGames.MyDearFarm"
   ],
   "items": [
     {
@@ -1335,6 +1338,33 @@
       "developer": "Runaway Play",
       "icon": "https://play-lh.googleusercontent.com/EWpkqSwUpqSp8OE0jzXVhv4Rs0KhisbRlQwzSOX0l3Bp9Gio4TGSfmc8Qye_gPbBlw",
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.birdgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.gget_WW",
+      "title": "SD건담 지 제네레이션 이터널",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/R3WK1OduR8UzhjipEkWiVpoNrbgcgQ3JD1IyCyN5Xp1BTjcPGOWNMMU5UGDiJkzoLnZ0VoG2Z0zVhWX-PoBSzYA",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gget_WW&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.rockbite.deeptown",
+      "title": "Deep Town: 마이닝시티 방치형게임",
+      "developer": "Game Veterans",
+      "icon": "https://play-lh.googleusercontent.com/1eZTURYKhwvf3m2BHXvVocOVlK2d34P2Q-YClTyjeKQKlpE5HXXVyvvcO5kOjNiOtqp76A2jjNhED0svNjyQdDc",
+      "url": "https://play.google.com/store/apps/details?id=com.rockbite.deeptown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.HyperBeardGames.MyDearFarm",
+      "title": "사랑스러운 농장",
+      "developer": "HyperBeard",
+      "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
+      "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -4107,33 +4137,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ChillyRoom.DungeonShooter",
-      "title": "Soul Knight",
-      "developer": "ChillyRoom",
-      "icon": "https://play-lh.googleusercontent.com/pP4_N4raox3CeN41Es39m-_JzNytgADaMEK31rQUHySQxmGlmoYZ65fjPdxSu3ZS-86k",
-      "url": "https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tgc.sky.android",
-      "title": "SKY - 빛의 아이들",
-      "developer": "thatgamecompany inc",
-      "icon": "https://play-lh.googleusercontent.com/xdycgC8mSX5Mqd3WdreshM4Igj7Q-Mk01OigM_qFbv9A_4pz2TRx18QbhKD_J7NurIL04NN7kHsvTXELcpDszm4",
-      "url": "https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.playgendary.tanks",
-      "title": "탱크 스타 – 모바일 PvP 로봇 탱크 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/Dvmyxwjkp9xKAn7HN7Pyd-pbDfqwYNkGhJr1xVoxU8tUH_gL_b2AiQL2NDAThBbJd6I",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.tanks&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
