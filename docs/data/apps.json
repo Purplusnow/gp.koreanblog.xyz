@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T03:22:34.519Z",
+  "updatedAt": "2026-04-03T05:46:51.600Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -627,7 +627,10 @@
     "com.detailgames.tged",
     "screw.puzzle.match3.brain.puzz",
     "com.riotgames.mobile.leagueconnect",
-    "com.mind.quiz.brain.out"
+    "com.mind.quiz.brain.out",
+    "com.glu.zbs",
+    "com.fungames.sniper3d",
+    "com.screenshake.dominodreams"
   ],
   "items": [
     {
@@ -1185,6 +1188,33 @@
       "developer": "Focus apps",
       "icon": "https://play-lh.googleusercontent.com/cIZT8s6NiS_Ez_t0EbD_zoMgvdUsUIP8dgArn4iWcWynE4HYSsYdG7xJTuwkl-vZ3lE",
       "url": "https://play.google.com/store/apps/details?id=com.mind.quiz.brain.out&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.glu.zbs",
+      "title": "레프트 투 서바이브: 모바일 좀비 서바이벌 게임",
+      "developer": "MY.GAMES HOLDINGS LTD",
+      "icon": "https://play-lh.googleusercontent.com/ohQwV8muWm31_uU01QwRt4x4RfKthPIls9S4mCsGkz_OpR-8brO4EFjrIh4WxaWmVVWG",
+      "url": "https://play.google.com/store/apps/details?id=com.glu.zbs&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.fungames.sniper3d",
+      "title": "스나이퍼 3D：건슈팅 게임",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
+      "url": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.screenshake.dominodreams",
+      "title": "Domino Dreams™",
+      "developer": "SuperPlay.",
+      "icon": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw",
+      "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -3957,33 +3987,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.chess",
-      "title": "체스 · 플레이 및 배우기 온라인",
-      "developer": "Chess.com",
-      "icon": "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw",
-      "url": "https://play.google.com/store/apps/details?id=com.chess&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftW2HM",
-      "title": "War Planet Online: 전투 게임",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/AmgnWLomEuKP8lyllzajMzlFPRCttE7x2kFQQREq3ydzH6QyzDOz-im2z6O4yBHNTOcJCY6MwDhSRjAJshHkSQ",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftW2HM&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.robtopx.geometryjumplite",
-      "title": "Geometry Dash Lite",
-      "developer": "RobTop Games",
-      "icon": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
