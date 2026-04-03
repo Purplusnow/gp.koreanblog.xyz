@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T07:23:57.104Z",
+  "updatedAt": "2026-04-03T09:07:30.262Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -633,7 +633,9 @@
     "com.screenshake.dominodreams",
     "com.nns.genesis",
     "com.warrior.officebuilding.gp",
-    "com.actionfit.catmerge"
+    "com.actionfit.catmerge",
+    "com.easybrain.arrow.puzzle.game",
+    "com.epidgames.trickcalrevive"
   ],
   "items": [
     {
@@ -1245,6 +1247,24 @@
       "developer": "ACTIONFIT",
       "icon": "https://play-lh.googleusercontent.com/OLuOionkDc_BiJNw3ojfuE-cczW_rIFsm5LLXBlpck3ovOF85wGk02oVcsRLnWZqd2Y",
       "url": "https://play.google.com/store/apps/details?id=com.actionfit.catmerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.easybrain.arrow.puzzle.game",
+      "title": "Arrow Puzzle - 화살퍼즐게임",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
+      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.epidgames.trickcalrevive",
+      "title": "트릭컬 리바이브 - 2.5주년 600뽑기 증정",
+      "developer": "EPIDGames",
+      "icon": "https://play-lh.googleusercontent.com/8GfqbOi56hkpKWFcjzeTHGygG7HB3q2wgKWfSnU5U9rGte7I8PtzkrQK83K9gaNTmuOblnyAPDnCns1BfDPr",
+      "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -4017,24 +4037,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.amanotes.gs.g06",
-      "title": "듀엣 고양이: 귀여운 음악 키즈게임",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/edFhFA9AsSSqjnRljyq5FZPvAE6BNHjJgxe-HqopIOFCu4AMtMROwTLBfVa_UCaK5Hg",
-      "url": "https://play.google.com/store/apps/details?id=com.amanotes.gs.g06&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.playrix.homescapes",
-      "title": "꿈의 집 (Homescapes)",
-      "developer": "Playrix",
-      "icon": "https://play-lh.googleusercontent.com/mSRXb7x8rW8T7tvtxbfP6tsi7tqXjXWIRGJURHAu4ipdJrbg_6Efz8U9aDrUTQI5_3k",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
