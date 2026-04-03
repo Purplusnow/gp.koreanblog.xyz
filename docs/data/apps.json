@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T21:46:01.880Z",
+  "updatedAt": "2026-04-03T22:47:51.345Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -657,7 +657,12 @@
     "com.games.foundation",
     "com.netease.yysls",
     "com.netmarble.nanaori",
-    "com.devsisters.cos"
+    "com.devsisters.cos",
+    "com.yzlmkr.google",
+    "com.ig.screwdom",
+    "com.gravity.rooc.android",
+    "air.com.pixelfederation.seaport.explore.collect.trade",
+    "com.pixelfederation.ts2"
   ],
   "items": [
     {
@@ -765,6 +770,51 @@
       "developer": "Devsisters Corporation",
       "icon": "https://play-lh.googleusercontent.com/ZVosgO6ZTbBU6h11uLoce6rLzOiN0PoEwd8m5ghx8lFhMU4Ra91C3uXhTCYYyJldZik",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.yzlmkr.google",
+      "title": "우와 모험단",
+      "developer": "Joy Nice Games",
+      "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
+      "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.ig.screwdom",
+      "title": "Screwdom 3D",
+      "developer": "iKame Games - Zego Studio",
+      "icon": "https://play-lh.googleusercontent.com/lrGM85RjRRh4pax0P6JbDVzXF7XeJA9PSMTpRujqqDhVgiOSInZ1l3sg0uBURw9INs8",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.gravity.rooc.android",
+      "title": "라그나로크 오리진 클래식",
+      "developer": "Gravity Game Vision",
+      "icon": "https://play-lh.googleusercontent.com/ED8gHnN8SOn8bl7TYnBs23bbCWlcsPIs1FKcx8mj8TvhYUoIWevEn6eEKHKvAe_5xUN8BC5JpSq0eg855-H9",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.rooc.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.pixelfederation.seaport.explore.collect.trade",
+      "title": "Sea Port: 선박왕 전략 게임",
+      "developer": "PIXEL FEDERATION, s.r.o.",
+      "icon": "https://play-lh.googleusercontent.com/RYPmVGVnJ17HbBadlr9sgXKjdq0bC_mVySTug3S7YyXpaj4b4GXw9Oou0uTcuq3a6HYOsgn_coT_hRzHxhKFYuc",
+      "url": "https://play.google.com/store/apps/details?id=air.com.pixelfederation.seaport.explore.collect.trade&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixelfederation.ts2",
+      "title": "Train Station 2 철도 전략 게임",
+      "developer": "PIXEL FEDERATION, s.r.o.",
+      "icon": "https://play-lh.googleusercontent.com/CkTiaANDHSLCrncYim_R42csK_LUpGD44OOguzA_vNHIf_jmImYw70zNiNkHuiFkfzTKPSqqtt753gRueO9mFg",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.ts2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4257,51 +4307,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.threebit.heartwoodonline",
-      "title": "Heartwood Online - MMORPG",
-      "developer": "E Bros",
-      "icon": "https://play-lh.googleusercontent.com/OOgBk56IBvJN6V94pC3RbxxMCRu8FhK9djUjzz8smFKmTaEOrOh1b9WUfzZGRUxmq5o",
-      "url": "https://play.google.com/store/apps/details?id=com.threebit.heartwoodonline&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "ru.SOFFGames.gco",
-      "title": "그랜드 크리미널 온라인: 샌드박스 RP",
-      "developer": "Jet Games FZ-LLC",
-      "icon": "https://play-lh.googleusercontent.com/HAVGVpHuMSgn2DGzRqJdIf4NI-EjFOkyRNR6p0K0mBDd5xSiKzLkGhd-0aWzbmJz_ck",
-      "url": "https://play.google.com/store/apps/details?id=ru.SOFFGames.gco&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.whalo.games.fishoffortune",
-      "title": "Fish of Fortune™",
-      "developer": "Whalo",
-      "icon": "https://play-lh.googleusercontent.com/3fC7fxsF2qHgmAfs3XuMNNbLu9qFuKBIR-rtCe_pfoFijW34s3UYUJqxAl4dTJM8wytyaIjGRnjsXDxzmVTnCRM",
-      "url": "https://play.google.com/store/apps/details?id=com.whalo.games.fishoffortune&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "puzzle.yarn.fever.unravel.puzzle",
-      "title": "Yarn Fever! Unravel Puzzle",
-      "developer": "Brave HK Limited",
-      "icon": "https://play-lh.googleusercontent.com/eQGfBb1JJswvnFASnsWExK_JboqU3bMAJRo-ko-ZOwqiuOH7mdrvYKxmSwFwMPLK3Q",
-      "url": "https://play.google.com/store/apps/details?id=puzzle.yarn.fever.unravel.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.nanakr",
-      "title": "일곱 개의 대죄: GRAND CROSS",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/yiPr5aPkajf90mlPdyiJKdteQU7Y3SP-ftUH8Pu6131Kl3vyBvfXtP9JqhcAl2asZwM6eKURR_UENCfz8IkyCA",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanakr&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
