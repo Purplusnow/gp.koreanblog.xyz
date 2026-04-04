@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T10:48:13.468Z",
+  "updatedAt": "2026-04-04T11:37:57.536Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -716,6 +716,15 @@
       "isGame": true
     },
     {
+      "appId": "com.netease.yysls",
+      "title": "연운",
+      "developer": "Exptional Global",
+      "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.yysls&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
       "appId": "com.puzzlegame.match3.jewelcraze",
       "title": "Jewel Craze: Match 3 Puzzle",
       "developer": "SOFISH GAMES",
@@ -757,15 +766,6 @@
       "developer": "FunPlus International AG",
       "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA",
       "url": "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.netease.yysls",
-      "title": "연운",
-      "developer": "Exptional Global",
-      "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.yysls&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
