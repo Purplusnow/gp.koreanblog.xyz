@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T09:51:40.095Z",
+  "updatedAt": "2026-04-04T10:48:13.468Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -675,7 +675,8 @@
     "com.supersolid.honestfood",
     "br.com.tapps.weareilluminati",
     "com.linegames.hkfm",
-    "cat.mansion.merge.games"
+    "cat.mansion.merge.games",
+    "com.scopely.startrek"
   ],
   "items": [
     {
@@ -945,6 +946,15 @@
       "developer": "Ladaneta Games",
       "icon": "https://play-lh.googleusercontent.com/Qs_AsYi9P6CK28F_nFcpPql9_OesreUnZdtuG0d2GiQRzo_CZorjjgfOocSaJfiDEhE",
       "url": "https://play.google.com/store/apps/details?id=cat.mansion.merge.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.scopely.startrek",
+      "title": "Star Trek™ 플릿 커맨드",
+      "developer": "Scopely",
+      "icon": "https://play-lh.googleusercontent.com/VJKnucpvNSmuoh0g-6ZOUIYjU7axhLr1HIALvrjkyxlbaLOrCkDCd5HLbpF7J-J-Ycm1r540uRdqDKykWgAZRQ",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.startrek&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4437,15 +4447,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.os.space.force.galaxy.alien",
-      "title": "Galaxiga: Galaxy Arcade Game",
-      "developer": "1SOFT",
-      "icon": "https://play-lh.googleusercontent.com/yIMCUFQ7MgXKI4brmT74ccOjeQuOtmf7uGBhfwTKPWhvxfTrUyt8jesANj7Na3oF3SY",
-      "url": "https://play.google.com/store/apps/details?id=com.os.space.force.galaxy.alien&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
