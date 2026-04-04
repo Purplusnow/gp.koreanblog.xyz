@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T13:16:57.762Z",
+  "updatedAt": "2026-04-04T13:45:39.273Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -680,7 +680,8 @@
     "com.sinyee.babybus.dentistII",
     "com.sinyee.babybus.talk2kiki.global",
     "com.TironiumTech.IdlePlanetMiner",
-    "com.PepiPlay.PepiHospital"
+    "com.PepiPlay.PepiHospital",
+    "com.tapps.virtual.pet.hotel.games.world"
   ],
   "items": [
     {
@@ -756,6 +757,15 @@
       "isGame": true
     },
     {
+      "appId": "com.pixelfederation.ts2",
+      "title": "Train Station 2 철도 전략 게임",
+      "developer": "PIXEL FEDERATION, s.r.o.",
+      "icon": "https://play-lh.googleusercontent.com/CkTiaANDHSLCrncYim_R42csK_LUpGD44OOguzA_vNHIf_jmImYw70zNiNkHuiFkfzTKPSqqtt753gRueO9mFg",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.ts2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
       "appId": "com.puzzlegame.match3.jewelcraze",
       "title": "Jewel Craze: Match 3 Puzzle",
       "developer": "SOFISH GAMES",
@@ -824,15 +834,6 @@
       "developer": "PIXEL FEDERATION, s.r.o.",
       "icon": "https://play-lh.googleusercontent.com/RYPmVGVnJ17HbBadlr9sgXKjdq0bC_mVySTug3S7YyXpaj4b4GXw9Oou0uTcuq3a6HYOsgn_coT_hRzHxhKFYuc",
       "url": "https://play.google.com/store/apps/details?id=air.com.pixelfederation.seaport.explore.collect.trade&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixelfederation.ts2",
-      "title": "Train Station 2 철도 전략 게임",
-      "developer": "PIXEL FEDERATION, s.r.o.",
-      "icon": "https://play-lh.googleusercontent.com/CkTiaANDHSLCrncYim_R42csK_LUpGD44OOguzA_vNHIf_jmImYw70zNiNkHuiFkfzTKPSqqtt753gRueO9mFg",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.ts2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -995,6 +996,15 @@
       "developer": "Pepi Play",
       "icon": "https://play-lh.googleusercontent.com/GkJZdYwhS6G5p_3FDv7c4t1-sCZn9tjKy8wokIwPJefu8EVSeFfcGK19yCO4AQdE0a8",
       "url": "https://play.google.com/store/apps/details?id=com.PepiPlay.PepiHospital&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapps.virtual.pet.hotel.games.world",
+      "title": "Pet Shop Fever: Animal Hotel",
+      "developer": "Tapps Games - PT",
+      "icon": "https://play-lh.googleusercontent.com/4lyTqPou1JiwzH_jwdlff92scR4YEIvWSiTL5WMhYDdxLEIk06SFF9J2Cxz9kAFYIwbd",
+      "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.hotel.games.world&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4487,15 +4497,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "wool.match.color.sort.jam.puzzle",
-      "title": "털실 마스터",
-      "developer": "Astrasen Global",
-      "icon": "https://play-lh.googleusercontent.com/Fd3FqWjUJRKKb64YUH-dbgKfyLDuxoOPnKfusLnkvZVZoQOi4IUmYhBgfJAvoJ0YLg",
-      "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
