@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T07:11:09.384Z",
+  "updatedAt": "2026-04-04T07:19:33.837Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -702,20 +702,20 @@
       "isGame": true
     },
     {
-      "appId": "com.puzzlegame.match3.jewelcraze",
-      "title": "Jewel Craze: Match 3 Puzzle",
-      "developer": "SOFISH GAMES",
-      "icon": "https://play-lh.googleusercontent.com/qTk5VP5lLyrekUw-seDMedjnJ8SqjJFHHV1aqY50uz6NA5p5S_Q66jQH51U6c8GqRfw34xbl3AVn1fgf73hH2Q",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegame.match3.jewelcraze&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
       "appId": "com.futureplay.mergematch",
       "title": "머지 가든: 퍼즐 스토리 게임",
       "developer": "Futureplay",
       "icon": "https://play-lh.googleusercontent.com/CK0gdAXiiSvLKIWxkexHqDh6xhj9Q4Rt8KFEYGRiDJZB3vk-1ohmYjsemjNQ8Ag7-CvOrjcLCLaovWG_IHezuQ",
       "url": "https://play.google.com/store/apps/details?id=com.futureplay.mergematch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzlegame.match3.jewelcraze",
+      "title": "Jewel Craze: Match 3 Puzzle",
+      "developer": "SOFISH GAMES",
+      "icon": "https://play-lh.googleusercontent.com/qTk5VP5lLyrekUw-seDMedjnJ8SqjJFHHV1aqY50uz6NA5p5S_Q66jQH51U6c8GqRfw34xbl3AVn1fgf73hH2Q",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegame.match3.jewelcraze&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
