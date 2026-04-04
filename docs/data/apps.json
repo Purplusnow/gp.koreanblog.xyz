@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T15:43:06.022Z",
+  "updatedAt": "2026-04-04T16:49:38.467Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -686,9 +686,79 @@
     "com.MadOut.BIG",
     "seafood.tycoon.inc.idle.dovi",
     "com.iz.tizi.royal.princess.dollhouse.life.games.home.design.world.my.wonder.town",
-    "com.ldw.vf3"
+    "com.ldw.vf3",
+    "com.pearlabyss.blackdesertm",
+    "com.pubg.krmobile",
+    "com.nexon.fmk",
+    "com.NHNEnt.NDuelgo",
+    "com.sundaytoz.kakao.matgo.service",
+    "com.tensquaregames.hunting.clash.wild.hunter.deer",
+    "com.invinciblesstudioltd.soccermanager2025"
   ],
   "items": [
+    {
+      "appId": "com.pearlabyss.blackdesertm",
+      "title": "검은사막 모바일",
+      "developer": "PEARL ABYSS",
+      "icon": "https://play-lh.googleusercontent.com/9JT5cQ0sEcu6cnbojnYYnN_BuaZXHXfeM6AyIybdXpdixkE8zYLIRpkg969PNQfOHWOHrQMcPHKV17dQ1gJrNWI",
+      "url": "https://play.google.com/store/apps/details?id=com.pearlabyss.blackdesertm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.pubg.krmobile",
+      "title": "배틀그라운드",
+      "developer": "KRAFTON, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/bqliWUqt7QfpSC4EybIXMT_QZclpYN9ANItoMTXltshu8v0HTnFdfU_pboHzz7Zs7pqX1AfLE7eFVU8S0aSI",
+      "url": "https://play.google.com/store/apps/details?id=com.pubg.krmobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.fmk",
+      "title": "FC 모바일",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/Cm-kgnZn1-WZHGYdV1KEOuzHfB9hP0LkWocMPmAYA-pPuBbPqqwXnacZH3tnR4P_880",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.fmk&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.NHNEnt.NDuelgo",
+      "title": "한게임 신맞고 : 대한민국 원조 고스톱",
+      "developer": "NHN Corp.",
+      "icon": "https://play-lh.googleusercontent.com/lifT_-kL3feDD5GmANAV_XJNgtEUbMEJdv1BMph1XzVN7ditOHQ1Ocd6qKUl-pw8V2q2ndH-8n5VS24h3JvK",
+      "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.sundaytoz.kakao.matgo.service",
+      "title": "애니팡 맞고:카카오 고스톱 맞고 게임",
+      "developer": "PLAYLINKS Corp.",
+      "icon": "https://play-lh.googleusercontent.com/mnKXlP-7CMBWSyho2khJyF_vIyIbk7nLUKE82vbpjcBVVSSWr2Q7gpxlCCynAiBfBfHd",
+      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.matgo.service&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.tensquaregames.hunting.clash.wild.hunter.deer",
+      "title": "Hunting Clash - 스나이퍼 사냥",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/tVM9Ot91xYxxp28FrPWYN_rbTheT0CFsUE09z8riGGx4srvUR0eiXCeJTgHiIZYyR6SHp82q2l27XpcVmNojUA",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.hunting.clash.wild.hunter.deer&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.invinciblesstudioltd.soccermanager2025",
+      "title": "Soccer Manager 2026- 축구",
+      "developer": "Invincibles Studio Ltd",
+      "icon": "https://play-lh.googleusercontent.com/KMvVhbG5DQmwjFSqAsiwfOsuLhU7jSSV1wB-FQdsjZz0oh3PjBA-iTLJ_CelShgi99U",
+      "url": "https://play.google.com/store/apps/details?id=com.invinciblesstudioltd.soccermanager2025&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
     {
       "appId": "com.sundaytoz.kakao.anipang3.service",
       "title": "애니팡3",
@@ -4547,69 +4617,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.generagames.gunsatdawn.shooter",
-      "title": "Guns at Dawn: Shooter PvP Game",
-      "developer": "Viva Games Studios",
-      "icon": "https://play-lh.googleusercontent.com/9QkrNe7urWTR6uq1SXgJL0RjXKM7Wqcf7C7QhEb7dgwBKpSfFVcVQX8Col_ZfizcQQ",
-      "url": "https://play.google.com/store/apps/details?id=com.generagames.gunsatdawn.shooter&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ninjakiwi.bloonstdbattles2",
-      "title": "Bloons TD Battles 2",
-      "developer": "ninja kiwi",
-      "icon": "https://play-lh.googleusercontent.com/t43nQ67qO7N7qlFHccE1YxH8kl5CVA9azzny5ifQlkExk_VhxgMI7lPR1p3OXc-HNWo",
-      "url": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstdbattles2&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tensquaregames.huntmobile",
-      "title": "Wild Hunt: 슈팅 게임 - 사냥 게임 3D",
-      "developer": "Ten Square Games",
-      "icon": "https://play-lh.googleusercontent.com/T-c72TiXrxbXaaN47S7XQTIj-T5QqRF-F27eAgk9TOPi_gvIpowc1jI9_BDADSS9hw",
-      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.huntmobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.rapidfiregames.backpackbrawl",
-      "title": "백팩 브롤",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/WHTTqig9pqPSGj2k82DsdPZNhtAF0m-4nEU-JfPG278T-s3y1w7yK8rxOvQ-0Dv5dzpWJLiWarg8hxZtZ9KFFQ",
-      "url": "https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "grill.sort.food.games.match.puzzle",
-      "title": "Grill Sort - 고기구이, 바비큐 맞추기",
-      "developer": "Gloryway Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/iTZTmXv0iNvwq0mp0mz-HIh0uTEaC5LlZ0QvkY6-3J5cn9Rcf9tas0CGmkHCftAQVg",
-      "url": "https://play.google.com/store/apps/details?id=grill.sort.food.games.match.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.block.puzzle.games",
-      "title": "Blockudoku - 블록 퍼즐 게임",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/W8z6q7pwgiG_uFjot7r_MoCg9ltwAePGLU0Gb-OKEb2sIRIH-n8j5bMsZxBm_ExCRw",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.block.puzzle.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.pyramidofmahjong.android",
-      "title": "Pyramid of Mahjong: 타일 짝 맞추기",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/Z-xHJ5ikqi7HA5kTojLS-pGY1Uz_9LD-f09NYAPLMDcAz58mUyosSKiyoLUIRNQ1K7o",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.pyramidofmahjong.android&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
