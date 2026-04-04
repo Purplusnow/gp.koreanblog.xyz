@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T12:27:04.150Z",
+  "updatedAt": "2026-04-04T12:39:33.461Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -736,6 +736,15 @@
       "isGame": true
     },
     {
+      "appId": "com.devsisters.cos",
+      "title": "쿠키런: 오븐스매시",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/ZVosgO6ZTbBU6h11uLoce6rLzOiN0PoEwd8m5ghx8lFhMU4Ra91C3uXhTCYYyJldZik",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
       "appId": "com.puzzlegame.match3.jewelcraze",
       "title": "Jewel Craze: Match 3 Puzzle",
       "developer": "SOFISH GAMES",
@@ -777,15 +786,6 @@
       "developer": "FunPlus International AG",
       "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA",
       "url": "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.cos",
-      "title": "쿠키런: 오븐스매시",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/ZVosgO6ZTbBU6h11uLoce6rLzOiN0PoEwd8m5ghx8lFhMU4Ra91C3uXhTCYYyJldZik",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
