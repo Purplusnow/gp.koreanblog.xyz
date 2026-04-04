@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T23:45:38.242Z",
+  "updatedAt": "2026-04-04T01:15:53.675Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -662,7 +662,11 @@
     "com.ig.screwdom",
     "com.gravity.rooc.android",
     "air.com.pixelfederation.seaport.explore.collect.trade",
-    "com.pixelfederation.ts2"
+    "com.pixelfederation.ts2",
+    "com.standegg.mergecatcafe2",
+    "com.mhclyxpb.gatja",
+    "com.potatoplay.mergerestaurant",
+    "com.playstrom.my.sticker.room"
   ],
   "items": [
     {
@@ -815,6 +819,42 @@
       "developer": "PIXEL FEDERATION, s.r.o.",
       "icon": "https://play-lh.googleusercontent.com/CkTiaANDHSLCrncYim_R42csK_LUpGD44OOguzA_vNHIf_jmImYw70zNiNkHuiFkfzTKPSqqtt753gRueO9mFg",
       "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.ts2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.standegg.mergecatcafe2",
+      "title": "머지머지 고양이 카페: 카페 꾸미기",
+      "developer": "StandEgg Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/PmbHzwNgTCZi_lQSMYakLMWKII1Vw3s8C_JsKDwSs7m8VW1vxCQUDv09Xyy98gxbaSY",
+      "url": "https://play.google.com/store/apps/details?id=com.standegg.mergecatcafe2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.mhclyxpb.gatja",
+      "title": "동방 찻집",
+      "developer": "X.P. Games",
+      "icon": "https://play-lh.googleusercontent.com/2mcqVmxR-2TUf_D_tMHo9wj8Y2Pyva6BgZeJnaL5O4HBFJ8CJhES0SL9cc-6iMCbzThV5TnJbh4do2CNDWJliv8",
+      "url": "https://play.google.com/store/apps/details?id=com.mhclyxpb.gatja&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.potatoplay.mergerestaurant",
+      "title": "Merge Restaurant: 병합하며 레스토랑 운영",
+      "developer": "Potato Play",
+      "icon": "https://play-lh.googleusercontent.com/y2CYh9z3uTGQFoDsGehEplQ8PIgmYQ7C5rjZCsKC4K6td4xamZ-c-93oVSC0IW5UYhRu",
+      "url": "https://play.google.com/store/apps/details?id=com.potatoplay.mergerestaurant&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.playstrom.my.sticker.room",
+      "title": "마이 스티커 룸 (My Sticker Room)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/5G8cI6eET8Qr8SPD4Hqb7JkO8IOkNuQ0iy0SJGu4Z5FiArb_aM53uBN3F3hCLTtxnJpM",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4307,42 +4347,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamee.royal.escape.kingdom.castle.match.puzzle",
-      "title": "킹 이스케이프: 로열 캐슬 (King Escape)",
-      "developer": "God Rivals",
-      "icon": "https://play-lh.googleusercontent.com/nNv2sW5qFtOHW7bAM_KD_uiM7SYE8lfUhNqxqbLatKRyocoKt2EgD4wao-y2y7HgIhc",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.royal.escape.kingdom.castle.match.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.yodo1.rodeo.safari",
-      "title": "로데오 스템피드: 스카이 동물원 사파리",
-      "developer": "Yodo1 Games",
-      "icon": "https://play-lh.googleusercontent.com/lYL9Q3H-582iEv42JfeIXQ2ccD49anbXGDOQ5RwI8B5Y6AuKZMmzz1oR8cCbIGv2nQ",
-      "url": "https://play.google.com/store/apps/details?id=com.yodo1.rodeo.safari&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.fungames.blockcraft",
-      "title": "블록 크래프트 3D(Block Craft): 건설 게임",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/n37lIFSnvlxFSzdIEhCCLdP5DTLPye2pykbhj490_LHKQaRHQ_Ae7PhaBaUFU3qdiyM",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.haegin.playtogether",
-      "title": "플레이투게더: 아바타로 즐기는 소셜 놀이터",
-      "developer": "HAEGIN Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/gVdBiz2eVaoSilhe2Fm7B7yryPZduDehBlg03lMJjIvVRrV2fnnFr65XOnoBZriPeG6A",
-      "url": "https://play.google.com/store/apps/details?id=com.haegin.playtogether&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
