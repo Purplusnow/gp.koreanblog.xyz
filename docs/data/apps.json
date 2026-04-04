@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T19:39:56.272Z",
+  "updatedAt": "2026-04-04T20:46:30.416Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -697,7 +697,9 @@
     "com.tutotoons.app.fruitsies",
     "com.solitaire.patience.klondike.classic.card.games",
     "com.byaliens.bidwars4",
-    "org.nanobit.hollywood"
+    "org.nanobit.hollywood",
+    "com.matryoshka.cityrescueteam",
+    "com.cocoplay.fashion.style"
   ],
   "items": [
     {
@@ -796,6 +798,24 @@
       "developer": "Supercharge Mobile",
       "icon": "https://play-lh.googleusercontent.com/0BjIgM9QPDXURrt5n5BXDSbzQfWjzNVi7w4OlTDoe_hQ-0XwuYx_d5K4ymYVeihRg-c",
       "url": "https://play.google.com/store/apps/details?id=org.nanobit.hollywood&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.matryoshka.cityrescueteam",
+      "title": "레스큐 팀 - 병원 게임",
+      "developer": "Matryoshka",
+      "icon": "https://play-lh.googleusercontent.com/qA-67wVep7XNYbeyY8BKlvRiiHLKbHOLpzisLturLq2AlNg-LULC68JutNS-bsAO8Uo",
+      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.cityrescueteam&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.cocoplay.fashion.style",
+      "title": "슈퍼 스타일리스트 패션 혁신",
+      "developer": "CrazyLabs LTD",
+      "icon": "https://play-lh.googleusercontent.com/VXPXcQfUYiVowOKBY_0_jY4S_E7gyOpeV5yxgYAAxCQgFt94KOFGJpYA4gPGWAJmlf38uC_V-m9gHSaZiCaUoUE",
+      "url": "https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4657,24 +4677,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.playhardlab.defenders",
-      "title": "우르르 수비대! - 디펜스 RPG",
-      "developer": "PLAYHARD STUDIO",
-      "icon": "https://play-lh.googleusercontent.com/pC2ouY4DO8_T_VPFE7zOfkVVxtIC0n_xkstZ6iWyfjMuY2wb0bImhvIQWQnYESLYhJTEhY0CJzktDt__dOTvr5Q",
-      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.defenders&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.lumber.inc",
-      "title": "시뮬레이션 게임 (Idle Lumber Empire)",
-      "developer": "AppQuantum",
-      "icon": "https://play-lh.googleusercontent.com/o06DJGrldQaxQCTDgJ7Sd_30NgNDss3McgmuvwjeN8bzDDMX4RmNPfZy2a9vOdP4YFv92hN-5FfvkhwkZK3GcA",
-      "url": "https://play.google.com/store/apps/details?id=com.lumber.inc&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
