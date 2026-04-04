@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T13:45:39.273Z",
+  "updatedAt": "2026-04-04T14:44:36.230Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -681,7 +681,12 @@
     "com.sinyee.babybus.talk2kiki.global",
     "com.TironiumTech.IdlePlanetMiner",
     "com.PepiPlay.PepiHospital",
-    "com.tapps.virtual.pet.hotel.games.world"
+    "com.tapps.virtual.pet.hotel.games.world",
+    "com.ragequitgames.evillands",
+    "com.MadOut.BIG",
+    "seafood.tycoon.inc.idle.dovi",
+    "com.iz.tizi.royal.princess.dollhouse.life.games.home.design.world.my.wonder.town",
+    "com.ldw.vf3"
   ],
   "items": [
     {
@@ -1005,6 +1010,51 @@
       "developer": "Tapps Games - PT",
       "icon": "https://play-lh.googleusercontent.com/4lyTqPou1JiwzH_jwdlff92scR4YEIvWSiTL5WMhYDdxLEIk06SFF9J2Cxz9kAFYIwbd",
       "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.hotel.games.world&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.ragequitgames.evillands",
+      "title": "이블랜드: 에픽 오픈월드 멀티플레이 MMORPG",
+      "developer": "Rage Quit Games Group",
+      "icon": "https://play-lh.googleusercontent.com/7MUxW1Ugyr7oIwEhIWZuWSpZZiTUxC-Zny7ZZduBjrDN_6HGx7kj3OLMsYYa-ntCgD91",
+      "url": "https://play.google.com/store/apps/details?id=com.ragequitgames.evillands&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.MadOut.BIG",
+      "title": "MadOut 2: 온라인 게임 RP 자동차 월드",
+      "developer": "MadOut Games LLC FZ",
+      "icon": "https://play-lh.googleusercontent.com/GKto-6a7YRJ9v_ijr21vZQaWbHImoOWBixcxNP_hs25ZTabDzf1apiv5arTK2kScOcBC",
+      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "seafood.tycoon.inc.idle.dovi",
+      "title": "Seafood Inc - 해산물, 타이쿤, 아이들",
+      "developer": "Dovi Games",
+      "icon": "https://play-lh.googleusercontent.com/7WwPEkMsM55GCqtCr5dKx5P4v1Xg8V8A27s4rSmkZQzNwDozvDnt8csZ0LZzoM5bxw",
+      "url": "https://play.google.com/store/apps/details?id=seafood.tycoon.inc.idle.dovi&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.tizi.royal.princess.dollhouse.life.games.home.design.world.my.wonder.town",
+      "title": "Tizi Town - 공주님 집 디자인 게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/a_4JawQ9OkPEON31azeeGBFOuVzT9jsceVxp9Q_TeHsGSaMwg-UpDDuKxrGR7-Cw9A",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.tizi.royal.princess.dollhouse.life.games.home.design.world.my.wonder.town&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.ldw.vf3",
+      "title": "Virtual Families 3",
+      "developer": "Last Day of Work, LLC",
+      "icon": "https://play-lh.googleusercontent.com/NoOmYiaaMN-kQ7Gm6ep5OSNm12T5TxIuujnfPBhOXSx-JKo6xpwicariF9VYyjuTv9o",
+      "url": "https://play.google.com/store/apps/details?id=com.ldw.vf3&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4497,51 +4547,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.drone1",
-      "title": "War Drone: 3D Shooting Games",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/quIsXpM_hTDjWCfCNHwROYTMyiOHJ3wdkOb8vBRq_6IP63Wv1d68qLC1mvevxX3VOw",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.drone1&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.HoYoverse.Nap",
-      "title": "젠레스 존 제로",
-      "developer": "COGNOSPHERE PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/8jEmEvTsNIRW1vLlrDXXCcDlKkQrNb8NzccOXrln4G_DOUZpcBPbN9ssjuwBWz7_yZQ",
-      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tensquaregames.letsfish2",
-      "title": "Fishing Clash: 스포츠 낚시 게임 3D",
-      "developer": "Ten Square Games",
-      "icon": "https://play-lh.googleusercontent.com/9kavKVAgvLXWv63jEvu7k9m0aI-G6k4NtvPQyn-xlfD6VmVlRH9jyoAgfKxlNZ3Umd-PeRaUBmHuhCJU7t6-8g",
-      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ubisoft.mightmagic.fates.tcg",
-      "title": "Might & Magic Fates TCG",
-      "developer": "Ubisoft Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/f7NvLO28_f3cachNcPMo6cXWXeC7DqDtIr55GqXjRwhj_UJgy68e_WwFwKb40hbHfea149xqYMJDpl6lgfAfFw",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.mightmagic.fates.tcg&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.blitzteam.battleprime",
-      "title": "FPS 슈팅게임 Battle Prime: 스페셜솔져",
-      "developer": "Press Fire Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/SeG1GdQAnWBr1xdsHu7dODcYKeR-pTXHxljcVZO_jQOK3ZXLon4XCelkrBTn2emOWCo",
-      "url": "https://play.google.com/store/apps/details?id=com.blitzteam.battleprime&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
