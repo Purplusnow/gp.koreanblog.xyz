@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T04:59:54.533Z",
+  "updatedAt": "2026-04-04T06:06:19.892Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -668,7 +668,10 @@
     "com.potatoplay.mergerestaurant",
     "com.playstrom.my.sticker.room",
     "com.trophygames.farmmanager",
-    "com.neogames.realfarmcraft"
+    "com.neogames.realfarmcraft",
+    "jp.pokemon.pokemonquest",
+    "com.gameloft.android.ANMP.GloftDMHM",
+    "com.my.tizi.modern.home.decor.room.design.house"
   ],
   "items": [
     {
@@ -875,6 +878,33 @@
       "developer": "NEOGAMES",
       "icon": "https://play-lh.googleusercontent.com/jfTdgqcsHWgnDZwwN4eZX66FZKlQljy5IgI1tq6IpkmFcBoaOhNcBj-ShYQFMZZsz3x2-XpgRbQN_qvvFjUhyA",
       "url": "https://play.google.com/store/apps/details?id=com.neogames.realfarmcraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "jp.pokemon.pokemonquest",
+      "title": "포켓몬 퀘스트",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/EgO34BOGEhnGGd0Yk4HRppcYAF8RNF7-WCe0Y2j6rzvn5CGQlrQj6BxaCRT5h7PdnA",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonquest&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftDMHM",
+      "title": "미니언 러쉬: 러닝 게임",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/M4d-AiMY0-yIM0JMT6uybeC6riVq9NOxYth0T4Zhtb29TMH3jPfKSj_AodgqTlD2-Do",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.tizi.modern.home.decor.room.design.house",
+      "title": "Tizi 모던 홈 & 룸 디자인",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/Os9u-pouN6nTZV7eK4h7PfblDlxPOKNraqMd0ZmDTI-Y5mHiJbeDtZzngzq9ilHYp6A",
+      "url": "https://play.google.com/store/apps/details?id=com.my.tizi.modern.home.decor.room.design.house&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4367,33 +4397,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftGHHM",
-      "title": "March of Empires: War Games",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/ZrCR2Pf8eRFxUaUIDNHlC66GVZpcfl4DGCMWnhe14DOfl71PPaW8gVE8R0KHyyZVqYg",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGHHM&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.infoldgames.infinitynikkias",
-      "title": "인피니티 니키",
-      "developer": "InFold Pte. Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/CdF7uSg6iS9jY-DLEutsDpxl_UrGtyI2ypOVyl6m0x_BoEmaMXEc43-1saGSDwu28nkTDW-LszkBs7PtZDKETg",
-      "url": "https://play.google.com/store/apps/details?id=com.infoldgames.infinitynikkias&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.simutronics.b17",
-      "title": "SIEGE: World War II",
-      "developer": "Imperia Online JSC",
-      "icon": "https://play-lh.googleusercontent.com/0YE5MfUsw8Z4kdczdV0_liNc-N-QBO3dl3cbm5ZABc0ZIMs22ZoFfE1gWOtk6EREioA",
-      "url": "https://play.google.com/store/apps/details?id=com.simutronics.b17&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
