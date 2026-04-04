@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T07:54:12.992Z",
+  "updatedAt": "2026-04-04T08:54:49.775Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -671,7 +671,9 @@
     "com.neogames.realfarmcraft",
     "jp.pokemon.pokemonquest",
     "com.gameloft.android.ANMP.GloftDMHM",
-    "com.my.tizi.modern.home.decor.room.design.house"
+    "com.my.tizi.modern.home.decor.room.design.house",
+    "com.supersolid.honestfood",
+    "br.com.tapps.weareilluminati"
   ],
   "items": [
     {
@@ -905,6 +907,24 @@
       "developer": "Tizi Town Games",
       "icon": "https://play-lh.googleusercontent.com/Os9u-pouN6nTZV7eK4h7PfblDlxPOKNraqMd0ZmDTI-Y5mHiJbeDtZzngzq9ilHYp6A",
       "url": "https://play.google.com/store/apps/details?id=com.my.tizi.modern.home.decor.room.design.house&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.supersolid.honestfood",
+      "title": "푸드 스트리트 (Food Street)  레스토랑 게임",
+      "developer": "Supersolid",
+      "icon": "https://play-lh.googleusercontent.com/d6kkfHKX7IhzoX5d9seD1nMe8pAj_4zRAYejh_15Iqu5W_Yvdut9Qo616SEUTTXRSFA",
+      "url": "https://play.google.com/store/apps/details?id=com.supersolid.honestfood&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "br.com.tapps.weareilluminati",
+      "title": "We Are Illuminati: Conspiracy",
+      "developer": "By Aliens L.L.C-F.Z",
+      "icon": "https://play-lh.googleusercontent.com/rK80ILdiYsMiGoGrTMyZAmSu1Y1e3RUPpxFIsy_ELLWoFX48c8J3OnZHv1Lg_htSQYk",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.weareilluminati&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4397,24 +4417,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.stratospheregames.miniciv",
-      "title": "Dawn of Ages: Medieval Wars",
-      "developer": "BoomBit Games",
-      "icon": "https://play-lh.googleusercontent.com/dzydc6vQ87BmRgRkKMhJweHv1bwpqF7SZK_tffdJRqFExliBfHg_oKSj-geraS_q",
-      "url": "https://play.google.com/store/apps/details?id=com.stratospheregames.miniciv&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.yottagames.mafiawar",
-      "title": "마피아 시티",
-      "developer": "Phantix Games",
-      "icon": "https://play-lh.googleusercontent.com/odcxZ_C2LiZJzHVhYIudrCbZ4SUC9AxHEAXJ3U2gbskcQ4rFep9p_uU_l1giA3UOobYT",
-      "url": "https://play.google.com/store/apps/details?id=com.yottagames.mafiawar&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
