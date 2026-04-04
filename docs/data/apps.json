@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T18:58:36.802Z",
+  "updatedAt": "2026-04-04T19:39:56.272Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -695,7 +695,9 @@
     "com.tensquaregames.hunting.clash.wild.hunter.deer",
     "com.invinciblesstudioltd.soccermanager2025",
     "com.tutotoons.app.fruitsies",
-    "com.solitaire.patience.klondike.classic.card.games"
+    "com.solitaire.patience.klondike.classic.card.games",
+    "com.byaliens.bidwars4",
+    "org.nanobit.hollywood"
   ],
   "items": [
     {
@@ -776,6 +778,24 @@
       "developer": "Happibits Game",
       "icon": "https://play-lh.googleusercontent.com/QpFrQDh45onges6PpsdpijrvF1AIq7Qg47PKF6r0kJQ20HydpYo9zjzyqqSbsvezbqE",
       "url": "https://play.google.com/store/apps/details?id=com.solitaire.patience.klondike.classic.card.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.byaliens.bidwars4",
+      "title": "Bid Wars: Auction Master 3D",
+      "developer": "By Aliens L.L.C-F.Z",
+      "icon": "https://play-lh.googleusercontent.com/sDLcOlxRPmSMTOL8m8lYJhRHouwDfnfROwQzWR8F0rMYSz8oAeEUWyYtCctxP-v0Aw",
+      "url": "https://play.google.com/store/apps/details?id=com.byaliens.bidwars4&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "org.nanobit.hollywood",
+      "title": "할리우드 스토리®: 패션 스타",
+      "developer": "Supercharge Mobile",
+      "icon": "https://play-lh.googleusercontent.com/0BjIgM9QPDXURrt5n5BXDSbzQfWjzNVi7w4OlTDoe_hQ-0XwuYx_d5K4ymYVeihRg-c",
+      "url": "https://play.google.com/store/apps/details?id=org.nanobit.hollywood&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4637,24 +4657,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.twinklegames.rescuestory",
-      "title": "Rescue Family: 나사를 조여주는 게임",
-      "developer": "Twinkle Games",
-      "icon": "https://play-lh.googleusercontent.com/msx1Ws4bp2E4zelY2TF0Da3JSIIizciHuHOrO0mEcH81JAgKSAEGxo9o2VHO3BdBZg",
-      "url": "https://play.google.com/store/apps/details?id=com.twinklegames.rescuestory&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.igg.android.fatewar",
-      "title": "페이트 워",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/LzScvHGRIUDY1RXfEdkIFWxcLSmBGpDhzWx1kaGATpxojRuk5Q0kD97xzo3wLWnA",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.fatewar&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
