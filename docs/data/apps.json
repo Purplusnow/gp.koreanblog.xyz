@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T21:41:21.623Z",
+  "updatedAt": "2026-04-04T22:42:19.082Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -699,7 +699,10 @@
     "com.byaliens.bidwars4",
     "org.nanobit.hollywood",
     "com.matryoshka.cityrescueteam",
-    "com.cocoplay.fashion.style"
+    "com.cocoplay.fashion.style",
+    "com.global.sgdbzkr",
+    "com.g5e.jewelsofthewildwestmatch3.android",
+    "funvent.tilepark"
   ],
   "items": [
     {
@@ -816,6 +819,33 @@
       "developer": "CrazyLabs LTD",
       "icon": "https://play-lh.googleusercontent.com/VXPXcQfUYiVowOKBY_0_jY4S_E7gyOpeV5yxgYAAxCQgFt94KOFGJpYA4gPGWAJmlf38uC_V-m9gHSaZiCaUoUE",
       "url": "https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.global.sgdbzkr",
+      "title": "인생존망겜",
+      "developer": "37GAMES",
+      "icon": "https://play-lh.googleusercontent.com/HcK8j0gkwe07w9TM_cPUmD0H3FLzgq9YhJLFTEVovusqdapM0UFVEcE6TpE5PX6EbDQGUXdP-cxnFCUrrXSZHg",
+      "url": "https://play.google.com/store/apps/details?id=com.global.sgdbzkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.jewelsofthewildwestmatch3.android",
+      "title": "Jewels of the Wild West: 매치 3",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/ZpkLYF98Opjh7IgVkHf8EUVKLvP3SEVQtJEhtsUEYl0Mpb70RFEuej0Yb83II2807w",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofthewildwestmatch3.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "funvent.tilepark",
+      "title": "Tile Park",
+      "developer": "Funvent Studios DMCC",
+      "icon": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
+      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4677,33 +4707,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.amanotes.beathopper",
-      "title": "Tiles Hop Music & Ball Game",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/uA2SPkUUN4feau4S-JtJrxjTfjQ7s5_9vTA2dj1ECSPQy_GrQXGzSp_PH0eTibmymsM",
-      "url": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.devcat.mm",
-      "title": "마비노기 모바일",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/JfGzWE_v-KjofJoJ9eo1oBixex2sHlrSbSte4UG2g6CWDkolbvxI1qV2M_E1JgbjNeDcOrvrTYS7ko1Bb7TPmA",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "net.peakgames.toonblast",
-      "title": "Toon Blast",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU",
-      "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
