@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T17:41:55.076Z",
+  "updatedAt": "2026-04-04T18:58:36.802Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -693,7 +693,9 @@
     "com.NHNEnt.NDuelgo",
     "com.sundaytoz.kakao.matgo.service",
     "com.tensquaregames.hunting.clash.wild.hunter.deer",
-    "com.invinciblesstudioltd.soccermanager2025"
+    "com.invinciblesstudioltd.soccermanager2025",
+    "com.tutotoons.app.fruitsies",
+    "com.solitaire.patience.klondike.classic.card.games"
   ],
   "items": [
     {
@@ -756,6 +758,24 @@
       "developer": "Invincibles Studio Ltd",
       "icon": "https://play-lh.googleusercontent.com/KMvVhbG5DQmwjFSqAsiwfOsuLhU7jSSV1wB-FQdsjZz0oh3PjBA-iTLJ_CelShgi99U",
       "url": "https://play.google.com/store/apps/details?id=com.invinciblesstudioltd.soccermanager2025&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.fruitsies",
+      "title": "Fruitsies - 펫 친구",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/zXnIG_ar-kbo_EtzkqHnx9S2b3ugZsOYiY3dMF0SbX_PqcUy0Fa4Msp7H3FurBXMUNw",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.fruitsies&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.solitaire.patience.klondike.classic.card.games",
+      "title": "솔리테어: 카드 게임",
+      "developer": "Happibits Game",
+      "icon": "https://play-lh.googleusercontent.com/QpFrQDh45onges6PpsdpijrvF1AIq7Qg47PKF6r0kJQ20HydpYo9zjzyqqSbsvezbqE",
+      "url": "https://play.google.com/store/apps/details?id=com.solitaire.patience.klondike.classic.card.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4617,24 +4637,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.miramerge",
-      "title": "Star Merge: Merge Match Puzzle",
-      "developer": "Plummy Games OU",
-      "icon": "https://play-lh.googleusercontent.com/tJdw8u36L1Hq95eoQgrLncOecuR88Ba6Tl6uxTJjF6ViGt-FV-AI0Dgfiw4dQojuGH4",
-      "url": "https://play.google.com/store/apps/details?id=com.miramerge&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.resestudio.jewelcastle.jewelslegend",
-      "title": "보석 성-클래식 매치 3 퍼즐",
-      "developer": "IVYGAMES",
-      "icon": "https://play-lh.googleusercontent.com/URgEduL6SMoK_IHsTSpkPVPXHUQ5b2_H3d_S0fC2Gjpv3Sro1OdHTvVwhyrWrGZ2v6A",
-      "url": "https://play.google.com/store/apps/details?id=com.resestudio.jewelcastle.jewelslegend&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
