@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T02:54:03.460Z",
+  "updatedAt": "2026-04-04T04:59:54.533Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -666,7 +666,9 @@
     "com.standegg.mergecatcafe2",
     "com.mhclyxpb.gatja",
     "com.potatoplay.mergerestaurant",
-    "com.playstrom.my.sticker.room"
+    "com.playstrom.my.sticker.room",
+    "com.trophygames.farmmanager",
+    "com.neogames.realfarmcraft"
   ],
   "items": [
     {
@@ -855,6 +857,24 @@
       "developer": "SayGames Ltd",
       "icon": "https://play-lh.googleusercontent.com/5G8cI6eET8Qr8SPD4Hqb7JkO8IOkNuQ0iy0SJGu4Z5FiArb_aM53uBN3F3hCLTtxnJpM",
       "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.trophygames.farmmanager",
+      "title": "Farm Manager - 2026",
+      "developer": "Xombat Development - Airline manager games",
+      "icon": "https://play-lh.googleusercontent.com/KIJU_1EGSxw7kVuAwqj6FkAHaO9q7xrcfPFVT66o87MIYtvQrimA4IiFedAnQoZm4oGw",
+      "url": "https://play.google.com/store/apps/details?id=com.trophygames.farmmanager&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.neogames.realfarmcraft",
+      "title": "레알팜 크래프트",
+      "developer": "NEOGAMES",
+      "icon": "https://play-lh.googleusercontent.com/jfTdgqcsHWgnDZwwN4eZX66FZKlQljy5IgI1tq6IpkmFcBoaOhNcBj-ShYQFMZZsz3x2-XpgRbQN_qvvFjUhyA",
+      "url": "https://play.google.com/store/apps/details?id=com.neogames.realfarmcraft&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
@@ -4347,24 +4367,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.smilegate.lordnine.stove.google",
-      "title": "로드나인",
-      "developer": "Smilegate, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/gf1zo3glPzI9MXdz7tJcxFLkORjATJ979mtFia2OMkLkNPQRCK_mMgV6C1tVia9Eag",
-      "url": "https://play.google.com/store/apps/details?id=com.smilegate.lordnine.stove.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.dc.gok.google",
-      "title": "정복자: 칸",
-      "developer": "Clicktouch Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/DcN3KK2N-98HAPw4wo92XM4K5Ss7Yt9j6Iwy00_woYO1XEjXzrnlKZuFlkSzWSag6Q",
-      "url": "https://play.google.com/store/apps/details?id=com.dc.gok.google&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
