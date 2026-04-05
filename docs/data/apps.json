@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T08:56:57.085Z",
+  "updatedAt": "2026-04-05T08:57:49.955Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1039,6 +1039,15 @@
       "isGame": true
     },
     {
+      "appId": "com.yzlmkr.google",
+      "title": "우와 모험단",
+      "developer": "Joy Nice Games",
+      "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
+      "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
       "appId": "com.puzzlegame.match3.jewelcraze",
       "title": "Jewel Craze: Match 3 Puzzle",
       "developer": "SOFISH GAMES",
@@ -1080,15 +1089,6 @@
       "developer": "FunPlus International AG",
       "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA",
       "url": "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.yzlmkr.google",
-      "title": "우와 모험단",
-      "developer": "Joy Nice Games",
-      "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
-      "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
