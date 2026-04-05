@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T15:10:57.975Z",
+  "updatedAt": "2026-04-05T15:32:54.817Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1504,6 +1504,15 @@
       "isGame": true
     },
     {
+      "appId": "jp.co.ponos.battlecatskr",
+      "title": "냥코 대전쟁",
+      "developer": "PONOS Corporation",
+      "icon": "https://play-lh.googleusercontent.com/O4jgjsv3A6JN6kYIpXcA3bETFDeVMdlzddOGEx-9GaroFvOsrBcUWOf06vM_5aGueVOT-6JmL_UsBJZL5FFP",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatskr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
       "developer": "Miniclip.com",
@@ -1617,15 +1626,6 @@
       "developer": "Oakever Games",
       "icon": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
       "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.ponos.battlecatskr",
-      "title": "냥코 대전쟁",
-      "developer": "PONOS Corporation",
-      "icon": "https://play-lh.googleusercontent.com/O4jgjsv3A6JN6kYIpXcA3bETFDeVMdlzddOGEx-9GaroFvOsrBcUWOf06vM_5aGueVOT-6JmL_UsBJZL5FFP",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatskr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
