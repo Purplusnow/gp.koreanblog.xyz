@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T12:52:01.315Z",
+  "updatedAt": "2026-04-05T13:18:33.997Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -721,7 +721,10 @@
     "com.nukeboxstudios.foodtruckchef",
     "com.supersolid.spark",
     "com.sinyee.babybus.food",
-    "com.runawayplay.OldFriends"
+    "com.runawayplay.OldFriends",
+    "com.cookingcity.chef.kitchen.craze.fever",
+    "com.bubadu.bubbu2",
+    "com.idleif.abyssrium"
   ],
   "items": [
     {
@@ -1036,6 +1039,33 @@
       "developer": "Runaway Play",
       "icon": "https://play-lh.googleusercontent.com/RGgV3gnwVbWAldOJz3Oo0Fa-kQ-KzF9di16X54E9xZX2B83JVBefw-gUDBpNFwGNShU",
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.OldFriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookingcity.chef.kitchen.craze.fever",
+      "title": "Cooking City - 요리의 마을",
+      "developer": "MAGIC SEVEN CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/WlwQNbYJ3Ku5OsAh1sgalYjRMhUaQbVl0XVN5uE5u288IYQl1ZnXoX2edj58AjrVCpPU1bk83SK7gYapo2bOuKk",
+      "url": "https://play.google.com/store/apps/details?id=com.cookingcity.chef.kitchen.craze.fever&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubadu.bubbu2",
+      "title": "Bubbu 2 - 나의 반려동물 왕국",
+      "developer": "Bubadu",
+      "icon": "https://play-lh.googleusercontent.com/xhakYBa5xySD7mm0BYwCbix2OPuGWckCblpSqtnpaza2DTOj7-KjzrRWEZarV7MVzzU",
+      "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.idleif.abyssrium",
+      "title": "어비스리움 - 나만의 힐링 아쿠아리움 (VR 지원)",
+      "developer": "Wemade Connect",
+      "icon": "https://play-lh.googleusercontent.com/xqniva3NkaQ2MYanJrEADehaL8G0ny5kYqEdOMw5Nh-gPF4DMyBOCuk8ablVvZWyNeEIoIN-dU1tZrgGkTye",
+      "url": "https://play.google.com/store/apps/details?id=com.idleif.abyssrium&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4897,33 +4927,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.dino.steelkr",
-      "title": "서바이벌 메카",
-      "developer": "BLANCOZONE NETWORK KOREA",
-      "icon": "https://play-lh.googleusercontent.com/Qnh1F8RDhAFOt-JN97YSpRCh4DPMFBKooNIq5vL6dL9IUYQlFr8vbfyOO0uwJ-tz2lc",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.steelkr&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.dogbytegames.otrnext",
-      "title": "OTR 2",
-      "developer": "DogByte Games",
-      "icon": "https://play-lh.googleusercontent.com/FCeX-hQ6LlcWDWKNyQfOidND6tubGAB-UfvEChMkf9gh4hTOf4O3j5PFvzA0hVFjRXKyL5IDhDUymJdMmZI53w",
-      "url": "https://play.google.com/store/apps/details?id=com.dogbytegames.otrnext&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.ellagames.bigguy",
-      "title": "뚱기사 키우기",
-      "developer": "ELLA Games",
-      "icon": "https://play-lh.googleusercontent.com/ou8_NEOogWYEKx2DDD2bWsEMHdU_GzOT5ePR02QO4-2uE8TL472pf2a1Gfu7q-3b7UVoTjdoaYl1Ox-tvpZ49Q",
-      "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
