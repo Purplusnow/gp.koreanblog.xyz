@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T05:49:55.537Z",
+  "updatedAt": "2026-04-05T06:43:51.465Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -717,20 +717,20 @@
       "isGame": true
     },
     {
-      "appId": "com.pubg.krmobile",
-      "title": "배틀그라운드",
-      "developer": "KRAFTON, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/bqliWUqt7QfpSC4EybIXMT_QZclpYN9ANItoMTXltshu8v0HTnFdfU_pboHzz7Zs7pqX1AfLE7eFVU8S0aSI",
-      "url": "https://play.google.com/store/apps/details?id=com.pubg.krmobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
       "appId": "com.nexon.fmk",
       "title": "FC 모바일",
       "developer": "NEXON Company",
       "icon": "https://play-lh.googleusercontent.com/Cm-kgnZn1-WZHGYdV1KEOuzHfB9hP0LkWocMPmAYA-pPuBbPqqwXnacZH3tnR4P_880",
       "url": "https://play.google.com/store/apps/details?id=com.nexon.fmk&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.pubg.krmobile",
+      "title": "배틀그라운드",
+      "developer": "KRAFTON, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/bqliWUqt7QfpSC4EybIXMT_QZclpYN9ANItoMTXltshu8v0HTnFdfU_pboHzz7Zs7pqX1AfLE7eFVU8S0aSI",
+      "url": "https://play.google.com/store/apps/details?id=com.pubg.krmobile&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
