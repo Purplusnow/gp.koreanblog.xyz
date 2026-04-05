@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T07:29:05.480Z",
+  "updatedAt": "2026-04-05T08:56:57.085Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -709,7 +709,9 @@
     "com.gameicreate.mycafeshopcookinggame",
     "com.bubadu.bubbuschool",
     "puzzlegame.buildfun.jewelmatch",
-    "com.gamegos.mobile.manorcafe"
+    "com.gamegos.mobile.manorcafe",
+    "com.games.fairyadventure",
+    "com.uken.solitaire.story"
   ],
   "items": [
     {
@@ -916,6 +918,24 @@
       "developer": "GAMEGOS",
       "icon": "https://play-lh.googleusercontent.com/y6KGlI4suAxJwzujqZuSc5pjl00cUOkim2HqIZmUKi5hiPk0ykT8VkU8fC_pX3ItM0o",
       "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.manorcafe&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.games.fairyadventure",
+      "title": "Fairyscapes Adventure",
+      "developer": "FUNJOY",
+      "icon": "https://play-lh.googleusercontent.com/7ej_D0GC3gXCMjGmg6Vp2jb-sGa-6XowhJPpBsVEUS-_lYqgWyH1FieFTgkuWlv-BNQY",
+      "url": "https://play.google.com/store/apps/details?id=com.games.fairyadventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.uken.solitaire.story",
+      "title": "솔리테어 스토리 - Ava's Manor",
+      "developer": "Uken Games",
+      "icon": "https://play-lh.googleusercontent.com/2m57RMnHkgOnj8rAZdUD7W97Eq5jv7w_n9zGg979iFBsou_OU89rCXPK8ucNQPqA6A",
+      "url": "https://play.google.com/store/apps/details?id=com.uken.solitaire.story&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4777,24 +4797,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.twoheadedshark.tco",
-      "title": "Tuning Club Online",
-      "developer": "Two Headed Shark DMCC",
-      "icon": "https://play-lh.googleusercontent.com/wQcONpQNyQKNs-XhySmhx1Ix7H_itRtB0yWLE2kAUCaelkDhdy3daN6_uuoIi6GhueE",
-      "url": "https://play.google.com/store/apps/details?id=com.twoheadedshark.tco&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "uk.co.yakuto.PingPongKing",
-      "title": "Ping Pong Fury",
-      "developer": "Yakuto",
-      "icon": "https://play-lh.googleusercontent.com/Mq440gkqrlRScHfiefmWtnWbDn1lNbOoNGpfEYYy28OO3mKgnSjly3ux6RNk3BjGOA",
-      "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.PingPongKing&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
