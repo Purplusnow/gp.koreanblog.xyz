@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T11:39:28.201Z",
+  "updatedAt": "2026-04-05T12:52:01.315Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -719,7 +719,9 @@
     "com.yoyo.doll.decor.life.home.design.love.match.makeover.games",
     "com.gamehouse.hm4gp",
     "com.nukeboxstudios.foodtruckchef",
-    "com.supersolid.spark"
+    "com.supersolid.spark",
+    "com.sinyee.babybus.food",
+    "com.runawayplay.OldFriends"
   ],
   "items": [
     {
@@ -750,20 +752,20 @@
       "isGame": true
     },
     {
-      "appId": "com.NHNEnt.NDuelgo",
-      "title": "한게임 신맞고 : 대한민국 원조 고스톱",
-      "developer": "NHN Corp.",
-      "icon": "https://play-lh.googleusercontent.com/lifT_-kL3feDD5GmANAV_XJNgtEUbMEJdv1BMph1XzVN7ditOHQ1Ocd6qKUl-pw8V2q2ndH-8n5VS24h3JvK",
-      "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
       "appId": "com.sundaytoz.kakao.matgo.service",
       "title": "애니팡 맞고:카카오 고스톱 맞고 게임",
       "developer": "PLAYLINKS Corp.",
       "icon": "https://play-lh.googleusercontent.com/mnKXlP-7CMBWSyho2khJyF_vIyIbk7nLUKE82vbpjcBVVSSWr2Q7gpxlCCynAiBfBfHd",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.matgo.service&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.NHNEnt.NDuelgo",
+      "title": "한게임 신맞고 : 대한민국 원조 고스톱",
+      "developer": "NHN Corp.",
+      "icon": "https://play-lh.googleusercontent.com/lifT_-kL3feDD5GmANAV_XJNgtEUbMEJdv1BMph1XzVN7ditOHQ1Ocd6qKUl-pw8V2q2ndH-8n5VS24h3JvK",
+      "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -1016,6 +1018,24 @@
       "developer": "Supersolid",
       "icon": "https://play-lh.googleusercontent.com/yyMtgYiHqFTs4fjszSOzYqtaJ9diRTsGcRUkTycx01SXpUVN7GlDNcML14Lu88BWUR0",
       "url": "https://play.google.com/store/apps/details?id=com.supersolid.spark&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.food",
+      "title": "전통 중국먹거리 요리게임 - 베이비버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/UN24kMjdLEj21CpLbyWFW9EVruYuzf4H4jzrC2Pbc8zIZgxiXwxNV-6p9x4DvcFb2D0j",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.food&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.runawayplay.OldFriends",
+      "title": "Old Friends Dog Game",
+      "developer": "Runaway Play",
+      "icon": "https://play-lh.googleusercontent.com/RGgV3gnwVbWAldOJz3Oo0Fa-kQ-KzF9di16X54E9xZX2B83JVBefw-gUDBpNFwGNShU",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.OldFriends&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4877,24 +4897,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.daeri.TenValkyrie",
-      "title": "텐 발키리",
-      "developer": "DAERI SOFT Inc",
-      "icon": "https://play-lh.googleusercontent.com/ACRWLVOLPMDEHjfrKiUbLsSAYhfzyn15uMQ2Q_MsEunWUcxNWtx8pXGwf_E1kX6-yW0wuJ_uZ_B8nhBU8YOB",
-      "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.dalcomsoft.ssbl",
-      "title": "SUPERSTAR THEBLACKLABEL",
-      "developer": "Dalcomsoft, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/qqVOlkIJ-mo5VywhItE28AlWuSOVDdnpSWhYyGkvpfCTFalvpMCrvrcsuBadYwTAac9_3_seYhMwui-qUnrG",
-      "url": "https://play.google.com/store/apps/details?id=com.dalcomsoft.ssbl&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
