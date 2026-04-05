@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T20:47:46.106Z",
+  "updatedAt": "2026-04-05T21:42:45.594Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -734,7 +734,8 @@
     "com.tutotoons.app.floofmypethouse",
     "com.food.dash.diner.craze.happy.ASMR",
     "com.hospital.craze.clinic.happy.doctor.ASMR",
-    "com.landsharkgames.zenkoi2.android"
+    "com.landsharkgames.zenkoi2.android",
+    "com.supercell.hayday"
   ],
   "items": [
     {
@@ -806,6 +807,15 @@
       "developer": "LandShark Games",
       "icon": "https://play-lh.googleusercontent.com/w0Oq6AVDkkg5uFcwhGvd1WBodhxNhx0V5Z_K6S-BPH9pytqoeEq7NoMBJyU-WErVPQHhTLlgPFWE3r9leOV0",
       "url": "https://play.google.com/store/apps/details?id=com.landsharkgames.zenkoi2.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.supercell.hayday",
+      "title": "헤이데이",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/Za8u0ChNK-3mZ3rnLcBirRBTzLYTdqaaAn63Ha9qKZiDp_bF_5u7OGfvWb1dg88WttKw",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -5027,15 +5037,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.Boomware.CafePanic",
-      "title": "카페 패닉: 요리게임 식당",
-      "developer": "Boomware Studio",
-      "icon": "https://play-lh.googleusercontent.com/jzUBm50TBZC3oMHt-47VOO5g9FA2lqn2I1sGzq47uOMv3iejaalYbH_iQlgss6SIMT5WjYj5l-TTvyIwPZTR",
-      "url": "https://play.google.com/store/apps/details?id=com.Boomware.CafePanic&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
