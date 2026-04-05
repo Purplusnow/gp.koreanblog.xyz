@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T07:20:18.906Z",
+  "updatedAt": "2026-04-05T07:29:05.480Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1010,6 +1010,15 @@
       "isGame": true
     },
     {
+      "appId": "com.ragequitgames.evillands",
+      "title": "이블랜드: 에픽 오픈월드 멀티플레이 MMORPG",
+      "developer": "Rage Quit Games Group",
+      "icon": "https://play-lh.googleusercontent.com/7MUxW1Ugyr7oIwEhIWZuWSpZZiTUxC-Zny7ZZduBjrDN_6HGx7kj3OLMsYYa-ntCgD91",
+      "url": "https://play.google.com/store/apps/details?id=com.ragequitgames.evillands&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-04",
+      "isGame": true
+    },
+    {
       "appId": "com.puzzlegame.match3.jewelcraze",
       "title": "Jewel Craze: Match 3 Puzzle",
       "developer": "SOFISH GAMES",
@@ -1240,15 +1249,6 @@
       "developer": "Tapps Games - PT",
       "icon": "https://play-lh.googleusercontent.com/4lyTqPou1JiwzH_jwdlff92scR4YEIvWSiTL5WMhYDdxLEIk06SFF9J2Cxz9kAFYIwbd",
       "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.hotel.games.world&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.ragequitgames.evillands",
-      "title": "이블랜드: 에픽 오픈월드 멀티플레이 MMORPG",
-      "developer": "Rage Quit Games Group",
-      "icon": "https://play-lh.googleusercontent.com/7MUxW1Ugyr7oIwEhIWZuWSpZZiTUxC-Zny7ZZduBjrDN_6HGx7kj3OLMsYYa-ntCgD91",
-      "url": "https://play.google.com/store/apps/details?id=com.ragequitgames.evillands&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
