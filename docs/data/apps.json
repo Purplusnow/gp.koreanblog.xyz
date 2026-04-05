@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T15:42:39.611Z",
+  "updatedAt": "2026-04-05T16:50:51.247Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -726,9 +726,29 @@
     "com.bubadu.bubbu2",
     "com.idleif.abyssrium",
     "com.liftapp.tamadog",
-    "com.sinyee.babybus.diet"
+    "com.sinyee.babybus.diet",
+    "linkdesks.merge.gossipstreet",
+    "com.photonfox.g001"
   ],
   "items": [
+    {
+      "appId": "linkdesks.merge.gossipstreet",
+      "title": "가십 길거리: 머지 & 스토리 게임",
+      "developer": "LinkDesks - Jewel Games Star",
+      "icon": "https://play-lh.googleusercontent.com/txEi45FnG6z7qUdUhspbZsCpmcbmWx_QG8HD6U0taN-OHm5Mui-ofGtazuMw9CRXI2MrjNW9JJqShEd4hM6X7w",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.merge.gossipstreet&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.photonfox.g001",
+      "title": "매직 케빈: 나의 마법 장원",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/1nokxVMT4eRS27enkqk8rIlOLSTqgjc7VodsBy8_5fKpzCX_z0b12QWPYNhGeb5mTg",
+      "url": "https://play.google.com/store/apps/details?id=com.photonfox.g001&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
     {
       "appId": "com.pearlabyss.blackdesertm",
       "title": "검은사막 모바일",
@@ -4947,24 +4967,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.finalflow.cupblast",
-      "title": "Cup Blast",
-      "developer": "Finalflow",
-      "icon": "https://play-lh.googleusercontent.com/r08Y7qJ49b2D2v9WYygVFrWH1I6kDz3ASrPeRG4Tc59iDFVbB4H57eJqm-cWgjN9qUajc6MUX48yRFeJ1XFJdw",
-      "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.finalflow.imagejam",
-      "title": "Image Jam : Color Puzzle",
-      "developer": "Finalflow",
-      "icon": "https://play-lh.googleusercontent.com/dEZUYYwCkXXDsaLD84GLOIT_EP_Da8VC6KlKaf__V9zLa5brWV3zxgb4w_9_wXl0NyWulAybs07A9njg5yQvXQ",
-      "url": "https://play.google.com/store/apps/details?id=com.finalflow.imagejam&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
