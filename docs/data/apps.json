@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T17:42:08.025Z",
+  "updatedAt": "2026-04-05T19:00:00.073Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -728,7 +728,8 @@
     "com.liftapp.tamadog",
     "com.sinyee.babybus.diet",
     "linkdesks.merge.gossipstreet",
-    "com.photonfox.g001"
+    "com.photonfox.g001",
+    "com.mergegames.taylorsecret"
   ],
   "items": [
     {
@@ -746,6 +747,15 @@
       "developer": "IVYGAMES",
       "icon": "https://play-lh.googleusercontent.com/1nokxVMT4eRS27enkqk8rIlOLSTqgjc7VodsBy8_5fKpzCX_z0b12QWPYNhGeb5mTg",
       "url": "https://play.google.com/store/apps/details?id=com.photonfox.g001&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.mergegames.taylorsecret",
+      "title": "타일러의 비밀: 머지 스토리",
+      "developer": "Merge story",
+      "icon": "https://play-lh.googleusercontent.com/EqnDDuAMKV_otxxMyPf4K1FBNEX3hTGru6ayQztgWKC74Y_6qyqLHjt6ESwTxSgVeT0",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.taylorsecret&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -4967,15 +4977,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamee.godslayer.rpg.rougelike",
-      "title": "God Rivals: RPG Roguelike",
-      "developer": "God Rivals",
-      "icon": "https://play-lh.googleusercontent.com/wDhsT_rYqVyQttvWRDbN92rWSq7xUqXaFzuLN3K3962Ty5xF_dlzgb_k8lLdZ1hU7RSYh9mh8rDc06pWO0IkFw",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
