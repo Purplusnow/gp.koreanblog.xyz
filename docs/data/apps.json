@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T11:32:05.322Z",
+  "updatedAt": "2026-04-05T11:39:28.201Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -713,7 +713,13 @@
     "com.games.fairyadventure",
     "com.uken.solitaire.story",
     "com.spcomes.mergepeko",
-    "com.spcomes.emerge"
+    "com.spcomes.emerge",
+    "com.devgame.masha.and.bear.my.friends",
+    "com.reefgames.fabletown",
+    "com.yoyo.doll.decor.life.home.design.love.match.makeover.games",
+    "com.gamehouse.hm4gp",
+    "com.nukeboxstudios.foodtruckchef",
+    "com.supersolid.spark"
   ],
   "items": [
     {
@@ -956,6 +962,60 @@
       "developer": "Springcomes",
       "icon": "https://play-lh.googleusercontent.com/2j76oUIyaE6yJy0MuUeuh_aCzLpIjP3eLHTe6V3lXhMhN64mGWhgJOVV-bAcft4mcFLk",
       "url": "https://play.google.com/store/apps/details?id=com.spcomes.emerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.devgame.masha.and.bear.my.friends",
+      "title": "Masha and the Bear: My Friends",
+      "developer": "DEVGAME KIDS games",
+      "icon": "https://play-lh.googleusercontent.com/WhqQQ73pQ0a8Zisy2e34ur2aArCcVwTl1jCTb_ponSIIZ9Dpy5q4sahOK-Qh0zHSswo",
+      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.reefgames.fabletown",
+      "title": "Fable Town: 귀여운 머지게임",
+      "developer": "REEF GAMES LTD",
+      "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
+      "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.yoyo.doll.decor.life.home.design.love.match.makeover.games",
+      "title": "YOYO 가정장식생활: Makeover, Unpack",
+      "developer": "YoYo Dress Up Games",
+      "icon": "https://play-lh.googleusercontent.com/fKeXCDS2jEeultXkmhNyo-NQknhzDPWbOCOZ7fuLtweW8b4uKJz9v35Y8fKbCHIBh0E",
+      "url": "https://play.google.com/store/apps/details?id=com.yoyo.doll.decor.life.home.design.love.match.makeover.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamehouse.hm4gp",
+      "title": "하트의 묘약 - 의사의 선서",
+      "developer": "GameHouse LLC",
+      "icon": "https://play-lh.googleusercontent.com/M1mPDcyb4HNOSOyswWAuv7voxebRtAcF3B7T5quYFTtGwxHgIEFrQK7BRA0DbtVXkJ8I6P4aOzZn_RC_maAFXA",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.hm4gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.nukeboxstudios.foodtruckchef",
+      "title": "푸트 트럭 셰프  요리 게임",
+      "developer": "Nukebox Studios",
+      "icon": "https://play-lh.googleusercontent.com/8J4G3dqmId_WEek3GyAQKu0baOSPpmjN8KPU5liON2tNR1pORFJXqXqNL3sU4DW2zUo",
+      "url": "https://play.google.com/store/apps/details?id=com.nukeboxstudios.foodtruckchef&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.supersolid.spark",
+      "title": "홈 스트리트 (Home Street)",
+      "developer": "Supersolid",
+      "icon": "https://play-lh.googleusercontent.com/yyMtgYiHqFTs4fjszSOzYqtaJ9diRTsGcRUkTycx01SXpUVN7GlDNcML14Lu88BWUR0",
+      "url": "https://play.google.com/store/apps/details?id=com.supersolid.spark&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4817,60 +4877,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bhk.newslgkr",
-      "title": "삼국지: 천하결전",
-      "developer": "BILIBILI",
-      "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
-      "url": "https://play.google.com/store/apps/details?id=com.bhk.newslgkr&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcool.puzzle.merge.city",
-      "title": "머지 시티: 데이터 필요없는 퍼즐 게임",
-      "developer": "Bigcool Games",
-      "icon": "https://play-lh.googleusercontent.com/RS_h0AnNGsLS2uPex8O3-IysgGSj7nD0BrEryBNw6jXJZqF6vBfyVoa5lMQ0KCWnUK0k71alLXaAM5RLMHKxVw",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.city&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.buffstudio.stillpoint",
-      "title": "스틸포인트: 미니멀 타워 디펜스",
-      "developer": "Buff Studio Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/jQOe7iFjnTpO198XnZ9TqvUVbSK-ipLuAS0qB27kPO3YpNPhf0CSHbjY9Xxq4_9A7Cql",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.chillyroom.monstergirls.gp",
-      "title": "Guild of Monster Girls",
-      "developer": "ChillyRoom",
-      "icon": "https://play-lh.googleusercontent.com/4jqB6p0_gPzpX6Uy-m1643CcrVMTD6pr5XCQl9v96VabUEYi_0FBBCM1LMeNx98R1QpjNDqXjM-n0Ks_bUMGBQ",
-      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.monstergirls.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.codemon.HeroLandlord",
-      "title": "용사는 건물주 - 방치형 RPG",
-      "developer": "CODEMON",
-      "icon": "https://play-lh.googleusercontent.com/9BH4fXj-KvosAGTHx0X9ulFzhlSpL965l0cTQRyapAb06_WOiJMMgkTMiVcA7AD5xSJqz2OLtqoD03-3amKCXg",
-      "url": "https://play.google.com/store/apps/details?id=com.codemon.HeroLandlord&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookapps.bouncedefense",
-      "title": "통통 디펜스 : 핀볼 히어로",
-      "developer": "CookApps",
-      "icon": "https://play-lh.googleusercontent.com/zrt6OpA3euFMbANod2A7yuYiGoVvPR1q-hA_FbGjbWav2ivqcxdzTEhzseSUZ2kTd9-QQxV_yoPVt5MCpbtlDU4",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.bouncedefense&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
