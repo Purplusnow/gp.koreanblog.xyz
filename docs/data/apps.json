@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T19:00:00.073Z",
+  "updatedAt": "2026-04-05T19:41:29.350Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -729,7 +729,8 @@
     "com.sinyee.babybus.diet",
     "linkdesks.merge.gossipstreet",
     "com.photonfox.g001",
-    "com.mergegames.taylorsecret"
+    "com.mergegames.taylorsecret",
+    "com.miaworld.life.avatar.doll.dressup.design.makeover"
   ],
   "items": [
     {
@@ -756,6 +757,15 @@
       "developer": "Merge story",
       "icon": "https://play-lh.googleusercontent.com/EqnDDuAMKV_otxxMyPf4K1FBNEX3hTGru6ayQztgWKC74Y_6qyqLHjt6ESwTxSgVeT0",
       "url": "https://play.google.com/store/apps/details?id=com.mergegames.taylorsecret&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.miaworld.life.avatar.doll.dressup.design.makeover",
+      "title": "Mia World: Life Sims 어린이 가족게임",
+      "developer": "31 Dress up Games",
+      "icon": "https://play-lh.googleusercontent.com/4JM12EIz6jd-5rfVMg6AzD_AyyFvgAQUy-4L2D6ylp9CKeQf1HRftlKlol8voI4RF2A",
+      "url": "https://play.google.com/store/apps/details?id=com.miaworld.life.avatar.doll.dressup.design.makeover&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -4977,15 +4987,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy",
-      "title": "Heavenfall Arena",
-      "developer": "God Rivals",
-      "icon": "https://play-lh.googleusercontent.com/KF6oniU6cny2mqChSQ2W5DrakgcVwnEez-L4qEcv5lwivUcUATkvz8TW4sJ6tJLQwspKmLSm_-AKeHp0hYLbTn4",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.heavenfall.arena.idle.rpg.journey.summon.heroes.strategy&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
