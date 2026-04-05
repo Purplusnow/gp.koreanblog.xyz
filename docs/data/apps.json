@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T07:09:43.570Z",
+  "updatedAt": "2026-04-05T07:20:18.906Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -707,7 +707,9 @@
     "com.sinyee.babybus.dance",
     "com.play.merge.restyle",
     "com.gameicreate.mycafeshopcookinggame",
-    "com.bubadu.bubbuschool"
+    "com.bubadu.bubbuschool",
+    "puzzlegame.buildfun.jewelmatch",
+    "com.gamegos.mobile.manorcafe"
   ],
   "items": [
     {
@@ -896,6 +898,24 @@
       "developer": "Bubadu",
       "icon": "https://play-lh.googleusercontent.com/WMtprh6jgr4cxNxsYg2jdasU6EKvkue-p3QL2z1hTcNevszcfC_mILZwX1N22xa-l_w",
       "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbuschool&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "puzzlegame.buildfun.jewelmatch",
+      "title": "Jewel Blast Time - Match 3",
+      "developer": "BuildFun - Jewel Games Star",
+      "icon": "https://play-lh.googleusercontent.com/QRY2Tm8OaHmRSD73NR6g9-GSK29ha-B17nrfKyorRJza7QkNZPh1ot5Ra9E9YPxBxb8xwkV6bomY2JjEWGxzSxA",
+      "url": "https://play.google.com/store/apps/details?id=puzzlegame.buildfun.jewelmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamegos.mobile.manorcafe",
+      "title": "Manor Cafe - 매치 3 게임",
+      "developer": "GAMEGOS",
+      "icon": "https://play-lh.googleusercontent.com/y6KGlI4suAxJwzujqZuSc5pjl00cUOkim2HqIZmUKi5hiPk0ykT8VkU8fC_pX3ItM0o",
+      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.manorcafe&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4757,24 +4777,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.rvappstudios.puzzle.game.find.difference.ftd",
-      "title": "틀린 그림 찾기: 퍼즐",
-      "developer": "RV AppStudios",
-      "icon": "https://play-lh.googleusercontent.com/e22gjWl-FRWAn4xxS7PD6ZjGr6pudpSfIroNtsHDoImsGY4mPcS0PTpffpTrf_XSstk",
-      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.puzzle.game.find.difference.ftd&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.scopely.wheeloffortune",
-      "title": "Wheel of Fortune: TV Game",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/WXosayyX2iku1e60MJDQ6fZRYAH-17XdqfTKtiN0QpFXDhSL-WEgRUQWVu5k7ExDpiWn9piFhK8gcDsaesQ",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.wheeloffortune&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
