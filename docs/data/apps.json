@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T13:18:33.997Z",
+  "updatedAt": "2026-04-05T14:48:00.862Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -724,7 +724,9 @@
     "com.runawayplay.OldFriends",
     "com.cookingcity.chef.kitchen.craze.fever",
     "com.bubadu.bubbu2",
-    "com.idleif.abyssrium"
+    "com.idleif.abyssrium",
+    "com.liftapp.tamadog",
+    "com.sinyee.babybus.diet"
   ],
   "items": [
     {
@@ -1066,6 +1068,24 @@
       "developer": "Wemade Connect",
       "icon": "https://play-lh.googleusercontent.com/xqniva3NkaQ2MYanJrEADehaL8G0ny5kYqEdOMw5Nh-gPF4DMyBOCuk8ablVvZWyNeEIoIN-dU1tZrgGkTye",
       "url": "https://play.google.com/store/apps/details?id=com.idleif.abyssrium&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.liftapp.tamadog",
+      "title": "Tamadog - 강아지 키우기 펫프렌즈게임",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/re13dIFhWzljY6jf_zPTIFCoo2m4s0a_Ms5Lbh3Ii9yoRlkm5H8RL0o-lvUIpnOgXyMl",
+      "url": "https://play.google.com/store/apps/details?id=com.liftapp.tamadog&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.diet",
+      "title": "아기 팬더: 요리 파티",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/bzQ753fzJZ6ZBbZAqtFIuthD_kftAKz881LeNxJiMjlgAHDd3qpA_Xjz0mQ6Lmap9Ag",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.diet&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
@@ -4927,24 +4947,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.emagroups.zs",
-      "title": "Dynasty Warriors: Overlords",
-      "developer": "NEOCRAFT LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/bnRNTMLq31Xz0zAodb7zyqgxGVXn5fE40WtySObWnVfkm0-50gaxTuUw-qJQxkYTjSNfFXmxut5DqTOAk9GCtMA",
-      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.feelingtouch.rush",
-      "title": "Zombie World War: Storm",
-      "developer": "FT Games",
-      "icon": "https://play-lh.googleusercontent.com/uZCla3mPuEDvIOQ_4Q4nqqr1Lr9B2aVe1E5ZUcfF2_itX8dufK_Tb0TTExAfPhsdfAWhHifGNpaI8D0cyUKh",
-      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rush&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
