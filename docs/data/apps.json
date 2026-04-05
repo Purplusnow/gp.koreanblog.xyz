@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T14:48:00.862Z",
+  "updatedAt": "2026-04-05T15:10:57.975Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -766,6 +766,15 @@
       "isGame": true
     },
     {
+      "appId": "com.global.sgdbzkr",
+      "title": "인생존망겜",
+      "developer": "37GAMES",
+      "icon": "https://play-lh.googleusercontent.com/HcK8j0gkwe07w9TM_cPUmD0H3FLzgq9YhJLFTEVovusqdapM0UFVEcE6TpE5PX6EbDQGUXdP-cxnFCUrrXSZHg",
+      "url": "https://play.google.com/store/apps/details?id=com.global.sgdbzkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-05",
+      "isGame": true
+    },
+    {
       "appId": "com.NHNEnt.NDuelgo",
       "title": "한게임 신맞고 : 대한민국 원조 고스톱",
       "developer": "NHN Corp.",
@@ -843,15 +852,6 @@
       "developer": "CrazyLabs LTD",
       "icon": "https://play-lh.googleusercontent.com/VXPXcQfUYiVowOKBY_0_jY4S_E7gyOpeV5yxgYAAxCQgFt94KOFGJpYA4gPGWAJmlf38uC_V-m9gHSaZiCaUoUE",
       "url": "https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.global.sgdbzkr",
-      "title": "인생존망겜",
-      "developer": "37GAMES",
-      "icon": "https://play-lh.googleusercontent.com/HcK8j0gkwe07w9TM_cPUmD0H3FLzgq9YhJLFTEVovusqdapM0UFVEcE6TpE5PX6EbDQGUXdP-cxnFCUrrXSZHg",
-      "url": "https://play.google.com/store/apps/details?id=com.global.sgdbzkr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
