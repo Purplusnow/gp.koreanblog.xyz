@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T17:58:42.161Z",
+  "updatedAt": "2026-04-06T19:14:59.114Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -758,7 +758,12 @@
     "com.runawayplay.furistascatcafe",
     "com.sinyee.babybus.recommendapp.global",
     "com.devsisters.gb",
-    "com.Seriously.BestFiends"
+    "com.Seriously.BestFiends",
+    "com.game.space.shooter2",
+    "com.sinyee.babybus.dress",
+    "com.morechili.mergeelf",
+    "tycoon.building.simulator.games.aldagames.com",
+    "com.gamehouse.deliciousmatch3"
   ],
   "items": [
     {
@@ -821,6 +826,51 @@
       "developer": "Playtika",
       "icon": "https://play-lh.googleusercontent.com/f8uOEX90LCMfmR8DBJ_VSL70hOTwE0EnaIhuId6wQSNb0U3qX4X6PEaGvA7yfgsIsC-r6LV7FLQgsEnPTmRfJw",
       "url": "https://play.google.com/store/apps/details?id=com.Seriously.BestFiends&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.space.shooter2",
+      "title": "스페이스 슈터: 외계인 슈팅게임",
+      "developer": "1SOFT",
+      "icon": "https://play-lh.googleusercontent.com/Oa1PZCjO15VdjojFHUg8Q6MJdyffxW5kCiEzgpXvcxLMFwkHpi8EGl696q96RKqfmwk",
+      "url": "https://play.google.com/store/apps/details?id=com.game.space.shooter2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.dress",
+      "title": "아기팬더 : 인형 코디하기",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/FB4ol3xF4lW174FPdvnRlc7yJ3lCgDtGm1s7rPFIsK-CkoQGfInXrh-Vry3lN2dJiWU",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.dress&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.morechili.mergeelf",
+      "title": "드래곤 앤 엘프 (합병 게임)",
+      "developer": "More Chili Studio",
+      "icon": "https://play-lh.googleusercontent.com/H1gkSPKsvZSgAqcqmXsnR1u3e32B9AFAHxibkNhasmnEum3ZP7xRsQq_3jzuvAr15LA0",
+      "url": "https://play.google.com/store/apps/details?id=com.morechili.mergeelf&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "tycoon.building.simulator.games.aldagames.com",
+      "title": "Transport Tycoon Empire",
+      "developer": "Alda Games",
+      "icon": "https://play-lh.googleusercontent.com/sVLq7XkY7a80AFyOPxFUrD9NqwyFU4gIV42P3MtpgtP8SrgRucKyoKt3WTbvr92DVw",
+      "url": "https://play.google.com/store/apps/details?id=tycoon.building.simulator.games.aldagames.com&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamehouse.deliciousmatch3",
+      "title": "Delicious B&B: 장식과 매치 3",
+      "developer": "GameHouse LLC",
+      "icon": "https://play-lh.googleusercontent.com/-xNQIvFbTjRXW9RVUrsofK27eXnNIa3Jemn6cmwcAqZoIdMDYH-IIzwng38EVrTTEdr6F6b2ypb9Hf5yUBLuvQ",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.deliciousmatch3&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3665,51 +3715,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.block.puzzle.classic.puzzlegames",
-      "title": "블럭 퍼즐: 놀면 놀수록 더 똑똑해지는 게임!",
-      "developer": "LinkDesks Daily Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/KNX8z_99xjKxK0puDZvdNARH-lY6axzilF4xxmaldtMMuFWBtrveWjt9bJdg4oaiNlrN",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.block.puzzle.classic.puzzlegames&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "studio.gameberry.idlehunter",
-      "title": "헌터 키우기 : 방치형 RPG",
-      "developer": "gameberry studio(Idle RPG, Simulation)",
-      "icon": "https://play-lh.googleusercontent.com/hoLdsGh8KZpSNMYvCjLoNGJKXaufv0UyAyRcnKILjHpCcdN9Af4CObMOUe6UHJ1X_rEB",
-      "url": "https://play.google.com/store/apps/details?id=studio.gameberry.idlehunter&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.screw3d.match.nuts.bolts.pin.jam.away.puzzle",
-      "title": "3D Bolt Master: 나사 핀 잼",
-      "developer": "Joymaster Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/paJoS-vuC8XdnGdFzEUG2TjaeYKJrgpdBYwN3J4XFl4YcW-qHIG_2fALnJnM8ldvHNc",
-      "url": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.cricketleague",
-      "title": "Cricket League",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/qg4R7pbyQGIqynCvRXH97pbcyAg8yU4VXzF9kj-bRSfNb7X14x5NeJLo7HwzdrBhqkc",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.cricketleague&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.nautilus.realcricket",
-      "title": "Real Cricket™",
-      "developer": "KRAFTON, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/Ol9N2EPA2qt3ukaLSTvhRCwV4LP9l5Q4NmYmSkCNZW42TtvhT4bEIl4WYacW0Jfw6PR8sIBwYdXFmPPudknzKg",
-      "url": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
