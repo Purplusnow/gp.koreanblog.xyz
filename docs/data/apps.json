@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T09:20:23.212Z",
+  "updatedAt": "2026-04-06T11:07:39.330Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -747,7 +747,10 @@
     "com.kurogame.wutheringwaves.global",
     "com.runawayplay.flutter",
     "com.sinyee.babybus.bakery",
-    "com.sinyee.babybus.cube.global"
+    "com.sinyee.babybus.cube.global",
+    "com.superpixel.pixelknights",
+    "com.neowiz.games.newmatgo",
+    "com.epicoro.castleclashers"
   ],
   "items": [
     {
@@ -936,6 +939,33 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/p6nOK6-U6_7endw7TTJQ-7K7Vad024eqhk72N7tycbqteBM_jTO4qJrfm2VIikvvyw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.cube.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.superpixel.pixelknights",
+      "title": "픽셀 기사단 키우기 : 방치형RPG",
+      "developer": "SUPERBOX Inc",
+      "icon": "https://play-lh.googleusercontent.com/IsHz2_PvGghfiaYmhYcwBIIq2FGIDCJaxkQgSo6CLoYUgR2yUWddGcjKi8Y2KAhCkV8",
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.neowiz.games.newmatgo",
+      "title": "피망 뉴맞고: 고스톱 대표 맞고 게임",
+      "developer": "NEOWIZ corp",
+      "icon": "https://play-lh.googleusercontent.com/qBfObI-V3H60nuqcHrk5o261MlEVHzAHdQYRan2Qa_2YX8vtr5U9HNi6iJ5gNcd8nu55dKHvQLoFmkZmEeVKCA",
+      "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.newmatgo&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.epicoro.castleclashers",
+      "title": "Castle Clashers!",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
+      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -5157,33 +5187,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.JindoBlu.TwoPlayerGamesChallenge",
-      "title": "2인용 게임: 도전",
-      "developer": "JindoBlu",
-      "icon": "https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.number.puzzle.game",
-      "title": "넘버 매치 - 숫자 로직 퍼즐",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/-U5ol_iA3Fq1lvyJ1q1JEJamTuSBNx1vclmR0mA4gDSBXS4f8cebBWKA2llk7AaDsQ",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.number.puzzle.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamovation.mahjongclub",
-      "title": "마작 클럽 - 솔리테어 게임",
-      "developer": "GamoVation",
-      "icon": "https://play-lh.googleusercontent.com/InxnR_89wzWkXIV4BwJyBCvhyQ__IGXnzhiSi1ddNbh0wZe-rBBqlWl6cRq--GlGyzg",
-      "url": "https://play.google.com/store/apps/details?id=com.gamovation.mahjongclub&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
