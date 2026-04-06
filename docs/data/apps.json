@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T15:00:19.009Z",
+  "updatedAt": "2026-04-06T15:01:12.333Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -754,7 +754,8 @@
     "com.global.ztmslgkr",
     "com.devgame.masha.and.bear.pizzeria.games",
     "com.sinyee.babybus.drinks.global",
-    "and.lihuhu.woober"
+    "and.lihuhu.woober",
+    "com.runawayplay.furistascatcafe"
   ],
   "items": [
     {
@@ -781,6 +782,15 @@
       "developer": "LIHUHU PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/QUTqwiGLNpmcJXw6Vlo7eDdCIzUPtwnsEYCcLqhxy6d_pPZqjJpp_eKCa1sdOVi-o0g",
       "url": "https://play.google.com/store/apps/details?id=and.lihuhu.woober&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.runawayplay.furistascatcafe",
+      "title": "Furistas 퓨리스타스 고양이 카페",
+      "developer": "Runaway Play",
+      "icon": "https://play-lh.googleusercontent.com/46FPtDTO0jw9cXY_jv3htCCYG7Ml_FdJTuiFc_NPNEfrkZ50UeCtS3xh88zpsA-xyuY",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.furistascatcafe&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -5227,15 +5237,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.proximabeta.mf.uamo",
-      "title": "아레나 브레이크아웃: 현실 지향 FPS",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/vL-xYJhmXTiaQewThy9DMHkk_zdtSHqKcRDp8iYip6C-OB764enYRA1CrmHSRoW1rsAEkyJT5a8By3ADMbd5",
-      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
