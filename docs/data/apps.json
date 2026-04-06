@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T13:04:59.455Z",
+  "updatedAt": "2026-04-06T13:18:32.927Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -750,7 +750,8 @@
     "com.sinyee.babybus.cube.global",
     "com.superpixel.pixelknights",
     "com.neowiz.games.newmatgo",
-    "com.epicoro.castleclashers"
+    "com.epicoro.castleclashers",
+    "com.global.ztmslgkr"
   ],
   "items": [
     {
@@ -786,6 +787,15 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/3LwyZ3NidtGEixfOyqBP0HZDuF1J2WBdzDixxxYgk7sNl3FIGaveVjzaQidzBOtzEA",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.pvzheroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.mgink",
+      "title": "마법의 잉크: 꾸미기 힐링 SNG",
+      "developer": "Florix Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/dJPtT_AHNApX8ztG439kn9Ha-Cy00C5T0vE1VtD3xFDMWxvxPMb06fD5G2JmrDZZa-g",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgink&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -849,15 +859,6 @@
       "developer": "MTAG PUBLISHING LTD",
       "icon": "https://play-lh.googleusercontent.com/lW-cs7adeMj15ofvzt-hFTNdXp2Hrr26MPGxkyO8Pdpf-8h4eYcS3jF5ShYR8aJ6Sw",
       "url": "https://play.google.com/store/apps/details?id=com.mysterytag.farmland&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobirix.mgink",
-      "title": "마법의 잉크: 꾸미기 힐링 SNG",
-      "developer": "Florix Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/dJPtT_AHNApX8ztG439kn9Ha-Cy00C5T0vE1VtD3xFDMWxvxPMb06fD5G2JmrDZZa-g",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgink&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -966,6 +967,15 @@
       "developer": "VOODOO",
       "icon": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
       "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.global.ztmslgkr",
+      "title": "퍼즐 오브 Z",
+      "developer": "BLANCOZONE NETWORK CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/avcK8XZwrVNYHfRnPspGYRhO2WXQFLud9ksPRUEV3qguhCzgql-UoFOkAMrAyAu93dI3_eBtpiKSO_y36dxOZyo",
+      "url": "https://play.google.com/store/apps/details?id=com.global.ztmslgkr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -5187,15 +5197,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "br.com.tapps.myvirtualpetshop",
-      "title": "My Virtual Pet Shop: Animals",
-      "developer": "Tapps Games",
-      "icon": "https://play-lh.googleusercontent.com/zRjY_rYgateoWXfq1oVQK8iXSsA5r83Coe0T8FfWfwYZgBSR4J6DAvK0ZdmFv3Ig_A",
-      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.myvirtualpetshop&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
