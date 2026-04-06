@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T02:12:28.489Z",
+  "updatedAt": "2026-04-06T02:37:13.503Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -740,7 +740,10 @@
     "com.ea.gp.pvzheroes",
     "com.mobirix.mgink",
     "com.gameicreate.halloweenstreetfoodshoprestaurantgame",
-    "com.bubble.shooter.family"
+    "com.bubble.shooter.family",
+    "com.scopely.gardenjoy",
+    "com.mergedomhomedesign.game",
+    "ugo.com.play.free.farmington"
   ],
   "items": [
     {
@@ -749,6 +752,15 @@
       "developer": "IVYGAMES",
       "icon": "https://play-lh.googleusercontent.com/1nokxVMT4eRS27enkqk8rIlOLSTqgjc7VodsBy8_5fKpzCX_z0b12QWPYNhGeb5mTg",
       "url": "https://play.google.com/store/apps/details?id=com.photonfox.g001&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.supercell.hayday",
+      "title": "헤이데이",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/Za8u0ChNK-3mZ3rnLcBirRBTzLYTdqaaAn63Ha9qKZiDp_bF_5u7OGfvWb1dg88WttKw",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -816,15 +828,6 @@
       "isGame": true
     },
     {
-      "appId": "com.supercell.hayday",
-      "title": "헤이데이",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/Za8u0ChNK-3mZ3rnLcBirRBTzLYTdqaaAn63Ha9qKZiDp_bF_5u7OGfvWb1dg88WttKw",
-      "url": "https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
       "appId": "com.mysterytag.farmland",
       "title": "FarmLand",
       "developer": "MTAG PUBLISHING LTD",
@@ -866,6 +869,33 @@
       "developer": "Playful Bytes",
       "icon": "https://play-lh.googleusercontent.com/wDaN9HOJ6OIaNU719M7ZNdlMf-h1nGjX66pPjRHMMXmaJzIsFq1KWhm-O4f4QuiFcI8",
       "url": "https://play.google.com/store/apps/details?id=com.bubble.shooter.family&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.scopely.gardenjoy",
+      "title": "Garden Joy: Exterior Designer",
+      "developer": "Burlingame Studios",
+      "icon": "https://play-lh.googleusercontent.com/yigDGcTl9ElJ3vz5OtDmMyoG0WZY-APiD5VC83fYmp5uiOm1GtmPYPBQ4ggoTpPf0iE",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.gardenjoy&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.mergedomhomedesign.game",
+      "title": "Mergedom: 머지 꾸미기게임 집",
+      "developer": "Carry1st",
+      "icon": "https://play-lh.googleusercontent.com/8k3gfmQ14hw2GGPLx67bSC2mrxLMUYBbZLdxjgppYl34mVH5COlAheOJv27mNZP_nl8",
+      "url": "https://play.google.com/store/apps/details?id=com.mergedomhomedesign.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "ugo.com.play.free.farmington",
+      "title": "Farmington – 농장 게임",
+      "developer": "UGO Games",
+      "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
+      "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -5087,33 +5117,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.qingyuegames.petmatch",
-      "title": "스위티 레전드",
-      "developer": "Qingyue Games",
-      "icon": "https://play-lh.googleusercontent.com/VQjguc5mjpqRoyTQ0muUu2SxoIyzfEuRqaTaVYFHQIdOHPgYQjyqSwIhLLUVy2b3cf8",
-      "url": "https://play.google.com/store/apps/details?id=com.qingyuegames.petmatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapblaze.homecraft",
-      "title": "홈크래프트 - 홈 디자인 게임",
-      "developer": "TapBlaze",
-      "icon": "https://play-lh.googleusercontent.com/c8U5LOrLi8k6AJqQ95WFQT2fbfTSfHaES5Foi1MAjZHWDPcZNfKWWDnJkOlbtveojQwnFZJqhPKPG7Ia30P699Y",
-      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.homecraft&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.tile.match.fun",
-      "title": "트리플 타일 매치",
-      "developer": "LinkDesks Daily Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/x9m53Q8j7tJJkmw1UygH22LiVcpe-1WJDB8arVSzxqXYrmhJAPZHuIvpJldWrJNXhhY",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.tile.match.fun&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
