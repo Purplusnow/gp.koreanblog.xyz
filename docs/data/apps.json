@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T19:14:59.114Z",
+  "updatedAt": "2026-04-06T20:50:46.320Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -763,7 +763,8 @@
     "com.sinyee.babybus.dress",
     "com.morechili.mergeelf",
     "tycoon.building.simulator.games.aldagames.com",
-    "com.gamehouse.deliciousmatch3"
+    "com.gamehouse.deliciousmatch3",
+    "com.sinyee.babybus.townhospital"
   ],
   "items": [
     {
@@ -871,6 +872,15 @@
       "developer": "GameHouse LLC",
       "icon": "https://play-lh.googleusercontent.com/-xNQIvFbTjRXW9RVUrsofK27eXnNIa3Jemn6cmwcAqZoIdMDYH-IIzwng38EVrTTEdr6F6b2ypb9Hf5yUBLuvQ",
       "url": "https://play.google.com/store/apps/details?id=com.gamehouse.deliciousmatch3&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.townhospital",
+      "title": "Baby Panda's Town: 병원",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/ARaPgLOKmM6qTARcP1zS4RbVBGBZc5nlfr54YW4UKGn3AU-ql-zF1fb0tjA3WfjtxekGndpHm5MMfu2JnD36ug",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.townhospital&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3715,15 +3725,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.touch2goal.soccer",
-      "title": "Mini Soccer Star: Football Cup",
-      "developer": "Viva Games Studios",
-      "icon": "https://play-lh.googleusercontent.com/D1zoPdgy7On558yunZhRMKbxAaRYKF-gTNF_GFHRXAyk7yi6HNozP3c2n2prixJurZTu",
-      "url": "https://play.google.com/store/apps/details?id=com.touch2goal.soccer&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
