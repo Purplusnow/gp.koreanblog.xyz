@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T17:01:32.409Z",
+  "updatedAt": "2026-04-06T17:58:42.161Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -755,7 +755,10 @@
     "com.devgame.masha.and.bear.pizzeria.games",
     "com.sinyee.babybus.drinks.global",
     "and.lihuhu.woober",
-    "com.runawayplay.furistascatcafe"
+    "com.runawayplay.furistascatcafe",
+    "com.sinyee.babybus.recommendapp.global",
+    "com.devsisters.gb",
+    "com.Seriously.BestFiends"
   ],
   "items": [
     {
@@ -791,6 +794,33 @@
       "developer": "Runaway Play",
       "icon": "https://play-lh.googleusercontent.com/46FPtDTO0jw9cXY_jv3htCCYG7Ml_FdJTuiFc_NPNEfrkZ50UeCtS3xh88zpsA-xyuY",
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.furistascatcafe&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.recommendapp.global",
+      "title": "아기팬더의 키즈 플레이",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/s6jH1DlGNk5-8dNjLp0jd8rTFsGlau3IEiWTO-R4USOOn1gxWrtKWRwbH0IR8aeszCIbAPW4gBc_uwgZcTVXEg",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.recommendapp.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.gb",
+      "title": "쿠키런: 오븐브레이크",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/XUy99MQSg6fGI5YN1gqgciNiv3ZAPI5eGHtefptp4oNZOavBUdMnxUN3ddcT1FBkOmKEyNyob0pi-6u34RHezuE",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.Seriously.BestFiends",
+      "title": "Best Fiends - Match 3 Puzzles",
+      "developer": "Playtika",
+      "icon": "https://play-lh.googleusercontent.com/f8uOEX90LCMfmR8DBJ_VSL70hOTwE0EnaIhuId6wQSNb0U3qX4X6PEaGvA7yfgsIsC-r6LV7FLQgsEnPTmRfJw",
+      "url": "https://play.google.com/store/apps/details?id=com.Seriously.BestFiends&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3639,15 +3669,6 @@
       "isGame": true
     },
     {
-      "appId": "com.goblins.idle.merge.game",
-      "title": "Goblin Miner: Idle Merger",
-      "developer": "ProGamesLab",
-      "icon": "https://play-lh.googleusercontent.com/kls6DBoOPjyJ0vc0_eZFSB_ZPG1IohBui61qxSJ9gMEC3fSJP5nRMIeY7Nn2nnk9UW-A",
-      "url": "https://play.google.com/store/apps/details?id=com.goblins.idle.merge.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
       "appId": "linkdesks.block.puzzle.classic.puzzlegames",
       "title": "블럭 퍼즐: 놀면 놀수록 더 똑똑해지는 게임!",
       "developer": "LinkDesks Daily Puzzle",
@@ -5237,24 +5258,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.AlfaBravo.CombatMaster",
-      "title": "Combat Master Mobile FPS",
-      "developer": "Alfa Bravo Inc.",
-      "icon": "https://play-lh.googleusercontent.com/E8zf-LRFY2J7NV4EdifkgaQS5woA7VMolvwzZObx6pshA92CSrvXweRxSH37TxZOebrs",
-      "url": "https://play.google.com/store/apps/details?id=com.AlfaBravo.CombatMaster&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.axlebolt.standoff2",
-      "title": "Standoff 2",
-      "developer": "AXLEBOLT LTD",
-      "icon": "https://play-lh.googleusercontent.com/VpUP8AqSRB-R_uusCh1jeQLa2LRyqPB3Vb_9tY9O8Y-2wzJvtwwrZWWhP0xxTuFf5bpz-DP6LrdcYOc-KjIdOA",
-      "url": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     }
