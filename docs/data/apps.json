@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T06:05:06.901Z",
+  "updatedAt": "2026-04-06T08:00:19.932Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -743,7 +743,10 @@
     "com.bubble.shooter.family",
     "com.scopely.gardenjoy",
     "com.mergedomhomedesign.game",
-    "ugo.com.play.free.farmington"
+    "ugo.com.play.free.farmington",
+    "com.kurogame.wutheringwaves.global",
+    "com.runawayplay.flutter",
+    "com.sinyee.babybus.bakery"
   ],
   "items": [
     {
@@ -896,6 +899,33 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.kurogame.wutheringwaves.global",
+      "title": "명조:워더링 웨이브",
+      "developer": "HK KURO GAMES LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/L0Dn7FRoGO0Ocxb3MidlNpv_DMehL8xlEkVJcnb2MaxtdhCKIBMOC0IfWmpr0okokXfwKKw-PSxcDnoJrJ2v",
+      "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.runawayplay.flutter",
+      "title": "Flutter: 나비 정원",
+      "developer": "Runaway Play",
+      "icon": "https://play-lh.googleusercontent.com/A8J1XOLThIfy19F0QcnlgTo_zjb3qZnMiBlOO_ElcY7buXHaUEebbQq3AmLnIz7gdJWc",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.flutter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.bakery",
+      "title": "아기팬더의 케이크 샵",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/mSD8Lsfjj6QhcZD0KIeFUfV5eWPHwssTVcKu7jKZ27s0DD6PpvDYxeRtADMgWrtHbg",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.bakery&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -5117,33 +5147,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "car.jam.traffic.seat.unblock",
-      "title": "Car Jam：자동차 게임・주차의 달인",
-      "developer": "Shycheese",
-      "icon": "https://play-lh.googleusercontent.com/bE3UCTHxRml6Y3sGSdqBJPkMDtys8GXVMJ5f_faU-iwvi-dCi7_rFZhM8kJGXpGvllyISvdQ70Pt3BSfzTsc",
-      "url": "https://play.google.com/store/apps/details?id=car.jam.traffic.seat.unblock&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "io.voodoo.holeio",
-      "title": "Hole.io",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/VmbS-Smui9i1h9mxAVxnehbLI4HP4g-wsdWeJ2k9MbOTFK5wsiZifDkxdkm4f4wEIsE",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.JindoBlu.Antistress",
-      "title": "안티스트레스 - 릴렉스 토이",
-      "developer": "JindoBlu",
-      "icon": "https://play-lh.googleusercontent.com/7Q4BJMSZZ4e0hSIw_yOlXzg6ACUIwOTJ3ePdIsFdWO2KkIputOaxY-CAb0AodacMQaQ",
-      "url": "https://play.google.com/store/apps/details?id=com.JindoBlu.Antistress&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
