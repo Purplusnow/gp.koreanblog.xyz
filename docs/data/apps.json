@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T12:54:01.598Z",
+  "updatedAt": "2026-04-06T13:04:59.455Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -781,6 +781,15 @@
       "isGame": true
     },
     {
+      "appId": "com.ea.gp.pvzheroes",
+      "title": "Plants vs. Zombies™ Heroes",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/3LwyZ3NidtGEixfOyqBP0HZDuF1J2WBdzDixxxYgk7sNl3FIGaveVjzaQidzBOtzEA",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.pvzheroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
       "appId": "com.mergegames.taylorsecret",
       "title": "타일러의 비밀: 머지 스토리",
       "developer": "Merge story",
@@ -840,15 +849,6 @@
       "developer": "MTAG PUBLISHING LTD",
       "icon": "https://play-lh.googleusercontent.com/lW-cs7adeMj15ofvzt-hFTNdXp2Hrr26MPGxkyO8Pdpf-8h4eYcS3jF5ShYR8aJ6Sw",
       "url": "https://play.google.com/store/apps/details?id=com.mysterytag.farmland&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.gp.pvzheroes",
-      "title": "Plants vs. Zombies™ Heroes",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/3LwyZ3NidtGEixfOyqBP0HZDuF1J2WBdzDixxxYgk7sNl3FIGaveVjzaQidzBOtzEA",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.pvzheroes&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
