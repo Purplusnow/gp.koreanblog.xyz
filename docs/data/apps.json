@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T13:41:19.171Z",
+  "updatedAt": "2026-04-06T15:00:19.009Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -751,9 +751,39 @@
     "com.superpixel.pixelknights",
     "com.neowiz.games.newmatgo",
     "com.epicoro.castleclashers",
-    "com.global.ztmslgkr"
+    "com.global.ztmslgkr",
+    "com.devgame.masha.and.bear.pizzeria.games",
+    "com.sinyee.babybus.drinks.global",
+    "and.lihuhu.woober"
   ],
   "items": [
+    {
+      "appId": "com.devgame.masha.and.bear.pizzeria.games",
+      "title": "마샤와 곰: 피자가게! 맛집셰프 및 식당 음식 게임.",
+      "developer": "DEVGAME KIDS games",
+      "icon": "https://play-lh.googleusercontent.com/wu3xYst68wAwgtKpyzbt1FRWu5ZnR5U04ydZluhIjTugpVqdY2EwjB5m0s3dfIbO4kBDIoxtTVDTPXi_gTDs",
+      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.drinks.global",
+      "title": "아기 팬더의 아이스크림 트럭",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/IUFZbbSyxHBKjW2CN80veVV4dSg1oXNcnXeZ9HqdtygaviTkqQSOHkW4maWKZTLKFLo",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.drinks.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "and.lihuhu.woober",
+      "title": "Woodber - 클래식 숫자 퍼즐",
+      "developer": "LIHUHU PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/QUTqwiGLNpmcJXw6Vlo7eDdCIzUPtwnsEYCcLqhxy6d_pPZqjJpp_eKCa1sdOVi-o0g",
+      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.woober&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
     {
       "appId": "com.photonfox.g001",
       "title": "매직 케빈: 나의 마법 장원",
@@ -1772,6 +1802,15 @@
       "isGame": true
     },
     {
+      "appId": "com.dxx.firenow",
+      "title": "탕탕특공대",
+      "developer": "Habby",
+      "icon": "https://play-lh.googleusercontent.com/os7JIk6PtULMjal93noyeGqWKjxQ_35sXrT708XxHq_ORk_AIhqW3_iIm8-OjuRLyDDb_MVs5EZAwC4aXIbgtA",
+      "url": "https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
       "developer": "Miniclip.com",
@@ -1939,15 +1978,6 @@
       "developer": "Microfun Limited",
       "icon": "https://play-lh.googleusercontent.com/93kcTe6blELo16KuK-U7bK3hDpbR8MD8zet6YyFMrLxZMZWwyrYADZo49JvqRghHMdWbM9hToxFax4TNeu7T",
       "url": "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.dxx.firenow",
-      "title": "탕탕특공대",
-      "developer": "Habby",
-      "icon": "https://play-lh.googleusercontent.com/os7JIk6PtULMjal93noyeGqWKjxQ_35sXrT708XxHq_ORk_AIhqW3_iIm8-OjuRLyDDb_MVs5EZAwC4aXIbgtA",
-      "url": "https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
@@ -5197,33 +5227,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.pjsekai.kr",
-      "title": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
-      "developer": "Nuverse",
-      "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq",
-      "url": "https://play.google.com/store/apps/details?id=com.pjsekai.kr&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "solitaire.patience.card.games.klondike.free",
-      "title": "솔리테어 - 클래식 카드게임, Solitaire",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/4N1bKGONEllL7uNKI-9bAdmuSmKLqSFZQtUxSme3kD-0OkFZzjzyR-YercQ6nbJ6Ppfm",
-      "url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "io.state.fight",
-      "title": "스테이트.io — 전략 게임에서 세계를 정복하라",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/axUXnzlLPrANfsvL_AyWSZBn4g_28nkXqvHVHRURITqTXeb7xobmdoeiZIqsof-vvA",
-      "url": "https://play.google.com/store/apps/details?id=io.state.fight&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
