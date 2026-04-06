@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T08:00:19.932Z",
+  "updatedAt": "2026-04-06T09:20:23.212Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -746,7 +746,8 @@
     "ugo.com.play.free.farmington",
     "com.kurogame.wutheringwaves.global",
     "com.runawayplay.flutter",
-    "com.sinyee.babybus.bakery"
+    "com.sinyee.babybus.bakery",
+    "com.sinyee.babybus.cube.global"
   ],
   "items": [
     {
@@ -926,6 +927,15 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/mSD8Lsfjj6QhcZD0KIeFUfV5eWPHwssTVcKu7jKZ27s0DD6PpvDYxeRtADMgWrtHbg",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.bakery&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.cube.global",
+      "title": "아기 팬더의 드림 랜드",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/p6nOK6-U6_7endw7TTJQ-7K7Vad024eqhk72N7tycbqteBM_jTO4qJrfm2VIikvvyw",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.cube.global&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
@@ -5147,15 +5157,6 @@
       "developer": "HIPSTER WHALE",
       "icon": "https://play-lh.googleusercontent.com/AlFw_nGMwf3ILG76Fh86xapntqdpvJvXN8syc2U6xZzMfapz-9NPZbvuwR8lmArVKik",
       "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-30",
-      "isGame": true
-    },
-    {
-      "appId": "blockpuzzle.new1010.jewelgames.puzzlegames",
-      "title": "Block Puzzle - 블럭 퍼즐",
-      "developer": "Block Puzzle Jewel Games",
-      "icon": "https://play-lh.googleusercontent.com/7KOeuxJZ4nW7hchEolHcCHOWmA89-cuWzl3nr4IX74YfKtm8mMYCCNa3hl-5-2_OSxw",
-      "url": "https://play.google.com/store/apps/details?id=blockpuzzle.new1010.jewelgames.puzzlegames&hl=ko&gl=KR",
       "discoveredDate": "2026-03-30",
       "isGame": true
     },
