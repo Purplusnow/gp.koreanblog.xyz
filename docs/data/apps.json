@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T13:18:32.927Z",
+  "updatedAt": "2026-04-06T13:28:35.378Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1763,6 +1763,15 @@
       "isGame": true
     },
     {
+      "appId": "com.percent.aos.luckydefense",
+      "title": "운빨존많겜",
+      "developer": "111%",
+      "icon": "https://play-lh.googleusercontent.com/RR3YDXiA9avqzJigvGTSJtQeKjiw7De3KgWUA9U3wofPLtOFqTlvYzMJDfNhaNw7To0",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.luckydefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
       "developer": "Miniclip.com",
@@ -1894,15 +1903,6 @@
       "developer": "Supercent, Inc.",
       "icon": "https://play-lh.googleusercontent.com/nEq2g7dQ5kRB8miiWbxNOppYw557TLfH5mOe9Cca78KYrSGYoyCtSCFEpZIqnQR45yOY",
       "url": "https://play.google.com/store/apps/details?id=io.supercent.weaponrpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.percent.aos.luckydefense",
-      "title": "운빨존많겜",
-      "developer": "111%",
-      "icon": "https://play-lh.googleusercontent.com/RR3YDXiA9avqzJigvGTSJtQeKjiw7De3KgWUA9U3wofPLtOFqTlvYzMJDfNhaNw7To0",
-      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.luckydefense&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
