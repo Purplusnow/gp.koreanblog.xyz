@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T02:58:00.013Z",
+  "updatedAt": "2026-04-07T03:25:23.726Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -766,7 +766,8 @@
     "com.gamehouse.deliciousmatch3",
     "com.sinyee.babybus.townhospital",
     "com.crazy.cooking.diner.chef.restaurant.fever",
-    "com.wonderlegend.cookingwonder.android"
+    "com.wonderlegend.cookingwonder.android",
+    "com.sinyee.babybus.girlstown"
   ],
   "items": [
     {
@@ -901,6 +902,15 @@
       "developer": "WonderLegend Games",
       "icon": "https://play-lh.googleusercontent.com/AargsWcyaPIaYDNF98UmBF9EphKlkxz6CIHo7EvWuiqt6qesYls-6-0sJyh-px-d1sY",
       "url": "https://play.google.com/store/apps/details?id=com.wonderlegend.cookingwonder.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.girlstown",
+      "title": "아기팬더의 걸즈 타운",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/ezzf5r8bxc5Ut-CepXPh_qpiRmmC75c_AC1JfR1NmvgPm1sASWhzq-ZrGpvN4vsj_M_HaUxbFMC0JEN1tJVPJPk",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.girlstown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3745,15 +3755,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.king.knightsrage",
-      "title": "나이트후드",
-      "developer": "RPG Raid Roleplaying Games",
-      "icon": "https://play-lh.googleusercontent.com/qU0KrJTE8ROp2ldv_OJwrB0FUof_sEwLS-lMQTHxqPPwOn1PSzGf9n4IGZnt7Rwo9Xg",
-      "url": "https://play.google.com/store/apps/details?id=com.king.knightsrage&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
