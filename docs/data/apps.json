@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T19:18:52.642Z",
+  "updatedAt": "2026-04-07T20:59:56.940Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -776,7 +776,11 @@
     "com.mergegame.merge",
     "com.eastsidegames.theofficeswm",
     "com.playkot.adventure",
-    "sortpuz.water.sort.puzzle.game"
+    "sortpuz.water.sort.puzzle.game",
+    "com.g5e.mahjong.android",
+    "com.happygames.mergehotel",
+    "com.devsisters.cwc",
+    "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children"
   ],
   "items": [
     {
@@ -812,6 +816,42 @@
       "developer": "Dark Halo",
       "icon": "https://play-lh.googleusercontent.com/l0QMc_qNdfLGkZnqPc4FN7g5TztX1vezh45B39pSAsaLu6lpbl_bwAA9eCKw89awwcw",
       "url": "https://play.google.com/store/apps/details?id=sortpuz.water.sort.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.mahjong.android",
+      "title": "마작 여정: 타일 짝 맞추기 모험 퀘스트",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/MlKCyda38rA4kzGX17DthPYSUpHkB4tY0Ic__PA-4kxgVl-dm5B53OsxFKyO3iY24w",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.mahjong.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.happygames.mergehotel",
+      "title": "Hotel Rush: Merge Story",
+      "developer": "Game Veterans",
+      "icon": "https://play-lh.googleusercontent.com/MK9vCkD6up3rCDywP7wW1EjVqxk3IzcOGbvwE8BYr0hdBVKYaKL0v7yarlrrH_NWXn-X",
+      "url": "https://play.google.com/store/apps/details?id=com.happygames.mergehotel&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.cwc",
+      "title": "쿠키런: 마녀의 성 - 퍼즐 블라스트",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/PO-_evz8af0DtCGkVGL4Vx-VbjY61bRbzLaiJIGUJ3ORAFsCwpWikiHD2MYv_5fnfCg",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cwc&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children",
+      "title": "2, 3, 4 세 아동용 아기 학습 게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/7cJNNPucfq6Aaw3DiIqRTBYqbclI7rES6QqeocI_7S6e-pf0p8xL2xug1KVpzpY8zYBC",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -3854,42 +3894,6 @@
       "developer": "Webelinx Games",
       "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
       "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "tile.master.connect.matching.game",
-      "title": "3 Tiles - 타일을 연결하여 블록 퍼즐 맞추기",
-      "developer": "Appsyoulove",
-      "icon": "https://play-lh.googleusercontent.com/zUrPJGSut7YBx30xUMGnBMbymtAM_E-05VN4hRAVZKUnKAFzXz3a1dXWng4kSo88uA",
-      "url": "https://play.google.com/store/apps/details?id=tile.master.connect.matching.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.wood.block.sudoku.puzzle.bm",
-      "title": "블록 크러시: 블록 블라스트 퍼즐",
-      "developer": "Wonderful  Studio",
-      "icon": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.find.out.hidden.objects",
-      "title": "Find Out®: 숨은 물건 찾기",
-      "developer": "Focus apps",
-      "icon": "https://play-lh.googleusercontent.com/8PV0ag8vG6yqBIX515RIOYZMJy0qAzogOO6F7uEloClM4E9bDHtFs6wKtL1XlwwzjNVc",
-      "url": "https://play.google.com/store/apps/details?id=com.find.out.hidden.objects&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.football.soccer.league",
-      "title": "축구 리그 2026",
-      "developer": "MOBILE SOCCER",
-      "icon": "https://play-lh.googleusercontent.com/F7DtJlSuZewLgNwyo8eabJjm4Unk6v7CEBbu-U3h1tXMyO82xmNKuxHtHnLgLblDkLU",
-      "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
