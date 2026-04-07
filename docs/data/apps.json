@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T23:50:52.532Z",
+  "updatedAt": "2026-04-07T23:59:13.500Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -792,7 +792,8 @@
     "com.dena.a12026418",
     "com.wildsky.wildarmydraft",
     "atlantis.invaders.subnautica.space.shooter",
-    "com.plarium.raidlegends"
+    "com.plarium.raidlegends",
+    "com.newmoonproduction.bigfarmhomestead"
   ],
   "items": [
     {
@@ -972,6 +973,15 @@
       "developer": "Plarium Global Ltd",
       "icon": "https://play-lh.googleusercontent.com/dPzFPSPSfQ1udWlEY6CmuTE9zw6Rij9iVPCJDXlebEp4z9wGvpqPJGFjCZD7fogom_o",
       "url": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.newmoonproduction.bigfarmhomestead",
+      "title": "빅 팜 홈스테드",
+      "developer": "Goodgame Studios",
+      "icon": "https://play-lh.googleusercontent.com/AXGE4qVf9zz8MtCrRRnnNqCeuQOLOm0tvUZ1w9iTOdY_xc4FL92x4qfGxgvAS-hhJGI",
+      "url": "https://play.google.com/store/apps/details?id=com.newmoonproduction.bigfarmhomestead&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4018,11 +4028,11 @@
       "isGame": true
     },
     {
-      "appId": "com.smallgiantgames.empires",
-      "title": "엠파이어 & 퍼즐 (Empires & Puzzles)",
-      "developer": "Small Giant Games",
-      "icon": "https://play-lh.googleusercontent.com/fLeGp78TjhGB_tHS-gC52lKUdtO37fxpEl8gkwbjForb_hqHonsT8Z9mE73tZ2w9UBc",
-      "url": "https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=ko&gl=KR",
+      "appId": "com.ea.game.simcitymobile_row",
+      "title": "심시티빌드잇",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4482,15 +4492,6 @@
       "developer": "UPWAKE.ME",
       "icon": "https://play-lh.googleusercontent.com/FNNgm0tffYSCtHFlC_CQWjL8sZEqaWIDkAGOQmGNJc5bv9P8n4MtJDXhYu87MqmxHA",
       "url": "https://play.google.com/store/apps/details?id=com.rbx.city.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.game.simcitymobile_row",
-      "title": "심시티빌드잇",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
