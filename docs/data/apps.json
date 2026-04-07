@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T17:13:34.700Z",
+  "updatedAt": "2026-04-07T19:18:52.642Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -775,7 +775,8 @@
     "com.sparklingsociety.zoolifeanimalparkgame",
     "com.mergegame.merge",
     "com.eastsidegames.theofficeswm",
-    "com.playkot.adventure"
+    "com.playkot.adventure",
+    "sortpuz.water.sort.puzzle.game"
   ],
   "items": [
     {
@@ -802,6 +803,15 @@
       "developer": "Playkot LTD",
       "icon": "https://play-lh.googleusercontent.com/mSLcl4tnQaW2fKB5eOwfh9w0ct_4dMk9Xy68fxAXj2J9iVx9lzt3B8L5a5M1ghMYKA",
       "url": "https://play.google.com/store/apps/details?id=com.playkot.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "sortpuz.water.sort.puzzle.game",
+      "title": "물&소다 색깔맞추기 물병게임（SortPuz™）",
+      "developer": "Dark Halo",
+      "icon": "https://play-lh.googleusercontent.com/l0QMc_qNdfLGkZnqPc4FN7g5TztX1vezh45B39pSAsaLu6lpbl_bwAA9eCKw89awwcw",
+      "url": "https://play.google.com/store/apps/details?id=sortpuz.water.sort.puzzle.game&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -3844,15 +3854,6 @@
       "developer": "Webelinx Games",
       "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
       "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildlifestudios.merge.slot.gilded.gardens",
-      "title": "미다스 머지",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/pN1ajR6kaL7BCLCeLEHqbRX3bb-RIQRAMB33Xian4Z-ly6NqBB-IEeYKeHgzdsKSxw",
-      "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.merge.slot.gilded.gardens&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
