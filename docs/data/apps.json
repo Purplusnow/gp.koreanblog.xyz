@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T13:55:38.481Z",
+  "updatedAt": "2026-04-07T15:01:53.205Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -772,9 +772,39 @@
     "com.edujoy.dentist",
     "com.superbloomgames.atable",
     "com.tapps.games.dig.dinoquest2",
-    "com.sparklingsociety.zoolifeanimalparkgame"
+    "com.sparklingsociety.zoolifeanimalparkgame",
+    "com.mergegame.merge",
+    "com.eastsidegames.theofficeswm",
+    "com.playkot.adventure"
   ],
   "items": [
+    {
+      "appId": "com.mergegame.merge",
+      "title": "Merge Inn - 카페 머지 게임",
+      "developer": "Original Games Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/vEmpdpQmL9J7PpkjVQKynuBOh9YiuEHP4TdE5yG8BRW3dtuUxKGycCE6_X67Edfl8cWA",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegame.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.eastsidegames.theofficeswm",
+      "title": "The Office: Somehow We Manage",
+      "developer": "East Side Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/bkagxTYRJ0XowNr9s-6_7GmvqceUOZKOPE3whOwTZT8giYPL32wG64wO54Hi5G3ITQ",
+      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.theofficeswm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.playkot.adventure",
+      "title": "Spring Valley: 농장 게임",
+      "developer": "Playkot LTD",
+      "icon": "https://play-lh.googleusercontent.com/mSLcl4tnQaW2fKB5eOwfh9w0ct_4dMk9Xy68fxAXj2J9iVx9lzt3B8L5a5M1ghMYKA",
+      "url": "https://play.google.com/store/apps/details?id=com.playkot.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
     {
       "appId": "com.devgame.masha.and.bear.pizzeria.games",
       "title": "마샤와 곰: 피자가게! 맛집셰프 및 식당 음식 게임.",
@@ -3809,29 +3839,11 @@
       "isGame": true
     },
     {
-      "appId": "com.Earthkwak.Platformer",
-      "title": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon": "https://play-lh.googleusercontent.com/ZU4lJhAQ-ZE_v5RtIk1rgs71fIiv2Vl41CSspI3sugONJ-WSi2iNgwaKjSLYcY5Q1AM",
-      "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.jewelsofegypt.android",
-      "title": "Jewels of Egypt: 이집트 짝맞추기 게임",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/MirQW0OyJwUw8PKYgHohmqd6j_bJwzBipZUiTwCfzkBI-GQt0xc28o5_LkcLA7mZB0Bn",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofegypt.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.playstudios.tetrisblockparty",
-      "title": "Tetris Block Party: 새로운 테트리스",
-      "developer": "PLAYSTUDIOS US, LLC",
-      "icon": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
-      "url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty&hl=ko&gl=KR",
+      "appId": "com.webelinx.EscapeRoom.Free.Portrait.Game",
+      "title": "Escape Time: 방탈출 논리 게임",
+      "developer": "Webelinx Games",
+      "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
+      "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -4651,15 +4663,6 @@
       "developer": "PlayDots",
       "icon": "https://play-lh.googleusercontent.com/MePTYYTEbb6fb40AYk7KWphkYcqoAq9l2T7VaAk8N3S5UpWB5WIIMnnGh7imx-ZPWuM",
       "url": "https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.webelinx.EscapeRoom.Free.Portrait.Game",
-      "title": "Escape Time: 방탈출 논리 게임",
-      "developer": "Webelinx Games",
-      "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
-      "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
