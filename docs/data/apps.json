@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T22:53:17.861Z",
+  "updatedAt": "2026-04-07T23:50:52.532Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -783,7 +783,16 @@
     "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children",
     "com.innogames.cozycoast",
     "com.cyberjoy.soccer",
-    "com.bigcool.puzzle.fruitgenies"
+    "com.bigcool.puzzle.fruitgenies",
+    "com.xq.archeroii",
+    "com.wildsky.td",
+    "com.mathbrain.sudoku",
+    "com.sopt.mafia42.client",
+    "net.gameduo.gv",
+    "com.dena.a12026418",
+    "com.wildsky.wildarmydraft",
+    "atlantis.invaders.subnautica.space.shooter",
+    "com.plarium.raidlegends"
   ],
   "items": [
     {
@@ -882,6 +891,87 @@
       "developer": "Bigcool Games",
       "icon": "https://play-lh.googleusercontent.com/_ZvQ0OsTEQ4pxby2TRYW08ifcoZ1JMdpQxqZvCSlGYBd7nymsuwp0XET2ND9yIoGWIg",
       "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.fruitgenies&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.xq.archeroii",
+      "title": "궁수의 전설2",
+      "developer": "Habby",
+      "icon": "https://play-lh.googleusercontent.com/qdQsr7FBr46MwT6lVDMOxZspTxFMItQyJUxtVKIT7YPY9iQNhmIIrWXV9qlymhfyY51TXC1lsANJf0CmSyWF",
+      "url": "https://play.google.com/store/apps/details?id=com.xq.archeroii&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildsky.td",
+      "title": "와일드 스카이 타워 디펜스: 애픽 전설 TD RPG",
+      "developer": "Funovus",
+      "icon": "https://play-lh.googleusercontent.com/Sh2nboKHVVhcG2iekVBFkIfTM2bHa2wm2rAcHJbtupHy-d0ap2pvGXTy575cXfuFGg",
+      "url": "https://play.google.com/store/apps/details?id=com.wildsky.td&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.mathbrain.sudoku",
+      "title": "스도쿠 마스터 · Sudoku Master",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/stjTItfEyoYW6XankxkYMzHl29ydCcWs-iA-jMXsEmQr9or8GmJw0Cdyyh02aoY47mWv",
+      "url": "https://play.google.com/store/apps/details?id=com.mathbrain.sudoku&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.sopt.mafia42.client",
+      "title": "마피아42",
+      "developer": "TEAM42",
+      "icon": "https://play-lh.googleusercontent.com/kCz-s8Fjp8WGynal3RTe3XyebFRk79CCZaxlRQvVfBmqSjLcTjR-etIESIx_4G5eGpIg",
+      "url": "https://play.google.com/store/apps/details?id=com.sopt.mafia42.client&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "net.gameduo.gv",
+      "title": "캣 히어로 : 방치형 RPG",
+      "developer": "Gameduo",
+      "icon": "https://play-lh.googleusercontent.com/BlT2h_1OpOPqhVk06YDN3CeyU3x_93W5JH32XmKxrDJcV0zDjgJ6_QJ3o-ol6yd9X6M",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.gv&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.dena.a12026418",
+      "title": "Pokémon Masters EX",
+      "developer": "DeNA Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/Tu51Gqk5mXHXl7QVYr2wfyyXUn4CCfqAYKg-3Ws1bN6zyDqvR6YvDaa6ug_e5pDIjIjQIQifHa4QLMeKw9NfhA",
+      "url": "https://play.google.com/store/apps/details?id=com.dena.a12026418&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildsky.wildarmydraft",
+      "title": "Merge War: 퍼즐 아레나",
+      "developer": "Funovus",
+      "icon": "https://play-lh.googleusercontent.com/N_4rdhS0gYISwTOzKQiatMRLAK0NTuhwNSVhOSHsk_9We1Jn53G1rx57wLfgcUTTqg",
+      "url": "https://play.google.com/store/apps/details?id=com.wildsky.wildarmydraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "atlantis.invaders.subnautica.space.shooter",
+      "title": "아틀란티스 인베이더",
+      "developer": "Spirit Bomb - Heartcore Games",
+      "icon": "https://play-lh.googleusercontent.com/a16imG1ZONuXEIM1K5i9zJPSuY7Nw4k4LkLvwRFpy6ILXOkUBFy7cBX467dfYnN52VbE",
+      "url": "https://play.google.com/store/apps/details?id=atlantis.invaders.subnautica.space.shooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.plarium.raidlegends",
+      "title": "레이드: 그림자의 전설",
+      "developer": "Plarium Global Ltd",
+      "icon": "https://play-lh.googleusercontent.com/dPzFPSPSfQ1udWlEY6CmuTE9zw6Rij9iVPCJDXlebEp4z9wGvpqPJGFjCZD7fogom_o",
+      "url": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -3924,87 +4014,6 @@
       "developer": "Webelinx Games",
       "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
       "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "trophy.hunter.hunting.games.sniper.shooting",
-      "title": "Trophy Hunter: 캐주얼 사냥",
-      "developer": "Ten Square Games",
-      "icon": "https://play-lh.googleusercontent.com/DACsJJcoO9wE9negXmh17zkZfwXa5Xeuw4xpmrXB--8eiawxTmt2FuEHA-yrNOWRc_BrBQzXy69-EiyjhnV9pZA",
-      "url": "https://play.google.com/store/apps/details?id=trophy.hunter.hunting.games.sniper.shooting&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.billionairegames.serares",
-      "title": "변신 키우기",
-      "developer": "BillionaireGames",
-      "icon": "https://play-lh.googleusercontent.com/_BjyLC_y-w36hAxYWkngsi2WWsppSLSC7SrZYnfBZSs4r-ljRrmiRY25qOo3MB6gBTw",
-      "url": "https://play.google.com/store/apps/details?id=com.billionairegames.serares&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.matryoshka.royal.cooking.kitchen.madness",
-      "title": "요리게임 & 쿠킹피버 (Royal Cooking)",
-      "developer": "Matryoshka",
-      "icon": "https://play-lh.googleusercontent.com/AgR1Qf8zBhY6ka1dxlRMDeFZL26N9niEC-xmSD78YqkNF_onbX9vM4MDq56PEbYAUs8",
-      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.royal.cooking.kitchen.madness&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.mytalkingangela2",
-      "title": "마이토킹안젤라 2",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/ZVpnMlxvEZYVUh4R_JtJW6PO_qABoCN8VbXVY1DgNPZtqrd6UKlQRbTTXj2cIgigJLs",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.herodash",
-      "title": "토킹톰 히어로 대시",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/ter284TompNzGRzbrnzHiAPpLCU7Nre-R7NgGpCVTi1-Wyt_mlpuyglBXWwlpEiAQpY",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.herodash&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu",
-      "title": "Makeup Beauty: 메이크업 게임 · 화장 게임",
-      "developer": "Gloryway Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/TpiUkMDNqT_l1nUqAjcGfpr8TH5lphg5-fkUceXm6jc9zR1CGq7zowVZySWO82xJxg",
-      "url": "https://play.google.com/store/apps/details?id=diy.makeup.artist.jogo.maquiagem.maquillaje.makyaj.oyunu&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "merge.archers",
-      "title": "궁수 병합: 졸라맨 아처 타워 디펜스 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/vfLTSVTVwcRFFNDVieQEPbkRCnUFAf7AwfKnTr-2DtgTH1RfkrH5Ee0eAiv3MHcVrqFw",
-      "url": "https://play.google.com/store/apps/details?id=merge.archers&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.acefishing.normal.freefull.google.global.android.common",
-      "title": "낚시의 신",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/mqpcEOLHjjY3cJvyyENbwt5z43VSZKTflGc5GmRjjK63ENneQzVWyKnAFkYMTq72Zb0",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.er",
-      "title": "프라시아 전기",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/25HVuJSH-Bcmsrv18ZMtRoLxsihD-Kjfp6ABY-FfW2h2eBw5fOdb3ZeYAIf6DchThg",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.er&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
