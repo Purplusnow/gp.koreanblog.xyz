@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T11:10:26.253Z",
+  "updatedAt": "2026-04-07T13:55:38.481Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -771,7 +771,8 @@
     "jp.co.imagineer.rilakkuma.farm",
     "com.edujoy.dentist",
     "com.superbloomgames.atable",
-    "com.tapps.games.dig.dinoquest2"
+    "com.tapps.games.dig.dinoquest2",
+    "com.sparklingsociety.zoolifeanimalparkgame"
   ],
   "items": [
     {
@@ -951,6 +952,15 @@
       "developer": "Tapps Games - PT",
       "icon": "https://play-lh.googleusercontent.com/wDd_UFPHI1m8E1LFQYYbp8AjKPbq9V7VACSiSd-xdIgyH1yVlRnhwaUiI0RIVH6HFg",
       "url": "https://play.google.com/store/apps/details?id=com.tapps.games.dig.dinoquest2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sparklingsociety.zoolifeanimalparkgame",
+      "title": "동물원 생활: 동물 공원 게임",
+      "developer": "Sparkling Society - Build Town City Building Games",
+      "icon": "https://play-lh.googleusercontent.com/ADub3qCiVz8-TJ0npuImJjz-IiDpxm2Gmd7X9vQ3iwp_oHaC84i3cpbW1R4A8uPHYfM",
+      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.zoolifeanimalparkgame&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3795,15 +3805,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.reliancegames.rschampions",
-      "title": "Real Steel Boxing Champions",
-      "developer": "Reliance Games",
-      "icon": "https://play-lh.googleusercontent.com/y_JIVdZBSwkhSBjEt_hccLBYd-XnN0oxge4JKtZL9kBbfTM_IdCSP6hAn2bYcva-Sg",
-      "url": "https://play.google.com/store/apps/details?id=com.reliancegames.rschampions&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
