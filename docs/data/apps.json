@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T23:47:50.090Z",
+  "updatedAt": "2026-04-07T00:06:39.093Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -777,6 +777,15 @@
       "isGame": true
     },
     {
+      "appId": "com.devsisters.gb",
+      "title": "쿠키런: 오븐브레이크",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/XUy99MQSg6fGI5YN1gqgciNiv3ZAPI5eGHtefptp4oNZOavBUdMnxUN3ddcT1FBkOmKEyNyob0pi-6u34RHezuE",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
       "appId": "com.sinyee.babybus.drinks.global",
       "title": "아기 팬더의 아이스크림 트럭",
       "developer": "BabyBus",
@@ -809,15 +818,6 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/s6jH1DlGNk5-8dNjLp0jd8rTFsGlau3IEiWTO-R4USOOn1gxWrtKWRwbH0IR8aeszCIbAPW4gBc_uwgZcTVXEg",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.recommendapp.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.gb",
-      "title": "쿠키런: 오븐브레이크",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/XUy99MQSg6fGI5YN1gqgciNiv3ZAPI5eGHtefptp4oNZOavBUdMnxUN3ddcT1FBkOmKEyNyob0pi-6u34RHezuE",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
