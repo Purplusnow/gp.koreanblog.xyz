@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T21:53:43.437Z",
+  "updatedAt": "2026-04-07T22:53:17.861Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -782,7 +782,8 @@
     "com.devsisters.cwc",
     "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children",
     "com.innogames.cozycoast",
-    "com.cyberjoy.soccer"
+    "com.cyberjoy.soccer",
+    "com.bigcool.puzzle.fruitgenies"
   ],
   "items": [
     {
@@ -872,6 +873,15 @@
       "developer": "CyberJoy Games",
       "icon": "https://play-lh.googleusercontent.com/61LUfvjtzSXqwbfwD5r6xhtGXvo2Za4i5jw_BztLrjcNXrbzgUDvzncS7d6Pm7LhaC-Q",
       "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.soccer&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.puzzle.fruitgenies",
+      "title": "과일 퍼즐 : 매치 3 퍼즐 게임",
+      "developer": "Bigcool Games",
+      "icon": "https://play-lh.googleusercontent.com/_ZvQ0OsTEQ4pxby2TRYW08ifcoZ1JMdpQxqZvCSlGYBd7nymsuwp0XET2ND9yIoGWIg",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.fruitgenies&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -3914,15 +3924,6 @@
       "developer": "Webelinx Games",
       "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
       "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.merge.game.foodstars",
-      "title": "푸드스타: 합쳐서 요리하기",
-      "developer": "Happibits Game",
-      "icon": "https://play-lh.googleusercontent.com/mBa3s3QhDC8deWTgp3H1gtII7L6lLzxnYAtfLl4OhWtuxl-sPqPjVpO_ggSdZgdOPUqyCNJXf9H44UX4T7vULg",
-      "url": "https://play.google.com/store/apps/details?id=com.merge.game.foodstars&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
