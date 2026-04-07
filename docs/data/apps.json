@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T20:59:56.940Z",
+  "updatedAt": "2026-04-07T21:53:43.437Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -780,7 +780,9 @@
     "com.g5e.mahjong.android",
     "com.happygames.mergehotel",
     "com.devsisters.cwc",
-    "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children"
+    "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children",
+    "com.innogames.cozycoast",
+    "com.cyberjoy.soccer"
   ],
   "items": [
     {
@@ -852,6 +854,24 @@
       "developer": "IDZ Digital Private Limited",
       "icon": "https://play-lh.googleusercontent.com/7cJNNPucfq6Aaw3DiIqRTBYqbclI7rES6QqeocI_7S6e-pf0p8xL2xug1KVpzpY8zYBC",
       "url": "https://play.google.com/store/apps/details?id=com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.innogames.cozycoast",
+      "title": "Cozy Coast: Merge Adventure",
+      "developer": "InnoGames GmbH",
+      "icon": "https://play-lh.googleusercontent.com/Xc7HZQePEZsMmmy7sZFKlLfi1e5jtFOdvn_JX74HdciPy-2JXFSPdNV-GbH9BxJZ-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.innogames.cozycoast&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.soccer",
+      "title": "Football Empire - Dream Begins",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/61LUfvjtzSXqwbfwD5r6xhtGXvo2Za4i5jw_BztLrjcNXrbzgUDvzncS7d6Pm7LhaC-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.soccer&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -3894,24 +3914,6 @@
       "developer": "Webelinx Games",
       "icon": "https://play-lh.googleusercontent.com/Bseof5N8twjx3gAws9v1cU7V2U3baf_vuG6v3WYkPWv8zx7SRFXw04cC2y1qfDus9OI",
       "url": "https://play.google.com/store/apps/details?id=com.webelinx.EscapeRoom.Free.Portrait.Game&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.byril.stickmanarcher",
-      "title": "Archers Online: PvP",
-      "developer": "Byril",
-      "icon": "https://play-lh.googleusercontent.com/oJffAr9SAuJuJESER5Lu3pllycWt60Kvx2y89O3lat7XPLCgrC1vdyjjrGToxCGnDwl6PahdUQB_Nkg4J16dBbk",
-      "url": "https://play.google.com/store/apps/details?id=com.byril.stickmanarcher&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.checkers",
-      "title": "Checkers Clash: Online Game",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/_2ZV4Ph5ubIWVpfqajNhDr6JvWd2705bbSY-zqtANY0qeBkzbNNHlKTZF_2uAU6GFYQ",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.checkers&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
