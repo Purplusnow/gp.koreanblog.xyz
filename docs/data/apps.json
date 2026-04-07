@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T09:17:14.569Z",
+  "updatedAt": "2026-04-07T11:10:26.253Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -770,7 +770,8 @@
     "com.sinyee.babybus.girlstown",
     "jp.co.imagineer.rilakkuma.farm",
     "com.edujoy.dentist",
-    "com.superbloomgames.atable"
+    "com.superbloomgames.atable",
+    "com.tapps.games.dig.dinoquest2"
   ],
   "items": [
     {
@@ -941,6 +942,15 @@
       "developer": "Superbloom",
       "icon": "https://play-lh.googleusercontent.com/XUEaRmJcqykvbRQlrkhloBwZFD8NYF6QfQHQokbDLw9KHlnMHQwfJnxDk7ZMuOUUxjSElrje3BppJHT97ISo",
       "url": "https://play.google.com/store/apps/details?id=com.superbloomgames.atable&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapps.games.dig.dinoquest2",
+      "title": "Dino Quest 2: Dinosaur Fossil",
+      "developer": "Tapps Games - PT",
+      "icon": "https://play-lh.googleusercontent.com/wDd_UFPHI1m8E1LFQYYbp8AjKPbq9V7VACSiSd-xdIgyH1yVlRnhwaUiI0RIVH6HFg",
+      "url": "https://play.google.com/store/apps/details?id=com.tapps.games.dig.dinoquest2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3785,15 +3795,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.rbx.battle.android",
-      "title": "배틀 아레나 — 아레나, RPG 전투. 캐릭터 개발",
-      "developer": "RED BRIX WALL",
-      "icon": "https://play-lh.googleusercontent.com/jSaQgJYz8qNJPFZ9Uuzv_-Zxf5WVAC8tlEAVSwKJtdANJyCdukB1odp4jEar7Hfg6NY",
-      "url": "https://play.google.com/store/apps/details?id=com.rbx.battle.android&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
