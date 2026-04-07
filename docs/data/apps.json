@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T07:46:41.649Z",
+  "updatedAt": "2026-04-07T09:17:14.569Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -768,7 +768,9 @@
     "com.crazy.cooking.diner.chef.restaurant.fever",
     "com.wonderlegend.cookingwonder.android",
     "com.sinyee.babybus.girlstown",
-    "jp.co.imagineer.rilakkuma.farm"
+    "jp.co.imagineer.rilakkuma.farm",
+    "com.edujoy.dentist",
+    "com.superbloomgames.atable"
   ],
   "items": [
     {
@@ -921,6 +923,24 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.edujoy.dentist",
+      "title": "Dentist games",
+      "developer": "AppQuiz",
+      "icon": "https://play-lh.googleusercontent.com/C8AUGTDZ3l_EmCLQG6Tvpwk9UwVBZ9Bjuh6QETz8A6oEJF0CaJBUHgJwQFZhNqNOAys9",
+      "url": "https://play.google.com/store/apps/details?id=com.edujoy.dentist&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.superbloomgames.atable",
+      "title": "베뉴: 집 꾸미기 & 인테리어 게임",
+      "developer": "Superbloom",
+      "icon": "https://play-lh.googleusercontent.com/XUEaRmJcqykvbRQlrkhloBwZFD8NYF6QfQHQokbDLw9KHlnMHQwfJnxDk7ZMuOUUxjSElrje3BppJHT97ISo",
+      "url": "https://play.google.com/store/apps/details?id=com.superbloomgames.atable&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3765,24 +3785,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.millionvictories.games.millionlords",
-      "title": "밀리언 로드: 월드 컨퀘스트",
-      "developer": "MILLION VICTORIES",
-      "icon": "https://play-lh.googleusercontent.com/gmUkdyFyn8Z0WJRbyD1v2WC8I6WD1OTOedF6BhZrdGftwLS8N-hyKGRhw0x7pxcOqY_XzAiW6ZaojQ2pgcwNhbg",
-      "url": "https://play.google.com/store/apps/details?id=com.millionvictories.games.millionlords&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.my.hc.rpg.kingdom.simulator",
-      "title": "Hustle Castle: 캐슬 건축! 중세 킹덤 게임",
-      "developer": "MY.GAMES B.V.",
-      "icon": "https://play-lh.googleusercontent.com/U8TvlVrmSrfs9rZi5G1EGrq2tcN8Cvj-VFPfbYTx0KqLCNct3SXc_-5A6jOEwm2v2_6EehwJdcxFcCyHBaDZQws",
-      "url": "https://play.google.com/store/apps/details?id=com.my.hc.rpg.kingdom.simulator&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
