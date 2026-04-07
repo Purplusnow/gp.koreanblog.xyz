@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T03:25:23.726Z",
+  "updatedAt": "2026-04-07T05:52:21.717Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -767,7 +767,8 @@
     "com.sinyee.babybus.townhospital",
     "com.crazy.cooking.diner.chef.restaurant.fever",
     "com.wonderlegend.cookingwonder.android",
-    "com.sinyee.babybus.girlstown"
+    "com.sinyee.babybus.girlstown",
+    "jp.co.imagineer.rilakkuma.farm"
   ],
   "items": [
     {
@@ -911,6 +912,15 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/ezzf5r8bxc5Ut-CepXPh_qpiRmmC75c_AC1JfR1NmvgPm1sASWhzq-ZrGpvN4vsj_M_HaUxbFMC0JEN1tJVPJPk",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.girlstown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
+      "appId": "jp.co.imagineer.rilakkuma.farm",
+      "title": "Rilakkuma Farm",
+      "developer": "Imagineer Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -3755,15 +3765,6 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/IZnONzR81P00Vdq8czGWAXDcrNLiOxNB0vCnRmSO5meXZqKHxOehAfblhKKCVQrd-Q",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.armorage&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.ludia.jw2",
-      "title": "Jurassic World Alive",
-      "developer": "Ludia Inc.",
-      "icon": "https://play-lh.googleusercontent.com/8zzrv0A1DGdwmmL6JqoXiRsDG1CgDj7y-R7FwtXQtRGcJc2dWofxBCjjy6LlviEUgco",
-      "url": "https://play.google.com/store/apps/details?id=com.ludia.jw2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
