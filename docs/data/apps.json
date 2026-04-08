@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T01:41:51.049Z",
+  "updatedAt": "2026-04-08T02:14:27.258Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -793,7 +793,10 @@
     "com.wildsky.wildarmydraft",
     "atlantis.invaders.subnautica.space.shooter",
     "com.plarium.raidlegends",
-    "com.newmoonproduction.bigfarmhomestead"
+    "com.newmoonproduction.bigfarmhomestead",
+    "com.candysmashmania.sweetcrush.free",
+    "color.match.line.connect.brain.puzzle",
+    "com.linkdesks.bubblegames.bubbleshooter"
   ],
   "items": [
     {
@@ -802,6 +805,15 @@
       "developer": "Playkot LTD",
       "icon": "https://play-lh.googleusercontent.com/mSLcl4tnQaW2fKB5eOwfh9w0ct_4dMk9Xy68fxAXj2J9iVx9lzt3B8L5a5M1ghMYKA",
       "url": "https://play.google.com/store/apps/details?id=com.playkot.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.cwc",
+      "title": "쿠키런: 마녀의 성 - 퍼즐 블라스트",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/PO-_evz8af0DtCGkVGL4Vx-VbjY61bRbzLaiJIGUJ3ORAFsCwpWikiHD2MYv_5fnfCg",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cwc&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -847,15 +859,6 @@
       "developer": "Game Veterans",
       "icon": "https://play-lh.googleusercontent.com/MK9vCkD6up3rCDywP7wW1EjVqxk3IzcOGbvwE8BYr0hdBVKYaKL0v7yarlrrH_NWXn-X",
       "url": "https://play.google.com/store/apps/details?id=com.happygames.mergehotel&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.cwc",
-      "title": "쿠키런: 마녀의 성 - 퍼즐 블라스트",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/PO-_evz8af0DtCGkVGL4Vx-VbjY61bRbzLaiJIGUJ3ORAFsCwpWikiHD2MYv_5fnfCg",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cwc&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -982,6 +985,33 @@
       "developer": "Goodgame Studios",
       "icon": "https://play-lh.googleusercontent.com/AXGE4qVf9zz8MtCrRRnnNqCeuQOLOm0tvUZ1w9iTOdY_xc4FL92x4qfGxgvAS-hhJGI",
       "url": "https://play.google.com/store/apps/details?id=com.newmoonproduction.bigfarmhomestead&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.candysmashmania.sweetcrush.free",
+      "title": "Candy Smash Mania",
+      "developer": "gameone",
+      "icon": "https://play-lh.googleusercontent.com/anANObDQTsa6123SHt4Os8y_CisHS53vZvp0FuYzGDX1-TuFClFpfVBuLkZxKVDm6QjLG5gECcaZoOGB60SAbVU",
+      "url": "https://play.google.com/store/apps/details?id=com.candysmashmania.sweetcrush.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "color.match.line.connect.brain.puzzle",
+      "title": "블라썸 매치: Blossom Sort®, 꽃 타일 퍼즐",
+      "developer": "Gloryway Puzzle",
+      "icon": "https://play-lh.googleusercontent.com/QhFFuPNHPZG3gbsdBK09aK649d0m9ysFqMNdQ-yn6S4nCduB3MIw8N3mgZnWrcCKf2or",
+      "url": "https://play.google.com/store/apps/details?id=color.match.line.connect.brain.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.linkdesks.bubblegames.bubbleshooter",
+      "title": "버블 슈터 아이스 - 버블 팝",
+      "developer": "PUZZLEJOY",
+      "icon": "https://play-lh.googleusercontent.com/bo0f64TErpifdHh4mMkMp96abZoMYgmkCCDRC-M-ze23Z8dniB7kGPE8ivRmk0VwCvo",
+      "url": "https://play.google.com/store/apps/details?id=com.linkdesks.bubblegames.bubbleshooter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4033,33 +4063,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.tiltingpoint.spongebob",
-      "title": "네모바지 스폰지밥 : 집게리아 요리 콘테스트",
-      "developer": "Tilting Point",
-      "icon": "https://play-lh.googleusercontent.com/FjEfVpCC4kxmfYJvIrzm8ikRJKWcitTGfKssiWEJthJ1ZHCpUhc312koPMge0Blud5Y",
-      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.spongebob&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.zitga.empire.warriors.td",
-      "title": "Empire Warriors: 타워 디펜스",
-      "developer": "Putaleng",
-      "icon": "https://play-lh.googleusercontent.com/WwpeyOpHD8utmDfEXRmhO1bQ69EAqWtNEpChngCkXZoEqff_DKGeGLRJAWkv2r7MrHQ",
-      "url": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.mytalkingtomfriends",
-      "title": "마이토킹톰 프렌즈",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/WY69uGwaQPUx5vS9bxF3sm4mc9N1ZzvVHVqLrZOycExHb6m8A2v5hGoroTRjih1a_d4Y",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
