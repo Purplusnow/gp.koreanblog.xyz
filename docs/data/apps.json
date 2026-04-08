@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T03:08:18.043Z",
+  "updatedAt": "2026-04-08T03:27:44.362Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -801,7 +801,8 @@
     "com.abi.skewer.sort",
     "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
     "com.visionstudio.tilevacation",
-    "com.exoticmatch.game"
+    "com.exoticmatch.game",
+    "com.fotoable.mergetown"
   ],
   "items": [
     {
@@ -1062,6 +1063,15 @@
       "developer": "Moon Active",
       "icon": "https://play-lh.googleusercontent.com/3egWC9bantIWkHK0b75eNDz0RTH4uUyqwf3giquyQXPVgVeCB0vn_m8N4SAUEQVGAxo",
       "url": "https://play.google.com/store/apps/details?id=com.exoticmatch.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.fotoable.mergetown",
+      "title": "머지스토리 (Mergical) -펀 매치 아일랜드 게임",
+      "developer": "BETTA GAMES",
+      "icon": "https://play-lh.googleusercontent.com/1XWbvsHs8eWYhdRREqw85dubc72fdWPbBcqZMm0wp-PhWIWnjUt8emlR6qU81jqU5WtM7HCmoMwvnQst3xPTO0s",
+      "url": "https://play.google.com/store/apps/details?id=com.fotoable.mergetown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4113,15 +4123,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.marketIII",
-      "title": "Baby Panda's Town: 홈",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/M_eFnLXD0YPasJ4vbLRERD1QS3ebpoKeVvT6d_R2bskzCZNlCdsks-flbZ33H3c4lg",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketIII&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
