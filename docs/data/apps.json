@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T19:38:16.342Z",
+  "updatedAt": "2026-04-08T20:57:28.405Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -815,7 +815,10 @@
     "com.superplaystudios.dicedreams",
     "com.ldw.vv6",
     "com.gamegos.mobile.cafeland",
-    "fashion.dress.up.game.stylist.designer"
+    "fashion.dress.up.game.stylist.designer",
+    "com.NextFloor.DragonFlightKakao",
+    "com.libii.frozenworld",
+    "com.playrion.airportmanager"
   ],
   "items": [
     {
@@ -833,6 +836,33 @@
       "developer": "WizSprint",
       "icon": "https://play-lh.googleusercontent.com/G_WiBgmP_mUioW6molM8J3zHmBI2Ly2Uns7HAUbE70Dt8SNUwv_m841RT5FvR9qrLA",
       "url": "https://play.google.com/store/apps/details?id=fashion.dress.up.game.stylist.designer&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.NextFloor.DragonFlightKakao",
+      "title": "드래곤 플라이트",
+      "developer": "LINE Games",
+      "icon": "https://play-lh.googleusercontent.com/vRyzya1YBzM2TUoi5B3ssV69Vk6KZZ2KNov5k0bzRQPdwXY6oQyMyNXVyYyLiLL_Kz3c87iXtycAPgTbhTW0ew",
+      "url": "https://play.google.com/store/apps/details?id=com.NextFloor.DragonFlightKakao&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.libii.frozenworld",
+      "title": "Paper Princess's Fantasy Life",
+      "developer": "Libii HK Limited",
+      "icon": "https://play-lh.googleusercontent.com/TO7J7N9ppHpXyUkQaLtBFSnr8Y62Mm0PKYMDoiDtsg6tNkMLXx6BoTauFK8NUd6jnks",
+      "url": "https://play.google.com/store/apps/details?id=com.libii.frozenworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.playrion.airportmanager",
+      "title": "Airport Simulator: Plane City",
+      "developer": "Playrion",
+      "icon": "https://play-lh.googleusercontent.com/qMUliIp0psJRpzVmKcyifkDW3qEKRxIGhA-AQlj5ucqVALKOKaMIsWimEo0AAsDN_g",
+      "url": "https://play.google.com/store/apps/details?id=com.playrion.airportmanager&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4253,33 +4283,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.taxi",
-      "title": "아기 팬더의 스쿨버스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/QA6Q40ZseGCrM4krzYJOQEln-VXKgnZ__ztqAh6HaHIdouz_9EoyVQyvhwt9x2SL4wo",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.eastsidegames.lowerdecks",
-      "title": "Star Trek Lower Decks Game",
-      "developer": "East Side Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/ERiOsIaglmR7ytEV5dEudnmm8QpzGWi7XYIQZumaGOzN9dVs3BkkkbentlQwNVKEhEA",
-      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.lowerdecks&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftPOHM",
-      "title": "My Little Pony: 매직 프린세스",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/A5lKvTMk9fzXCVyH_ypXytF9YFg_IiEJ-BbL3JVO0NU00DFFD3nmpNFvTT5e_h2-Hiw",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftPOHM&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
