@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T02:14:27.258Z",
+  "updatedAt": "2026-04-08T02:50:05.393Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -796,7 +796,12 @@
     "com.newmoonproduction.bigfarmhomestead",
     "com.candysmashmania.sweetcrush.free",
     "color.match.line.connect.brain.puzzle",
-    "com.linkdesks.bubblegames.bubbleshooter"
+    "com.linkdesks.bubblegames.bubbleshooter",
+    "com.tile.match.blockpuzzle",
+    "com.abi.skewer.sort",
+    "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
+    "com.visionstudio.tilevacation",
+    "com.exoticmatch.game"
   ],
   "items": [
     {
@@ -814,6 +819,15 @@
       "developer": "Devsisters Corporation",
       "icon": "https://play-lh.googleusercontent.com/PO-_evz8af0DtCGkVGL4Vx-VbjY61bRbzLaiJIGUJ3ORAFsCwpWikiHD2MYv_5fnfCg",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cwc&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.xq.archeroii",
+      "title": "궁수의 전설2",
+      "developer": "Habby",
+      "icon": "https://play-lh.googleusercontent.com/qdQsr7FBr46MwT6lVDMOxZspTxFMItQyJUxtVKIT7YPY9iQNhmIIrWXV9qlymhfyY51TXC1lsANJf0CmSyWF",
+      "url": "https://play.google.com/store/apps/details?id=com.xq.archeroii&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -895,15 +909,6 @@
       "developer": "Bigcool Games",
       "icon": "https://play-lh.googleusercontent.com/_ZvQ0OsTEQ4pxby2TRYW08ifcoZ1JMdpQxqZvCSlGYBd7nymsuwp0XET2ND9yIoGWIg",
       "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.fruitgenies&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.xq.archeroii",
-      "title": "궁수의 전설2",
-      "developer": "Habby",
-      "icon": "https://play-lh.googleusercontent.com/qdQsr7FBr46MwT6lVDMOxZspTxFMItQyJUxtVKIT7YPY9iQNhmIIrWXV9qlymhfyY51TXC1lsANJf0CmSyWF",
-      "url": "https://play.google.com/store/apps/details?id=com.xq.archeroii&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -1012,6 +1017,51 @@
       "developer": "PUZZLEJOY",
       "icon": "https://play-lh.googleusercontent.com/bo0f64TErpifdHh4mMkMp96abZoMYgmkCCDRC-M-ze23Z8dniB7kGPE8ivRmk0VwCvo",
       "url": "https://play.google.com/store/apps/details?id=com.linkdesks.bubblegames.bubbleshooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.tile.match.blockpuzzle",
+      "title": "Tile Family® - 퍼즐 게임",
+      "developer": "Playflux",
+      "icon": "https://play-lh.googleusercontent.com/OkULCwX5BY0_u2AzIriMhR263bIgNXDyvfdOG-Qz1m2rFHvmmQW1IAJKursJgStYpJk",
+      "url": "https://play.google.com/store/apps/details?id=com.tile.match.blockpuzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.abi.skewer.sort",
+      "title": "Foodie Sizzle: 푸디 시즐",
+      "developer": "ABI GAMES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/qhBLI38PNQ7Jpv18mludll5bjepLoP7s2gKwpCEVhTY-SGvK6BW1mthbIEL44oqM6_c",
+      "url": "https://play.google.com/store/apps/details?id=com.abi.skewer.sort&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
+      "title": "타일 매치 - 트리플 퍼즐",
+      "developer": "PlaySimple Games",
+      "icon": "https://play-lh.googleusercontent.com/g1zZS63i7Y9_wi-wINFWhTX6wvCWotL5OZSZN4bhhvSfgUI0lakdmQVYegHNg4GoAA",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.visionstudio.tilevacation",
+      "title": "Tile Vacation - Triple Match",
+      "developer": "VisionStudio(HK)",
+      "icon": "https://play-lh.googleusercontent.com/s8kKJIUT7IqtbPDqjaVIGhpzEEg7uPMBeq2SFZsG07uH25_9Th3B7EhKwNz7uv5-nA",
+      "url": "https://play.google.com/store/apps/details?id=com.visionstudio.tilevacation&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.exoticmatch.game",
+      "title": "Zen Match",
+      "developer": "Moon Active",
+      "icon": "https://play-lh.googleusercontent.com/3egWC9bantIWkHK0b75eNDz0RTH4uUyqwf3giquyQXPVgVeCB0vn_m8N4SAUEQVGAxo",
+      "url": "https://play.google.com/store/apps/details?id=com.exoticmatch.game&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4063,51 +4113,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.crazylabs.fashion.squad",
-      "title": "Glow Fashion Idol",
-      "developer": "CrazyLabs LTD",
-      "icon": "https://play-lh.googleusercontent.com/MlE3OAudo_engERQkOQYeeRoaGJ9Y52Lfbj-UGze0nCQ-ctEU6lnUlBfRXI5EWQG7paU",
-      "url": "https://play.google.com/store/apps/details?id=com.crazylabs.fashion.squad&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.duige.hzw.multilingual",
-      "title": "봉황비전",
-      "developer": "Modo Global",
-      "icon": "https://play-lh.googleusercontent.com/TrVEF0C2jWnsV90qp_7SkZ46b8991FGTDkQwSLWDn0G5CPFvME3_qeRxLzx1r60-U7EDsWHs_9vhGuAC33kSLw",
-      "url": "https://play.google.com/store/apps/details?id=com.duige.hzw.multilingual&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.evrika.miner.camp",
-      "title": "Orecraft: Orc Mining Camp",
-      "developer": "Evrika Games LLC",
-      "icon": "https://play-lh.googleusercontent.com/D6ioAbMf5lcH7MuK5PPsja9-EV9rRbdMaY5z83aaWfKob-XdfKfDbmlc2Zh1NoSDOgw",
-      "url": "https://play.google.com/store/apps/details?id=com.evrika.miner.camp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.mytona.cookingdiary.android",
-      "title": "쿠킹 다이어리: 요리 게임",
-      "developer": "Mytona",
-      "icon": "https://play-lh.googleusercontent.com/Ah9MZ1szmG-iahoBMWGD_tRIQabAZEHQ69frire64GcWPLn4uJuOcB4Q50WDSTSYp3sL8KIzp72GXOJ23-62Wg",
-      "url": "https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.market",
-      "title": "Baby Panda's Town: 나의 세상",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/sDg8LOtJ7DC1dTfYhgfxwIsr6VM8qRIS1kVvLIxt2iHYswUOmHRQXVDjzrmXQxnXJOjF",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.market&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
