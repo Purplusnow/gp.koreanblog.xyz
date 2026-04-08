@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T02:50:05.393Z",
+  "updatedAt": "2026-04-08T03:08:18.043Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1300,6 +1300,15 @@
       "isGame": true
     },
     {
+      "appId": "ugo.com.play.free.farmington",
+      "title": "Farmington – 농장 게임",
+      "developer": "UGO Games",
+      "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
+      "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-06",
+      "isGame": true
+    },
+    {
       "appId": "com.mergegames.taylorsecret",
       "title": "타일러의 비밀: 머지 스토리",
       "developer": "Merge story",
@@ -1395,15 +1404,6 @@
       "developer": "Carry1st",
       "icon": "https://play-lh.googleusercontent.com/8k3gfmQ14hw2GGPLx67bSC2mrxLMUYBbZLdxjgppYl34mVH5COlAheOJv27mNZP_nl8",
       "url": "https://play.google.com/store/apps/details?id=com.mergedomhomedesign.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "ugo.com.play.free.farmington",
-      "title": "Farmington – 농장 게임",
-      "developer": "UGO Games",
-      "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
-      "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
