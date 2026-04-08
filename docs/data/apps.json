@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T09:16:08.797Z",
+  "updatedAt": "2026-04-08T11:11:35.965Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -809,7 +809,8 @@
     "com.iz.cooking.kitchen.games.girls.kids.food",
     "com.me2zen.tripeaks.v4.and",
     "com.skypeople.finalbladegb",
-    "com.oxiwyle.modernage2"
+    "com.oxiwyle.modernage2",
+    "com.deuscraft.TurboTeam"
   ],
   "items": [
     {
@@ -1142,6 +1143,15 @@
       "developer": "Oxiwyle Inc",
       "icon": "https://play-lh.googleusercontent.com/ragmbrEcludGKFIQpeAAxx6Zdgy4yxdvTBhBXecLNB5qLZHecrwqhaoMKIoeIG78e98",
       "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.deuscraft.TurboTeam",
+      "title": "그랜드 호텔 마니아: 호텔 게임",
+      "developer": "DeusCraft",
+      "icon": "https://play-lh.googleusercontent.com/rJRWyLUC5UCWZxSyq0lzaXV5XEUf_7gjrNWFkP07rGE1js1KlhX1YL52qPOhSTo_qK0OQ7z-FjxMJkGE348EiDc",
+      "url": "https://play.google.com/store/apps/details?id=com.deuscraft.TurboTeam&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4193,15 +4203,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.herocraft.game.drag.auto.street.racing.heat",
-      "title": "SRGT－Racing & Car Driving Game",
-      "developer": "HeroCraft Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/GP0uBbuthPxxC6kdByXvCXfM6INKbAXGc2rFaWLkr0yyX4f3iDFtmCoBPmmpmBCU2YA",
-      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.drag.auto.street.racing.heat&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
