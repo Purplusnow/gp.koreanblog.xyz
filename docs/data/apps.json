@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:36:25.861Z",
+  "updatedAt": "2026-04-08T14:44:32.195Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -2410,6 +2410,15 @@
       "isGame": true
     },
     {
+      "appId": "com.riotgames.league.teamfighttactics",
+      "title": "전략적 팀 전투: 리그 오브 레전드 전략 게임",
+      "developer": "Riot Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/D5W2P9ePaNULFAJr6KIOtWc2F_16ZkT0bFLM_r-EzQwTNwIaN8yI2nQ7eHgjEEFgYxQ",
+      "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
       "developer": "Miniclip.com",
@@ -2550,15 +2559,6 @@
       "developer": "The Pokémon Company",
       "icon": "https://play-lh.googleusercontent.com/_GcGarBEWaLgioZ5WtLSlJk2RF2YfN2b4rr9ToW6b_7X2Mny2zB3o7sOnA4MDDV6wuVya8MaMW8zdO0oYeHCKw",
       "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.riotgames.league.teamfighttactics",
-      "title": "전략적 팀 전투: 리그 오브 레전드 전략 게임",
-      "developer": "Riot Games, Inc",
-      "icon": "https://play-lh.googleusercontent.com/D5W2P9ePaNULFAJr6KIOtWc2F_16ZkT0bFLM_r-EzQwTNwIaN8yI2nQ7eHgjEEFgYxQ",
-      "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
