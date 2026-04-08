@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T11:11:35.965Z",
+  "updatedAt": "2026-04-08T13:58:09.989Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -810,7 +810,9 @@
     "com.me2zen.tripeaks.v4.and",
     "com.skypeople.finalbladegb",
     "com.oxiwyle.modernage2",
-    "com.deuscraft.TurboTeam"
+    "com.deuscraft.TurboTeam",
+    "com.netmarble.tskgb",
+    "com.superplaystudios.dicedreams"
   ],
   "items": [
     {
@@ -1152,6 +1154,24 @@
       "developer": "DeusCraft",
       "icon": "https://play-lh.googleusercontent.com/rJRWyLUC5UCWZxSyq0lzaXV5XEUf_7gjrNWFkP07rGE1js1KlhX1YL52qPOhSTo_qK0OQ7z-FjxMJkGE348EiDc",
       "url": "https://play.google.com/store/apps/details?id=com.deuscraft.TurboTeam&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.tskgb",
+      "title": "세븐나이츠 리버스",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.superplaystudios.dicedreams",
+      "title": "Dice Dreams™️",
+      "developer": "SuperPlay.",
+      "icon": "https://play-lh.googleusercontent.com/5MLgC2WWXcq1Pol8qRAXOKzIJY9qySkjF43DnWyd5F9fPj_heinHeIxvgIpPQwcaQ1w-mUzUmoP1Xeslf29irg",
+      "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.dicedreams&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4203,24 +4223,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.puresoldier",
-      "title": "War Sniper: FPS 슈팅 게임",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/auUty1c-CMZKVK1UzwZv8K3zjnCFtkQgl818ZBShLK85zPHACgRoevEi2Djj8xrqJVc",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.puresoldier&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.jarvigames.viceonline",
-      "title": "Flex City RP: 온라인 오픈 월드",
-      "developer": "Jarvi Games Ltd",
-      "icon": "https://play-lh.googleusercontent.com/DJ6QPP2ghfpdSwBUL7DlVr1GFjK8xBIqz-he6Guui1eSlKIVzl8WPJcoTRbh36ob9Kw",
-      "url": "https://play.google.com/store/apps/details?id=com.jarvigames.viceonline&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
