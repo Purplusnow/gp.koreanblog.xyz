@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T07:50:09.291Z",
+  "updatedAt": "2026-04-08T09:16:08.797Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -805,7 +805,11 @@
     "com.fotoable.mergetown",
     "com.matchfamliy3d.tirple.match.gp",
     "com.sgn.pandapop.gp",
-    "com.tilegarden.match3"
+    "com.tilegarden.match3",
+    "com.iz.cooking.kitchen.games.girls.kids.food",
+    "com.me2zen.tripeaks.v4.and",
+    "com.skypeople.finalbladegb",
+    "com.oxiwyle.modernage2"
   ],
   "items": [
     {
@@ -1102,6 +1106,42 @@
       "developer": "Lion Studios",
       "icon": "https://play-lh.googleusercontent.com/3e4BqJbTsdyO2gsbppZvPpNDnHwKS3lOViVvQ3d5mn_C-ZtybS-mAbMKOTXwAyE4cZdZ",
       "url": "https://play.google.com/store/apps/details?id=com.tilegarden.match3&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.cooking.kitchen.games.girls.kids.food",
+      "title": ";아이들을 위한 요리 게임",
+      "developer": "Timpy Games For Kids, Toddlers & Baby",
+      "icon": "https://play-lh.googleusercontent.com/A_n0HdqBmsLEdGCVIEdGE1HGMEP71tUeyEWxcUkAUWae8qg6_Q0DyBHqzWFgwn3f5CI",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.cooking.kitchen.games.girls.kids.food&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.me2zen.tripeaks.v4.and",
+      "title": "솔리테르 트라이픽스 팜 어드벤처",
+      "developer": "Ghost Studio Company",
+      "icon": "https://play-lh.googleusercontent.com/AvcN3cwecmeH955n4watOl6QKEV9__VCP4jQLAkS4h7gg4MU-qVxjk7O18NDVYEx9LFM7UQdsHH-fefrna892Q",
+      "url": "https://play.google.com/store/apps/details?id=com.me2zen.tripeaks.v4.and&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.skypeople.finalbladegb",
+      "title": "파이널 블레이드 : 기억을 깨우다",
+      "developer": "(주) 넷플레버",
+      "icon": "https://play-lh.googleusercontent.com/vKu1NXS-mWEuQ7AFQ5FbXvq9x5-9VGdJ7dXQGHX4xYxMmXMkpdPrtaymj25lMRkbSivt1TqzJEO_rMWPg7j6lg",
+      "url": "https://play.google.com/store/apps/details?id=com.skypeople.finalbladegb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.oxiwyle.modernage2",
+      "title": "모던 에이지 2",
+      "developer": "Oxiwyle Inc",
+      "icon": "https://play-lh.googleusercontent.com/ragmbrEcludGKFIQpeAAxx6Zdgy4yxdvTBhBXecLNB5qLZHecrwqhaoMKIoeIG78e98",
+      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4153,42 +4193,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.kakaogames.odin",
-      "title": "오딘: 발할라 라이징",
-      "developer": "Kakao Games Corp.",
-      "icon": "https://play-lh.googleusercontent.com/Vp2SoryMyx4j8nscYRusCtksEuNWcIwbBkBwzZ8ObajeKnzknn25rj436TVAiQ373ZBE",
-      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.crypt.gram.puzz",
-      "title": "Cryptogram: 로직단어 게임!",
-      "developer": "Gismart",
-      "icon": "https://play-lh.googleusercontent.com/l8bbDAllrsTmKIxnT3NClL710FhbfSp4MuBtB7wtYGtu49ZCpEDWjU9uneNy86-9sQPY",
-      "url": "https://play.google.com/store/apps/details?id=com.crypt.gram.puzz&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.imo.normal.freefull.google.global.android.common",
-      "title": "아이모: The World of Magic",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/PzKwygP2WjYoxNPuIUPqrPp_8VDZAYa7FDw5clIjl_VAE5xV5O-kR5Cn6h8Votukn5sQCHTT8-cxeHeIi4gD",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.imo.normal.freefull.google.global.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.geewa.smashingfour",
-      "title": "Smashing Four: PvP Hero bump",
-      "developer": "By Aliens L.L.C-F.Z",
-      "icon": "https://play-lh.googleusercontent.com/_eyErMN_7avszAgfX6UIL8yv8IEADE2SHhm_4FUuEsyhZZYbJsPDyqv-dJVLiYvm26IF",
-      "url": "https://play.google.com/store/apps/details?id=com.geewa.smashingfour&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
