@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T03:27:44.362Z",
+  "updatedAt": "2026-04-08T05:53:31.586Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -802,7 +802,10 @@
     "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
     "com.visionstudio.tilevacation",
     "com.exoticmatch.game",
-    "com.fotoable.mergetown"
+    "com.fotoable.mergetown",
+    "com.matchfamliy3d.tirple.match.gp",
+    "com.sgn.pandapop.gp",
+    "com.tilegarden.match3"
   ],
   "items": [
     {
@@ -1072,6 +1075,33 @@
       "developer": "BETTA GAMES",
       "icon": "https://play-lh.googleusercontent.com/1XWbvsHs8eWYhdRREqw85dubc72fdWPbBcqZMm0wp-PhWIWnjUt8emlR6qU81jqU5WtM7HCmoMwvnQst3xPTO0s",
       "url": "https://play.google.com/store/apps/details?id=com.fotoable.mergetown&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.matchfamliy3d.tirple.match.gp",
+      "title": "3D 매치 마스터",
+      "developer": "PuzzleLoft",
+      "icon": "https://play-lh.googleusercontent.com/lF-qTAVpuRu3dvaFG3CVbC5UA_kmztHpkfPLYb_IAXIhVjHIV5SYQdaRHrnO5S05",
+      "url": "https://play.google.com/store/apps/details?id=com.matchfamliy3d.tirple.match.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.sgn.pandapop.gp",
+      "title": "Panda Pop- 판다 팝",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/zFJ5I5ux1MhvpNRZ99oSgkvB5E3V84h5sQHIJnwJDw1hr0-gmN6dPLXlXEsMxaal0Lg",
+      "url": "https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.tilegarden.match3",
+      "title": "Tile Garden: 3매치 퍼즐",
+      "developer": "Lion Studios",
+      "icon": "https://play-lh.googleusercontent.com/3e4BqJbTsdyO2gsbppZvPpNDnHwKS3lOViVvQ3d5mn_C-ZtybS-mAbMKOTXwAyE4cZdZ",
+      "url": "https://play.google.com/store/apps/details?id=com.tilegarden.match3&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
@@ -4123,33 +4153,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapps.virtual.pet.games.myboo2",
-      "title": "My Boo 2: My Virtual Pet Game",
-      "developer": "Tapps Games - PT",
-      "icon": "https://play-lh.googleusercontent.com/R8PzwNax24z3oAzrl-Z0I4NJqrolusZ4qT_nsE2x3H7-KHM9bP3_05T1VrQYgw2cE8wn",
-      "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.games.myboo2&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.luckyskeletonstudios.idlebanktycoon",
-      "title": "유휴 은행 타이쿤 (Idle Bank Tycoon)",
-      "developer": "Kolibri Games",
-      "icon": "https://play-lh.googleusercontent.com/UFMaJVqzvSsS9cQVvVpRfz2kRSbj4cKTEUiNqf9G7jvWRavBQxUv6bbWPq1P6nactOk",
-      "url": "https://play.google.com/store/apps/details?id=com.luckyskeletonstudios.idlebanktycoon&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.mytalkingtomfriends2",
-      "title": "마이토킹톰 프렌즈 2",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/A7P5WxCz-S5Qi-81l7FbKsl5gomFRBWhh0TY_eIseZOVPT3mliinEFHww5mPFvJvkgI",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
