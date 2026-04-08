@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:44:32.195Z",
+  "updatedAt": "2026-04-08T14:53:01.620Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -2419,6 +2419,15 @@
       "isGame": true
     },
     {
+      "appId": "com.HoYoverse.hkrpgoversea",
+      "title": "붕괴: 스타레일",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
       "developer": "Miniclip.com",
@@ -2586,15 +2595,6 @@
       "developer": "Magmatic Games LTD",
       "icon": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
       "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.HoYoverse.hkrpgoversea",
-      "title": "붕괴: 스타레일",
-      "developer": "COGNOSPHERE PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
