@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:53:01.620Z",
+  "updatedAt": "2026-04-08T15:10:35.220Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -2428,6 +2428,15 @@
       "isGame": true
     },
     {
+      "appId": "com.sundaytoz.kakao.anipang4",
+      "title": "애니팡4: 매치3 퍼즐 게임",
+      "developer": "Wemade Play Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
+      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-03",
+      "isGame": true
+    },
+    {
       "appId": "com.cherrypopgames.snookerblitz",
       "title": "Snooker Blitz",
       "developer": "Miniclip.com",
@@ -2577,15 +2586,6 @@
       "developer": "Microfun Limited",
       "icon": "https://play-lh.googleusercontent.com/93kcTe6blELo16KuK-U7bK3hDpbR8MD8zet6YyFMrLxZMZWwyrYADZo49JvqRghHMdWbM9hToxFax4TNeu7T",
       "url": "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.sundaytoz.kakao.anipang4",
-      "title": "애니팡4: 매치3 퍼즐 게임",
-      "developer": "Wemade Play Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
-      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
