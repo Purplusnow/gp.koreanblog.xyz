@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T23:59:13.500Z",
+  "updatedAt": "2026-04-08T01:41:51.049Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -797,6 +797,15 @@
   ],
   "items": [
     {
+      "appId": "com.playkot.adventure",
+      "title": "Spring Valley: 농장 게임",
+      "developer": "Playkot LTD",
+      "icon": "https://play-lh.googleusercontent.com/mSLcl4tnQaW2fKB5eOwfh9w0ct_4dMk9Xy68fxAXj2J9iVx9lzt3B8L5a5M1ghMYKA",
+      "url": "https://play.google.com/store/apps/details?id=com.playkot.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
       "appId": "com.mergegame.merge",
       "title": "Merge Inn - 카페 머지 게임",
       "developer": "Original Games Pte. Ltd.",
@@ -811,15 +820,6 @@
       "developer": "East Side Games Studio",
       "icon": "https://play-lh.googleusercontent.com/bkagxTYRJ0XowNr9s-6_7GmvqceUOZKOPE3whOwTZT8giYPL32wG64wO54Hi5G3ITQ",
       "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.theofficeswm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.playkot.adventure",
-      "title": "Spring Valley: 농장 게임",
-      "developer": "Playkot LTD",
-      "icon": "https://play-lh.googleusercontent.com/mSLcl4tnQaW2fKB5eOwfh9w0ct_4dMk9Xy68fxAXj2J9iVx9lzt3B8L5a5M1ghMYKA",
-      "url": "https://play.google.com/store/apps/details?id=com.playkot.adventure&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
