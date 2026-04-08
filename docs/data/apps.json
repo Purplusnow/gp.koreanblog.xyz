@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T15:10:35.220Z",
+  "updatedAt": "2026-04-08T15:23:26.836Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -813,9 +813,29 @@
     "com.deuscraft.TurboTeam",
     "com.netmarble.tskgb",
     "com.superplaystudios.dicedreams",
-    "com.ldw.vv6"
+    "com.ldw.vv6",
+    "com.gamegos.mobile.cafeland",
+    "fashion.dress.up.game.stylist.designer"
   ],
   "items": [
+    {
+      "appId": "com.gamegos.mobile.cafeland",
+      "title": "Cafeland - 레스토랑 게임",
+      "developer": "GAMEGOS",
+      "icon": "https://play-lh.googleusercontent.com/S3EsxFH7A5iV9rt8oxiYNhYpklUjnyDKk7rnulMP9eYJrB3lB0tgf0kOKxAQplN5tKgLeXv7Y0qcPUbcsupDOg",
+      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.cafeland&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "fashion.dress.up.game.stylist.designer",
+      "title": "패션 테일러: 옷입히기 패션, 디자인 게임",
+      "developer": "WizSprint",
+      "icon": "https://play-lh.googleusercontent.com/G_WiBgmP_mUioW6molM8J3zHmBI2Ly2Uns7HAUbE70Dt8SNUwv_m841RT5FvR9qrLA",
+      "url": "https://play.google.com/store/apps/details?id=fashion.dress.up.game.stylist.designer&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
     {
       "appId": "com.playkot.adventure",
       "title": "Spring Valley: 농장 게임",
@@ -4233,24 +4253,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.dopuz.panda.saga",
-      "title": "Bubble Shooter: Bubble Pop",
-      "developer": "HDuo Fun Games",
-      "icon": "https://play-lh.googleusercontent.com/BC2GpSm_Xq_xygyG1Sme5sz8M4tcIuZYVnh3fz7hhcLiDNffzscus4RdXcnWHvsPVCgE",
-      "url": "https://play.google.com/store/apps/details?id=com.dopuz.panda.saga&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.rhythmdance.taptile.dancingcats",
-      "title": "Dancing Cats: 고양이 리듬 게임",
-      "developer": "Cobby Labs",
-      "icon": "https://play-lh.googleusercontent.com/VdwSN4bgijc28wQpTPwOd7MXn7kQuNfdrH6YpQqttMfK9_bgH_I2TQ9K0U_4wGjrQ58",
-      "url": "https://play.google.com/store/apps/details?id=com.rhythmdance.taptile.dancingcats&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
