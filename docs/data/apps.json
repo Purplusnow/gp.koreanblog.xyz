@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T23:50:08.317Z",
+  "updatedAt": "2026-04-09T00:11:41.588Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -822,20 +822,20 @@
   ],
   "items": [
     {
-      "appId": "com.gamegos.mobile.cafeland",
-      "title": "Cafeland - 레스토랑 게임",
-      "developer": "GAMEGOS",
-      "icon": "https://play-lh.googleusercontent.com/S3EsxFH7A5iV9rt8oxiYNhYpklUjnyDKk7rnulMP9eYJrB3lB0tgf0kOKxAQplN5tKgLeXv7Y0qcPUbcsupDOg",
-      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.cafeland&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
       "appId": "fashion.dress.up.game.stylist.designer",
       "title": "패션 테일러: 옷입히기 패션, 디자인 게임",
       "developer": "WizSprint",
       "icon": "https://play-lh.googleusercontent.com/G_WiBgmP_mUioW6molM8J3zHmBI2Ly2Uns7HAUbE70Dt8SNUwv_m841RT5FvR9qrLA",
       "url": "https://play.google.com/store/apps/details?id=fashion.dress.up.game.stylist.designer&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamegos.mobile.cafeland",
+      "title": "Cafeland - 레스토랑 게임",
+      "developer": "GAMEGOS",
+      "icon": "https://play-lh.googleusercontent.com/S3EsxFH7A5iV9rt8oxiYNhYpklUjnyDKk7rnulMP9eYJrB3lB0tgf0kOKxAQplN5tKgLeXv7Y0qcPUbcsupDOg",
+      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.cafeland&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
