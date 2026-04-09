@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T14:20:08.229Z",
+  "updatedAt": "2026-04-09T14:30:03.357Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -825,7 +825,8 @@
     "com.lockwoodpublishing.avakinlife",
     "com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games",
     "com.iz.my.tizi.town.grandparents.home.family.house",
-    "com.ironhidegames.android.kingdomrushorigins"
+    "com.ironhidegames.android.kingdomrushorigins",
+    "com.dramaton.dolls"
   ],
   "items": [
     {
@@ -865,6 +866,15 @@
       "isGame": true
     },
     {
+      "appId": "com.topwar.gp",
+      "title": "Top War: Battle Game",
+      "developer": "RiverGame",
+      "icon": "https://play-lh.googleusercontent.com/fOjnoESqo-wJBALK_Kv3c8ly6p2Ta5ijmEaB8DvLZuXNwiJ2U2uBEJ3bcoYKA9IRrvAj",
+      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
       "appId": "com.libii.frozenworld",
       "title": "Paper Princess's Fantasy Life",
       "developer": "Libii HK Limited",
@@ -879,15 +889,6 @@
       "developer": "Playrion",
       "icon": "https://play-lh.googleusercontent.com/qMUliIp0psJRpzVmKcyifkDW3qEKRxIGhA-AQlj5ucqVALKOKaMIsWimEo0AAsDN_g",
       "url": "https://play.google.com/store/apps/details?id=com.playrion.airportmanager&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.topwar.gp",
-      "title": "Top War: Battle Game",
-      "developer": "RiverGame",
-      "icon": "https://play-lh.googleusercontent.com/fOjnoESqo-wJBALK_Kv3c8ly6p2Ta5ijmEaB8DvLZuXNwiJ2U2uBEJ3bcoYKA9IRrvAj",
-      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -933,6 +934,15 @@
       "developer": "Ironhide Games",
       "icon": "https://play-lh.googleusercontent.com/2hNzc7d58P7N47mBn_eQ1MhgmCx-M6da60mtANe_XV21V8uq83ib02Fp21lHou-T_Wk",
       "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushorigins&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.dramaton.dolls",
+      "title": "Go! Dolliz: 인형 언박싱 및 드레스업",
+      "developer": "Dramaton",
+      "icon": "https://play-lh.googleusercontent.com/jf1yEk0b9bxVs6uW7ov9dVokR4HrFVwk9pk9bjOAFNqf4cejzsDk_vc6I0Ye5ya6aOg",
+      "url": "https://play.google.com/store/apps/details?id=com.dramaton.dolls&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4353,15 +4363,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamevil.heiroflight.android.google.global.normal",
-      "title": "빛의 계승자 (HEIR OF LIGHT)",
-      "developer": "Com2uS Holdings",
-      "icon": "https://play-lh.googleusercontent.com/NkC4y8rzbgIgcaw3UQo7r72M7oTj4NrDTNybiULyFHsCl-D9TRxSJeoQrJKCv8eihPs2",
-      "url": "https://play.google.com/store/apps/details?id=com.gamevil.heiroflight.android.google.global.normal&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
