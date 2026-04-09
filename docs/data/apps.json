@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T20:06:08.251Z",
+  "updatedAt": "2026-04-09T21:54:07.238Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -830,7 +830,8 @@
     "com.rvappstudios.baby.toddler.kids.games.learning.activity",
     "com.edkongames.tops",
     "com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life",
-    "com.imaginalis.HouseFlipperMobile"
+    "com.imaginalis.HouseFlipperMobile",
+    "com.budgestudios.googleplay.HotWheelsUnlimited"
   ],
   "items": [
     {
@@ -866,6 +867,15 @@
       "developer": "PlayWay SA",
       "icon": "https://play-lh.googleusercontent.com/rwjr3-VaimKfX7UOIyB5gTm2bt9WxfOFNgzBLOHAytg9DXly0FjVZrbNInlUQMEue2MgYz-X6LYBc6yL68wwn1U",
       "url": "https://play.google.com/store/apps/details?id=com.imaginalis.HouseFlipperMobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.budgestudios.googleplay.HotWheelsUnlimited",
+      "title": "Hot Wheels Unlimited",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/OUJIeWLhJxmUGRK-TFbPl6GuuPU-0cMp-La08QfSEnaM-0UEvMOpB4qywJv5NRKnvqQ-c1FkJ2eT2CDrrnLj2A",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.HotWheelsUnlimited&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4403,15 +4413,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.action.survival.craft.rpg",
-      "title": "생존의 기술 - 알비온에서 살아남은 불멸의 검투사",
-      "developer": "101XP LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/ebfOp0k55nOx5jDfanfvH5Jm9UehcXA4zuIJiE9-muPOe2aVyUQZhdw4shwq21WN0sU",
-      "url": "https://play.google.com/store/apps/details?id=com.action.survival.craft.rpg&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
