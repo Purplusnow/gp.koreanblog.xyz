@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T14:03:11.189Z",
+  "updatedAt": "2026-04-09T14:07:22.997Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -824,7 +824,8 @@
     "com.monstronauts.potionpunch2",
     "com.lockwoodpublishing.avakinlife",
     "com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games",
-    "com.iz.my.tizi.town.grandparents.home.family.house"
+    "com.iz.my.tizi.town.grandparents.home.family.house",
+    "com.ironhidegames.android.kingdomrushorigins"
   ],
   "items": [
     {
@@ -923,6 +924,15 @@
       "developer": "Tizi Town Games",
       "icon": "https://play-lh.googleusercontent.com/UDVUKAFU7r56LXT3JGiaABuRA8epyl96eVaVssrJyYry9kFGbJemQkYRNe3hUJmjiMU",
       "url": "https://play.google.com/store/apps/details?id=com.iz.my.tizi.town.grandparents.home.family.house&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.kingdomrushorigins",
+      "title": "Kingdom Rush Origins - 타워 디펜스",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/2hNzc7d58P7N47mBn_eQ1MhgmCx-M6da60mtANe_XV21V8uq83ib02Fp21lHou-T_Wk",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushorigins&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4343,15 +4353,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.inforcegames.blackdeck",
-      "title": "어둠의 덱 (Black Deck)",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/AENWpfnuEiuq3Zr88rlsag8Do2FzXtaoZlUgvbT3sgoLG9NOQKBKzB1_rLkmdOpsMSs",
-      "url": "https://play.google.com/store/apps/details?id=com.inforcegames.blackdeck&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
