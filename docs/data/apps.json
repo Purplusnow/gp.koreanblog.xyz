@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T14:30:03.357Z",
+  "updatedAt": "2026-04-09T16:23:50.939Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -826,9 +826,19 @@
     "com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games",
     "com.iz.my.tizi.town.grandparents.home.family.house",
     "com.ironhidegames.android.kingdomrushorigins",
-    "com.dramaton.dolls"
+    "com.dramaton.dolls",
+    "com.rvappstudios.baby.toddler.kids.games.learning.activity"
   ],
   "items": [
+    {
+      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "title": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.baby.toddler.kids.games.learning.activity&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
     {
       "appId": "fashion.dress.up.game.stylist.designer",
       "title": "패션 테일러: 옷입히기 패션, 디자인 게임",
@@ -4363,15 +4373,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobilechess.gp",
-      "title": "Magic Chess: Go Go",
-      "developer": "Vizta Games",
-      "icon": "https://play-lh.googleusercontent.com/uJ43VeRAaOu2hqvP5RQNrUejveyRGX3pvBBszbu6gJbBiZqeQsQ6brRCuzsDHvPixbpDD7kRal-Z24lPVtyzEQ",
-      "url": "https://play.google.com/store/apps/details?id=com.mobilechess.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
