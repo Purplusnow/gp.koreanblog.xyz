@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T08:32:20.831Z",
+  "updatedAt": "2026-04-09T09:21:26.477Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -821,7 +821,8 @@
     "com.playrion.airportmanager",
     "com.igg.android.dressuptimeprincess",
     "com.topwar.gp",
-    "com.monstronauts.potionpunch2"
+    "com.monstronauts.potionpunch2",
+    "com.lockwoodpublishing.avakinlife"
   ],
   "items": [
     {
@@ -893,6 +894,15 @@
       "developer": "Monstronauts Inc.",
       "icon": "https://play-lh.googleusercontent.com/8NBNGfX3EahQZm9CA7ai0-BnwwBv5OcglpfDVFN3x18OJZe-AbWQorxpUuQs9v8QL8tnOyIQimgJZ3ABRZ0emMo",
       "url": "https://play.google.com/store/apps/details?id=com.monstronauts.potionpunch2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.lockwoodpublishing.avakinlife",
+      "title": "Avakin Life - 3차원 가상 세계",
+      "developer": "Lockwood Publishing Ltd",
+      "icon": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
+      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4313,15 +4323,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.carxtech.carxdr2",
-      "title": "CarX Drift Racing 2",
-      "developer": "CarX Technologies",
-      "icon": "https://play-lh.googleusercontent.com/vcksPh2sItgUw_wdttyWDiNP7ncDDnelA18iXhJe_SpODAASHsg3ZzHDvxBRIpIvKg",
-      "url": "https://play.google.com/store/apps/details?id=com.carxtech.carxdr2&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
