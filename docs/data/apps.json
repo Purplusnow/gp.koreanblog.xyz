@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T22:55:24.877Z",
+  "updatedAt": "2026-04-09T23:50:03.503Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -831,7 +831,9 @@
     "com.edkongames.tops",
     "com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life",
     "com.imaginalis.HouseFlipperMobile",
-    "com.budgestudios.googleplay.HotWheelsUnlimited"
+    "com.budgestudios.googleplay.HotWheelsUnlimited",
+    "com.feelingtouch.zfsniper",
+    "com.pixio.google.mtd"
   ],
   "items": [
     {
@@ -876,6 +878,24 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/OUJIeWLhJxmUGRK-TFbPl6GuuPU-0cMp-La08QfSEnaM-0UEvMOpB4qywJv5NRKnvqQ-c1FkJ2eT2CDrrnLj2A",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.HotWheelsUnlimited&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.feelingtouch.zfsniper",
+      "title": "Zombie Frontier 4: FPS 좀비 슈팅",
+      "developer": "FT Games",
+      "icon": "https://play-lh.googleusercontent.com/Ca43jU5de7r0Jud9FBRWiUzXLwQkEdQJ-sGMVfr0YFltnKCzOhaV-WXs2QGPFj-qSf4",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.zfsniper&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixio.google.mtd",
+      "title": "Summoners Greed: Idle TD Hero",
+      "developer": "PIXIO",
+      "icon": "https://play-lh.googleusercontent.com/H9vUKoDQk6myoo09zRDUM6_vAAidPEbKlhxPSKxZXsXfbjTSNw6VOb8QBuI1Cx7el4mMCfgQNpZ5lUBsZedKsw",
+      "url": "https://play.google.com/store/apps/details?id=com.pixio.google.mtd&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4413,24 +4433,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.hypgames.ultimategolf",
-      "title": "Ultimate Golf!",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/AXqftKxe9Yv9_wA_0UzEIpv-sar9zQONyr4qUDcaNkDWCyJt_XfA0hxWQwpD5OLNoIQ",
-      "url": "https://play.google.com/store/apps/details?id=com.hypgames.ultimategolf&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.kiwifun.game.android.screw.master",
-      "title": "나사 3D 퍼즐: 핀 풀기 게임",
-      "developer": "Kiwi Fun",
-      "icon": "https://play-lh.googleusercontent.com/CNO8jDVTtanOmjJMDxbzlG718K8JcHUPrkQXQe3rmjlSE7LKF0uHi_SmzyjvFmqIQw",
-      "url": "https://play.google.com/store/apps/details?id=com.kiwifun.game.android.screw.master&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
