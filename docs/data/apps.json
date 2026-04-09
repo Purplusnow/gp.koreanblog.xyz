@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T18:05:37.531Z",
+  "updatedAt": "2026-04-09T20:06:08.251Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -827,7 +827,10 @@
     "com.iz.my.tizi.town.grandparents.home.family.house",
     "com.ironhidegames.android.kingdomrushorigins",
     "com.dramaton.dolls",
-    "com.rvappstudios.baby.toddler.kids.games.learning.activity"
+    "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+    "com.edkongames.tops",
+    "com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life",
+    "com.imaginalis.HouseFlipperMobile"
   ],
   "items": [
     {
@@ -836,6 +839,33 @@
       "developer": "RV AppStudios",
       "icon": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
       "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.baby.toddler.kids.games.learning.activity&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.edkongames.tops",
+      "title": "택티컬 OPS: FPS 슈팅 아레나",
+      "developer": "Edkon Games GmbH",
+      "icon": "https://play-lh.googleusercontent.com/ryuU8j80vFFwI9Dp1Ml2auP6UGB9qNSsUqBZhRRLxyYzTi_c1-_uXk4oaWXMjv_k_DvX",
+      "url": "https://play.google.com/store/apps/details?id=com.edkongames.tops&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life",
+      "title": "나의 캣 타운 - 귀여운 고양이 게임",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/FTzr9XoqYiIe_LKp3OfKYUKwXHvXPsFphAuk1VExhVYejgUOcNRfoZgCfEhiQTr5Kgo",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.imaginalis.HouseFlipperMobile",
+      "title": "하우스 플리퍼: 홈 디자인",
+      "developer": "PlayWay SA",
+      "icon": "https://play-lh.googleusercontent.com/rwjr3-VaimKfX7UOIyB5gTm2bt9WxfOFNgzBLOHAytg9DXly0FjVZrbNInlUQMEue2MgYz-X6LYBc6yL68wwn1U",
+      "url": "https://play.google.com/store/apps/details?id=com.imaginalis.HouseFlipperMobile&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4373,33 +4403,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildspike.wormszone",
-      "title": "웜스 존.io - 게걸스러운 뱀",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/IFZh4-P3WEpHhFOoGDFpmcWWw-ehjPMn9zF6uEuHsyGXLM9io3q3gAXSKZTda3qYOg",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.skiagb",
-      "title": "세븐나이츠 키우기",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/22kPomgM8a0DWQgTIlSaktotGU_riwsNOluGvr-aED--NsvQYsiSo6cz_vUMK4yIGoQCocDSdk7hmbcoJZY-VQ",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.skiagb&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.FoxieGames.HorseRidingTales",
-      "title": "승마 이야기 - 친구와 함께 말타기",
-      "developer": "Foxie Ventures",
-      "icon": "https://play-lh.googleusercontent.com/qbwdhrahERgk9B-2Z9b6j1Ic2n8rp4t93yBeyhXX3iKfA5IlAak9x4L8a7IIUhkT68w",
-      "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.HorseRidingTales&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
