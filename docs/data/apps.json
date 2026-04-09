@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T11:11:46.661Z",
+  "updatedAt": "2026-04-09T14:03:11.189Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -822,7 +822,9 @@
     "com.igg.android.dressuptimeprincess",
     "com.topwar.gp",
     "com.monstronauts.potionpunch2",
-    "com.lockwoodpublishing.avakinlife"
+    "com.lockwoodpublishing.avakinlife",
+    "com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games",
+    "com.iz.my.tizi.town.grandparents.home.family.house"
   ],
   "items": [
     {
@@ -840,6 +842,15 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/vRyzya1YBzM2TUoi5B3ssV69Vk6KZZ2KNov5k0bzRQPdwXY6oQyMyNXVyYyLiLL_Kz3c87iXtycAPgTbhTW0ew",
       "url": "https://play.google.com/store/apps/details?id=com.NextFloor.DragonFlightKakao&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.android.dressuptimeprincess",
+      "title": "타임 프린세스: 진주 귀고리를 한 소녀",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/jVu_AJgYc6WZngkQvyUuWVw2QggosXM9AQgAjHKhCA3s5fxoYamBi4YEXE6oVcb4yQD1w9ZmINuCP_40IrF12Q",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.dressuptimeprincess&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -871,15 +882,6 @@
       "isGame": true
     },
     {
-      "appId": "com.igg.android.dressuptimeprincess",
-      "title": "타임 프린세스: 진주 귀고리를 한 소녀",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/jVu_AJgYc6WZngkQvyUuWVw2QggosXM9AQgAjHKhCA3s5fxoYamBi4YEXE6oVcb4yQD1w9ZmINuCP_40IrF12Q",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.dressuptimeprincess&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
       "appId": "com.topwar.gp",
       "title": "Top War: Battle Game",
       "developer": "RiverGame",
@@ -903,6 +905,24 @@
       "developer": "Lockwood Publishing Ltd",
       "icon": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
       "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games",
+      "title": "어린이를 위한 아이스크림 가게 게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/7ddLlPdbdd44blqhZpoJP4ku-jETd01BXVccSdIJher1zOO3bQYi000hC8MXd5ihPBG1",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.my.tizi.town.grandparents.home.family.house",
+      "title": "나의 티지 타운 조부모님 집",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/UDVUKAFU7r56LXT3JGiaABuRA8epyl96eVaVssrJyYry9kFGbJemQkYRNe3hUJmjiMU",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.my.tizi.town.grandparents.home.family.house&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4323,24 +4343,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.starplay.spider.fighter.openworld",
-      "title": "Spider Fighter 3",
-      "developer": "Starplay FZCO",
-      "icon": "https://play-lh.googleusercontent.com/HGJGoIR7ZpHDMhRuaYJz_M5k8L0DCwXPcSBDGt217ye4o40LSaXTPHI-XIyiPbRw7g",
-      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.playgendary.ktbremaster",
-      "title": "Kick the Buddy: Second Kick",
-      "developer": "Playgendary Limited",
-      "icon": "https://play-lh.googleusercontent.com/YaaDJ4YEUzdDIFlkvlLs5UvV_O3QQY9-cVbbE-bHzIld7BKJXwATB1BYIO_xf1M2IA0",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.ktbremaster&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
