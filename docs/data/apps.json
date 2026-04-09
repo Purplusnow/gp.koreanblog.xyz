@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T00:11:41.588Z",
+  "updatedAt": "2026-04-09T03:22:36.079Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -818,7 +818,8 @@
     "fashion.dress.up.game.stylist.designer",
     "com.NextFloor.DragonFlightKakao",
     "com.libii.frozenworld",
-    "com.playrion.airportmanager"
+    "com.playrion.airportmanager",
+    "com.igg.android.dressuptimeprincess"
   ],
   "items": [
     {
@@ -863,6 +864,15 @@
       "developer": "Playrion",
       "icon": "https://play-lh.googleusercontent.com/qMUliIp0psJRpzVmKcyifkDW3qEKRxIGhA-AQlj5ucqVALKOKaMIsWimEo0AAsDN_g",
       "url": "https://play.google.com/store/apps/details?id=com.playrion.airportmanager&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.android.dressuptimeprincess",
+      "title": "타임 프린세스: 진주 귀고리를 한 소녀",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/jVu_AJgYc6WZngkQvyUuWVw2QggosXM9AQgAjHKhCA3s5fxoYamBi4YEXE6oVcb4yQD1w9ZmINuCP_40IrF12Q",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.dressuptimeprincess&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4283,15 +4293,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.diner",
-      "title": "아기 팬더의 식당",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/-OuQ6gX9JtUSOWcx2vfv6IJTstbGq6y_I6H9Z4FhXBC4N5wrTMKEwb6jVkpH01wZniw",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.diner&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
