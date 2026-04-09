@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T07:52:13.977Z",
+  "updatedAt": "2026-04-09T08:32:20.831Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -819,7 +819,9 @@
     "com.NextFloor.DragonFlightKakao",
     "com.libii.frozenworld",
     "com.playrion.airportmanager",
-    "com.igg.android.dressuptimeprincess"
+    "com.igg.android.dressuptimeprincess",
+    "com.topwar.gp",
+    "com.monstronauts.potionpunch2"
   ],
   "items": [
     {
@@ -832,20 +834,20 @@
       "isGame": true
     },
     {
-      "appId": "com.gamegos.mobile.cafeland",
-      "title": "Cafeland - 레스토랑 게임",
-      "developer": "GAMEGOS",
-      "icon": "https://play-lh.googleusercontent.com/S3EsxFH7A5iV9rt8oxiYNhYpklUjnyDKk7rnulMP9eYJrB3lB0tgf0kOKxAQplN5tKgLeXv7Y0qcPUbcsupDOg",
-      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.cafeland&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
       "appId": "com.NextFloor.DragonFlightKakao",
       "title": "드래곤 플라이트",
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/vRyzya1YBzM2TUoi5B3ssV69Vk6KZZ2KNov5k0bzRQPdwXY6oQyMyNXVyYyLiLL_Kz3c87iXtycAPgTbhTW0ew",
       "url": "https://play.google.com/store/apps/details?id=com.NextFloor.DragonFlightKakao&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamegos.mobile.cafeland",
+      "title": "Cafeland - 레스토랑 게임",
+      "developer": "GAMEGOS",
+      "icon": "https://play-lh.googleusercontent.com/S3EsxFH7A5iV9rt8oxiYNhYpklUjnyDKk7rnulMP9eYJrB3lB0tgf0kOKxAQplN5tKgLeXv7Y0qcPUbcsupDOg",
+      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.cafeland&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -873,6 +875,24 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/jVu_AJgYc6WZngkQvyUuWVw2QggosXM9AQgAjHKhCA3s5fxoYamBi4YEXE6oVcb4yQD1w9ZmINuCP_40IrF12Q",
       "url": "https://play.google.com/store/apps/details?id=com.igg.android.dressuptimeprincess&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.topwar.gp",
+      "title": "Top War: Battle Game",
+      "developer": "RiverGame",
+      "icon": "https://play-lh.googleusercontent.com/fOjnoESqo-wJBALK_Kv3c8ly6p2Ta5ijmEaB8DvLZuXNwiJ2U2uBEJ3bcoYKA9IRrvAj",
+      "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.monstronauts.potionpunch2",
+      "title": "포션 펀치 2: 판타지 쿠킹 어드벤처",
+      "developer": "Monstronauts Inc.",
+      "icon": "https://play-lh.googleusercontent.com/8NBNGfX3EahQZm9CA7ai0-BnwwBv5OcglpfDVFN3x18OJZe-AbWQorxpUuQs9v8QL8tnOyIQimgJZ3ABRZ0emMo",
+      "url": "https://play.google.com/store/apps/details?id=com.monstronauts.potionpunch2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
@@ -4293,24 +4313,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.tiltingpoint.sbadventures",
-      "title": "SpongeBob Adventures: In A Jam",
-      "developer": "Tilting Point",
-      "icon": "https://play-lh.googleusercontent.com/8Fi_VpNYHBMCtzcminHVeOrEJ0LY9MIQ5bhQH7EbOvzvGdNZWHJ-_rn4MNLEw2Sflf8I",
-      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.dblegends_ww",
-      "title": "DRAGON BALL LEGENDS 드래곤 볼 레전즈",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/h6dF0CjkpaHkV89xzUX1j8h3MfgcXb2uNLM5XzlC7y_b4iXsnKBZYvTV4khEFIBiBn8fLLzqtJou9YGspUNFlEY",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
