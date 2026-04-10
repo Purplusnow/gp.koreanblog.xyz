@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T03:27:47.211Z",
+  "updatedAt": "2026-04-10T03:35:20.475Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -837,7 +837,8 @@
     "com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg",
     "com.scopely.yux",
     "io.playville",
-    "pocket.tales"
+    "pocket.tales",
+    "com.everywear.game5"
   ],
   "items": [
     {
@@ -850,20 +851,20 @@
       "isGame": true
     },
     {
-      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "title": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
-      "developer": "RV AppStudios",
-      "icon": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.baby.toddler.kids.games.learning.activity&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
       "appId": "com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life",
       "title": "나의 캣 타운 - 귀여운 고양이 게임",
       "developer": "Tizi Town Games",
       "icon": "https://play-lh.googleusercontent.com/FTzr9XoqYiIe_LKp3OfKYUKwXHvXPsFphAuk1VExhVYejgUOcNRfoZgCfEhiQTr5Kgo",
       "url": "https://play.google.com/store/apps/details?id=com.iz.cat.kitty.kitten.wonder.world.my.pretend.play.town.games.life&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "title": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.baby.toddler.kids.games.learning.activity&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -936,6 +937,15 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/mv_oOKrg7q2bqUT3PX_cq85FrN-OiRGNtKDpHL1DIfFFRWFyfETB73nYdvF_3gM15bBK",
       "url": "https://play.google.com/store/apps/details?id=pocket.tales&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.everywear.game5",
+      "title": "머지 맨션: 퍼즐과 스토리",
+      "developer": "Metacore Games Oy",
+      "icon": "https://play-lh.googleusercontent.com/-h5raJwvlwUJO5AeAW6uEwlsu53q19Njzg5d24StRCZCFVnRy-8gbQgUQWNEQQk6qOiA",
+      "url": "https://play.google.com/store/apps/details?id=com.everywear.game5&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4473,15 +4483,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.summoners.era.idle",
-      "title": "Summoners Era: Idle RPG Heroes",
-      "developer": "Fansipan Limited",
-      "icon": "https://play-lh.googleusercontent.com/WqLSWy1jU96sybK54YISD_OvN-souD1fn8igjj-4hL4RIyGaJIKzYpCFh7cwlrd5bfY",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.summoners.era.idle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
