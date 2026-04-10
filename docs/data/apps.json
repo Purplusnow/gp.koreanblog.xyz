@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T04:26:38.563Z",
+  "updatedAt": "2026-04-10T06:05:29.267Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -838,7 +838,8 @@
     "com.scopely.yux",
     "io.playville",
     "pocket.tales",
-    "com.everywear.game5"
+    "com.everywear.game5",
+    "com.game.btjkr.and"
   ],
   "items": [
     {
@@ -946,6 +947,15 @@
       "developer": "Metacore Games Oy",
       "icon": "https://play-lh.googleusercontent.com/-h5raJwvlwUJO5AeAW6uEwlsu53q19Njzg5d24StRCZCFVnRy-8gbQgUQWNEQQk6qOiA",
       "url": "https://play.google.com/store/apps/details?id=com.everywear.game5&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.btjkr.and",
+      "title": "영혼 인도자：신의 이름으로",
+      "developer": "PLAY CAT NETWORK TECHNOLOGY CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/bqkLzXeH27p4NRhCedB1qaNbHPB4CrLcn-T3MHeB2xDSN-gG5LNT_oWIvqO3HgDJhyiKGQItus-8jV6NM_vciw",
+      "url": "https://play.google.com/store/apps/details?id=com.game.btjkr.and&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4483,15 +4493,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.hunt.royale",
-      "title": "헌트 로얄: 배틀 아레나",
-      "developer": "BoomBit Games",
-      "icon": "https://play-lh.googleusercontent.com/CaIEKonCoDnXtpyQJtOpfgUE-8U5HAtXPocgCoziYbBfwWRn9DhMNguqMHKk63740Aw",
-      "url": "https://play.google.com/store/apps/details?id=com.hunt.royale&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
