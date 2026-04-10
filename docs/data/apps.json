@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T03:35:20.475Z",
+  "updatedAt": "2026-04-10T04:26:38.563Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -860,6 +860,15 @@
       "isGame": true
     },
     {
+      "appId": "com.feelingtouch.zfsniper",
+      "title": "Zombie Frontier 4: FPS 좀비 슈팅",
+      "developer": "FT Games",
+      "icon": "https://play-lh.googleusercontent.com/Ca43jU5de7r0Jud9FBRWiUzXLwQkEdQJ-sGMVfr0YFltnKCzOhaV-WXs2QGPFj-qSf4",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.zfsniper&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
       "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "title": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
       "developer": "RV AppStudios",
@@ -883,15 +892,6 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/OUJIeWLhJxmUGRK-TFbPl6GuuPU-0cMp-La08QfSEnaM-0UEvMOpB4qywJv5NRKnvqQ-c1FkJ2eT2CDrrnLj2A",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.HotWheelsUnlimited&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.feelingtouch.zfsniper",
-      "title": "Zombie Frontier 4: FPS 좀비 슈팅",
-      "developer": "FT Games",
-      "icon": "https://play-lh.googleusercontent.com/Ca43jU5de7r0Jud9FBRWiUzXLwQkEdQJ-sGMVfr0YFltnKCzOhaV-WXs2QGPFj-qSf4",
-      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.zfsniper&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
