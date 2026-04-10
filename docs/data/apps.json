@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T17:58:31.718Z",
+  "updatedAt": "2026-04-10T19:08:23.171Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -846,7 +846,12 @@
     "com.d3p.mpq",
     "com.sega.sonicdash",
     "com.smokingguninc.phobies",
-    "merge.clash"
+    "merge.clash",
+    "com.grand.launcher",
+    "com.ea.gp.maddennfl21mobile",
+    "com.tinyco.potter",
+    "com.beauty.tiles.story.makeover.puzzle.match",
+    "com.madovergames.BubbleShooterGames"
   ],
   "items": [
     {
@@ -891,6 +896,51 @@
       "developer": "Puzzle Cats",
       "icon": "https://play-lh.googleusercontent.com/I1XPRtItHeG3uSW4NnWCCed0zC7sjKIFF_6MBdxJQvevbtk_xfIqY0rrjMc2Jz8C2kc",
       "url": "https://play.google.com/store/apps/details?id=merge.clash&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.grand.launcher",
+      "title": "Grand Mobile - 자동차 레이싱 및 오픈 월드",
+      "developer": "Dynamic Technologies TOO",
+      "icon": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
+      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.gp.maddennfl21mobile",
+      "title": "Madden NFL 26 Mobile Football",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/UbORhduMQUweKzNrrhPiw12fyVAAK2__t0aeoVr1wlxkM389duuyo9Gss4GK_kwK9epB-ZxEZUr5L-5cLBtPtuw",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.maddennfl21mobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.tinyco.potter",
+      "title": "해리 포터: 호그와트 미스테리",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/C1ieGP1wXEBl29RtWqvY-x1MxBjjxeduYBe3TL1fNAYnNAfIoQik2pTW8EyhiN5pBA",
+      "url": "https://play.google.com/store/apps/details?id=com.tinyco.potter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.beauty.tiles.story.makeover.puzzle.match",
+      "title": "Beauty Tiles: Story&Makeover",
+      "developer": "Pexix Inc.",
+      "icon": "https://play-lh.googleusercontent.com/3R411OCCepUzd30OBcvcxt_mHl9O7JgOn4Eg-NJ0mhvt-UPeKhvCvWOwC_-8Eo1x1E_4",
+      "url": "https://play.google.com/store/apps/details?id=com.beauty.tiles.story.makeover.puzzle.match&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.madovergames.BubbleShooterGames",
+      "title": "버블 슈터 게임2026",
+      "developer": "Bubble Shooter @ MadOverGames",
+      "icon": "https://play-lh.googleusercontent.com/TeTSl64HtU_6DHjlfKJknMsHFw7ssniLcRiuy4aqKW_CHrGPlyvr1ik74Ye1PpcNaA",
+      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterGames&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4563,51 +4613,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.zuuks.truck.simulator.ultimate",
-      "title": "Truck Simulator : Ultimate",
-      "developer": "Zuuks Games",
-      "icon": "https://play-lh.googleusercontent.com/JoSjpnw113F0re_89aZ8pwLwrgrJ7x4I_VLVgP82GV_pY1513fR5QfJCGzpPFnmws2I",
-      "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.talkingtom",
-      "title": "말하는 고양이 토킹톰",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/m2H0K49W3XwG5N3nM4VvqHxPwdvb3-ExNhsSof2FU0o5OmG2UtsocAX6-HSTajJHCqKo8a1Gh6v-hrkfVfmWlA",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.zigzagame.tokyodebunker",
-      "title": "도쿄 디벙커",
-      "developer": "ZigZaGame Inc.",
-      "icon": "https://play-lh.googleusercontent.com/bCObGJDOd9B0fm18y_5z0G6KaJ-O0uXYRwiPDGsTQ7uExzXCtrtphc9BlVXV1CCHjzk",
-      "url": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunker&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.dn.games.gangstaz",
-      "title": "Downtown Gangstas: War Game",
-      "developer": "DYNAMICNEXT",
-      "icon": "https://play-lh.googleusercontent.com/c_RTxD2yj6xN4riNcVMNyQ0Io1OtSQjUxPk6PyKyiUYVUgIEcetwInUnofWnOyoLMnm1EXzXaqrzFZQ8y7qDtg0",
-      "url": "https://play.google.com/store/apps/details?id=com.dn.games.gangstaz&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.ddup.zombiewaves.zw",
-      "title": "좀비 웨이브스",
-      "developer": "Fun Formula",
-      "icon": "https://play-lh.googleusercontent.com/RBS57n8UMbzGOezcYN1QTuE39rjV01haLomxwN5I3qIukvRaHTvq1OCRgjITvUHO7CiF",
-      "url": "https://play.google.com/store/apps/details?id=com.ddup.zombiewaves.zw&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
