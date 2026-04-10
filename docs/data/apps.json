@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T15:00:10.771Z",
+  "updatedAt": "2026-04-10T16:03:01.788Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -841,9 +841,29 @@
     "com.everywear.game5",
     "com.game.btjkr.and",
     "com.fansipan.stickman.fight.shadow.knights",
-    "com.netease.g108na"
+    "com.netease.g108na",
+    "com.im30.ROE.gp",
+    "com.d3p.mpq"
   ],
   "items": [
+    {
+      "appId": "com.im30.ROE.gp",
+      "title": "라이즈 오브 엠파이어",
+      "developer": "Long Tech Network Limited",
+      "icon": "https://play-lh.googleusercontent.com/PDyvyz-k7TpjYEqQ3LrqJEYJyVoLC5hyFOoCUSFjeILsRBaxdJ4mOT4a_WqVLlblT9g",
+      "url": "https://play.google.com/store/apps/details?id=com.im30.ROE.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.d3p.mpq",
+      "title": "MARVEL Puzzle Quest: 히어로 RPG",
+      "developer": "505 Go Inc.",
+      "icon": "https://play-lh.googleusercontent.com/zA6dVNzbfOJEaSSgGtSYgmUPa4-S71oajdyuUyZOzA2XLaPxqB9_q-MqX5N7h6-sZMU",
+      "url": "https://play.google.com/store/apps/details?id=com.d3p.mpq&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
     {
       "appId": "com.edkongames.tops",
       "title": "택티컬 OPS: FPS 슈팅 아레나",
@@ -4513,24 +4533,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "find.out.hidden.objects.seek.puzzle.games.free",
-      "title": "개체 찾기 - 숨은그림찾기 게임",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/JjByKjPxSqD9oRRwwt_cDT-0VdK0MekYxwTtYp8p5SidOGyQkimiFXxBpB2C2UjETtkh",
-      "url": "https://play.google.com/store/apps/details?id=find.out.hidden.objects.seek.puzzle.games.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.pretend.play.my.monster.town.airport.games.kids",
-      "title": "티지 공항 : 아이들을위한 내 비행기 게임",
-      "developer": "Tizi Town Games",
-      "icon": "https://play-lh.googleusercontent.com/JfevWri5aCvumF3640PI9QIyNpEzIKDv_Zza0yUyU0xb9JZLvULkXZaNOeoSCgBIow",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.pretend.play.my.monster.town.airport.games.kids&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
