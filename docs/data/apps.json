@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T08:25:42.725Z",
+  "updatedAt": "2026-04-10T10:14:55.051Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -839,7 +839,8 @@
     "io.playville",
     "pocket.tales",
     "com.everywear.game5",
-    "com.game.btjkr.and"
+    "com.game.btjkr.and",
+    "com.fansipan.stickman.fight.shadow.knights"
   ],
   "items": [
     {
@@ -956,6 +957,15 @@
       "developer": "PLAY CAT NETWORK TECHNOLOGY CO., LIMITED",
       "icon": "https://play-lh.googleusercontent.com/bqkLzXeH27p4NRhCedB1qaNbHPB4CrLcn-T3MHeB2xDSN-gG5LNT_oWIvqO3HgDJhyiKGQItus-8jV6NM_vciw",
       "url": "https://play.google.com/store/apps/details?id=com.game.btjkr.and&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.fansipan.stickman.fight.shadow.knights",
+      "title": "쉐도우 나이트: 닌자 격투 액션 게임",
+      "developer": "Fansipan Limited",
+      "icon": "https://play-lh.googleusercontent.com/k_MbxGGlQ2QNMJPILEgKzXgA-mxUDbjj_rVVO46eByhnK9FGN3segMRnc0m96j2oOw",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.fight.shadow.knights&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4493,15 +4503,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.imc.mtos",
-      "title": "트리 오브 세이비어M - 시즌서버!",
-      "developer": "imcGAMES",
-      "icon": "https://play-lh.googleusercontent.com/78RttaQNs9g9M6XSrZdUvv6do7gLCmQ3SvwxlilMkhJam6N24dPEEX5jjM_kRxNcpC4ZhmKfPzcWWc35gL06",
-      "url": "https://play.google.com/store/apps/details?id=com.imc.mtos&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
