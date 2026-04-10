@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T16:03:01.788Z",
+  "updatedAt": "2026-04-10T17:04:00.427Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -843,7 +843,8 @@
     "com.fansipan.stickman.fight.shadow.knights",
     "com.netease.g108na",
     "com.im30.ROE.gp",
-    "com.d3p.mpq"
+    "com.d3p.mpq",
+    "com.sega.sonicdash"
   ],
   "items": [
     {
@@ -861,6 +862,15 @@
       "developer": "505 Go Inc.",
       "icon": "https://play-lh.googleusercontent.com/zA6dVNzbfOJEaSSgGtSYgmUPa4-S71oajdyuUyZOzA2XLaPxqB9_q-MqX5N7h6-sZMU",
       "url": "https://play.google.com/store/apps/details?id=com.d3p.mpq&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.sega.sonicdash",
+      "title": "Sonic Dash: Endless Run",
+      "developer": "SEGA",
+      "icon": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4533,15 +4543,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.rbx.city.android",
-      "title": "Global City: 도시건설 시뮬레이션 게임",
-      "developer": "UPWAKE.ME",
-      "icon": "https://play-lh.googleusercontent.com/FNNgm0tffYSCtHFlC_CQWjL8sZEqaWIDkAGOQmGNJc5bv9P8n4MtJDXhYu87MqmxHA",
-      "url": "https://play.google.com/store/apps/details?id=com.rbx.city.android&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
