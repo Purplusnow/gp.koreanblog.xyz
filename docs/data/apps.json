@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T11:56:35.058Z",
+  "updatedAt": "2026-04-10T12:55:52.270Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -840,7 +840,8 @@
     "pocket.tales",
     "com.everywear.game5",
     "com.game.btjkr.and",
-    "com.fansipan.stickman.fight.shadow.knights"
+    "com.fansipan.stickman.fight.shadow.knights",
+    "com.netease.g108na"
   ],
   "items": [
     {
@@ -867,6 +868,15 @@
       "developer": "FT Games",
       "icon": "https://play-lh.googleusercontent.com/Ca43jU5de7r0Jud9FBRWiUzXLwQkEdQJ-sGMVfr0YFltnKCzOhaV-WXs2QGPFj-qSf4",
       "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.zfsniper&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "io.playville",
+      "title": "플레이빌: 아바타 소셜 게임",
+      "developer": "DiGiMi Pte. Ltd",
+      "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
+      "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -925,15 +935,6 @@
       "isGame": true
     },
     {
-      "appId": "io.playville",
-      "title": "플레이빌: 아바타 소셜 게임",
-      "developer": "DiGiMi Pte. Ltd",
-      "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
-      "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
       "appId": "pocket.tales",
       "title": "Pocket Tales: 서바이벌 게임",
       "developer": "Azur Interactive Games Limited",
@@ -966,6 +967,15 @@
       "developer": "Fansipan Limited",
       "icon": "https://play-lh.googleusercontent.com/k_MbxGGlQ2QNMJPILEgKzXgA-mxUDbjj_rVVO46eByhnK9FGN3segMRnc0m96j2oOw",
       "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.fight.shadow.knights&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.netease.g108na",
+      "title": "Destiny: Rising",
+      "developer": "Exptional Global",
+      "icon": "https://play-lh.googleusercontent.com/8NrjA2nsQ8gEhL3PDC_iIFR3bZe1Lit6OM19Uk_N0KKrPMBoYhPg5k8KBRsoO2wGyGg",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.g108na&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
@@ -4503,15 +4513,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.masomo.basketballarena",
-      "title": "Basketball Arena: 온라인 스포츠 게임",
-      "developer": "Masomo Gaming",
-      "icon": "https://play-lh.googleusercontent.com/GbCZ7Ey_xqVuYaag2ZcXaHiajcUX7YEMdE3Xw_Ax9AqExmt7bS4EE4ftzFtgPqy3Pyc",
-      "url": "https://play.google.com/store/apps/details?id=com.masomo.basketballarena&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
