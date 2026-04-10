@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T17:04:00.427Z",
+  "updatedAt": "2026-04-10T17:58:31.718Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -844,7 +844,9 @@
     "com.netease.g108na",
     "com.im30.ROE.gp",
     "com.d3p.mpq",
-    "com.sega.sonicdash"
+    "com.sega.sonicdash",
+    "com.smokingguninc.phobies",
+    "merge.clash"
   ],
   "items": [
     {
@@ -871,6 +873,24 @@
       "developer": "SEGA",
       "icon": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
       "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.smokingguninc.phobies",
+      "title": "포비즈: PVP 카드 배틀",
+      "developer": "Phobies Holdings Inc.",
+      "icon": "https://play-lh.googleusercontent.com/gs-CzRJfXg-k1kHTrcg9euEXgfI3XcyVqu_rV9hzzsJiecx6ZqkEMZzRVsrrzBIAXuw",
+      "url": "https://play.google.com/store/apps/details?id=com.smokingguninc.phobies&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "merge.clash",
+      "title": "Merge Clash - 타워 디펜스 TD",
+      "developer": "Puzzle Cats",
+      "icon": "https://play-lh.googleusercontent.com/I1XPRtItHeG3uSW4NnWCCed0zC7sjKIFF_6MBdxJQvevbtk_xfIqY0rrjMc2Jz8C2kc",
+      "url": "https://play.google.com/store/apps/details?id=merge.clash&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4543,24 +4563,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.oppanagames.car.simulator",
-      "title": "Car Simulator 2",
-      "developer": "OppanaGames FZC LLC",
-      "icon": "https://play-lh.googleusercontent.com/8-Et-EAqUoidEHn-Upo25msFUVrXo3mrZPA5U_arfQlw4DXSMzChclRB6c7_PG9u8l5H",
-      "url": "https://play.google.com/store/apps/details?id=com.oppanagames.car.simulator&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.mytalkinghank",
-      "title": "마이토킹행크: 아일랜드",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/BNFM2OG1bfNW6bAmF8mIMPocNUsj0bqiFW-ccrsIsZHDvdxeEoDb88wElvujDcR6QTXl",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
