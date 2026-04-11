@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T23:48:32.323Z",
+  "updatedAt": "2026-04-11T03:14:36.017Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -851,7 +851,8 @@
     "com.ea.gp.maddennfl21mobile",
     "com.tinyco.potter",
     "com.beauty.tiles.story.makeover.puzzle.match",
-    "com.madovergames.BubbleShooterGames"
+    "com.madovergames.BubbleShooterGames",
+    "com.tp.pmu3d"
   ],
   "items": [
     {
@@ -941,6 +942,15 @@
       "developer": "Bubble Shooter @ MadOverGames",
       "icon": "https://play-lh.googleusercontent.com/TeTSl64HtU_6DHjlfKJknMsHFw7ssniLcRiuy4aqKW_CHrGPlyvr1ik74Ye1PpcNaA",
       "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterGames&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.tp.pmu3d",
+      "title": "Pick Me Up 3D : 택시 게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/_wQVvw-2L_OTMbNyGrQAbanl04c0h_4_pf28kpiQftG-0BJUDGNycQa3yknYToVAyRo",
+      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4613,15 +4623,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/kmdolaTiQXtimltkD16YKhNnNWsRqUe0vvjCcLVnHWMGWrmHekMwd850yNZ83coviw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.jumpgames.rswrb",
-      "title": "World Robot Boxing",
-      "developer": "Reliance Games",
-      "icon": "https://play-lh.googleusercontent.com/4zZaQ_6uyw9fhfwd3uIly1lJxmgxodXAbRuz1iDRHgundsff5SeRGtj_Kk0eiSr4FA",
-      "url": "https://play.google.com/store/apps/details?id=com.jumpgames.rswrb&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
