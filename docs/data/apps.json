@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T17:43:31.212Z",
+  "updatedAt": "2026-04-11T19:01:21.422Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -855,9 +855,39 @@
     "com.tp.pmu3d",
     "com.g5e.sherlock.android",
     "com.ncsoft.lineagem19",
-    "com.ea.game.starwarscapital_row"
+    "com.ea.game.starwarscapital_row",
+    "com.gokids.tbdoll",
+    "com.playsome.friendsanddragons",
+    "com.hero.may.cry.adventure.game"
   ],
   "items": [
+    {
+      "appId": "com.gokids.tbdoll",
+      "title": "패션 여자를위한 게임을 드레스. 봉제 의류",
+      "developer": "GoKids! publishing",
+      "icon": "https://play-lh.googleusercontent.com/DOPmVLITNdcRB9-AjR4MrkGhGVtMaKEfl9jHSYYNADxilPqu5ZrB5m47QYAw1poxN5w",
+      "url": "https://play.google.com/store/apps/details?id=com.gokids.tbdoll&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.playsome.friendsanddragons",
+      "title": "프랜즈 & 드래곤즈 (Friends & Dragons)",
+      "developer": "Playsome Ltd",
+      "icon": "https://play-lh.googleusercontent.com/ghBozLQrinE8Q3LlioJDqepGt1h3kLWA3p9YBq6VoQS-ds-9ZeOUyCtm-O9o3E7iVF6CXO1aSKmkhNUjpGWjVu4",
+      "url": "https://play.google.com/store/apps/details?id=com.playsome.friendsanddragons&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.hero.may.cry.adventure.game",
+      "title": "슬라임 군단",
+      "developer": "Perfeggs",
+      "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
+      "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
     {
       "appId": "com.im30.ROE.gp",
       "title": "라이즈 오브 엠파이어",
@@ -4671,33 +4701,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubadu.mimmi",
-      "title": "Bubbu & Mimmi 월드",
-      "developer": "Bubadu",
-      "icon": "https://play-lh.googleusercontent.com/AINuWx1TbYjGwDllG3wgHkQUdVn1vNME56rUr2zN1t-7FEHDL_fGWdY3ltpxaD37Ug",
-      "url": "https://play.google.com/store/apps/details?id=com.bubadu.mimmi&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.proxima.dfm",
-      "title": "Delta Force",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/oLgL7u-F5_q_gdqiPgtQbEZZk-0Mmn6fGP15VbwHiNO3lIcpsc_RzDYhUG8XynBxltU",
-      "url": "https://play.google.com/store/apps/details?id=com.proxima.dfm&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.art.puzzle",
-      "title": "Art Puzzle - 퍼즐 게임",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/clrLTyY9aavoqE1drpoxikhvbL9BPhF_ZEW7T4flilKiy1RvzlcFd1vr1o69JrNQ6H8AmcTMvY9TLlDH_jflTtQ",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.art.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
