@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T14:49:08.323Z",
+  "updatedAt": "2026-04-11T14:57:36.267Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -4666,6 +4666,15 @@
       "isGame": true
     },
     {
+      "appId": "com.biligamekr.aggp",
+      "title": "에테르 게이저",
+      "developer": "YOUNGS GAME",
+      "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
+      "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
+      "discoveredDate": "2026-03-31",
+      "isGame": true
+    },
+    {
       "appId": "com.bubadu.mimmi",
       "title": "Bubbu & Mimmi 월드",
       "developer": "Bubadu",
@@ -5067,15 +5076,6 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/agO2GK3yM4kqmPLFDRlVZ4IVj1naCLUyGPEYxH5ky3nrP2WGbQj8xD_LLSP0C5mABiI",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.ludo&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.biligamekr.aggp",
-      "title": "에테르 게이저",
-      "developer": "YOUNGS GAME",
-      "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
-      "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
