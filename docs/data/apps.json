@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T21:44:42.304Z",
+  "updatedAt": "2026-04-11T22:09:14.660Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -860,9 +860,20 @@
     "com.playsome.friendsanddragons",
     "com.hero.may.cry.adventure.game",
     "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
-    "ata.kraken.heckfire"
+    "ata.kraken.heckfire",
+    "com.herocraft.game.free.superfarmers",
+    "com.sinyee.babybus.garden"
   ],
   "items": [
+    {
+      "appId": "com.hero.may.cry.adventure.game",
+      "title": "슬라임 군단",
+      "developer": "Perfeggs",
+      "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
+      "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
     {
       "appId": "com.gokids.tbdoll",
       "title": "패션 여자를위한 게임을 드레스. 봉제 의류",
@@ -882,15 +893,6 @@
       "isGame": true
     },
     {
-      "appId": "com.hero.may.cry.adventure.game",
-      "title": "슬라임 군단",
-      "developer": "Perfeggs",
-      "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
-      "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-12",
-      "isGame": true
-    },
-    {
       "appId": "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
       "title": "Monster Slayer : 유휴 RPG 게임",
       "developer": "Fansipan Limited",
@@ -905,6 +907,24 @@
       "developer": "A Thinking Ape Entertainment Ltd.",
       "icon": "https://play-lh.googleusercontent.com/qeYIpZzdYF5wI2iAzb4knFhEYr4ctj8QhzwRK9LuZhL9ADgdSsMjk-Ykzm1dg442CQ",
       "url": "https://play.google.com/store/apps/details?id=ata.kraken.heckfire&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.free.superfarmers",
+      "title": "Superfarmers: Superhero Farm",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/56_UL31hbYvLWW9RrBWa7QSCG7ktQPU5AaLcYT4NzBc5Lj0cd_hqE57ljm9sGss-t5s",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.superfarmers&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.garden",
+      "title": "아기 팬더의 농장",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/I54loSTc2nDdKIut8_fpI6emBtLdZLWx9KTC65CBAbMXpul_hxuEvLZFr53MbCoGAb0",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.garden&hl=ko&gl=KR",
       "discoveredDate": "2026-04-12",
       "isGame": true
     },
@@ -4721,24 +4741,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.realsniper",
-      "title": "Pure Sniper: 슈팅 저격 액션  게임",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/CPc45Ft9-LCjGoPS2MU7OZzwxBwnAVUAIqhqF6DtLaFMrCCYJvcn85Yf4EXpKTOH0kE",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.realsniper&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.spider.solitaire",
-      "title": "스파이더 카드놀이 - 카드 게임",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/-o2rLygRffYP9B2U8v9eyJc44vsOUdjU8hU3OCQYFnvNOnN54O4JCTLv5Lsty1TPFOp0",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.spider.solitaire&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
