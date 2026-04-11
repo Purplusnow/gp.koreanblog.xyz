@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T11:40:08.871Z",
+  "updatedAt": "2026-04-11T13:19:24.234Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -854,7 +854,8 @@
     "com.madovergames.BubbleShooterGames",
     "com.tp.pmu3d",
     "com.g5e.sherlock.android",
-    "com.ncsoft.lineagem19"
+    "com.ncsoft.lineagem19",
+    "com.ea.game.starwarscapital_row"
   ],
   "items": [
     {
@@ -971,6 +972,15 @@
       "developer": "NC Corporation",
       "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
       "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.game.starwarscapital_row",
+      "title": "스타워즈: 갤럭시 오브 히어로즈",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/Mj31-e7c_aHY96p2t-v-iFji7bPuecSsmDZgO5_5vGq-vvJO_uaB__Nm5j8kylJVfbiXi9rAifJtPbpd7j6P9qo",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4652,15 +4662,6 @@
       "developer": "Xombat Development - Airline manager games",
       "icon": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
       "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapblaze.coffeebusiness",
-      "title": "좋은 커피, 위대한 커피",
-      "developer": "TapBlaze",
-      "icon": "https://play-lh.googleusercontent.com/8VmEqrFsGQlykmwtBljq0GTF7qvxA1jsuS9oMYJIZOlYJTCHjtQG3QXiweA4W7oRn9WVM0MhSXOvF9tXgvVMzdA",
-      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.coffeebusiness&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
