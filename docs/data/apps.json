@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T19:44:28.874Z",
+  "updatedAt": "2026-04-11T20:48:17.252Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -858,7 +858,9 @@
     "com.ea.game.starwarscapital_row",
     "com.gokids.tbdoll",
     "com.playsome.friendsanddragons",
-    "com.hero.may.cry.adventure.game"
+    "com.hero.may.cry.adventure.game",
+    "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
+    "ata.kraken.heckfire"
   ],
   "items": [
     {
@@ -885,6 +887,24 @@
       "developer": "Perfeggs",
       "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
       "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
+      "title": "Monster Slayer : 유휴 RPG 게임",
+      "developer": "Fansipan Limited",
+      "icon": "https://play-lh.googleusercontent.com/N-312eR6cQduHMW3IE3jUq2AseVSAQbIoYLAnptktggoqwXPgJfHlHTAczUgqBla9Iw",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.monster.slayer.idle.rpg.legends.war.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "ata.kraken.heckfire",
+      "title": "Kingdoms of HF - 제국 게임",
+      "developer": "A Thinking Ape Entertainment Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/qeYIpZzdYF5wI2iAzb4knFhEYr4ctj8QhzwRK9LuZhL9ADgdSsMjk-Ykzm1dg442CQ",
+      "url": "https://play.google.com/store/apps/details?id=ata.kraken.heckfire&hl=ko&gl=KR",
       "discoveredDate": "2026-04-12",
       "isGame": true
     },
@@ -4701,24 +4721,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.nonogram",
-      "title": "노노그램 - 픽처 크로스 퍼즐",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/hkT49tQvIp2WBwLlricTSrg-0Xm8Tv4Al0SwKNXt048BaatQZOmEJY4S-TNUbfZWNAdb",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.nonogram&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.Hypemasters.rts",
-      "title": "World War Armies: WW2 PvP RTS",
-      "developer": "Hypemasters, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/iK6Hy6lsWsqeWK0ybwQTtYBaSSZLCokXQRyyygXHAZVWEMQuJ3uvW-R48qew49TNqoO4",
-      "url": "https://play.google.com/store/apps/details?id=com.Hypemasters.rts&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
