@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T06:08:55.201Z",
+  "updatedAt": "2026-04-11T06:47:53.818Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -852,7 +852,8 @@
     "com.tinyco.potter",
     "com.beauty.tiles.story.makeover.puzzle.match",
     "com.madovergames.BubbleShooterGames",
-    "com.tp.pmu3d"
+    "com.tp.pmu3d",
+    "com.g5e.sherlock.android"
   ],
   "items": [
     {
@@ -951,6 +952,15 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/_wQVvw-2L_OTMbNyGrQAbanl04c0h_4_pf28kpiQftG-0BJUDGNycQa3yknYToVAyRo",
       "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.sherlock.android",
+      "title": "셜록 (Sherlock) - 숨겨진 매치-3 사건록",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/62t4FrK65nCA6xZ-3S8iUklhsiLRkMeDUJJEtkCClvlkrEfKWQq-QpCr4_AXES2zCw",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.sherlock.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4627,11 +4637,11 @@
       "isGame": true
     },
     {
-      "appId": "uk.co.yakuto.DartsOfFury",
-      "title": "Darts of Fury",
-      "developer": "Yakuto",
-      "icon": "https://play-lh.googleusercontent.com/p2uRk_rn7kX2Rl8gge4z0iwPcbUtEZKPRHCzCh5NGEARsd0o-HhRvSKwY9Rn1c8TRA",
-      "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.DartsOfFury&hl=ko&gl=KR",
+      "appId": "com.trophygames.truckmanager",
+      "title": "Truck Manager - 2026",
+      "developer": "Xombat Development - Airline manager games",
+      "icon": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
+      "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
@@ -5037,15 +5047,6 @@
       "developer": "Nazara Publishing",
       "icon": "https://play-lh.googleusercontent.com/0nJegBwmob3M-qm4p9EfcHmCKOE0HM_f66ZgsOPUtwW5apuQtUPl02py5i7tL-UQG8I",
       "url": "https://play.google.com/store/apps/details?id=com.zeptolab.cats.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.trophygames.truckmanager",
-      "title": "Truck Manager - 2026",
-      "developer": "Xombat Development - Airline manager games",
-      "icon": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
-      "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
