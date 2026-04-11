@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T05:37:01.418Z",
+  "updatedAt": "2026-04-11T06:08:55.201Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -892,6 +892,15 @@
       "isGame": true
     },
     {
+      "appId": "com.madovergames.BubbleShooterGames",
+      "title": "버블 슈터 게임2026",
+      "developer": "Bubble Shooter @ MadOverGames",
+      "icon": "https://play-lh.googleusercontent.com/TeTSl64HtU_6DHjlfKJknMsHFw7ssniLcRiuy4aqKW_CHrGPlyvr1ik74Ye1PpcNaA",
+      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterGames&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
       "appId": "com.smokingguninc.phobies",
       "title": "포비즈: PVP 카드 배틀",
       "developer": "Phobies Holdings Inc.",
@@ -933,15 +942,6 @@
       "developer": "Pexix Inc.",
       "icon": "https://play-lh.googleusercontent.com/3R411OCCepUzd30OBcvcxt_mHl9O7JgOn4Eg-NJ0mhvt-UPeKhvCvWOwC_-8Eo1x1E_4",
       "url": "https://play.google.com/store/apps/details?id=com.beauty.tiles.story.makeover.puzzle.match&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.madovergames.BubbleShooterGames",
-      "title": "버블 슈터 게임2026",
-      "developer": "Bubble Shooter @ MadOverGames",
-      "icon": "https://play-lh.googleusercontent.com/TeTSl64HtU_6DHjlfKJknMsHFw7ssniLcRiuy4aqKW_CHrGPlyvr1ik74Ye1PpcNaA",
-      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterGames&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
