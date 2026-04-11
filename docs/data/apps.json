@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T06:47:53.818Z",
+  "updatedAt": "2026-04-11T07:14:45.004Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -853,7 +853,8 @@
     "com.beauty.tiles.story.makeover.puzzle.match",
     "com.madovergames.BubbleShooterGames",
     "com.tp.pmu3d",
-    "com.g5e.sherlock.android"
+    "com.g5e.sherlock.android",
+    "com.ncsoft.lineagem19"
   ],
   "items": [
     {
@@ -961,6 +962,15 @@
       "developer": "G5 Entertainment",
       "icon": "https://play-lh.googleusercontent.com/62t4FrK65nCA6xZ-3S8iUklhsiLRkMeDUJJEtkCClvlkrEfKWQq-QpCr4_AXES2zCw",
       "url": "https://play.google.com/store/apps/details?id=com.g5e.sherlock.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.ncsoft.lineagem19",
+      "title": "리니지M",
+      "developer": "NC Corporation",
+      "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
+      "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
@@ -4642,15 +4652,6 @@
       "developer": "Xombat Development - Airline manager games",
       "icon": "https://play-lh.googleusercontent.com/He7qU9QUyAi1YytGfzXuGKFRKv_BQ2oAjWA4Foa77-lqEx2iOOdABfwQuGdCOjsls9M",
       "url": "https://play.google.com/store/apps/details?id=com.trophygames.truckmanager&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.rovio.dream",
-      "title": "앵그리버드 드림 블라스트: 버블 퍼즐 팝핑 게임",
-      "developer": "Rovio Entertainment Oy",
-      "icon": "https://play-lh.googleusercontent.com/INjAX3rST_6h8j8FDaB9LMlgv-dCMd-g1aCKE7OIuTG9UqB9X95Ow86xPdC1U_onhQ",
-      "url": "https://play.google.com/store/apps/details?id=com.rovio.dream&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
