@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T22:46:52.642Z",
+  "updatedAt": "2026-04-11T23:47:32.096Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -862,7 +862,8 @@
     "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
     "ata.kraken.heckfire",
     "com.herocraft.game.free.superfarmers",
-    "com.sinyee.babybus.garden"
+    "com.sinyee.babybus.garden",
+    "com.merge.hometown"
   ],
   "items": [
     {
@@ -925,6 +926,15 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/I54loSTc2nDdKIut8_fpI6emBtLdZLWx9KTC65CBAbMXpul_hxuEvLZFr53MbCoGAb0",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.garden&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.merge.hometown",
+      "title": "HomeTown: 병합 퍼즐 게임",
+      "developer": "GamesTown",
+      "icon": "https://play-lh.googleusercontent.com/BTxW1F_ZMAgKN47e2wTZW--h6_OwgiVNS0yKP2N3oRWSu-fvzUQozidaI2Z7gAOcxfdFgF0WRNQevFEIyVhHqw",
+      "url": "https://play.google.com/store/apps/details?id=com.merge.hometown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-12",
       "isGame": true
     },
@@ -4741,15 +4751,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "eu.nordeus.topeleven.android",
-      "title": "Top Eleven 2026: 축구 감독 게임",
-      "developer": "Nordeus",
-      "icon": "https://play-lh.googleusercontent.com/syHICcpM4rKF6_vACJknkvXhHRBju_P7P93E3cNR701Rc3alNdC1NpTvPxlhDGvvgT9pHVzfR2gOvyvFesXGrHU",
-      "url": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
