@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T03:14:36.017Z",
+  "updatedAt": "2026-04-11T04:37:14.370Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -865,20 +865,20 @@
       "isGame": true
     },
     {
-      "appId": "com.d3p.mpq",
-      "title": "MARVEL Puzzle Quest: 히어로 RPG",
-      "developer": "505 Go Inc.",
-      "icon": "https://play-lh.googleusercontent.com/zA6dVNzbfOJEaSSgGtSYgmUPa4-S71oajdyuUyZOzA2XLaPxqB9_q-MqX5N7h6-sZMU",
-      "url": "https://play.google.com/store/apps/details?id=com.d3p.mpq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
       "appId": "com.sega.sonicdash",
       "title": "Sonic Dash: Endless Run",
       "developer": "SEGA",
       "icon": "https://play-lh.googleusercontent.com/4F-WwVKAs56rT6DGSfu1-9sW4MqSjenlIUqWS1K_8iB25ktsHKXXScAwJonvwo7DuMA",
       "url": "https://play.google.com/store/apps/details?id=com.sega.sonicdash&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.d3p.mpq",
+      "title": "MARVEL Puzzle Quest: 히어로 RPG",
+      "developer": "505 Go Inc.",
+      "icon": "https://play-lh.googleusercontent.com/zA6dVNzbfOJEaSSgGtSYgmUPa4-S71oajdyuUyZOzA2XLaPxqB9_q-MqX5N7h6-sZMU",
+      "url": "https://play.google.com/store/apps/details?id=com.d3p.mpq&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
