@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T04:50:18.458Z",
+  "updatedAt": "2026-04-11T05:00:36.314Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -883,6 +883,15 @@
       "isGame": true
     },
     {
+      "appId": "com.tinyco.potter",
+      "title": "해리 포터: 호그와트 미스테리",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/C1ieGP1wXEBl29RtWqvY-x1MxBjjxeduYBe3TL1fNAYnNAfIoQik2pTW8EyhiN5pBA",
+      "url": "https://play.google.com/store/apps/details?id=com.tinyco.potter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
       "appId": "com.smokingguninc.phobies",
       "title": "포비즈: PVP 카드 배틀",
       "developer": "Phobies Holdings Inc.",
@@ -915,15 +924,6 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/UbORhduMQUweKzNrrhPiw12fyVAAK2__t0aeoVr1wlxkM389duuyo9Gss4GK_kwK9epB-ZxEZUr5L-5cLBtPtuw",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.maddennfl21mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.tinyco.potter",
-      "title": "해리 포터: 호그와트 미스테리",
-      "developer": "Jam City, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/C1ieGP1wXEBl29RtWqvY-x1MxBjjxeduYBe3TL1fNAYnNAfIoQik2pTW8EyhiN5pBA",
-      "url": "https://play.google.com/store/apps/details?id=com.tinyco.potter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
