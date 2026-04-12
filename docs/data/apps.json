@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T16:53:47.080Z",
+  "updatedAt": "2026-04-12T17:48:05.037Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -863,9 +863,19 @@
     "ata.kraken.heckfire",
     "com.herocraft.game.free.superfarmers",
     "com.sinyee.babybus.garden",
-    "com.merge.hometown"
+    "com.merge.hometown",
+    "com.gamevil.kritikamobile.android.google.global.normal"
   ],
   "items": [
+    {
+      "appId": "com.gamevil.kritikamobile.android.google.global.normal",
+      "title": "크리티카: 천상의 기사단 - 액션 RPG",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/bufPUrVaUBZKAkr8NviR9_e4mxdpTwFB5DULuvN2-LLq8_z-wd6nMzIcLigeaAeUMJ68",
+      "url": "https://play.google.com/store/apps/details?id=com.gamevil.kritikamobile.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-13",
+      "isGame": true
+    },
     {
       "appId": "com.hero.may.cry.adventure.game",
       "title": "슬라임 군단",
@@ -4751,15 +4761,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bricks.vs.balls.breaker",
-      "title": "Bricks vs Balls Breaker",
-      "developer": "Bricks Ball Games",
-      "icon": "https://play-lh.googleusercontent.com/7sfGYB6f26D9XlKbmBBKGivAUcrYMnvgTKGTlFXYvYq2nqIaedrcYTJqIICOgNxm3NuS",
-      "url": "https://play.google.com/store/apps/details?id=com.bricks.vs.balls.breaker&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
