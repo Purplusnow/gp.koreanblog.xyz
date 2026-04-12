@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T20:49:28.009Z",
+  "updatedAt": "2026-04-12T21:47:28.377Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -864,7 +864,8 @@
     "com.herocraft.game.free.superfarmers",
     "com.sinyee.babybus.garden",
     "com.merge.hometown",
-    "com.gamevil.kritikamobile.android.google.global.normal"
+    "com.gamevil.kritikamobile.android.google.global.normal",
+    "com.mobirix.mbbi"
   ],
   "items": [
     {
@@ -873,6 +874,15 @@
       "developer": "Com2uS Holdings",
       "icon": "https://play-lh.googleusercontent.com/bufPUrVaUBZKAkr8NviR9_e4mxdpTwFB5DULuvN2-LLq8_z-wd6nMzIcLigeaAeUMJ68",
       "url": "https://play.google.com/store/apps/details?id=com.gamevil.kritikamobile.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.mbbi",
+      "title": "블레이드 키우기",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/Y7R7jNJq6JyNHSFiJ8weuJSVKcMaMZVNvDa9VsO6hLXAQEfafCIA8zCixEO-g_rmZeGL2lv8JFqYLk85Jc2Gwg",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mbbi&hl=ko&gl=KR",
       "discoveredDate": "2026-04-13",
       "isGame": true
     },
@@ -4761,15 +4771,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.weplaydots.twodotsandroid",
-      "title": "Two Dots",
-      "developer": "PlayDots",
-      "icon": "https://play-lh.googleusercontent.com/MePTYYTEbb6fb40AYk7KWphkYcqoAq9l2T7VaAk8N3S5UpWB5WIIMnnGh7imx-ZPWuM",
-      "url": "https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
