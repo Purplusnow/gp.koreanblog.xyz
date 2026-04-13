@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T21:06:10.622Z",
+  "updatedAt": "2026-04-13T22:57:23.277Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -873,7 +873,8 @@
     "com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games",
     "com.herocraft.game.free.jollydaysfarm",
     "com.casualjoygames.happymergehome",
-    "com.fme.cooking.crush.food.games"
+    "com.fme.cooking.crush.food.games",
+    "com.ripostegames.shopr"
   ],
   "items": [
     {
@@ -918,6 +919,15 @@
       "developer": "FlowMotion Entertainment",
       "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
       "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.ripostegames.shopr",
+      "title": "Shop Titans: 제작하고 디자인해요",
+      "developer": "Kabam Games, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/sJhkhJxRHK4mASNN12GyDZK2BzUC_ZioCPQFBHp6Qu37dnux28qkddbcyopoXu7hehXdJqv-LXWZ8aKztHDnEQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ripostegames.shopr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4851,15 +4861,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.matching.games.goods.sort.triple.puzzle",
-      "title": "상품 3D 스토어 게임",
-      "developer": "LifePulse Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/vhiQBGxyPSGcEBaZm1zjZPX0-zpAVpoB50m82gNIhHwGdZ7JPy7Wu1uu7p-APCLhkE3edg1VzsjM3TMLXUAkYA",
-      "url": "https://play.google.com/store/apps/details?id=com.matching.games.goods.sort.triple.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
