@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T06:24:41.258Z",
+  "updatedAt": "2026-04-13T09:07:18.125Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -865,7 +865,8 @@
     "com.sinyee.babybus.garden",
     "com.merge.hometown",
     "com.gamevil.kritikamobile.android.google.global.normal",
-    "com.mobirix.mbbi"
+    "com.mobirix.mbbi",
+    "com.geeker.gok"
   ],
   "items": [
     {
@@ -883,6 +884,15 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/Y7R7jNJq6JyNHSFiJ8weuJSVKcMaMZVNvDa9VsO6hLXAQEfafCIA8zCixEO-g_rmZeGL2lv8JFqYLk85Jc2Gwg",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.mbbi&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.geeker.gok",
+      "title": "게임 오브 킹즈 : 피의 왕관",
+      "developer": "LIGHTNING STUDIOS",
+      "icon": "https://play-lh.googleusercontent.com/jq4IlMIdkmvpiqZ2QevPwMpvMtnwli5M4xvXbuBk5YKkHNN2Xbo9cJ5gK5fl9_8UarK_xhFrL9_aAmRYv2MS",
+      "url": "https://play.google.com/store/apps/details?id=com.geeker.gok&hl=ko&gl=KR",
       "discoveredDate": "2026-04-13",
       "isGame": true
     },
@@ -4771,15 +4781,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.generagames.resistance",
-      "title": "Cover Fire (커버 파이어) - 슈팅 게임",
-      "developer": "Viva Games Studios",
-      "icon": "https://play-lh.googleusercontent.com/OG9XusJv0lU1S7nfKxUiuv4gRDR9Fxm6IlCYU4atvL0XQqLG_BLhRjKC6mxyVwD8s9I",
-      "url": "https://play.google.com/store/apps/details?id=com.generagames.resistance&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
