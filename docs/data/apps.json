@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T19:26:44.158Z",
+  "updatedAt": "2026-04-13T21:06:10.622Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -871,7 +871,9 @@
     "com.iz.hospital.doctor.game.kids.girls.baby",
     "com.sinyee.babybus.marketV",
     "com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games",
-    "com.herocraft.game.free.jollydaysfarm"
+    "com.herocraft.game.free.jollydaysfarm",
+    "com.casualjoygames.happymergehome",
+    "com.fme.cooking.crush.food.games"
   ],
   "items": [
     {
@@ -898,6 +900,24 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/2ps8Tw8n26Tp1stAC_J2PMwnNmyij4HKQzt9v7ruRVEqHQbnBPZJj5k81O17HUvZJYbz",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.jollydaysfarm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.casualjoygames.happymergehome",
+      "title": "Happy Merge Home: ASMR",
+      "developer": "Casual Joy Games",
+      "icon": "https://play-lh.googleusercontent.com/MMahjhkPlR4swyqhNzwhCTmFrZVo1kC51LsMeKasfgzw_6Y1XY_OflYhsEMfy2FSwz-e",
+      "url": "https://play.google.com/store/apps/details?id=com.casualjoygames.happymergehome&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.fme.cooking.crush.food.games",
+      "title": "Cooking Crush: 요리게임",
+      "developer": "FlowMotion Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
+      "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4831,24 +4851,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bitmango.go.jewelsmagicmysterymatch3",
-      "title": "Jewels Magic: Mystery Match3",
-      "developer": "Puzzle1Studio",
-      "icon": "https://play-lh.googleusercontent.com/434ET2YGH832jVxW5saYavmdHaQ4metJ1I_IkWq0MxnKsI3Xzkl0E1vuESRjDGvoTyc",
-      "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.jewelsmagicmysterymatch3&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bestplaygame.screwmatch",
-      "title": "Screw Match™: ASMR Blast",
-      "developer": "AlphaPlay Games",
-      "icon": "https://play-lh.googleusercontent.com/RlAHBisFN1-7LolONp-kUjPHtA2YEQLDJPHcGAu2IZwJMNJMMoqUngbIf-jtx50xtB0",
-      "url": "https://play.google.com/store/apps/details?id=com.bestplaygame.screwmatch&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
