@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T17:16:07.875Z",
+  "updatedAt": "2026-04-13T19:26:44.158Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -869,7 +869,9 @@
     "com.geeker.gok",
     "com.tombminer.idle.merge",
     "com.iz.hospital.doctor.game.kids.girls.baby",
-    "com.sinyee.babybus.marketV"
+    "com.sinyee.babybus.marketV",
+    "com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games",
+    "com.herocraft.game.free.jollydaysfarm"
   ],
   "items": [
     {
@@ -878,6 +880,24 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/wMJf9NokZ3-NJpC4huhp_LLtVyQ1Bld5LZSSb1oIhE_c_FxKMXS5Qr6XKwYtxTqVAkcB",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketV&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games",
+      "title": "Tizi 타운 병원 - 아이들을위한 의사 게임",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/dvnaXFFAh3sFGj5CMpmcG9giN6Wano1pfnpyVORz0aiGNyS7sz8muUV00xm4LswRa_0",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.free.jollydaysfarm",
+      "title": "행복 목장: 즐거운 시간 관리 아케이드",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/2ps8Tw8n26Tp1stAC_J2PMwnNmyij4HKQzt9v7ruRVEqHQbnBPZJj5k81O17HUvZJYbz",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.jollydaysfarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4811,24 +4831,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.hundred_doors_game.escape_from_prison",
-      "title": "100 개의 문 감옥에서 탈출해보세요— 감옥 탈출 게임",
-      "developer": "Peaksel Games",
-      "icon": "https://play-lh.googleusercontent.com/F5d6KOFAAceFFcelbEdFiTNd-vIzDq6NzHgL5r0wEeNew6_H6JAH4XkhpkoQ93xvdw",
-      "url": "https://play.google.com/store/apps/details?id=com.hundred_doors_game.escape_from_prison&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.apocalypse.zombie.games",
-      "title": "파이어 슈터: 좀비 오프라인",
-      "developer": "VNGGames Studios",
-      "icon": "https://play-lh.googleusercontent.com/Gr0BmVsMFvoIlUDgNqaFhJvYP6oKfM-HfczWTIHv9mBiskDFqmPxfGoV6X8kPyQ15MM",
-      "url": "https://play.google.com/store/apps/details?id=com.apocalypse.zombie.games&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
