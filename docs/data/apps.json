@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T14:04:05.110Z",
+  "updatedAt": "2026-04-13T15:42:13.293Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -868,9 +868,19 @@
     "com.mobirix.mbbi",
     "com.geeker.gok",
     "com.tombminer.idle.merge",
-    "com.iz.hospital.doctor.game.kids.girls.baby"
+    "com.iz.hospital.doctor.game.kids.girls.baby",
+    "com.sinyee.babybus.marketV"
   ],
   "items": [
+    {
+      "appId": "com.sinyee.babybus.marketV",
+      "title": "Baby Panda's Town: 휴가",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/wMJf9NokZ3-NJpC4huhp_LLtVyQ1Bld5LZSSb1oIhE_c_FxKMXS5Qr6XKwYtxTqVAkcB",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketV&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
     {
       "appId": "com.gamevil.kritikamobile.android.google.global.normal",
       "title": "크리티카: 천상의 기사단 - 액션 RPG",
@@ -4801,15 +4811,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.dp.hidden.objects",
-      "title": "히든 오브젝트 - 포토 퍼즐 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/eexFQXzI4MsWzSNoKkKR-xd6kylwk6M38JOl07SPyyxUh2yxySI29tOuPwKBNRUA93w",
-      "url": "https://play.google.com/store/apps/details?id=com.dp.hidden.objects&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
