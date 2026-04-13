@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T22:57:23.277Z",
+  "updatedAt": "2026-04-13T23:54:35.643Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -874,7 +874,11 @@
     "com.herocraft.game.free.jollydaysfarm",
     "com.casualjoygames.happymergehome",
     "com.fme.cooking.crush.food.games",
-    "com.ripostegames.shopr"
+    "com.ripostegames.shopr",
+    "com.polygon.arena",
+    "com.beresnevgames.gallerycoloringbook",
+    "com.sinyee.babybus.kindergarten",
+    "com.drg.woolpuzzle3d"
   ],
   "items": [
     {
@@ -928,6 +932,42 @@
       "developer": "Kabam Games, Inc.",
       "icon": "https://play-lh.googleusercontent.com/sJhkhJxRHK4mASNN12GyDZK2BzUC_ZioCPQFBHp6Qu37dnux28qkddbcyopoXu7hehXdJqv-LXWZ8aKztHDnEQ",
       "url": "https://play.google.com/store/apps/details?id=com.ripostegames.shopr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.polygon.arena",
+      "title": "Polygun Arena: Online Shooter",
+      "developer": "Sirius Games Yazılım Anonim Şirketi",
+      "icon": "https://play-lh.googleusercontent.com/_KedaMQ4Pwjg9DpINQAKzq-pf793KJ5CZSsXJwOL01XdXOp5QzS36CYlmjT3I9TaxhE",
+      "url": "https://play.google.com/store/apps/details?id=com.polygon.arena&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.beresnevgames.gallerycoloringbook",
+      "title": "Gallery: 숫자 및 가정 장식으로 색칠하기 책",
+      "developer": "Beresnev Games",
+      "icon": "https://play-lh.googleusercontent.com/UzCXuN_jgqOPabpDZOCaDJPSKxgs9SKYqTh9c2Sw7ZbZ3URKNjumtd1NtSoCtaBbB3eo",
+      "url": "https://play.google.com/store/apps/details?id=com.beresnevgames.gallerycoloringbook&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.kindergarten",
+      "title": "귀염이 어린이집-유아교육 유치원 체험놀이",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/NmKFLP-SI-Q9-YNXaDNTo1fX2mW1mtolUKEB8vxgqZ8510hXDkDd2HBqIe3yIypYcS4",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.kindergarten&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.drg.woolpuzzle3d",
+      "title": "Wool Escape 3D: ASMR",
+      "developer": "DRAGON RISING PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/RAfleP77cpj0P86YHiV_9yqeezwnl1yOlL2NefSbFz1W3wIn7__F9jGqeVmI6bOFQMfMPwnvtMY-pKVdoN9L1zg",
+      "url": "https://play.google.com/store/apps/details?id=com.drg.woolpuzzle3d&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4861,42 +4901,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "killer.sudoku.free.brain.puzzle",
-      "title": "킬러 스도쿠, 스도쿠 퍼즐, 두뇌 게임",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/OJx0Od46u7bQCOVwYYqyQzWTSl2YeWqgJoJuPF4BNIkyGcqvb1sOyiQOlKNKRJ635zE8",
-      "url": "https://play.google.com/store/apps/details?id=killer.sudoku.free.brain.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.fc.nut.screw.bolt.washer.fastener.puzzle",
-      "title": "나사 퍼즐: 나무 너트 & 볼트",
-      "developer": "FALCON GAMES",
-      "icon": "https://play-lh.googleusercontent.com/ldlsCvWUaR4HUFGer3rub7KH4QuhylnuzTNusOFLZFVSqBQw_eqC2nweDXccxPn3om8",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.nut.screw.bolt.washer.fastener.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.pank0.usagishima",
-      "title": "토끼의 섬: 귀여운 토끼 게임",
-      "developer": "studio rabbiko",
-      "icon": "https://play-lh.googleusercontent.com/NRtommUBTU56a85lzZ1N6U_e6-VrmnerymY4LGfW9EXBZA9M7ebWhAYdtMnazXNPjEE",
-      "url": "https://play.google.com/store/apps/details?id=com.pank0.usagishima&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.runninggame.subwayrunner.heroes",
-      "title": "Runner Heroes",
-      "developer": "IVYGAMES",
-      "icon": "https://play-lh.googleusercontent.com/EnOnISNs-nuZUUjN-pUVx9Np19OtZSwfbPHvrZK-PeRe3Cz_2LKnPe9zlAXOeAdgy_Rs",
-      "url": "https://play.google.com/store/apps/details?id=com.runninggame.subwayrunner.heroes&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
