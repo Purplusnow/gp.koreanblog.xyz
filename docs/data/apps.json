@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T11:25:25.255Z",
+  "updatedAt": "2026-04-13T14:04:05.110Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -866,7 +866,9 @@
     "com.merge.hometown",
     "com.gamevil.kritikamobile.android.google.global.normal",
     "com.mobirix.mbbi",
-    "com.geeker.gok"
+    "com.geeker.gok",
+    "com.tombminer.idle.merge",
+    "com.iz.hospital.doctor.game.kids.girls.baby"
   ],
   "items": [
     {
@@ -893,6 +895,24 @@
       "developer": "LIGHTNING STUDIOS",
       "icon": "https://play-lh.googleusercontent.com/jq4IlMIdkmvpiqZ2QevPwMpvMtnwli5M4xvXbuBk5YKkHNN2Xbo9cJ5gK5fl9_8UarK_xhFrL9_aAmRYv2MS",
       "url": "https://play.google.com/store/apps/details?id=com.geeker.gok&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.tombminer.idle.merge",
+      "title": "Tomb Miner - Idle Merge",
+      "developer": "AKPublish pty ltd",
+      "icon": "https://play-lh.googleusercontent.com/G9CXAF_jY4KAGAb9b73oDUIdmVXBYTm-ClgLNEWNSUYeXLfv2pHmBBbZBZSb1g3BaWkWWDup0h4a3yJSJ8Kvi1Y",
+      "url": "https://play.google.com/store/apps/details?id=com.tombminer.idle.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.hospital.doctor.game.kids.girls.baby",
+      "title": "어린이를 위한 병원 의사 게임",
+      "developer": "Timpy Games For Kids, Toddlers & Baby",
+      "icon": "https://play-lh.googleusercontent.com/bYu46utm5nrI_50qEay-osIPWI6ngSV-qhQ97031P7CkKSVKQ1BBozrNugCRUd8nAn9b",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.hospital.doctor.game.kids.girls.baby&hl=ko&gl=KR",
       "discoveredDate": "2026-04-13",
       "isGame": true
     },
@@ -4781,24 +4801,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bitmango.go.wordcookies",
-      "title": "워드 쿠키즈! ®",
-      "developer": "BitMango",
-      "icon": "https://play-lh.googleusercontent.com/G81Ds_vE_ED-3kkXKRsQ_fuMeoKjsNM5n_adR9XRZrVTYKRajB_mlrmUHECMHJwz96Q",
-      "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.wordcookies&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.dysugar.jewels.prince",
-      "title": "고전 보석 왕자",
-      "developer": "IVYGAMES",
-      "icon": "https://play-lh.googleusercontent.com/2Ah-k7zr9PrfjoKfpyvWCgTuuFLVOf3DkIXrWKZ14qBsgkb2WaE3JrGb76f9CApO3Lc",
-      "url": "https://play.google.com/store/apps/details?id=com.dysugar.jewels.prince&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
