@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T10:24:26.997Z",
+  "updatedAt": "2026-04-14T12:05:46.432Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -880,7 +880,9 @@
     "com.sinyee.babybus.kindergarten",
     "com.drg.woolpuzzle3d",
     "com.rbx.steamcity.android",
-    "com.gameloft.android.ANMP.GloftDYHM"
+    "com.gameloft.android.ANMP.GloftDYHM",
+    "com.linegames.pak",
+    "com.crowdstar.covetHome"
   ],
   "items": [
     {
@@ -988,6 +990,24 @@
       "developer": "Gameloft SE",
       "icon": "https://play-lh.googleusercontent.com/ni0xOvxUHLeABib3ouxpLyW4tt8Gsup7M_LwGJPsf19iAMKcKseOhz9UrOfPxO01AF4",
       "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDYHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.linegames.pak",
+      "title": "애니멀 버스터즈 : 방치형RPG",
+      "developer": "LINE Games",
+      "icon": "https://play-lh.googleusercontent.com/yhTVQcdVCvj5Ii2cbJekRqiet2SrBvEe7QA6yAR0O_oRb4KRI20Rtz2d7D9Xwq_MI3o",
+      "url": "https://play.google.com/store/apps/details?id=com.linegames.pak&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.crowdstar.covetHome",
+      "title": "Design Home™: 집꾸미기 게임",
+      "developer": "Crowdstar Inc",
+      "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
+      "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4921,24 +4941,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.snake.io.slither.worms",
-      "title": "Snake Lite® - Worm Snake Game",
-      "developer": "Hippo Lab",
-      "icon": "https://play-lh.googleusercontent.com/unaCabpPBNL2HiMCyjCIO81ab1XGJU2ZnNYOdobeg60bEfc8zoIcudRA10SjJlSHkQ",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.worms&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.orange.kidspiano.music.songs",
-      "title": "피아노 키즈 - 음악 및 노래",
-      "developer": "Orange Studios Games",
-      "icon": "https://play-lh.googleusercontent.com/FafD4vlzxogAHYu3KaNuQ0mlKY0FIm11SqAXrqOIPPWsPMhTZUJ6LwuBJktMU_JT0_w",
-      "url": "https://play.google.com/store/apps/details?id=com.orange.kidspiano.music.songs&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
