@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T06:07:11.530Z",
+  "updatedAt": "2026-04-14T08:49:48.465Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -879,7 +879,8 @@
     "com.beresnevgames.gallerycoloringbook",
     "com.sinyee.babybus.kindergarten",
     "com.drg.woolpuzzle3d",
-    "com.rbx.steamcity.android"
+    "com.rbx.steamcity.android",
+    "com.gameloft.android.ANMP.GloftDYHM"
   ],
   "items": [
     {
@@ -978,6 +979,15 @@
       "developer": "RED BRIX COMPUTER SYSTEMS",
       "icon": "https://play-lh.googleusercontent.com/DoSLW_GouehaDhhbJHgNJq8Y_izzOjnJikjEACAFlMiaOvlhjzSK7skAfRlcRgLmO3Y",
       "url": "https://play.google.com/store/apps/details?id=com.rbx.steamcity.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftDYHM",
+      "title": "디즈니 매직 킹덤-마법 공원 건설",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/ni0xOvxUHLeABib3ouxpLyW4tt8Gsup7M_LwGJPsf19iAMKcKseOhz9UrOfPxO01AF4",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDYHM&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4911,15 +4921,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.mytalkingangelafree",
-      "title": "마이토킹안젤라",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/rdMpsc5VkkG4JGHIFqNREbWBzXxkZBHN7ZA86DqcZEMmtwWy58NLVDuqWgoG2XCAu4Q",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
