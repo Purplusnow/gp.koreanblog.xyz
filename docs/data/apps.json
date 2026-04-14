@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T16:19:37.971Z",
+  "updatedAt": "2026-04-14T18:14:20.515Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -883,9 +883,19 @@
     "com.gameloft.android.ANMP.GloftDYHM",
     "com.linegames.pak",
     "com.crowdstar.covetHome",
-    "com.farmadventure.global"
+    "com.farmadventure.global",
+    "com.orcas.panthia.island.fairyscapes"
   ],
   "items": [
+    {
+      "appId": "com.orcas.panthia.island.fairyscapes",
+      "title": "판시아: 매직 머지게임",
+      "developer": "Playorcas",
+      "icon": "https://play-lh.googleusercontent.com/NlwtcvjhRtOLR3XcAxpQQNpHPcwQyaYC6rJbjrw03LRbUCr_mv_dg-_Ee0U7b1y7a5Of8q7Y9xGHxB8ZGNUS",
+      "url": "https://play.google.com/store/apps/details?id=com.orcas.panthia.island.fairyscapes&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
     {
       "appId": "com.sinyee.babybus.marketV",
       "title": "Baby Panda's Town: 휴가",
@@ -4951,15 +4961,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.solou.catendless.run",
-      "title": "Cat Runner: Decorate Home",
-      "developer": "Ivy",
-      "icon": "https://play-lh.googleusercontent.com/8AnunWyaQ_vbaDwrsv6z7B5aej_hFVAWLdor0P6Xhiw73kdssaJPtP_3e0bAZWEg6ts",
-      "url": "https://play.google.com/store/apps/details?id=com.solou.catendless.run&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
