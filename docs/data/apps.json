@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T03:35:38.198Z",
+  "updatedAt": "2026-04-14T06:07:11.530Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -878,7 +878,8 @@
     "com.polygon.arena",
     "com.beresnevgames.gallerycoloringbook",
     "com.sinyee.babybus.kindergarten",
-    "com.drg.woolpuzzle3d"
+    "com.drg.woolpuzzle3d",
+    "com.rbx.steamcity.android"
   ],
   "items": [
     {
@@ -968,6 +969,15 @@
       "developer": "DRAGON RISING PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/RAfleP77cpj0P86YHiV_9yqeezwnl1yOlL2NefSbFz1W3wIn7__F9jGqeVmI6bOFQMfMPwnvtMY-pKVdoN9L1zg",
       "url": "https://play.google.com/store/apps/details?id=com.drg.woolpuzzle3d&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.steamcity.android",
+      "title": "Steam City: 도시 건설 게임",
+      "developer": "RED BRIX COMPUTER SYSTEMS",
+      "icon": "https://play-lh.googleusercontent.com/DoSLW_GouehaDhhbJHgNJq8Y_izzOjnJikjEACAFlMiaOvlhjzSK7skAfRlcRgLmO3Y",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.steamcity.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4901,15 +4911,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.storytoys.lego.duplo.peppa.pig.googleplay",
-      "title": "LEGO® DUPLO® 페파 피그",
-      "developer": "StoryToys",
-      "icon": "https://play-lh.googleusercontent.com/2iO9PB-eaTkHf6uxB_5epgsXRql86i2aXUd3HsKIgFzl_1-8Sz2Q-HYo04exrOgjS7bZ2bzb9T660VIqMReY",
-      "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.peppa.pig.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
