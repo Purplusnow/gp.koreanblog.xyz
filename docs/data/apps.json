@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T20:12:52.241Z",
+  "updatedAt": "2026-04-14T22:00:32.985Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -884,7 +884,8 @@
     "com.linegames.pak",
     "com.crowdstar.covetHome",
     "com.farmadventure.global",
-    "com.orcas.panthia.island.fairyscapes"
+    "com.orcas.panthia.island.fairyscapes",
+    "com.bimiboo.kids.cooking.games"
   ],
   "items": [
     {
@@ -893,6 +894,15 @@
       "developer": "Playorcas",
       "icon": "https://play-lh.googleusercontent.com/NlwtcvjhRtOLR3XcAxpQQNpHPcwQyaYC6rJbjrw03LRbUCr_mv_dg-_Ee0U7b1y7a5Of8q7Y9xGHxB8ZGNUS",
       "url": "https://play.google.com/store/apps/details?id=com.orcas.panthia.island.fairyscapes&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.bimiboo.kids.cooking.games",
+      "title": "키즈 요리 게임: 피자게임, 베이킹 그리고 음식 만들기",
+      "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
+      "icon": "https://play-lh.googleusercontent.com/eQ9oBWHBYVf1B0TcthW_5enwic2pEgScohELBgemqu_b62cpmFbWNbu1AXI2gd4K8sj_JLgYIV2rA3HhKg27tA",
+      "url": "https://play.google.com/store/apps/details?id=com.bimiboo.kids.cooking.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
@@ -4961,15 +4971,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.outfit7.mytalkingtomfree",
-      "title": "마이토킹톰",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/NYdtBII04HwY8fU2-BgU7_xAYJwfz2TUTou3D5R0lGiIjeyAy0n4oLDJdwUXII5sdA",
-      "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
