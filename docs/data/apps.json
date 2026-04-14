@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T12:05:46.432Z",
+  "updatedAt": "2026-04-14T14:55:58.594Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -882,7 +882,8 @@
     "com.rbx.steamcity.android",
     "com.gameloft.android.ANMP.GloftDYHM",
     "com.linegames.pak",
-    "com.crowdstar.covetHome"
+    "com.crowdstar.covetHome",
+    "com.farmadventure.global"
   ],
   "items": [
     {
@@ -1008,6 +1009,15 @@
       "developer": "Crowdstar Inc",
       "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
       "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.farmadventure.global",
+      "title": "패밀리팜 어드벤처",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/IfDojB1wKf0G8hQrDWZjZGefVnLkjpFpSd31zd3eYgC5Xb3EV2a4zo7nwO911idwLbS6",
+      "url": "https://play.google.com/store/apps/details?id=com.farmadventure.global&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
@@ -4941,15 +4951,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.zytoona.wordscrush",
-      "title": "كلمات كراش - لعبة تسلية وتحدي",
-      "developer": "Zytoona",
-      "icon": "https://play-lh.googleusercontent.com/6eXjWA5R0IYsSQdSzdCw_fYqCPy0cP8LauA1HhbhrDnxBDz5VG8g1za1j3H8vOa6aQ",
-      "url": "https://play.google.com/store/apps/details?id=com.zytoona.wordscrush&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
