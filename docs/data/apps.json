@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T22:00:32.985Z",
+  "updatedAt": "2026-04-14T22:57:29.812Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -885,7 +885,10 @@
     "com.crowdstar.covetHome",
     "com.farmadventure.global",
     "com.orcas.panthia.island.fairyscapes",
-    "com.bimiboo.kids.cooking.games"
+    "com.bimiboo.kids.cooking.games",
+    "com.cyberjoy.r1",
+    "com.melesta.coffeeshop",
+    "com.gameinsight.gplay.island2"
   ],
   "items": [
     {
@@ -903,6 +906,33 @@
       "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
       "icon": "https://play-lh.googleusercontent.com/eQ9oBWHBYVf1B0TcthW_5enwic2pEgScohELBgemqu_b62cpmFbWNbu1AXI2gd4K8sj_JLgYIV2rA3HhKg27tA",
       "url": "https://play.google.com/store/apps/details?id=com.bimiboo.kids.cooking.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.r1",
+      "title": "Car Fix Inc - Mechanic Garage",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/qSKrhJPZ5ywMh0LpBv9cu19UMlhksM9MfJiTDwloF0I-ZkH5m1O7MGPnBjwIB0PwOw",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.r1&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.melesta.coffeeshop",
+      "title": "마이카페 — 식당게임",
+      "developer": "Melsoft Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/CpMKi6rpV629F8QjkD2N62HtMf4BEWYdTvgzaQJkD1SS2WfY0fug5gCQvaF8t1LZpkKz",
+      "url": "https://play.google.com/store/apps/details?id=com.melesta.coffeeshop&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameinsight.gplay.island2",
+      "title": "Paradise Island 2: 호텔 게임",
+      "developer": "Game Insight",
+      "icon": "https://play-lh.googleusercontent.com/0i4ek_WATOdAqqPjwWLb0Sref53REi8Ntgw120oxLpTsEvo-83x3NCjnt3CuY3I8vbQW",
+      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.gplay.island2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
@@ -4971,33 +5001,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.dieselpuppet.hidden",
-      "title": "히든 저니: 숨은그림찾기",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/zUis6PGQ6XlMzhO9zEGmSeLlAGMNxRL4KIw1B2VQCcgWJUshqIOcSBYuk3TDRVRf9Wg",
-      "url": "https://play.google.com/store/apps/details?id=com.dieselpuppet.hidden&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.criticalforceentertainment.criticalops",
-      "title": "Critical Ops: Multiplayer FPS",
-      "developer": "Critical Force Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/EPb8BSLfRYiTScThq4f0fVT_SWIYZXdUyPGX0dopRS_WmbN1t0i6r8Q-Md9SFqlgtnk",
-      "url": "https://play.google.com/store/apps/details?id=com.criticalforceentertainment.criticalops&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.creativemobile.nno",
-      "title": "Nitro Nation 드래그 & 드리프트 레이싱",
-      "developer": "Supercharge Mobile",
-      "icon": "https://play-lh.googleusercontent.com/6FHCQUjmVijXEPXiqRjGUIUw5H-V0aTKdXFiVRTWJKk3Di7mFVup6VGl4PYsaLg-WYTy",
-      "url": "https://play.google.com/store/apps/details?id=com.creativemobile.nno&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
