@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T22:55:50.094Z",
+  "updatedAt": "2026-04-15T23:07:13.180Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -897,7 +897,8 @@
     "com.ea.game.nfs14_row",
     "com.miniclip.ultimatefishing",
     "merge.blocks.drop.number.puzzle.games",
-    "com.FoxieGames.WildWolfAnimalSim"
+    "com.FoxieGames.WildWolfAnimalSim",
+    "com.budgestudios.BarbieMagicalFashion"
   ],
   "items": [
     {
@@ -942,6 +943,15 @@
       "developer": "Foxie Ventures",
       "icon": "https://play-lh.googleusercontent.com/DhePZ0RUjm19apW6XQ1AWmTDLHI5Xx5BHMbDhanaktTOYqrxridqdjysQYsDcE_1XuI",
       "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.WildWolfAnimalSim&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.budgestudios.BarbieMagicalFashion",
+      "title": "바비의 매지컬 패션 - 옷 갈아입히기 놀이",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -5091,15 +5101,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.zeptolab.cats.google",
-      "title": "CATS: Crash Arena Turbo Stars",
-      "developer": "Nazara Publishing",
-      "icon": "https://play-lh.googleusercontent.com/0nJegBwmob3M-qm4p9EfcHmCKOE0HM_f66ZgsOPUtwW5apuQtUPl02py5i7tL-UQG8I",
-      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.cats.google&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
