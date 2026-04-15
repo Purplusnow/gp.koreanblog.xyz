@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T17:16:28.120Z",
+  "updatedAt": "2026-04-15T19:40:38.838Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -893,7 +893,8 @@
     "com.sagosago.World.googleplay",
     "com.luma.IdleFarm",
     "com.com2us.smon.normal.freefull.google.kr.android.common",
-    "com.BlackSaltGames.DREDGE"
+    "com.BlackSaltGames.DREDGE",
+    "com.ea.game.nfs14_row"
   ],
   "items": [
     {
@@ -902,6 +903,15 @@
       "developer": "Black Salt Games",
       "icon": "https://play-lh.googleusercontent.com/d2I9ecGa5Cs51KVdkdpWvG7o5JRznGxXX4_JyXTwnbphAWZk4X3QQe-TFSc0D2QX-k8",
       "url": "https://play.google.com/store/apps/details?id=com.BlackSaltGames.DREDGE&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.game.nfs14_row",
+      "title": "Need for Speed: No Limits 레이싱",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -5051,15 +5061,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.eastsidegames.rupaulmatch",
-      "title": "RuPaul's Drag Race Match Queen",
-      "developer": "East Side Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/llf0dCqyiRnbz2CMv8wCP-UOkmozxDH09iloyaegAibBQUYfHe2GrAT_L1RzHchbQKrWWLhHt_qlXJiTar_Imw",
-      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.rupaulmatch&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
