@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T13:05:55.451Z",
+  "updatedAt": "2026-04-15T13:24:04.035Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -890,9 +890,19 @@
     "com.melesta.coffeeshop",
     "com.gameinsight.gplay.island2",
     "com.sandboxol.indiegame.bedwar",
-    "com.sagosago.World.googleplay"
+    "com.sagosago.World.googleplay",
+    "com.luma.IdleFarm"
   ],
   "items": [
+    {
+      "appId": "com.gameinsight.gplay.island2",
+      "title": "Paradise Island 2: 호텔 게임",
+      "developer": "Game Insight",
+      "icon": "https://play-lh.googleusercontent.com/0i4ek_WATOdAqqPjwWLb0Sref53REi8Ntgw120oxLpTsEvo-83x3NCjnt3CuY3I8vbQW",
+      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.gplay.island2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
     {
       "appId": "com.orcas.panthia.island.fairyscapes",
       "title": "판시아: 매직 머지게임",
@@ -930,15 +940,6 @@
       "isGame": true
     },
     {
-      "appId": "com.gameinsight.gplay.island2",
-      "title": "Paradise Island 2: 호텔 게임",
-      "developer": "Game Insight",
-      "icon": "https://play-lh.googleusercontent.com/0i4ek_WATOdAqqPjwWLb0Sref53REi8Ntgw120oxLpTsEvo-83x3NCjnt3CuY3I8vbQW",
-      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.gplay.island2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
       "appId": "com.sandboxol.indiegame.bedwar",
       "title": "Bed Wars",
       "developer": "Blockman GO studio",
@@ -953,6 +954,15 @@
       "developer": "Play Piknik",
       "icon": "https://play-lh.googleusercontent.com/YgW_5YFqPe8cu7DcxQyuovZ26iL9JS_7bnqM0RaqQp9_xTxJd6yAthfnKVgDXZNJ3qaBDTSmWhSVWv-74qpaiQ",
       "url": "https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.luma.IdleFarm",
+      "title": "방치형 농장",
+      "developer": "BoomBit Games",
+      "icon": "https://play-lh.googleusercontent.com/YB_Auw6hyntBAcoxXUUAFsEnk7xpaf8cngEwT9ZmCIII_uheKia76BBb8Qqm4O1P_Q",
+      "url": "https://play.google.com/store/apps/details?id=com.luma.IdleFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
@@ -5021,15 +5031,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.tile.match.story",
-      "title": "타일 매치 스토리",
-      "developer": "LinkDesks Classic Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/eD7JNAfe5sjl-TA8iuhH9Jsm7yJY1jYLPWY_RqKLagkjG2gfQtWkFVYE63NaEh8o4sI",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.tile.match.story&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
