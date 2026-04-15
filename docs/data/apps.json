@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T06:06:47.308Z",
+  "updatedAt": "2026-04-15T08:51:28.896Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -888,7 +888,8 @@
     "com.bimiboo.kids.cooking.games",
     "com.cyberjoy.r1",
     "com.melesta.coffeeshop",
-    "com.gameinsight.gplay.island2"
+    "com.gameinsight.gplay.island2",
+    "com.sandboxol.indiegame.bedwar"
   ],
   "items": [
     {
@@ -933,6 +934,15 @@
       "developer": "Game Insight",
       "icon": "https://play-lh.googleusercontent.com/0i4ek_WATOdAqqPjwWLb0Sref53REi8Ntgw120oxLpTsEvo-83x3NCjnt3CuY3I8vbQW",
       "url": "https://play.google.com/store/apps/details?id=com.gameinsight.gplay.island2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.sandboxol.indiegame.bedwar",
+      "title": "Bed Wars",
+      "developer": "Blockman GO studio",
+      "icon": "https://play-lh.googleusercontent.com/Rf2Tl6OBOhh-phuWcdQUdOFGZBNZf8ElcbTg9XNkt-Tv4YpnDMn7EGTk5QEeYTrlKJ3srZTiI4myG_NuS8sID-I",
+      "url": "https://play.google.com/store/apps/details?id=com.sandboxol.indiegame.bedwar&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
@@ -5001,15 +5011,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubadu.buildergame",
-      "title": "Builder Game (빌더 게임)",
-      "developer": "FM by Bubadu",
-      "icon": "https://play-lh.googleusercontent.com/IWv4HoGVAIfEKu33DYAl7bgAz5APlMwstPOKL5lvlFKIy-vYVsR9Fib9Dc9IKkGFsMDr",
-      "url": "https://play.google.com/store/apps/details?id=com.bubadu.buildergame&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
