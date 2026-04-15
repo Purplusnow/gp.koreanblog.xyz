@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T22:01:29.304Z",
+  "updatedAt": "2026-04-15T22:08:10.930Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -945,6 +945,15 @@
       "isGame": true
     },
     {
+      "appId": "com.com2us.smon.normal.freefull.google.kr.android.common",
+      "title": "서머너즈 워: 천공의 아레나",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
       "appId": "com.orcas.panthia.island.fairyscapes",
       "title": "판시아: 매직 머지게임",
       "developer": "Playorcas",
@@ -1004,15 +1013,6 @@
       "developer": "BoomBit Games",
       "icon": "https://play-lh.googleusercontent.com/YB_Auw6hyntBAcoxXUUAFsEnk7xpaf8cngEwT9ZmCIII_uheKia76BBb8Qqm4O1P_Q",
       "url": "https://play.google.com/store/apps/details?id=com.luma.IdleFarm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.smon.normal.freefull.google.kr.android.common",
-      "title": "서머너즈 워: 천공의 아레나",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
