@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T12:42:54.367Z",
+  "updatedAt": "2026-04-15T13:05:55.451Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -966,6 +966,15 @@
       "isGame": true
     },
     {
+      "appId": "com.fme.cooking.crush.food.games",
+      "title": "Cooking Crush: 요리게임",
+      "developer": "FlowMotion Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
+      "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-14",
+      "isGame": true
+    },
+    {
       "appId": "com.sinyee.babybus.marketV",
       "title": "Baby Panda's Town: 휴가",
       "developer": "BabyBus",
@@ -998,15 +1007,6 @@
       "developer": "Casual Joy Games",
       "icon": "https://play-lh.googleusercontent.com/MMahjhkPlR4swyqhNzwhCTmFrZVo1kC51LsMeKasfgzw_6Y1XY_OflYhsEMfy2FSwz-e",
       "url": "https://play.google.com/store/apps/details?id=com.casualjoygames.happymergehome&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.fme.cooking.crush.food.games",
-      "title": "Cooking Crush: 요리게임",
-      "developer": "FlowMotion Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
-      "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
