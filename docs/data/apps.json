@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T22:08:10.930Z",
+  "updatedAt": "2026-04-15T22:55:50.094Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -896,7 +896,8 @@
     "com.BlackSaltGames.DREDGE",
     "com.ea.game.nfs14_row",
     "com.miniclip.ultimatefishing",
-    "merge.blocks.drop.number.puzzle.games"
+    "merge.blocks.drop.number.puzzle.games",
+    "com.FoxieGames.WildWolfAnimalSim"
   ],
   "items": [
     {
@@ -932,6 +933,15 @@
       "developer": "Guru Puzzle Game",
       "icon": "https://play-lh.googleusercontent.com/8z3JuQy1T9BDOK4nFs9TVtCiho2ttTTMktNh35MutFnmCbXdLpAHJVAOdp25SVrJwww",
       "url": "https://play.google.com/store/apps/details?id=merge.blocks.drop.number.puzzle.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.FoxieGames.WildWolfAnimalSim",
+      "title": "울프 테일즈 - 홈 앤 하트",
+      "developer": "Foxie Ventures",
+      "icon": "https://play-lh.googleusercontent.com/DhePZ0RUjm19apW6XQ1AWmTDLHI5Xx5BHMbDhanaktTOYqrxridqdjysQYsDcE_1XuI",
+      "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.WildWolfAnimalSim&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -5081,15 +5091,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "in.playsimple.wordtrip",
-      "title": "Word Trip - Word Puzzle Game",
-      "developer": "PlaySimple Games",
-      "icon": "https://play-lh.googleusercontent.com/BOcl4qoOu1Q8UUp2nZxwe0orcyLka1-0dpS6Y9zUZH9nWCgK0s4RUmKgqWyPC-Lz6c2WBgSQlR2q375i0K3v",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordtrip&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
