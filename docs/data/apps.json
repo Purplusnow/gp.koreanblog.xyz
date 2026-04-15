@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T21:02:42.751Z",
+  "updatedAt": "2026-04-15T21:52:00.567Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -900,20 +900,20 @@
   ],
   "items": [
     {
-      "appId": "com.BlackSaltGames.DREDGE",
-      "title": "DREDGE",
-      "developer": "Black Salt Games",
-      "icon": "https://play-lh.googleusercontent.com/d2I9ecGa5Cs51KVdkdpWvG7o5JRznGxXX4_JyXTwnbphAWZk4X3QQe-TFSc0D2QX-k8",
-      "url": "https://play.google.com/store/apps/details?id=com.BlackSaltGames.DREDGE&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
       "appId": "com.ea.game.nfs14_row",
       "title": "Need for Speed: No Limits 레이싱",
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.BlackSaltGames.DREDGE",
+      "title": "DREDGE",
+      "developer": "Black Salt Games",
+      "icon": "https://play-lh.googleusercontent.com/d2I9ecGa5Cs51KVdkdpWvG7o5JRznGxXX4_JyXTwnbphAWZk4X3QQe-TFSc0D2QX-k8",
+      "url": "https://play.google.com/store/apps/details?id=com.BlackSaltGames.DREDGE&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
