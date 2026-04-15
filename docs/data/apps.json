@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T13:24:04.035Z",
+  "updatedAt": "2026-04-15T14:01:57.516Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -891,7 +891,8 @@
     "com.gameinsight.gplay.island2",
     "com.sandboxol.indiegame.bedwar",
     "com.sagosago.World.googleplay",
-    "com.luma.IdleFarm"
+    "com.luma.IdleFarm",
+    "com.com2us.smon.normal.freefull.google.kr.android.common"
   ],
   "items": [
     {
@@ -963,6 +964,15 @@
       "developer": "BoomBit Games",
       "icon": "https://play-lh.googleusercontent.com/YB_Auw6hyntBAcoxXUUAFsEnk7xpaf8cngEwT9ZmCIII_uheKia76BBb8Qqm4O1P_Q",
       "url": "https://play.google.com/store/apps/details?id=com.luma.IdleFarm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.smon.normal.freefull.google.kr.android.common",
+      "title": "서머너즈 워: 천공의 아레나",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
@@ -5031,15 +5041,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.creations.runnergame",
-      "title": "Kooply Run™: Play and Create!",
-      "developer": "KOOPLY",
-      "icon": "https://play-lh.googleusercontent.com/gMwKsn2RI__kMbkcH3Ta6JljGJnHdcZaZ_FDpIVUfQXjv9hhoiVLy_WCUQPJI766IQ",
-      "url": "https://play.google.com/store/apps/details?id=com.creations.runnergame&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
