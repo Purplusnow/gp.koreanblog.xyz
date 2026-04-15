@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T14:01:57.516Z",
+  "updatedAt": "2026-04-15T15:17:37.839Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -892,9 +892,19 @@
     "com.sandboxol.indiegame.bedwar",
     "com.sagosago.World.googleplay",
     "com.luma.IdleFarm",
-    "com.com2us.smon.normal.freefull.google.kr.android.common"
+    "com.com2us.smon.normal.freefull.google.kr.android.common",
+    "com.BlackSaltGames.DREDGE"
   ],
   "items": [
+    {
+      "appId": "com.BlackSaltGames.DREDGE",
+      "title": "DREDGE",
+      "developer": "Black Salt Games",
+      "icon": "https://play-lh.googleusercontent.com/d2I9ecGa5Cs51KVdkdpWvG7o5JRznGxXX4_JyXTwnbphAWZk4X3QQe-TFSc0D2QX-k8",
+      "url": "https://play.google.com/store/apps/details?id=com.BlackSaltGames.DREDGE&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
     {
       "appId": "com.gameinsight.gplay.island2",
       "title": "Paradise Island 2: 호텔 게임",
@@ -5041,15 +5051,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "coloring.color.number.happy.paint.art.drawing.puzzle",
-      "title": "Tap Color Pro: 숫자로 색칠하기",
-      "developer": "Tap Color Studio",
-      "icon": "https://play-lh.googleusercontent.com/Z8rFy3l6FTceoLr6n4L9MTV1KxJ_TOGxWlUKZD_yieurc9dPRz9WvWPOIBD4gbnDz0c",
-      "url": "https://play.google.com/store/apps/details?id=coloring.color.number.happy.paint.art.drawing.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
