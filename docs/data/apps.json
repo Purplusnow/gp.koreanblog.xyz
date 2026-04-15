@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T19:40:38.838Z",
+  "updatedAt": "2026-04-15T21:02:42.751Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -894,7 +894,9 @@
     "com.luma.IdleFarm",
     "com.com2us.smon.normal.freefull.google.kr.android.common",
     "com.BlackSaltGames.DREDGE",
-    "com.ea.game.nfs14_row"
+    "com.ea.game.nfs14_row",
+    "com.miniclip.ultimatefishing",
+    "merge.blocks.drop.number.puzzle.games"
   ],
   "items": [
     {
@@ -912,6 +914,24 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/rDAmDCGhyX7FcXYJcR0QrcO04uWgdiQaiWw6oA3T93oK4Xq8qOof0-J_qtw2XFYpKg",
       "url": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.ultimatefishing",
+      "title": "Fishing Blitz!",
+      "developer": "HypGames.",
+      "icon": "https://play-lh.googleusercontent.com/80bJ-E6QlXS3qk_epkcVBvytRLer_n7T8-HcvpduXW7Ade-mB05AUhS3mR15CmhMdm7c",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.ultimatefishing&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "merge.blocks.drop.number.puzzle.games",
+      "title": "2048 블록합치기 퍼즐게임",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/8z3JuQy1T9BDOK4nFs9TVtCiho2ttTTMktNh35MutFnmCbXdLpAHJVAOdp25SVrJwww",
+      "url": "https://play.google.com/store/apps/details?id=merge.blocks.drop.number.puzzle.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -5061,24 +5081,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.BejeweledBlitz_row",
-      "title": "Bejeweled Blitz",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/RY1ONIXP4NT_HfMgSq9cG1b6AqHKppYy3-3FN9nFXE7Vbz50TkM6TeOgtnasw3Qo6w",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.BejeweledBlitz_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.moonfrog.parchisi.club",
-      "title": "Parchis CLUB - Pro Ludo",
-      "developer": "Moonfrog",
-      "icon": "https://play-lh.googleusercontent.com/Rw6hj9dAOLMq_pXyugQud5uWvT7J94PFK3obx6z0xhkdjF6S-ZGb2m3Hmh9W5LvDmzw",
-      "url": "https://play.google.com/store/apps/details?id=com.moonfrog.parchisi.club&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
