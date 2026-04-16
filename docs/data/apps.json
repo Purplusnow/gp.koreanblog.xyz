@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T06:06:10.897Z",
+  "updatedAt": "2026-04-16T06:10:08.127Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -899,7 +899,8 @@
     "merge.blocks.drop.number.puzzle.games",
     "com.FoxieGames.WildWolfAnimalSim",
     "com.budgestudios.BarbieMagicalFashion",
-    "com.olzhas.carparking.multyplayer"
+    "com.olzhas.carparking.multyplayer",
+    "jp.co.cybird.appli.android.vil.en"
   ],
   "items": [
     {
@@ -962,6 +963,15 @@
       "developer": "olzhass",
       "icon": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
       "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "jp.co.cybird.appli.android.vil.en",
+      "title": "Ikemen Villains Otome Game",
+      "developer": "CYBIRD",
+      "icon": "https://play-lh.googleusercontent.com/WyAYNq2bsBtUmEalXdfuoGiSiQQef1EluVt3SuywkJYK3kuu_ubrMKVYlte9Udb50Q",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.vil.en&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -5111,15 +5121,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.ludo",
-      "title": "Ludo Party : Dice Board Game",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/agO2GK3yM4kqmPLFDRlVZ4IVj1naCLUyGPEYxH5ky3nrP2WGbQj8xD_LLSP0C5mABiI",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.ludo&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
