@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T23:54:58.110Z",
+  "updatedAt": "2026-04-16T00:41:22.112Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -920,6 +920,15 @@
       "isGame": true
     },
     {
+      "appId": "com.budgestudios.BarbieMagicalFashion",
+      "title": "바비의 매지컬 패션 - 옷 갈아입히기 놀이",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
       "appId": "com.miniclip.ultimatefishing",
       "title": "Fishing Blitz!",
       "developer": "HypGames.",
@@ -943,15 +952,6 @@
       "developer": "Foxie Ventures",
       "icon": "https://play-lh.googleusercontent.com/DhePZ0RUjm19apW6XQ1AWmTDLHI5Xx5BHMbDhanaktTOYqrxridqdjysQYsDcE_1XuI",
       "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.WildWolfAnimalSim&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.BarbieMagicalFashion",
-      "title": "바비의 매지컬 패션 - 옷 갈아입히기 놀이",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
