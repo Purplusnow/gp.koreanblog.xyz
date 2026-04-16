@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T09:06:07.850Z",
+  "updatedAt": "2026-04-16T10:24:18.886Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -900,7 +900,8 @@
     "com.FoxieGames.WildWolfAnimalSim",
     "com.budgestudios.BarbieMagicalFashion",
     "com.olzhas.carparking.multyplayer",
-    "jp.co.cybird.appli.android.vil.en"
+    "jp.co.cybird.appli.android.vil.en",
+    "com.bigfishgames.mergetalesgoog"
   ],
   "items": [
     {
@@ -972,6 +973,15 @@
       "developer": "CYBIRD",
       "icon": "https://play-lh.googleusercontent.com/WyAYNq2bsBtUmEalXdfuoGiSiQQef1EluVt3SuywkJYK3kuu_ubrMKVYlte9Udb50Q",
       "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.vil.en&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigfishgames.mergetalesgoog",
+      "title": "에버머지: 퍼즐3 병합",
+      "developer": "JetSynthesys PVT LTD",
+      "icon": "https://play-lh.googleusercontent.com/rmQDvSm19hAroSzoNwBYANnTuaODVK-wZONLok0b_NV9llUed4Ow5ph25MpPSXwoiz0",
+      "url": "https://play.google.com/store/apps/details?id=com.bigfishgames.mergetalesgoog&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -5121,15 +5131,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.madovergames.PrincessPop",
-      "title": "버블 게임",
-      "developer": "Bubble Shooter @ MadOverGames",
-      "icon": "https://play-lh.googleusercontent.com/HZQuvChxLVwAfTNjUh0g1NzmG2ctKDq1zMBkiOCashVTVrYZQrJNhJgWD86d6TC6EqU",
-      "url": "https://play.google.com/store/apps/details?id=com.madovergames.PrincessPop&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
