@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T10:24:18.886Z",
+  "updatedAt": "2026-04-16T12:06:24.719Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -901,7 +901,8 @@
     "com.budgestudios.BarbieMagicalFashion",
     "com.olzhas.carparking.multyplayer",
     "jp.co.cybird.appli.android.vil.en",
-    "com.bigfishgames.mergetalesgoog"
+    "com.bigfishgames.mergetalesgoog",
+    "com.sinyee.babybus.tailor"
   ],
   "items": [
     {
@@ -982,6 +983,15 @@
       "developer": "JetSynthesys PVT LTD",
       "icon": "https://play-lh.googleusercontent.com/rmQDvSm19hAroSzoNwBYANnTuaODVK-wZONLok0b_NV9llUed4Ow5ph25MpPSXwoiz0",
       "url": "https://play.google.com/store/apps/details?id=com.bigfishgames.mergetalesgoog&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.tailor",
+      "title": "패션 디자이너 - 베이비버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/VLkO-vTqijm4X8BL43Mf35kjU003JysUeWqbehH0LIcb-qRoh9uDhcw_1On313PL_ak",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.tailor&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -4267,15 +4277,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.mathIII",
-      "title": "BabyBus 키즈 수학게임",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/VTDuyWmbfEeDCmkoxc-Jar7bHkU8NUSm8F8h0yfTfvN0rluwXLYVcDTp-3tZAG6vz--JJ9VakJIrxRdpp5sHtA",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.mathIII&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
