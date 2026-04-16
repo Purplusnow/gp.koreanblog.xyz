@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T08:51:47.502Z",
+  "updatedAt": "2026-04-16T09:06:07.850Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1714,6 +1714,15 @@
       "isGame": true
     },
     {
+      "appId": "com.netmarble.tskgb",
+      "title": "세븐나이츠 리버스",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-08",
+      "isGame": true
+    },
+    {
       "appId": "com.mergegame.merge",
       "title": "Merge Inn - 카페 머지 게임",
       "developer": "Original Games Pte. Ltd.",
@@ -2025,15 +2034,6 @@
       "developer": "DeusCraft",
       "icon": "https://play-lh.googleusercontent.com/rJRWyLUC5UCWZxSyq0lzaXV5XEUf_7gjrNWFkP07rGE1js1KlhX1YL52qPOhSTo_qK0OQ7z-FjxMJkGE348EiDc",
       "url": "https://play.google.com/store/apps/details?id=com.deuscraft.TurboTeam&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.tskgb",
-      "title": "세븐나이츠 리버스",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
