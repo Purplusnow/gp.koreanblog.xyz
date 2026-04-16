@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T22:56:16.832Z",
+  "updatedAt": "2026-04-16T23:35:37.643Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1424,6 +1424,15 @@
       "isGame": true
     },
     {
+      "appId": "com.ncsoft.lineagem19",
+      "title": "리니지M",
+      "developer": "NC Corporation",
+      "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
+      "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-11",
+      "isGame": true
+    },
+    {
       "appId": "com.smokingguninc.phobies",
       "title": "포비즈: PVP 카드 배틀",
       "developer": "Phobies Holdings Inc.",
@@ -1483,15 +1492,6 @@
       "developer": "G5 Entertainment",
       "icon": "https://play-lh.googleusercontent.com/62t4FrK65nCA6xZ-3S8iUklhsiLRkMeDUJJEtkCClvlkrEfKWQq-QpCr4_AXES2zCw",
       "url": "https://play.google.com/store/apps/details?id=com.g5e.sherlock.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.ncsoft.lineagem19",
-      "title": "리니지M",
-      "developer": "NC Corporation",
-      "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
-      "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
