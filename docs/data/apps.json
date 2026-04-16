@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T03:40:50.463Z",
+  "updatedAt": "2026-04-16T06:06:10.897Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -898,7 +898,8 @@
     "com.miniclip.ultimatefishing",
     "merge.blocks.drop.number.puzzle.games",
     "com.FoxieGames.WildWolfAnimalSim",
-    "com.budgestudios.BarbieMagicalFashion"
+    "com.budgestudios.BarbieMagicalFashion",
+    "com.olzhas.carparking.multyplayer"
   ],
   "items": [
     {
@@ -952,6 +953,15 @@
       "developer": "Foxie Ventures",
       "icon": "https://play-lh.googleusercontent.com/DhePZ0RUjm19apW6XQ1AWmTDLHI5Xx5BHMbDhanaktTOYqrxridqdjysQYsDcE_1XuI",
       "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.WildWolfAnimalSim&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.olzhas.carparking.multyplayer",
+      "title": "Car Parking Multiplayer",
+      "developer": "olzhass",
+      "icon": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
@@ -2063,6 +2073,15 @@
       "isGame": true
     },
     {
+      "appId": "jp.co.imagineer.rilakkuma.farm",
+      "title": "Rilakkuma Farm",
+      "developer": "Imagineer Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-07",
+      "isGame": true
+    },
+    {
       "appId": "com.sinyee.babybus.drinks.global",
       "title": "아기 팬더의 아이스크림 트럭",
       "developer": "BabyBus",
@@ -2176,15 +2195,6 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/ezzf5r8bxc5Ut-CepXPh_qpiRmmC75c_AC1JfR1NmvgPm1sASWhzq-ZrGpvN4vsj_M_HaUxbFMC0JEN1tJVPJPk",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.girlstown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.imagineer.rilakkuma.farm",
-      "title": "Rilakkuma Farm",
-      "developer": "Imagineer Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
@@ -5101,15 +5111,6 @@
       "developer": "YOUNGS GAME",
       "icon": "https://play-lh.googleusercontent.com/UYYnJrNSSEBrCGCQVoUbuXw_hz-cwb02zb4vWOpj-owR32Q8l26HsdK2-llEYKtHWYKLT_oC8PYHU_3qYNzg",
       "url": "https://play.google.com/store/apps/details?id=com.biligamekr.aggp&hl=ko&gl=KR",
-      "discoveredDate": "2026-03-31",
-      "isGame": true
-    },
-    {
-      "appId": "games.bit.storyngtonhall",
-      "title": "Storyngton Hall: 홈 디자인 게임",
-      "developer": "BIT.GAMES",
-      "icon": "https://play-lh.googleusercontent.com/xHTwYKVVRIrJbOVDf7qLmJ9tT9LzpcRBzskBKn--Fy_wnydleL5tht-d82I_gLq6hCw",
-      "url": "https://play.google.com/store/apps/details?id=games.bit.storyngtonhall&hl=ko&gl=KR",
       "discoveredDate": "2026-03-31",
       "isGame": true
     },
