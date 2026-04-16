@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T21:55:47.531Z",
+  "updatedAt": "2026-04-16T22:56:16.832Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -906,7 +906,8 @@
     "com.miniclip.chess",
     "com.cookapps.berserkidle",
     "com.fingersoft.hcr2",
-    "com.joycity.god"
+    "com.joycity.god",
+    "com.sinyee.babybus.factory"
   ],
   "items": [
     {
@@ -942,6 +943,15 @@
       "developer": "JOYCITY Corp.",
       "icon": "https://play-lh.googleusercontent.com/Rghq1pDqR-mo28B3GJ3UN89MxlUd1dJuNkiLlu_UaYEXeSDXegrdnVj1_W5rH8QqeZs65miA17beXGFAAJX79w",
       "url": "https://play.google.com/store/apps/details?id=com.joycity.god&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.factory",
+      "title": "아기 팬더의 달콤한 상점",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/cfUfgtX40yyY0-ob-goErFHXgyt_4GHkmsEBW0KNyXNtsB-nU-6KtAWcB5oHv2uJsvs",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.factory&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
@@ -4317,15 +4327,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "br.com.tapps.vloggergoviral",
-      "title": "Vlogger Go Viral: 유튜브 게임 시뮬레이터",
-      "developer": "Tapps Games",
-      "icon": "https://play-lh.googleusercontent.com/CjqujQvE_c52rtxOxim3o5khwQv4tRXzCQnu_VRRx7zQkL6oB3TzqU4Sr6F0vd0L2hU",
-      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
