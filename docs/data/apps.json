@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T12:06:24.719Z",
+  "updatedAt": "2026-04-16T15:04:03.618Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -902,9 +902,29 @@
     "com.olzhas.carparking.multyplayer",
     "jp.co.cybird.appli.android.vil.en",
     "com.bigfishgames.mergetalesgoog",
-    "com.sinyee.babybus.tailor"
+    "com.sinyee.babybus.tailor",
+    "com.miniclip.chess",
+    "com.cookapps.berserkidle"
   ],
   "items": [
+    {
+      "appId": "com.miniclip.chess",
+      "title": "Chess Clash: Online & Offline",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/bpdkCCI8e5IbAkLgRwI3e5dJDSR_kFe1Ioh7f7_AxxaR_Jn9VHF1Hx56DEAqGnHPynmd",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.chess&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.berserkidle",
+      "title": "광전사 키우기: 방치형 rpg",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/sfSq57rTzPj9Ub6QTVAH7MRjbJCDdR0a9UqrH0hI6s4AwSMEwpF-qcTBRjsjotEXlguN",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.berserkidle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
     {
       "appId": "com.ea.game.nfs14_row",
       "title": "Need for Speed: No Limits 레이싱",
@@ -4277,24 +4297,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.match.triple.games.sort3d.puzzle",
-      "title": "3D크레이지 매치! 미칠도록 트리플 매칭 퍼즐 게임",
-      "developer": "Pleasure City",
-      "icon": "https://play-lh.googleusercontent.com/EjiGyaBrZCqoMCCcCY6GRLUDj-G5ekcDTECB5WB82ncqZEeHGDdvvreMVwKc_IpDezY",
-      "url": "https://play.google.com/store/apps/details?id=com.match.triple.games.sort3d.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.icecream",
-      "title": "아기 팬더의 아이스크림 게임",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/h9rop0hU7aY21JNsfFcX24gFgg2LyvcJtIcxRWRNonDyIAc2nLsty4GRbuHeHKhVFg",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.icecream&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
