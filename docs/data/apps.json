@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T03:10:44.643Z",
+  "updatedAt": "2026-04-17T03:37:40.416Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -907,7 +907,9 @@
     "com.cookapps.berserkidle",
     "com.fingersoft.hcr2",
     "com.joycity.god",
-    "com.sinyee.babybus.factory"
+    "com.sinyee.babybus.factory",
+    "com.mytona.cheftales",
+    "train.railroad.climb.simulator"
   ],
   "items": [
     {
@@ -952,6 +954,24 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/cfUfgtX40yyY0-ob-goErFHXgyt_4GHkmsEBW0KNyXNtsB-nU-6KtAWcB5oHv2uJsvs",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.factory&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.mytona.cheftales",
+      "title": "Chef & Friends: 요리 게임",
+      "developer": "Mytona",
+      "icon": "https://play-lh.googleusercontent.com/z-E9vzhgkMEUTALcZ7a80LzW74rmFV99HP-xI7sgy-MNOOLrdykBeedMvprmOgHfpf4DtLVZjiAOi8dGDDeCWw",
+      "url": "https://play.google.com/store/apps/details?id=com.mytona.cheftales&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "train.railroad.climb.simulator",
+      "title": "트레인 시뮬레이터 - 2D 레일로드 기차게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/A_Nc9PbOS0PRU6VR-xrF7WM2NGHXz1g_1NXLX3hsmkDrQ9co0dUCzVCcJpquuNTYzw",
+      "url": "https://play.google.com/store/apps/details?id=train.railroad.climb.simulator&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
@@ -4327,24 +4347,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.kingdomrushfrontiers",
-      "title": "Kingdom Rush Frontiers TD",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/-lORHqIO92Umf6xjBdN6Yj8B2HZ-nXhSMkcepVBK4PEEcoHOMdfhPIP1dVJ-OSLZW24",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushfrontiers&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.lexenzolab.vs",
-      "title": "Zombusters",
-      "developer": "voilà!",
-      "icon": "https://play-lh.googleusercontent.com/gdmik-o7Zk44xyINx_w1Moqiet9sjI2BZY3Xd7v43sEwTTEqb4geJjbTXisPCvWhB5A",
-      "url": "https://play.google.com/store/apps/details?id=com.lexenzolab.vs&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
