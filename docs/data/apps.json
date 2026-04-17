@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T03:37:40.416Z",
+  "updatedAt": "2026-04-17T06:10:22.448Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -909,7 +909,8 @@
     "com.joycity.god",
     "com.sinyee.babybus.factory",
     "com.mytona.cheftales",
-    "train.railroad.climb.simulator"
+    "train.railroad.climb.simulator",
+    "com.devsisters.cba"
   ],
   "items": [
     {
@@ -972,6 +973,15 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/A_Nc9PbOS0PRU6VR-xrF7WM2NGHXz1g_1NXLX3hsmkDrQ9co0dUCzVCcJpquuNTYzw",
       "url": "https://play.google.com/store/apps/details?id=train.railroad.climb.simulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.cba",
+      "title": "쿠키런: 모험의 탑",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/2rUa7BlTumKdfztTJhHvy0XzheDbbf3RCGMmtt118S1HPsLxFywrtory1FTJ-qaBrGM",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cba&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
@@ -4347,15 +4357,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.princess_coloring_fantasy_magic_girls_games",
-      "title": "프린세스 게임: 판타지 컬러링",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/tBq509qh92BvQeKmZEGZfGudM9cNpN4OXOOzjaXtq9skfltvvPle7nfSMNvpvs_oZko11RkWINFGxUXM_RaVyXg",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.princess_coloring_fantasy_magic_girls_games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
