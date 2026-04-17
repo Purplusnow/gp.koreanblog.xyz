@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T13:53:27.207Z",
+  "updatedAt": "2026-04-17T15:06:54.282Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -911,9 +911,19 @@
     "com.mytona.cheftales",
     "train.railroad.climb.simulator",
     "com.devsisters.cba",
-    "com.sparklingsociety.cityisland6"
+    "com.sparklingsociety.cityisland6",
+    "com.cyberjoy.fishing"
   ],
   "items": [
+    {
+      "appId": "com.cyberjoy.fishing",
+      "title": "Fishing Frenzy:Idle Hooked Inc",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/rd4Pk1nWDI871l77UGBEwdoselg-vt0Am312B-dBOgwfljoCNlsVia0K3EbyOcW2nJI",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.fishing&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
     {
       "appId": "com.joycity.god",
       "title": "주사위의 신: 다이스와 카드로 펼치는 모두의 보드게임",
@@ -4367,15 +4377,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.nintendo.zaha",
-      "title": "파이어 엠블렘 섀도즈",
-      "developer": "Nintendo Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/lxhvaomYTF_jWXw0rrqwTL4CFwQy4NWr3ssoGrfftNiUPmZJ5p5ihpH9DZHijP8ZsDBgL4JM9iyrYFKiuWP5_Y8",
-      "url": "https://play.google.com/store/apps/details?id=com.nintendo.zaha&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
