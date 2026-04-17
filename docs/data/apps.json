@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T23:53:53.737Z",
+  "updatedAt": "2026-04-17T03:10:44.643Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -911,6 +911,15 @@
   ],
   "items": [
     {
+      "appId": "com.joycity.god",
+      "title": "주사위의 신: 다이스와 카드로 펼치는 모두의 보드게임",
+      "developer": "JOYCITY Corp.",
+      "icon": "https://play-lh.googleusercontent.com/Rghq1pDqR-mo28B3GJ3UN89MxlUd1dJuNkiLlu_UaYEXeSDXegrdnVj1_W5rH8QqeZs65miA17beXGFAAJX79w",
+      "url": "https://play.google.com/store/apps/details?id=com.joycity.god&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
       "appId": "com.miniclip.chess",
       "title": "Chess Clash: Online & Offline",
       "developer": "Miniclip.com",
@@ -934,15 +943,6 @@
       "developer": "Fingersoft",
       "icon": "https://play-lh.googleusercontent.com/UGKh6u0gA0GLh39qG4kXKK3Vu3FEAUEdXWAK55pjLTGiJI2vLQVHzIPP6CVo_ZP0dw",
       "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.joycity.god",
-      "title": "주사위의 신: 다이스와 카드로 펼치는 모두의 보드게임",
-      "developer": "JOYCITY Corp.",
-      "icon": "https://play-lh.googleusercontent.com/Rghq1pDqR-mo28B3GJ3UN89MxlUd1dJuNkiLlu_UaYEXeSDXegrdnVj1_W5rH8QqeZs65miA17beXGFAAJX79w",
-      "url": "https://play.google.com/store/apps/details?id=com.joycity.god&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
