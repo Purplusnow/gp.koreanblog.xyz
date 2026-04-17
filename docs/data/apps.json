@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T20:58:30.381Z",
+  "updatedAt": "2026-04-17T21:55:50.639Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -912,7 +912,10 @@
     "train.railroad.climb.simulator",
     "com.devsisters.cba",
     "com.sparklingsociety.cityisland6",
-    "com.cyberjoy.fishing"
+    "com.cyberjoy.fishing",
+    "com.sinyee.babybus.airport",
+    "com.sinyee.babybus.foodstreetII",
+    "com.featherweightgames.fx"
   ],
   "items": [
     {
@@ -921,6 +924,33 @@
       "developer": "CyberJoy Games",
       "icon": "https://play-lh.googleusercontent.com/rd4Pk1nWDI871l77UGBEwdoselg-vt0Am312B-dBOgwfljoCNlsVia0K3EbyOcW2nJI",
       "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.fishing&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.airport",
+      "title": "아기 판다의 공항",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/fjTZkP0J5ildhwGEIKmGNJTNopTKWxzTYUqR3ymo6vDAsNoRSt1JHsREkpQ5UMMai5A",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.airport&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.foodstreetII",
+      "title": "아기 팬더의 음식 요리",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/V20HkyaPL-6X2gMS8614ZfSBHF1pXy2vft5Dq7PnX5CiDTBGKvE0UcsfvkpE93zqpiM",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.foodstreetII&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.featherweightgames.fx",
+      "title": "봇월드 어드벤처",
+      "developer": "Featherweight",
+      "icon": "https://play-lh.googleusercontent.com/Ow49SushZUuIXCEEFvBGI_GXYVML9igkNFY3_bI-p07n5OppCC8rejYOvr9na--uWA",
+      "url": "https://play.google.com/store/apps/details?id=com.featherweightgames.fx&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
@@ -4377,33 +4407,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2usholdings.heiroflight2.android.google.global.normal",
-      "title": "빛의 계승자 이클립스",
-      "developer": "Com2uS Holdings",
-      "icon": "https://play-lh.googleusercontent.com/ElFuq8vXXFb21CEeBAzs1C2_6e-xrzTfxmodE3RwDjtcI0bZFKV_D17Q5qJTklKKyA",
-      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.heiroflight2.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.heliogames.amikin.survival",
-      "title": "아미킨 마을: 마법 RPG",
-      "developer": "Helio Games",
-      "icon": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg",
-      "url": "https://play.google.com/store/apps/details?id=com.heliogames.amikin.survival&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.kids.vs.zombies.pvp.multiplayer.pve.brawl.first.person.fps.shooter.action.games",
-      "title": "Donut Punks: Online Epic Brawl",
-      "developer": "Donut Lab",
-      "icon": "https://play-lh.googleusercontent.com/d6BJwqgUpyqCvGejitfKPtq4Z6uYB6nis8tJyhnqCAvWZDO2s4tuztCrM2bBQLMdJD8",
-      "url": "https://play.google.com/store/apps/details?id=com.kids.vs.zombies.pvp.multiplayer.pve.brawl.first.person.fps.shooter.action.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
