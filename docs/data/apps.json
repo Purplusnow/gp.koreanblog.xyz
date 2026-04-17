@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T08:50:32.470Z",
+  "updatedAt": "2026-04-17T10:21:39.517Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -910,7 +910,8 @@
     "com.sinyee.babybus.factory",
     "com.mytona.cheftales",
     "train.railroad.climb.simulator",
-    "com.devsisters.cba"
+    "com.devsisters.cba",
+    "com.sparklingsociety.cityisland6"
   ],
   "items": [
     {
@@ -982,6 +983,15 @@
       "developer": "Devsisters Corporation",
       "icon": "https://play-lh.googleusercontent.com/2rUa7BlTumKdfztTJhHvy0XzheDbbf3RCGMmtt118S1HPsLxFywrtory1FTJ-qaBrGM",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cba&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.sparklingsociety.cityisland6",
+      "title": "시티 아일랜드 6: 빌딩 라이프",
+      "developer": "Sparkling Society - Build Town City Building Games",
+      "icon": "https://play-lh.googleusercontent.com/KFefbDd-4kM5hRrSMUQDv_fF6oRtecQy_fPHJ4UkBvNwZ-jMGIlzyuz8a3YFwSW4TPs",
+      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland6&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
@@ -4357,15 +4367,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubadu.duddu",
-      "title": "Duddu - 나의 가상 반려견",
-      "developer": "Bubadu",
-      "icon": "https://play-lh.googleusercontent.com/vDeQJOsDg3TqDVNsY-o8Vg-9aEfWZy7AdUvZed-upFW5v-CQrk9jbOzVDPNcFdADR9I",
-      "url": "https://play.google.com/store/apps/details?id=com.bubadu.duddu&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
