@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T22:55:44.698Z",
+  "updatedAt": "2026-04-17T23:51:52.413Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -915,7 +915,8 @@
     "com.cyberjoy.fishing",
     "com.sinyee.babybus.airport",
     "com.sinyee.babybus.foodstreetII",
-    "com.featherweightgames.fx"
+    "com.featherweightgames.fx",
+    "com.tastydiary.cooking.diner.home.restaurant"
   ],
   "items": [
     {
@@ -951,6 +952,15 @@
       "developer": "Featherweight",
       "icon": "https://play-lh.googleusercontent.com/Ow49SushZUuIXCEEFvBGI_GXYVML9igkNFY3_bI-p07n5OppCC8rejYOvr9na--uWA",
       "url": "https://play.google.com/store/apps/details?id=com.featherweightgames.fx&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.tastydiary.cooking.diner.home.restaurant",
+      "title": "맛있는 일기: 요리사 요리 게임",
+      "developer": "gameone",
+      "icon": "https://play-lh.googleusercontent.com/W1ATyp8IcyMVN2uQmkl-zDm4BRb0o5_cEYtE5ewxQXIR-mppWI7ytgoe7AbsHkI9oA",
+      "url": "https://play.google.com/store/apps/details?id=com.tastydiary.cooking.diner.home.restaurant&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
@@ -4407,15 +4417,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.redtailworks.slimetd",
-      "title": "슬라임 성 - 아이들 타워 디펜스",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/iqD-RhFE3FZSkfzYWlQmgOda60XHapHUXnYyX7NmTvqtsVhLHtVtwAGNjZpeo_I5pA",
-      "url": "https://play.google.com/store/apps/details?id=com.redtailworks.slimetd&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
