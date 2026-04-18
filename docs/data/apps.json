@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T22:49:12.085Z",
+  "updatedAt": "2026-04-18T23:48:22.750Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -933,7 +933,9 @@
     "com.mobirix.zombiefire",
     "com.panzerdog.tacticool",
     "com.runninggames.catrunners.runningpet",
-    "com.phonemaster.jewelhunter"
+    "com.phonemaster.jewelhunter",
+    "com.netmarble.monster2",
+    "com.sinyee.babybus.marketII"
   ],
   "items": [
     {
@@ -1059,6 +1061,24 @@
       "developer": "LinkDesks Classic Puzzle Games",
       "icon": "https://play-lh.googleusercontent.com/XKTIRSL_9rZsq22k9u3jTAjEKNZBzqS-jCTyrSPu8aO9PT44dwTL4KodFcGgB0ul480zY8CWmmknpute0umr",
       "url": "https://play.google.com/store/apps/details?id=com.phonemaster.jewelhunter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.monster2",
+      "title": "몬길: STAR DIVE",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/HgMF0Fq3vKNgPlwm4GzidIh5W7hAY50kmAD1uNLcMywIFNqCnJ5aa88jN3x8mPBhtL8sSoLZlwl8IdMzeH0P7Y4",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.marketII",
+      "title": "Baby Panda's Town: 쇼핑몰",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/WZmgVmMRkk_9Q19uTIz2UQqIkx3LvQU1RjTfHmjqTAn9gjp-Qne-0cy2Kwsr0bvLeA",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketII&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4587,24 +4607,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
-      "title": "Train Station 3",
-      "developer": "PIXEL FEDERATION, s.r.o.",
-      "icon": "https://play-lh.googleusercontent.com/uaVblXNUq4iSdruR_BkXpVkSFL7gYleOzMBLtG9Zqq2dxuE9VnwSm5ldnH-oES3vP7lOr1iugkWvJwZP2sHWHQ",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.firsttouchgames.story",
-      "title": "Score! Hero",
-      "developer": "First Touch Games Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/ufqvcHKWB7NVjQ1wLtacnwSj-Jx6PtYuGJtxTp09eGTRtBHSD5Q8gzw-Jq-PBhaH4UXPnUskWfZrMDaGZd8h",
-      "url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
