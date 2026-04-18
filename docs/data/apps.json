@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T13:22:33.290Z",
+  "updatedAt": "2026-04-18T14:53:13.629Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -918,7 +918,8 @@
     "com.featherweightgames.fx",
     "com.tastydiary.cooking.diner.home.restaurant",
     "ship.simulator.river.climb",
-    "com.socialquantum.west3dint"
+    "com.socialquantum.west3dint",
+    "com.mamara.bakery"
   ],
   "items": [
     {
@@ -981,6 +982,15 @@
       "developer": "Social Quantum Ltd",
       "icon": "https://play-lh.googleusercontent.com/jMr0gG5nzfYDniiU0wMESUvMv71WgYs5OKHMJA6QMUUBcawmLMnxPgNwQXZaFtZiEg",
       "url": "https://play.google.com/store/apps/details?id=com.socialquantum.west3dint&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.mamara.bakery",
+      "title": "아기 팬더: 달콤한 베이커리",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/8VgxPanOLFnzLAnI_6w_FCNwZy6QKSdSJUOJfheey81QxubzHJzcC2xBhpdghDCc45M",
+      "url": "https://play.google.com/store/apps/details?id=com.mamara.bakery&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
@@ -4437,15 +4447,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.farlightgames.samo.gp.kr",
-      "title": "콜 오브 드래곤즈",
-      "developer": "FARLIGHT",
-      "icon": "https://play-lh.googleusercontent.com/_RfXWqDkmCbpur-TDq-bkfIlu6sXt5noe9bk9lij53cfr7u8ySbwUjilvlWSsWTgIJs",
-      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.samo.gp.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
