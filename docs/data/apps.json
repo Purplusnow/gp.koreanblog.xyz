@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T21:47:46.891Z",
+  "updatedAt": "2026-04-18T22:49:12.085Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -929,7 +929,11 @@
     "com.cjenm.ModooMarbleKakao",
     "com.netmarble.war",
     "com.nekki.vector",
-    "com.quantumgames.skyscraper"
+    "com.quantumgames.skyscraper",
+    "com.mobirix.zombiefire",
+    "com.panzerdog.tacticool",
+    "com.runninggames.catrunners.runningpet",
+    "com.phonemaster.jewelhunter"
   ],
   "items": [
     {
@@ -1019,6 +1023,42 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/PWOfU0mXdJYzlkVkTbCElOtGdZtqFpb-T0BQa9Jz-GSvaco4-O0f83baHMS23mCTFniC",
       "url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.zombiefire",
+      "title": "좀비 파이어",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.panzerdog.tacticool",
+      "title": "TPS 슈팅게임 Tacticool: PVP 멀티게임",
+      "developer": "Panzerdog",
+      "icon": "https://play-lh.googleusercontent.com/v7kjas2c_Rud-RX4wQF3dXE4E_O33RICzd1o5EpTnxJSiIo4AVIaVKCMJcQWSnNUQsg2hY0qrKCtHAnssIvriw",
+      "url": "https://play.google.com/store/apps/details?id=com.panzerdog.tacticool&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.runninggames.catrunners.runningpet",
+      "title": "Running Pet: Dec Rooms",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/HBdivPMsFopQdBR7Fpvw13UrwJuEu0xd97scm5cXBGMJN5DwfI_Jm-7xq5PB18RcLsiR",
+      "url": "https://play.google.com/store/apps/details?id=com.runninggames.catrunners.runningpet&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.phonemaster.jewelhunter",
+      "title": "Jewel Hunter - 보석 퍼즐 폭발",
+      "developer": "LinkDesks Classic Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/XKTIRSL_9rZsq22k9u3jTAjEKNZBzqS-jCTyrSPu8aO9PT44dwTL4KodFcGgB0ul480zY8CWmmknpute0umr",
+      "url": "https://play.google.com/store/apps/details?id=com.phonemaster.jewelhunter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4547,42 +4587,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.big.my.cruise.ship",
-      "title": "마이 크루즈：보트 시뮬레이션 타이쿤",
-      "developer": "Focus apps",
-      "icon": "https://play-lh.googleusercontent.com/XFmPN1DsJ835nLLO4GVYgbXbpOxFg1vFUoJtqp2SJcbkJfz5o5ahDRbawXusR8toVcI",
-      "url": "https://play.google.com/store/apps/details?id=com.big.my.cruise.ship&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ndemiccreations.rebelinc",
-      "title": "Rebel Inc. (반란 주식회사)",
-      "developer": "Ndemic Creations",
-      "icon": "https://play-lh.googleusercontent.com/bgUo4YWugpiG0AeJoUP-xs85RD_1_e6b0Z8bM7vTp07NWF30mdYAO-nOvMvvvIRUZgxZ",
-      "url": "https://play.google.com/store/apps/details?id=com.ndemiccreations.rebelinc&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.gigglebabies",
-      "title": "Giggle Babies - 아기 돌보기",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/mVkkSGw_cuPUt6H6EulDFFjyddGUE_nY1SgKTSv42ig10a8C0OaEqI0w0qYRrR1oXQ",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.gigglebabies&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.vizorapps.roadtrip",
-      "title": "로드 트립: 로얄 병합 게임 Road Trip",
-      "developer": "VIZOR APPS LTD.",
-      "icon": "https://play-lh.googleusercontent.com/1SgbekA5XGnCaU6hH_h6RK1PgEIp8WfcZjKOr0vib8A4mS-TdPC9Y85vJqQ86Es0BsBJ9WuG_e6toASKScjelw",
-      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.roadtrip&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
