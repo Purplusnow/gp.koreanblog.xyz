@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T10:54:53.668Z",
+  "updatedAt": "2026-04-18T11:45:06.721Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -916,7 +916,9 @@
     "com.sinyee.babybus.airport",
     "com.sinyee.babybus.foodstreetII",
     "com.featherweightgames.fx",
-    "com.tastydiary.cooking.diner.home.restaurant"
+    "com.tastydiary.cooking.diner.home.restaurant",
+    "ship.simulator.river.climb",
+    "com.socialquantum.west3dint"
   ],
   "items": [
     {
@@ -961,6 +963,24 @@
       "developer": "gameone",
       "icon": "https://play-lh.googleusercontent.com/W1ATyp8IcyMVN2uQmkl-zDm4BRb0o5_cEYtE5ewxQXIR-mppWI7ytgoe7AbsHkI9oA",
       "url": "https://play.google.com/store/apps/details?id=com.tastydiary.cooking.diner.home.restaurant&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "ship.simulator.river.climb",
+      "title": "선박 시뮬레이터: 보트 게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/OV_YyEDCdVT8qqAM_ta5XPXu0i6yXkXZCHgYo5CNEbgtWWMbtrRkp1pWxuAv6MoWvBs",
+      "url": "https://play.google.com/store/apps/details?id=ship.simulator.river.climb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.socialquantum.west3dint",
+      "title": "Wild West: 농장을 건설하세요",
+      "developer": "Social Quantum Ltd",
+      "icon": "https://play-lh.googleusercontent.com/jMr0gG5nzfYDniiU0wMESUvMv71WgYs5OKHMJA6QMUUBcawmLMnxPgNwQXZaFtZiEg",
+      "url": "https://play.google.com/store/apps/details?id=com.socialquantum.west3dint&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
@@ -4417,24 +4437,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "games.ugo.merge.secrets",
-      "title": "Secrets of Paradise Merge Game",
-      "developer": "UGO Games",
-      "icon": "https://play-lh.googleusercontent.com/e6gi8X2MOkb-8M7ERtEEaZuOJ2j4-iQkFHeC0TYLbiHs6sL4izzD23vxp7rUbSe0WKY",
-      "url": "https://play.google.com/store/apps/details?id=games.ugo.merge.secrets&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubadu.bubbu",
-      "title": "Bubbu - 부부 – 나만의 가상 애완동물",
-      "developer": "Bubadu",
-      "icon": "https://play-lh.googleusercontent.com/9Fc1ttY63284Uz2KF6fqjVK0SpDeSyhx4BjkBROPfVCeUVPGur5O-eGfEP6wnoBReQ",
-      "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
