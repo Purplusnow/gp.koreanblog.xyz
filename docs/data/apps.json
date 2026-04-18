@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T20:49:38.976Z",
+  "updatedAt": "2026-04-18T21:47:46.891Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -927,7 +927,9 @@
     "com.kanoapps.bz",
     "com.bigcake.android.bubbledaily",
     "com.cjenm.ModooMarbleKakao",
-    "com.netmarble.war"
+    "com.netmarble.war",
+    "com.nekki.vector",
+    "com.quantumgames.skyscraper"
   ],
   "items": [
     {
@@ -999,6 +1001,24 @@
       "developer": "KIXEYE Canada Ltd",
       "icon": "https://play-lh.googleusercontent.com/LdIpl82L1zymaa228nh177P9KQOit9JgG6JrtLOkhjWDOK_3Fa9lm9dnwTrkouzCmUgb",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.war&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.nekki.vector",
+      "title": "Vector",
+      "developer": "NEKKI",
+      "icon": "https://play-lh.googleusercontent.com/q6SVJK33B3Yi34l2XXaufD27XL4CCcmsXuwHuG2LLpGIntIwZZzBYtgs57ImBlX7QqU",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.vector&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.quantumgames.skyscraper",
+      "title": "타워 크래프트 3D - 방치형 건축 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/PWOfU0mXdJYzlkVkTbCElOtGdZtqFpb-T0BQa9Jz-GSvaco4-O0f83baHMS23mCTFniC",
+      "url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4527,24 +4547,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.shopping",
-      "title": "마트놀이 - 베이비버스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/0M_JAsj7ofKR-AJfXS0MuD6zOtupjwsFhIxVHIoNismbF0e16HQx65P6ZOX_VK4BLHs",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.shopping&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "br.com.tapps.mygrumpy",
-      "title": "My Grumpy: Funny Virtual Pet",
-      "developer": "Tapps Games",
-      "icon": "https://play-lh.googleusercontent.com/2SWZJGspC-qMq-gZ1m1Hfew4aOOTI0gcdaSt8H2AEkIB1VKvlC_JLAVXgf0W-uIjUQ",
-      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.mygrumpy&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
