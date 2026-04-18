@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T15:49:49.352Z",
+  "updatedAt": "2026-04-18T16:54:21.422Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -919,9 +919,49 @@
     "com.tastydiary.cooking.diner.home.restaurant",
     "ship.simulator.river.climb",
     "com.socialquantum.west3dint",
-    "com.mamara.bakery"
+    "com.mamara.bakery",
+    "com.budgestudios.googleplay.PawPatrolRescueWorld",
+    "com.WalkTalk.FlightMaster",
+    "com.gameloft.android.ANMP.GloftFWHM",
+    "com.square_enix.android_googleplay.DD"
   ],
   "items": [
+    {
+      "appId": "com.budgestudios.googleplay.PawPatrolRescueWorld",
+      "title": "퍼피 구조대 세상을 구해라",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/0ua_nqtEwCSJem9kuOOb8zHrXkJKp2LjopsFDCizkXjREqigR3wzoRAcengUfpulC6RG8-tK0wEDld5z-XL6BUE",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.PawPatrolRescueWorld&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.WalkTalk.FlightMaster",
+      "title": "Epic Plane Evolution",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/9X0U2_jdvROxslyUAHSVzvrleTgfh2E73Ir3ErAJfsJJ6jr82UMVVjw40CcuTBEbPr56nO0VY7AZmEjy7JtMVXQ",
+      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftFWHM",
+      "title": "스나이퍼 퓨리: 슈팅 게임",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/CBtwVl2C6y9yGH3wVBDegm5u26YYLHhvl9P1mDXQSUxX3pMuHfhkCI5aUJOdX8wO05s",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftFWHM&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.square_enix.android_googleplay.DD",
+      "title": "DISSIDIA DUELLUM FINAL FANTASY",
+      "developer": "SQUARE ENIX Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/c_iqU8Mjx8kog9fsBZoUAu_YKCem8VJR_hCF6u3Sc7PloZjSx1kBdBeYWghONQKck2wXj0B0NlgbSc7T8OUBnw",
+      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
     {
       "appId": "com.cyberjoy.fishing",
       "title": "Fishing Frenzy:Idle Hooked Inc",
@@ -4447,42 +4487,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.homagames.studio.allinhole",
-      "title": "올인홀 All in Hole",
-      "developer": "Homa",
-      "icon": "https://play-lh.googleusercontent.com/_arjau3jAT_apGbNgnwv5QCqRGLXSNKLZCvjEuoPovBaz-jpWOCAiQ6mB2KXA6dS55jRy1cJ71jBPAOh2vQEZg",
-      "url": "https://play.google.com/store/apps/details?id=com.homagames.studio.allinhole&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.maxgames.stickwarlegacy",
-      "title": "스틱 워: 레거시",
-      "developer": "Max Games Studios",
-      "icon": "https://play-lh.googleusercontent.com/ORpdNiFMJhZEUB_lXhlf_ez2pBkugwKoc_RxW4S5ic7cyf021hE22tXmAxHWadK2OKs",
-      "url": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.kpopsiescuteunicornpets",
-      "title": "Kpopsies - 팝스타 유니콘 밴드를 부화시키세요",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/c8n7xRmy4WyzRRmxo6Fd2Xw7HZd0B-Cb3ukqW87LuXl3yJ2GqFvZftcNocx0ohJOQ4I",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.kpopsiescuteunicornpets&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.restaurant",
-      "title": "레스토랑 주방놀이 - 베이비버스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/F-bzmuNUjn6rcsNk6p4OuiRFYkyD1pA4egHL4G1DDmWCsKznlJ-pys90wQoV9Zi_SYs",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.restaurant&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
