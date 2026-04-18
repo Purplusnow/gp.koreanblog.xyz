@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T19:50:39.479Z",
+  "updatedAt": "2026-04-18T20:49:38.976Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -925,7 +925,9 @@
     "com.gameloft.android.ANMP.GloftFWHM",
     "com.square_enix.android_googleplay.DD",
     "com.kanoapps.bz",
-    "com.bigcake.android.bubbledaily"
+    "com.bigcake.android.bubbledaily",
+    "com.cjenm.ModooMarbleKakao",
+    "com.netmarble.war"
   ],
   "items": [
     {
@@ -979,6 +981,24 @@
       "developer": "Big Cake",
       "icon": "https://play-lh.googleusercontent.com/nVMUMdxmiEFenCnvHRsfmNar_23tCrERLAlrB18tMOSYcRMM1LvlsvT34LIAObxnliUL",
       "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.bubbledaily&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.cjenm.ModooMarbleKakao",
+      "title": "모두의마블",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/8yNYz7ozvRn_XRnIo96mtMW6tVnVyfK-mcOFjazQTaapEkne0v8YuQOPkqAKc-YeVP3xPsXaKHIP4xz9HvYrn1U",
+      "url": "https://play.google.com/store/apps/details?id=com.cjenm.ModooMarbleKakao&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.war",
+      "title": "라이즈 오브 퍼스트본",
+      "developer": "KIXEYE Canada Ltd",
+      "icon": "https://play-lh.googleusercontent.com/LdIpl82L1zymaa228nh177P9KQOit9JgG6JrtLOkhjWDOK_3Fa9lm9dnwTrkouzCmUgb",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.war&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4507,24 +4527,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.goodgamestudios.bigfarmmobileharvest",
-      "title": "빅팜 : 모바일",
-      "developer": "Goodgame Studios",
-      "icon": "https://play-lh.googleusercontent.com/pvhHTMKR8Yf-zmKCSaQBCzF5uPTSlfIbNVZ0L0Bm-KlqJzAOqeBee_0JN9-8fmwGdFlv",
-      "url": "https://play.google.com/store/apps/details?id=com.goodgamestudios.bigfarmmobileharvest&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.matryoshka.cooking.vibes",
-      "title": "We Are Cooking: 레스토랑 게임",
-      "developer": "Matryoshka",
-      "icon": "https://play-lh.googleusercontent.com/rBLH1025XsHh60LUolgBtPTlQVfFz54-e14A8u8op5PUf1wVYUPHpq2fpyTZPnN-Slc",
-      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.cooking.vibes&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
