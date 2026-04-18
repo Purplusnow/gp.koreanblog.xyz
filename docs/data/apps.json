@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T16:54:21.422Z",
+  "updatedAt": "2026-04-18T17:48:53.427Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -923,7 +923,8 @@
     "com.budgestudios.googleplay.PawPatrolRescueWorld",
     "com.WalkTalk.FlightMaster",
     "com.gameloft.android.ANMP.GloftFWHM",
-    "com.square_enix.android_googleplay.DD"
+    "com.square_enix.android_googleplay.DD",
+    "com.kanoapps.bz"
   ],
   "items": [
     {
@@ -959,6 +960,15 @@
       "developer": "SQUARE ENIX Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/c_iqU8Mjx8kog9fsBZoUAu_YKCem8VJR_hCF6u3Sc7PloZjSx1kBdBeYWghONQKck2wXj0B0NlgbSc7T8OUBnw",
       "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.kanoapps.bz",
+      "title": "Idle Distiller Tycoon",
+      "developer": "Kano Games",
+      "icon": "https://play-lh.googleusercontent.com/m6p223BmwOBi15fHsQicV1XbA6llS4xmf8ZYtFMUgb59dL5Z0jZAUdKdn4DxmVfGBg",
+      "url": "https://play.google.com/store/apps/details?id=com.kanoapps.bz&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4487,15 +4497,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sweet.candy.match.gp",
-      "title": "달콤한 캔디 매치",
-      "developer": "Bubblescapes",
-      "icon": "https://play-lh.googleusercontent.com/hvQ8juDCRxKQcly1mpS6lG7kqWGRFmYAIbymmoNVhgUyPF4CgtJq9W2W2b7CYge395c",
-      "url": "https://play.google.com/store/apps/details?id=com.sweet.candy.match.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
