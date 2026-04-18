@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T17:48:53.427Z",
+  "updatedAt": "2026-04-18T19:04:46.159Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -924,7 +924,8 @@
     "com.WalkTalk.FlightMaster",
     "com.gameloft.android.ANMP.GloftFWHM",
     "com.square_enix.android_googleplay.DD",
-    "com.kanoapps.bz"
+    "com.kanoapps.bz",
+    "com.bigcake.android.bubbledaily"
   ],
   "items": [
     {
@@ -969,6 +970,15 @@
       "developer": "Kano Games",
       "icon": "https://play-lh.googleusercontent.com/m6p223BmwOBi15fHsQicV1XbA6llS4xmf8ZYtFMUgb59dL5Z0jZAUdKdn4DxmVfGBg",
       "url": "https://play.google.com/store/apps/details?id=com.kanoapps.bz&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcake.android.bubbledaily",
+      "title": "데일리 버블",
+      "developer": "Big Cake",
+      "icon": "https://play-lh.googleusercontent.com/nVMUMdxmiEFenCnvHRsfmNar_23tCrERLAlrB18tMOSYcRMM1LvlsvT34LIAObxnliUL",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.bubbledaily&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4497,15 +4507,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.city",
-      "title": "아기 팬더의 도시",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/1sW7L6lB7AyU_4-_L0y8J7_tMIMnNakqO_z0iyRNyuAzCWNea_sKLIpNeL9djghmoiQ",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.city&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
