@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T21:47:50.482Z",
+  "updatedAt": "2026-04-19T22:50:29.434Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -947,7 +947,8 @@
     "art.master.puzzle",
     "com.joyjourney.PianoWhiteGo",
     "com.sinyee.babybus.princessII",
-    "com.naturalmotion.customstreetracer2"
+    "com.naturalmotion.customstreetracer2",
+    "com.halfbrick.jetpackjoyride"
   ],
   "items": [
     {
@@ -992,6 +993,15 @@
       "developer": "Zynga",
       "icon": "https://play-lh.googleusercontent.com/t2PhABJn8PUQz9ynZa7R-lxCNejjyG1X0YMPMDtAMlJbmL06hF9DzQHjGNTOc8pfIBr_kT_oTv44kY2us7S6",
       "url": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.halfbrick.jetpackjoyride",
+      "title": "제트팩 조이라이드",
+      "developer": "Halfbrick Studios",
+      "icon": "https://play-lh.googleusercontent.com/3e_iyy1dolGSHqKFmwsao8SiMmqOtCuwD4CyKToLHoK34cchcH5PlG2VhOoE2_j-7FMH",
+      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -4727,15 +4737,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.evogames.slavsforvk",
-      "title": "하베스트 랜드",
-      "developer": "MTAG PUBLISHING LTD",
-      "icon": "https://play-lh.googleusercontent.com/gbHW5DLoAP2-7OK4VwQ6OL7ykLmsi00gSZEJRcnMib548OR2bAwWS49WFBs2qMd60ME",
-      "url": "https://play.google.com/store/apps/details?id=com.evogames.slavsforvk&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
