@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:14:05.150Z",
+  "updatedAt": "2026-04-19T23:40:19.453Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -950,7 +950,8 @@
     "com.naturalmotion.customstreetracer2",
     "com.halfbrick.jetpackjoyride",
     "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
-    "com.pixelbite.ga2"
+    "com.pixelbite.ga2",
+    "com.supersolid.snake"
   ],
   "items": [
     {
@@ -959,6 +960,15 @@
       "developer": "Halfbrick Studios",
       "icon": "https://play-lh.googleusercontent.com/3e_iyy1dolGSHqKFmwsao8SiMmqOtCuwD4CyKToLHoK34cchcH5PlG2VhOoE2_j-7FMH",
       "url": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.naturalmotion.customstreetracer2",
+      "title": "CSR 레이싱 2",
+      "developer": "Zynga",
+      "icon": "https://play-lh.googleusercontent.com/t2PhABJn8PUQz9ynZa7R-lxCNejjyG1X0YMPMDtAMlJbmL06hF9DzQHjGNTOc8pfIBr_kT_oTv44kY2us7S6",
+      "url": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -999,15 +1009,6 @@
       "isGame": true
     },
     {
-      "appId": "com.naturalmotion.customstreetracer2",
-      "title": "CSR 레이싱 2",
-      "developer": "Zynga",
-      "icon": "https://play-lh.googleusercontent.com/t2PhABJn8PUQz9ynZa7R-lxCNejjyG1X0YMPMDtAMlJbmL06hF9DzQHjGNTOc8pfIBr_kT_oTv44kY2us7S6",
-      "url": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
       "appId": "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
       "title": "Jurassic Dinosaur: 공룡 게임",
       "developer": "Sparkling Society - Historic Park & Tycoon Games",
@@ -1022,6 +1023,15 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/3aHL3xbbQBkiz2z3bf7EidcRxvWFTBPbEtBRLGHlrha4Z3UsTDM850RdK14HAAMaS-QjcxCVa9jOcTNbuGGDeQ",
       "url": "https://play.google.com/store/apps/details?id=com.pixelbite.ga2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.supersolid.snake",
+      "title": "Snake Rivals",
+      "developer": "Supersolid",
+      "icon": "https://play-lh.googleusercontent.com/uOBOlK2RN--P0YKTn64Th7O1i4U1qTfTY6lSOfp0Ey2dTg6ZeLM6mBj_5GtCNzlMnTo",
+      "url": "https://play.google.com/store/apps/details?id=com.supersolid.snake&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -4757,15 +4767,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.princesses",
-      "title": "Princesses - Enchanted Castle",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/k-r3KdwLO8g6E5y4to2H0WbQkjDobEazBKDfnHKmVEyIIW4WQLBjYI7PepS4Q7GNOO_N",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.princesses&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
