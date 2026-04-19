@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T03:45:07.667Z",
+  "updatedAt": "2026-04-19T04:49:42.966Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -935,9 +935,19 @@
     "com.runninggames.catrunners.runningpet",
     "com.phonemaster.jewelhunter",
     "com.netmarble.monster2",
-    "com.sinyee.babybus.marketII"
+    "com.sinyee.babybus.marketII",
+    "com.g5e.jewelsofmahjong.android"
   ],
   "items": [
+    {
+      "appId": "com.cjenm.ModooMarbleKakao",
+      "title": "모두의마블",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/8yNYz7ozvRn_XRnIo96mtMW6tVnVyfK-mcOFjazQTaapEkne0v8YuQOPkqAKc-YeVP3xPsXaKHIP4xz9HvYrn1U",
+      "url": "https://play.google.com/store/apps/details?id=com.cjenm.ModooMarbleKakao&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
     {
       "appId": "com.budgestudios.googleplay.PawPatrolRescueWorld",
       "title": "퍼피 구조대 세상을 구해라",
@@ -989,15 +999,6 @@
       "developer": "Big Cake",
       "icon": "https://play-lh.googleusercontent.com/nVMUMdxmiEFenCnvHRsfmNar_23tCrERLAlrB18tMOSYcRMM1LvlsvT34LIAObxnliUL",
       "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.bubbledaily&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.cjenm.ModooMarbleKakao",
-      "title": "모두의마블",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/8yNYz7ozvRn_XRnIo96mtMW6tVnVyfK-mcOFjazQTaapEkne0v8YuQOPkqAKc-YeVP3xPsXaKHIP4xz9HvYrn1U",
-      "url": "https://play.google.com/store/apps/details?id=com.cjenm.ModooMarbleKakao&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -1079,6 +1080,15 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/WZmgVmMRkk_9Q19uTIz2UQqIkx3LvQU1RjTfHmjqTAn9gjp-Qne-0cy2Kwsr0bvLeA",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketII&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.jewelsofmahjong.android",
+      "title": "Emperor of Mahjong 타일 짝 맞추기",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/OkGilsjadUhH0gM1w30nmBoHMYoxuO30me0XEOgkByqRnHFKNe3YkZ0P0VNaMm5scg",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofmahjong.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4607,15 +4617,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.zynga.FarmVille2CountryEscape",
-      "title": "FarmVille 2: 컨트리이스케이프",
-      "developer": "Zynga",
-      "icon": "https://play-lh.googleusercontent.com/EAV-SSBtlehOwKzZiOfCsdKLwSA6tdCRQGwZtnjm714ARbiW0np7FC61k123foeblmw",
-      "url": "https://play.google.com/store/apps/details?id=com.zynga.FarmVille2CountryEscape&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
