@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T22:50:29.434Z",
+  "updatedAt": "2026-04-19T23:04:55.552Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1015,6 +1015,15 @@
       "isGame": true
     },
     {
+      "appId": "com.netmarble.monster2",
+      "title": "몬길: STAR DIVE",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/HgMF0Fq3vKNgPlwm4GzidIh5W7hAY50kmAD1uNLcMywIFNqCnJ5aa88jN3x8mPBhtL8sSoLZlwl8IdMzeH0P7Y4",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
       "appId": "com.budgestudios.googleplay.PawPatrolRescueWorld",
       "title": "퍼피 구조대 세상을 구해라",
       "developer": "Budge Studios",
@@ -1128,15 +1137,6 @@
       "developer": "LinkDesks Classic Puzzle Games",
       "icon": "https://play-lh.googleusercontent.com/XKTIRSL_9rZsq22k9u3jTAjEKNZBzqS-jCTyrSPu8aO9PT44dwTL4KodFcGgB0ul480zY8CWmmknpute0umr",
       "url": "https://play.google.com/store/apps/details?id=com.phonemaster.jewelhunter&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.monster2",
-      "title": "몬길: STAR DIVE",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/HgMF0Fq3vKNgPlwm4GzidIh5W7hAY50kmAD1uNLcMywIFNqCnJ5aa88jN3x8mPBhtL8sSoLZlwl8IdMzeH0P7Y4",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
