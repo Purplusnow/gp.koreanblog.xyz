@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T09:57:07.478Z",
+  "updatedAt": "2026-04-19T10:54:02.112Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -941,7 +941,8 @@
     "com.rovio.ABstellapop",
     "fi.reworks.redecor",
     "com.soul.zhongjianshang",
-    "com.aim.racing"
+    "com.aim.racing",
+    "com.nexters.herowars"
   ],
   "items": [
     {
@@ -1139,6 +1140,15 @@
       "developer": "AxesInMotion Racing",
       "icon": "https://play-lh.googleusercontent.com/mZpszArgpl3nw2-hRkmnR7jJXFeniXhNQWgCefrFSnoKwMwdJ1CGr2FLi7zdsar0aw",
       "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexters.herowars",
+      "title": "Hero Wars: Alliance",
+      "developer": "NEXTERS GLOBAL LTD",
+      "icon": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
+      "url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4667,15 +4677,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.kbomanager.normal2.freefull.google.global.android.common",
-      "title": "컴투스프로야구매니저 LIVE 2026",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/piT2tsljMd-wNPCYf3T8DxGpjdIi6wPUFd5dlv3Ytoj6OMMrHEU1QFiqX9NqGVFnIrD-_55FEMw8OYZ3OPCT",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.kbomanager.normal2.freefull.google.global.android.common&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
