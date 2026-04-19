@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T19:05:04.566Z",
+  "updatedAt": "2026-04-19T19:50:52.874Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -942,9 +942,59 @@
     "fi.reworks.redecor",
     "com.soul.zhongjianshang",
     "com.aim.racing",
-    "com.nexters.herowars"
+    "com.nexters.herowars",
+    "bubble.pop.games.shooter.ball.game",
+    "art.master.puzzle",
+    "com.joyjourney.PianoWhiteGo",
+    "com.sinyee.babybus.princessII",
+    "com.naturalmotion.customstreetracer2"
   ],
   "items": [
+    {
+      "appId": "bubble.pop.games.shooter.ball.game",
+      "title": "버블슈터 게임：버블팝 슈팅게임",
+      "developer": "HDuo Fun Games",
+      "icon": "https://play-lh.googleusercontent.com/QO92vVkOjCXBbu7cYRe6QERWcDSTGuo_XTafFVt17_jThpOgon5WKY0aWhFcOPf6robX",
+      "url": "https://play.google.com/store/apps/details?id=bubble.pop.games.shooter.ball.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "art.master.puzzle",
+      "title": "아트 마스터: 직소 퍼즐",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/3IOTt4bqghQ9NcgjTnmvyWZmsZF2MKL-FZz2TZR5J_of2ey5Vzwi8zxXu1wo0rkhQQ",
+      "url": "https://play.google.com/store/apps/details?id=art.master.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.joyjourney.PianoWhiteGo",
+      "title": "Piano Music Go-EDM Piano Games",
+      "developer": "Joy Journey Music Games",
+      "icon": "https://play-lh.googleusercontent.com/X6rA5UkHhIkvpiuCqwMCPjcwNqtvT9yVw2wn_ZzV75Xlk_apsis3Nz6FJ6kIcp2Fw4Q",
+      "url": "https://play.google.com/store/apps/details?id=com.joyjourney.PianoWhiteGo&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.princessII",
+      "title": "공주 메이크업 - 베이비버스",
+      "developer": "FUZHOU JOLTRIX CO., LTD.",
+      "icon": "https://play-lh.googleusercontent.com/HnsvComDzsRWaDlGUddK3o10pWGnyuHZU-Be-iQmqKrBSH_djGrwiQ8lWpCOwO-GDPh-Nx4Z9TJNIwBhVCbdiig",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.princessII&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.naturalmotion.customstreetracer2",
+      "title": "CSR 레이싱 2",
+      "developer": "Zynga",
+      "icon": "https://play-lh.googleusercontent.com/t2PhABJn8PUQz9ynZa7R-lxCNejjyG1X0YMPMDtAMlJbmL06hF9DzQHjGNTOc8pfIBr_kT_oTv44kY2us7S6",
+      "url": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
     {
       "appId": "com.cjenm.ModooMarbleKakao",
       "title": "모두의마블",
@@ -4677,51 +4727,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.mxdzzkr.google",
-      "title": "버섯커 키우기-3000뽑기 증정",
-      "developer": "Joy Nice Games",
-      "icon": "https://play-lh.googleusercontent.com/olgO91YKKQE8d46Mt97SCkZM-SYJBvxrCeP_LRJeewclKhP1K8npUYnUAvkIJ8sEzz0c67Z778p1yV7INLsiQck",
-      "url": "https://play.google.com/store/apps/details?id=com.mxdzzkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.studiobside.starMain",
-      "title": "스타세이비어",
-      "developer": "STUDIOBSIDE",
-      "icon": "https://play-lh.googleusercontent.com/UiSDupKVwV4Kpd1i1UZXCfH_SvMHuRqbzGuT9MLcgUDHgRzzFFXRx_ljuirQI7_vdS_-usRClFSqAIvITK6PKA",
-      "url": "https://play.google.com/store/apps/details?id=com.studiobside.starMain&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.neowiz.game.anne",
-      "title": "오 마이 앤 : 퍼즐 & 집 꾸미기",
-      "developer": "NEOWIZ",
-      "icon": "https://play-lh.googleusercontent.com/MWgJztGKr1SFzYiG6qBeFRs-7ALMHi8ABA062cpJCZ0J-GrOc30WOgQVmnFk0Dqk0V0",
-      "url": "https://play.google.com/store/apps/details?id=com.neowiz.game.anne&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.edujoy.kidecats",
-      "title": "Kid-E-Cats. Educational Games",
-      "developer": "AppQuiz",
-      "icon": "https://play-lh.googleusercontent.com/OIjB8K435z2-rxyxDHDI6e96KMJOrP30feFVYeiWTiv-xks3G7naSq3XVF_DMl6VfaA",
-      "url": "https://play.google.com/store/apps/details?id=com.edujoy.kidecats&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.me2zen.tripeaks",
-      "title": "솔리테르 트라이픽스 져니",
-      "developer": "Ghost Studio Company",
-      "icon": "https://play-lh.googleusercontent.com/kSyxps9LNf4Ok0yUgN7qcLQ0putiLUmJS84uG2RMNUB7w1Qt9Tjfofvlxetasu-u5jJuGdCe897hiLGTeD3uzQ",
-      "url": "https://play.google.com/store/apps/details?id=com.me2zen.tripeaks&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
