@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T08:12:17.295Z",
+  "updatedAt": "2026-04-19T09:57:07.478Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -940,7 +940,8 @@
     "com.rbx.m3.android",
     "com.rovio.ABstellapop",
     "fi.reworks.redecor",
-    "com.soul.zhongjianshang"
+    "com.soul.zhongjianshang",
+    "com.aim.racing"
   ],
   "items": [
     {
@@ -1129,6 +1130,15 @@
       "developer": "supermt",
       "icon": "https://play-lh.googleusercontent.com/DK8UIJkiuoFL9wZBv_XRE3izmGdKiH7uPiyLp66syGy5haGt0gmSYf9G1ypAvtsv7Q",
       "url": "https://play.google.com/store/apps/details?id=com.soul.zhongjianshang&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.aim.racing",
+      "title": "Extreme Car Driving Simulator",
+      "developer": "AxesInMotion Racing",
+      "icon": "https://play-lh.googleusercontent.com/mZpszArgpl3nw2-hRkmnR7jJXFeniXhNQWgCefrFSnoKwMwdJ1CGr2FLi7zdsar0aw",
+      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4657,15 +4667,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "my.arena",
-      "title": "캐슬 듀얼: PvP 전장을 지배하라!",
-      "developer": "MYGAMES MENA FZ LLC",
-      "icon": "https://play-lh.googleusercontent.com/W42CdlsXsI7slrik0JRYR-6dOs9tIYdMpJi2qz8ci0ot7bipYr7kxGAwtLmljK049I_gl9uAg5BMrxkwft78cQ",
-      "url": "https://play.google.com/store/apps/details?id=my.arena&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
