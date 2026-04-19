@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:12:31.471Z",
+  "updatedAt": "2026-04-19T23:14:05.150Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -948,9 +948,20 @@
     "com.joyjourney.PianoWhiteGo",
     "com.sinyee.babybus.princessII",
     "com.naturalmotion.customstreetracer2",
-    "com.halfbrick.jetpackjoyride"
+    "com.halfbrick.jetpackjoyride",
+    "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
+    "com.pixelbite.ga2"
   ],
   "items": [
+    {
+      "appId": "com.halfbrick.jetpackjoyride",
+      "title": "제트팩 조이라이드",
+      "developer": "Halfbrick Studios",
+      "icon": "https://play-lh.googleusercontent.com/3e_iyy1dolGSHqKFmwsao8SiMmqOtCuwD4CyKToLHoK34cchcH5PlG2VhOoE2_j-7FMH",
+      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
     {
       "appId": "bubble.pop.games.shooter.ball.game",
       "title": "버블슈터 게임：버블팝 슈팅게임",
@@ -997,11 +1008,20 @@
       "isGame": true
     },
     {
-      "appId": "com.halfbrick.jetpackjoyride",
-      "title": "제트팩 조이라이드",
-      "developer": "Halfbrick Studios",
-      "icon": "https://play-lh.googleusercontent.com/3e_iyy1dolGSHqKFmwsao8SiMmqOtCuwD4CyKToLHoK34cchcH5PlG2VhOoE2_j-7FMH",
-      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=ko&gl=KR",
+      "appId": "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
+      "title": "Jurassic Dinosaur: 공룡 게임",
+      "developer": "Sparkling Society - Historic Park & Tycoon Games",
+      "icon": "https://play-lh.googleusercontent.com/bqZkjKQhPFsSsV8U0A9asMMQulp9ikk3m3u0wjqk1NMfe0SnibYkZqzjGqV-eMwlj1eF",
+      "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixelbite.ga2",
+      "title": "Reckless Getaway 2",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/3aHL3xbbQBkiz2z3bf7EidcRxvWFTBPbEtBRLGHlrha4Z3UsTDM850RdK14HAAMaS-QjcxCVa9jOcTNbuGGDeQ",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelbite.ga2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -4737,24 +4757,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.nordcurrent.fashion",
-      "title": "Pocket Styler: 옷 입히기 게임",
-      "developer": "Nordcurrent Games",
-      "icon": "https://play-lh.googleusercontent.com/Bl6ojaqSm0r4pWI8W1gg3j_0Dx6dpr1PfOPptLdLSgpKEB5939xlhTj8wNYwkH4CBYs",
-      "url": "https://play.google.com/store/apps/details?id=com.nordcurrent.fashion&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.career",
-      "title": "다양한 직업체험놀이 - 베이비버스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/XShrMUvxCDddKNHNmv2-mgJSrt1B2VhP6vvvfl0cv-UcLkMipPQWGtaRjhB6poDRw9Y",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.career&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
