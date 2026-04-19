@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T06:05:40.943Z",
+  "updatedAt": "2026-04-19T08:12:17.295Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -936,7 +936,11 @@
     "com.phonemaster.jewelhunter",
     "com.netmarble.monster2",
     "com.sinyee.babybus.marketII",
-    "com.g5e.jewelsofmahjong.android"
+    "com.g5e.jewelsofmahjong.android",
+    "com.rbx.m3.android",
+    "com.rovio.ABstellapop",
+    "fi.reworks.redecor",
+    "com.soul.zhongjianshang"
   ],
   "items": [
     {
@@ -1089,6 +1093,42 @@
       "developer": "G5 Entertainment",
       "icon": "https://play-lh.googleusercontent.com/OkGilsjadUhH0gM1w30nmBoHMYoxuO30me0XEOgkByqRnHFKNe3YkZ0P0VNaMm5scg",
       "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofmahjong.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.m3.android",
+      "title": "Park Town: 3매치 퍼즐을 해결하며 공원을 철",
+      "developer": "RED BRIX WALL",
+      "icon": "https://play-lh.googleusercontent.com/V1icef6FNHTFNKsBo2vMbEZ9wMaCk7qGfMHDFqKRL0rgefQjCbv_g2_IP9I_L4wuS4I",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.m3.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.rovio.ABstellapop",
+      "title": "Angry Birds POP Bubble Shooter",
+      "developer": "Rovio Entertainment Oy",
+      "icon": "https://play-lh.googleusercontent.com/0rvxtHiJ3UwaCxBHGZrNd8CvShlClMaas7-_oh1nc5LEjvM0hDuo4jiMQpuzc6CE6jvRF4-4xXUQazZKmAV5zw",
+      "url": "https://play.google.com/store/apps/details?id=com.rovio.ABstellapop&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "fi.reworks.redecor",
+      "title": "Redecor - Home Design Game",
+      "developer": "Reworks Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/ueNWeXQoJyF_aC13vtoEFzyQXM81twZFc2fTKOjGIX9uRGbim5vqaxZgDypGzD1WTw",
+      "url": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.soul.zhongjianshang",
+      "title": "중고차 핫딜러 - 중고차 시장 키우기",
+      "developer": "supermt",
+      "icon": "https://play-lh.googleusercontent.com/DK8UIJkiuoFL9wZBv_XRE3izmGdKiH7uPiyLp66syGy5haGt0gmSYf9G1ypAvtsv7Q",
+      "url": "https://play.google.com/store/apps/details?id=com.soul.zhongjianshang&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4617,42 +4657,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.rom.game",
-      "title": "Realm of Mystery",
-      "developer": "Puzala",
-      "icon": "https://play-lh.googleusercontent.com/CEL8ySWr8VMCi0ZPzqEkgN-EEJo7K_eii7_0s-ILXmoYLm8RlMikGYByaylHueN4MA",
-      "url": "https://play.google.com/store/apps/details?id=com.rom.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.madovergames.BubbleShooterPro",
-      "title": "버블 슈터 프로 2026",
-      "developer": "Bubble Shooter @ MadOverGames",
-      "icon": "https://play-lh.googleusercontent.com/Yn_T4lqXDnvqNdsIBGH7hpNU7x9Zl4LosHNYSrGpF6CIj_YkyeV7yYN6dBeNcSjtZQE",
-      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterPro&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.stgl.global",
-      "title": "War and Magic: Kingdom Reborn",
-      "developer": "GOAT Games",
-      "icon": "https://play-lh.googleusercontent.com/ESreNMKxJq8oihuimmGv2qltqJBGgk0eH1kf-ECZ2Nf3PiHsTADTHU8hX3x9wG6SA-w",
-      "url": "https://play.google.com/store/apps/details?id=com.stgl.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.biglime.cookingmadness",
-      "title": "쿠킹 매드니스 - 셰프의 레스토랑 게임",
-      "developer": "ZenLife Games Ltd",
-      "icon": "https://play-lh.googleusercontent.com/GkQt7bnV75imAMpQ1dvd5WbTGvawyD80IaXb1ELhySklCLGMGJRzCEZ-9jJOZsAeq-0",
-      "url": "https://play.google.com/store/apps/details?id=com.biglime.cookingmadness&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
