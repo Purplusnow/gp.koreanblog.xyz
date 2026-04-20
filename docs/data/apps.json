@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T22:57:27.659Z",
+  "updatedAt": "2026-04-20T23:55:03.322Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -958,7 +958,8 @@
     "com.foxnextgames.m3",
     "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
     "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
-    "com.internetdesignzone.nurseryrhymes"
+    "com.internetdesignzone.nurseryrhymes",
+    "air.com.sgn.cookiejam.gp"
   ],
   "items": [
     {
@@ -985,6 +986,15 @@
       "developer": "IDZ Digital Private Limited",
       "icon": "https://play-lh.googleusercontent.com/BMTcJHqAaFGCHKq-F99xZSbyVp2yfx5mP8cL6Hgms5Y8gnzd9XtRHHrifop_08SM2g",
       "url": "https://play.google.com/store/apps/details?id=com.internetdesignzone.nurseryrhymes&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.sgn.cookiejam.gp",
+      "title": "쿠키잼",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/EzJQJegwDSkH7vS_luJJEPaRjlmCAdqJxkV29kagaGNvJ2IlT7tamusTxWn7D-3ldiA",
+      "url": "https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
@@ -4837,15 +4847,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftDOHM",
-      "title": "드래곤 매니아 레전드",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/VknD6MWP2FtYSPTWxlI1H_ad2BaAdzMzfE5SKW3WczbP7glBE4Ykgrdzh8giSXEvPQ",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDOHM&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
