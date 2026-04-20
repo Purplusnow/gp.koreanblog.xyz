@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:49:14.491Z",
+  "updatedAt": "2026-04-20T03:26:49.398Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -973,6 +973,15 @@
       "isGame": true
     },
     {
+      "appId": "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
+      "title": "Jurassic Dinosaur: 공룡 게임",
+      "developer": "Sparkling Society - Historic Park & Tycoon Games",
+      "icon": "https://play-lh.googleusercontent.com/bqZkjKQhPFsSsV8U0A9asMMQulp9ikk3m3u0wjqk1NMfe0SnibYkZqzjGqV-eMwlj1eF",
+      "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
       "appId": "bubble.pop.games.shooter.ball.game",
       "title": "버블슈터 게임：버블팝 슈팅게임",
       "developer": "HDuo Fun Games",
@@ -1005,15 +1014,6 @@
       "developer": "FUZHOU JOLTRIX CO., LTD.",
       "icon": "https://play-lh.googleusercontent.com/HnsvComDzsRWaDlGUddK3o10pWGnyuHZU-Be-iQmqKrBSH_djGrwiQ8lWpCOwO-GDPh-Nx4Z9TJNIwBhVCbdiig",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.princessII&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
-      "title": "Jurassic Dinosaur: 공룡 게임",
-      "developer": "Sparkling Society - Historic Park & Tycoon Games",
-      "icon": "https://play-lh.googleusercontent.com/bqZkjKQhPFsSsV8U0A9asMMQulp9ikk3m3u0wjqk1NMfe0SnibYkZqzjGqV-eMwlj1eF",
-      "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
