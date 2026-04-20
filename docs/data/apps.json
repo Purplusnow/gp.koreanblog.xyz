@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T20:04:43.895Z",
+  "updatedAt": "2026-04-20T20:59:44.698Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -957,7 +957,8 @@
     "and.lihuhu.machingtriple",
     "com.foxnextgames.m3",
     "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
-    "com.iz.baby.world.kids.learning.games.balloon.popping.educational"
+    "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
+    "com.internetdesignzone.nurseryrhymes"
   ],
   "items": [
     {
@@ -975,6 +976,15 @@
       "developer": "Timpy Games For Kids, Toddlers & Baby",
       "icon": "https://play-lh.googleusercontent.com/DN25XtKEeXaeEjXm0uceG_Fs9yKVxpE9taJz2gM_sxHJUntvAw_QfLNGS7PkJQZxBQ",
       "url": "https://play.google.com/store/apps/details?id=com.iz.baby.world.kids.learning.games.balloon.popping.educational&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.internetdesignzone.nurseryrhymes",
+      "title": "KidloLand (키들로랜드) 어린이 게임, 유아게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/BMTcJHqAaFGCHKq-F99xZSbyVp2yfx5mP8cL6Hgms5Y8gnzd9XtRHHrifop_08SM2g",
+      "url": "https://play.google.com/store/apps/details?id=com.internetdesignzone.nurseryrhymes&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
@@ -4827,15 +4837,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.wireless.defenseland",
-      "title": "레이드 러시: 타워 디펜스",
-      "developer": "Panteon",
-      "icon": "https://play-lh.googleusercontent.com/8suVlcKa-KLQcRxFS6p7R5uD8jW1Sutm1vfy_iqZnrTyvo6iug4h8R3Ds4gBGwRl0Q",
-      "url": "https://play.google.com/store/apps/details?id=com.wireless.defenseland&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
