@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T14:06:54.291Z",
+  "updatedAt": "2026-04-20T16:19:16.073Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -955,9 +955,29 @@
     "mad.royale.tanks",
     "com.miniclip.agar.io",
     "and.lihuhu.machingtriple",
-    "com.foxnextgames.m3"
+    "com.foxnextgames.m3",
+    "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
+    "com.iz.baby.world.kids.learning.games.balloon.popping.educational"
   ],
   "items": [
+    {
+      "appId": "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
+      "title": "2, 3, 4 세 아동용 게임",
+      "developer": "IDZ Digital Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/5sayIhFt99chiUNvWAc1LXGtTkf82FsyXjfvNsIg1Ovgo3N6VxHuATLfoneCamC5ow",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.games.kids.toddler.learning.shark.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
+      "title": "2세 이상 유아용 아기 게임 - 어린이 교육용 게임",
+      "developer": "Timpy Games For Kids, Toddlers & Baby",
+      "icon": "https://play-lh.googleusercontent.com/DN25XtKEeXaeEjXm0uceG_Fs9yKVxpE9taJz2gM_sxHJUntvAw_QfLNGS7PkJQZxBQ",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.world.kids.learning.games.balloon.popping.educational&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
     {
       "appId": "com.halfbrick.jetpackjoyride",
       "title": "제트팩 조이라이드",
@@ -4807,24 +4827,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.asanteegames.magicrampage",
-      "title": "Magic Rampage",
-      "developer": "Asantee Games",
-      "icon": "https://play-lh.googleusercontent.com/ZSI9gI6BuA7ifN3maQanSFFCCQZnsspPnWf4YwvrIpTa-oBF8iarFIz0BaUuA9eBUbM",
-      "url": "https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.cola.game",
-      "title": "핫레스토랑: 머지&쿠킹",
-      "developer": "Microfun Limited",
-      "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-      "url": "https://play.google.com/store/apps/details?id=com.cola.game&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
