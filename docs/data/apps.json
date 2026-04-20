@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T09:15:22.532Z",
+  "updatedAt": "2026-04-20T09:56:04.020Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -951,7 +951,8 @@
     "com.halfbrick.jetpackjoyride",
     "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
     "com.pixelbite.ga2",
-    "com.supersolid.snake"
+    "com.supersolid.snake",
+    "mad.royale.tanks"
   ],
   "items": [
     {
@@ -1036,6 +1037,15 @@
       "isGame": true
     },
     {
+      "appId": "mad.royale.tanks",
+      "title": "매드 로얄 io - 탱크 배틀",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/j3gUvDKbAvnK4rvyFuTxzmQOEUV41R5QwFHA66PORIHuZeb2fyirIGrjA79npAD3ZGna",
+      "url": "https://play.google.com/store/apps/details?id=mad.royale.tanks&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
       "appId": "com.cjenm.ModooMarbleKakao",
       "title": "모두의마블",
       "developer": "Netmarble",
@@ -1059,6 +1069,15 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/0ua_nqtEwCSJem9kuOOb8zHrXkJKp2LjopsFDCizkXjREqigR3wzoRAcengUfpulC6RG8-tK0wEDld5z-XL6BUE",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.PawPatrolRescueWorld&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.war",
+      "title": "라이즈 오브 퍼스트본",
+      "developer": "KIXEYE Canada Ltd",
+      "icon": "https://play-lh.googleusercontent.com/LdIpl82L1zymaa228nh177P9KQOit9JgG6JrtLOkhjWDOK_3Fa9lm9dnwTrkouzCmUgb",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.war&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -1104,15 +1123,6 @@
       "developer": "Big Cake",
       "icon": "https://play-lh.googleusercontent.com/nVMUMdxmiEFenCnvHRsfmNar_23tCrERLAlrB18tMOSYcRMM1LvlsvT34LIAObxnliUL",
       "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.bubbledaily&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.war",
-      "title": "라이즈 오브 퍼스트본",
-      "developer": "KIXEYE Canada Ltd",
-      "icon": "https://play-lh.googleusercontent.com/LdIpl82L1zymaa228nh177P9KQOit9JgG6JrtLOkhjWDOK_3Fa9lm9dnwTrkouzCmUgb",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.war&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
@@ -4767,15 +4777,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.TwinCrab.Motorpolia",
-      "title": "스테이트 커넥트: 교통 통제",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/-TSJthRTGWUi3S-gSvpkAkeJTLWvFp8n4had4iON78KGU7Zo_iMVVn3qHvPlOPB6o-A",
-      "url": "https://play.google.com/store/apps/details?id=com.TwinCrab.Motorpolia&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
