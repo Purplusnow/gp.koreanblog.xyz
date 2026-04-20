@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T11:38:13.253Z",
+  "updatedAt": "2026-04-20T13:00:47.395Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -952,7 +952,9 @@
     "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
     "com.pixelbite.ga2",
     "com.supersolid.snake",
-    "mad.royale.tanks"
+    "mad.royale.tanks",
+    "com.miniclip.agar.io",
+    "and.lihuhu.machingtriple"
   ],
   "items": [
     {
@@ -1042,6 +1044,24 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/j3gUvDKbAvnK4rvyFuTxzmQOEUV41R5QwFHA66PORIHuZeb2fyirIGrjA79npAD3ZGna",
       "url": "https://play.google.com/store/apps/details?id=mad.royale.tanks&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.agar.io",
+      "title": "Agar.io",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/jIU8Ky1KlDOHH4Hfp-S_QjPATGtp8M2ddYccWMGFVPXl6Umqy3k5hK9_0jayltJ1UPw",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.agar.io&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "and.lihuhu.machingtriple",
+      "title": "Match Triple 3D: Matching tile",
+      "developer": "LIHUHU PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/Fyj84R_cBe1AVt7Er17nVGyWe1z_S4xsTIQjNTHOV2lJV4YH8MD1ZIEBB-oeLhmDGg",
+      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.machingtriple&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -1253,20 +1273,20 @@
       "isGame": true
     },
     {
-      "appId": "com.cyberjoy.fishing",
-      "title": "Fishing Frenzy:Idle Hooked Inc",
-      "developer": "CyberJoy Games",
-      "icon": "https://play-lh.googleusercontent.com/rd4Pk1nWDI871l77UGBEwdoselg-vt0Am312B-dBOgwfljoCNlsVia0K3EbyOcW2nJI",
-      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.fishing&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
       "appId": "com.sinyee.babybus.airport",
       "title": "아기 판다의 공항",
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/fjTZkP0J5ildhwGEIKmGNJTNopTKWxzTYUqR3ymo6vDAsNoRSt1JHsREkpQ5UMMai5A",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.airport&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.fishing",
+      "title": "Fishing Frenzy:Idle Hooked Inc",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/rd4Pk1nWDI871l77UGBEwdoselg-vt0Am312B-dBOgwfljoCNlsVia0K3EbyOcW2nJI",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.fishing&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
@@ -4777,24 +4797,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.badbeans.DarkIdle",
-      "title": "임모탈 키우기 : 복귀 이벤트 리뉴얼",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/eZ1NkayhxQ5BxYAdFyKJtiHx7I9qjH_Lf7TnSrk5BwhKnXYXuGpst1saGJYmxNuo7xIOh_wC_RhY17_kgBwnm6Y",
-      "url": "https://play.google.com/store/apps/details?id=com.badbeans.DarkIdle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookingo.perfect.meal",
-      "title": "Cookingo: Perfect Meal",
-      "developer": "DIGO Lab",
-      "icon": "https://play-lh.googleusercontent.com/lOiC0VEsUHjQZx9eXptJLBKuwdYMkBc-rzO0jLBWutWld-lSTQOLutXMpQF_-pmDhpAO",
-      "url": "https://play.google.com/store/apps/details?id=com.cookingo.perfect.meal&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
