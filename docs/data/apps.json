@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T13:13:50.305Z",
+  "updatedAt": "2026-04-20T14:06:54.291Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -954,7 +954,8 @@
     "com.supersolid.snake",
     "mad.royale.tanks",
     "com.miniclip.agar.io",
-    "and.lihuhu.machingtriple"
+    "and.lihuhu.machingtriple",
+    "com.foxnextgames.m3"
   ],
   "items": [
     {
@@ -1062,6 +1063,15 @@
       "developer": "LIHUHU PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/Fyj84R_cBe1AVt7Er17nVGyWe1z_S4xsTIQjNTHOV2lJV4YH8MD1ZIEBB-oeLhmDGg",
       "url": "https://play.google.com/store/apps/details?id=and.lihuhu.machingtriple&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.foxnextgames.m3",
+      "title": "MARVEL 스트라이크 포스: 스쿼드 RPG",
+      "developer": "Scopely",
+      "icon": "https://play-lh.googleusercontent.com/AI9bcRd6c_QXUriLEr-z03oqA72psQqGkUbYj7xVae8fh3V7u9dxd5u7oQFoSMwlZWQar3p0T3qmpoQIbHhhbQ8",
+      "url": "https://play.google.com/store/apps/details?id=com.foxnextgames.m3&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -4797,15 +4807,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.metroville.global",
-      "title": "Livetopia: Party!",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/aYEmJm5FRSPeymXEUfffLWSjfhCeemvVKo4bCql6JBqjEJIwNLXyqjCLzX-Gk2suzGw",
-      "url": "https://play.google.com/store/apps/details?id=com.metroville.global&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
