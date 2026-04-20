@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T13:00:47.395Z",
+  "updatedAt": "2026-04-20T13:13:50.305Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1354,20 +1354,20 @@
       "isGame": true
     },
     {
-      "appId": "com.miniclip.chess",
-      "title": "Chess Clash: Online & Offline",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/bpdkCCI8e5IbAkLgRwI3e5dJDSR_kFe1Ioh7f7_AxxaR_Jn9VHF1Hx56DEAqGnHPynmd",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.chess&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
       "appId": "com.cookapps.berserkidle",
       "title": "광전사 키우기: 방치형 rpg",
       "developer": "CookApps",
       "icon": "https://play-lh.googleusercontent.com/sfSq57rTzPj9Ub6QTVAH7MRjbJCDdR0a9UqrH0hI6s4AwSMEwpF-qcTBRjsjotEXlguN",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.berserkidle&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.chess",
+      "title": "Chess Clash: Online & Offline",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/bpdkCCI8e5IbAkLgRwI3e5dJDSR_kFe1Ioh7f7_AxxaR_Jn9VHF1Hx56DEAqGnHPynmd",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.chess&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
