@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T16:18:59.850Z",
+  "updatedAt": "2026-04-21T18:09:06.589Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -965,9 +965,19 @@
     "com.chillingo.robberybob2.android.gplay",
     "com.nekki.shadowfight",
     "onetap.game.tictactoe",
-    "com.ninjakiwi.bloonstd6"
+    "com.ninjakiwi.bloonstd6",
+    "fall.stars.race"
   ],
   "items": [
+    {
+      "appId": "fall.stars.race",
+      "title": "STAR: 슈퍼 트리키 어메이징 런",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/Ej8keTyhWN2DaWsbdkGoW0n-5HiXG7Ls2TxBmu7PC_VylHHWQko28incFXYPGt_9BdpG",
+      "url": "https://play.google.com/store/apps/details?id=fall.stars.race&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
     {
       "appId": "air.com.sgn.cookiejam.gp",
       "title": "쿠키잼",
@@ -4907,15 +4917,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.peoplefun.wordsolitaire",
-      "title": "Wordscapes Solitaire",
-      "developer": "PeopleFun",
-      "icon": "https://play-lh.googleusercontent.com/y38JErzXUPrERQm8e24LIyy3LveFEDOSXRuxVEYKkzNVt7weB6-7jphZ-iK7ZBg3gfs",
-      "url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordsolitaire&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
