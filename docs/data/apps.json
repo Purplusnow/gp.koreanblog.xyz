@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T20:10:57.343Z",
+  "updatedAt": "2026-04-21T21:55:01.884Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -968,7 +968,8 @@
     "com.ninjakiwi.bloonstd6",
     "fall.stars.race",
     "com.wildspike.wormhunt",
-    "happy.pixel.coloring.art.color.games"
+    "happy.pixel.coloring.art.color.games",
+    "com.empire.grow.rome"
   ],
   "items": [
     {
@@ -995,6 +996,15 @@
       "developer": "HDuo Fun Games",
       "icon": "https://play-lh.googleusercontent.com/54DpSUbNF2WKuGT5RaRnBcQ8TmHPJazlXs1-NtGuNT4TZqnDGwd3uaIkmpY3Tv24cg",
       "url": "https://play.google.com/store/apps/details?id=happy.pixel.coloring.art.color.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.empire.grow.rome",
+      "title": "발전하는 제국: 로마",
+      "developer": "Games Station Studio",
+      "icon": "https://play-lh.googleusercontent.com/Pow90vZowVaFqub46S40DMRSFPL8v_Roem-hRAxTP10Dt6P855o3RhUpMlh11BWC_da8",
+      "url": "https://play.google.com/store/apps/details?id=com.empire.grow.rome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -4937,15 +4947,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.redcell.goldandgoblins",
-      "title": "금과 고블린: 경영 시뮬레이션 광산 타이쿤 게임",
-      "developer": "AppQuantum",
-      "icon": "https://play-lh.googleusercontent.com/zJ_p5S1fdvphZU9GWimgFrZqhmuOPXKTrF81bKO3WjXjijI9mwitxF5W77mMX8sjYm0Q",
-      "url": "https://play.google.com/store/apps/details?id=com.redcell.goldandgoblins&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
