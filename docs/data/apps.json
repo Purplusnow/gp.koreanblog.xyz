@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T23:55:03.322Z",
+  "updatedAt": "2026-04-21T00:59:05.946Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -959,9 +959,22 @@
     "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
     "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
     "com.internetdesignzone.nurseryrhymes",
-    "air.com.sgn.cookiejam.gp"
+    "air.com.sgn.cookiejam.gp",
+    "com.drivezone.car.race.game",
+    "com.gameloft.anmp.disney.speedstorm",
+    "com.chillingo.robberybob2.android.gplay",
+    "com.nekki.shadowfight"
   ],
   "items": [
+    {
+      "appId": "air.com.sgn.cookiejam.gp",
+      "title": "쿠키잼",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/EzJQJegwDSkH7vS_luJJEPaRjlmCAdqJxkV29kagaGNvJ2IlT7tamusTxWn7D-3ldiA",
+      "url": "https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
     {
       "appId": "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
       "title": "2, 3, 4 세 아동용 게임",
@@ -990,11 +1003,38 @@
       "isGame": true
     },
     {
-      "appId": "air.com.sgn.cookiejam.gp",
-      "title": "쿠키잼",
-      "developer": "Jam City, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/EzJQJegwDSkH7vS_luJJEPaRjlmCAdqJxkV29kagaGNvJ2IlT7tamusTxWn7D-3ldiA",
-      "url": "https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp&hl=ko&gl=KR",
+      "appId": "com.drivezone.car.race.game",
+      "title": "Drive Zone Online: 자동차와 드리프트",
+      "developer": "Jet Games FZ-LLC",
+      "icon": "https://play-lh.googleusercontent.com/6XtTMwY47KMK-dqMxAkhmSzVy3PSVZLnolmecn6PlhSU8bK6ZDLx4bg2zyxKWB8lmFPNtaDgJTWKqLt0UMk_UQ",
+      "url": "https://play.google.com/store/apps/details?id=com.drivezone.car.race.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameloft.anmp.disney.speedstorm",
+      "title": "디즈니 스피드스톰 - Disney Speedstorm",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/0hOgbmWCJfW_E51xQpn5-kiilbwxNzDEhtwpCqZePClM1fKh66yX7-IuWS1q0m5e6D_F6BglIMNI2Ih-Zq2X",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.anmp.disney.speedstorm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.chillingo.robberybob2.android.gplay",
+      "title": "Robbery Bob 2: 이중 문제",
+      "developer": "Deca_Games",
+      "icon": "https://play-lh.googleusercontent.com/SjoUsj06xcSRIz8rWzFUDV2VawAgnRJXebJhcr4UhPUl-ds_C9kTYzxMoadbUgxbUq8",
+      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.nekki.shadowfight",
+      "title": "섀도우 파이트 2",
+      "developer": "NEKKI",
+      "icon": "https://play-lh.googleusercontent.com/BG6-jQ8UwJfsHar7Ca00kVPgfUUbZ2F_xwnW-V6qwRBQuRc9X8aaKyu9kqeRHq7D9fE",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
@@ -4847,42 +4887,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "merge.magic.merge",
-      "title": "머지 매직: 머지 & 보수",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/c46l_O08I8pv3-i6dGIfIQpUZVPqg1-B8wak6iCfGtNKG7RbDRR6b4AIAQ_cDuVsPllP",
-      "url": "https://play.google.com/store/apps/details?id=merge.magic.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "park.master.car.parking.games",
-      "title": "Car Out: 카잼 차빼기 - 주차게임 마스터의 세계",
-      "developer": "GameLord 3D",
-      "icon": "https://play-lh.googleusercontent.com/CeG9tAteo3d2aTdqAP5DMHeNFS9AvWYzN0VAQYczVvlZTghx_iV0hIQJpkPCCWxocrw",
-      "url": "https://play.google.com/store/apps/details?id=park.master.car.parking.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.fanatee.cody",
-      "title": "CodyCross: Crossword Puzzles",
-      "developer": "Fanatee, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/1kbpNtXjB2L3F0ZVw6B9rlo2hCdDAQxmGUhMBE60Srfv7cIWTZmRKgQ-nEoO0Bu0Hzs",
-      "url": "https://play.google.com/store/apps/details?id=com.fanatee.cody&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.kingdomrush.alliance",
-      "title": "Kingdom Rush 5: Alliance TD",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/Vko5fXLTEOKqqEKsSZmH7Lfdc9hjAmIhKSN9c3v_RZwAVkI6jWND1IrZB8211KgLO2UCDeIBuByIfKC9SEa7prc",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush.alliance&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
