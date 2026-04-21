@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T18:09:06.589Z",
+  "updatedAt": "2026-04-21T20:10:57.343Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -966,7 +966,9 @@
     "com.nekki.shadowfight",
     "onetap.game.tictactoe",
     "com.ninjakiwi.bloonstd6",
-    "fall.stars.race"
+    "fall.stars.race",
+    "com.wildspike.wormhunt",
+    "happy.pixel.coloring.art.color.games"
   ],
   "items": [
     {
@@ -975,6 +977,24 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/Ej8keTyhWN2DaWsbdkGoW0n-5HiXG7Ls2TxBmu7PC_VylHHWQko28incFXYPGt_9BdpG",
       "url": "https://play.google.com/store/apps/details?id=fall.stars.race&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildspike.wormhunt",
+      "title": "사냥꾼 지렁이 • 뱀 게임 병합 .iO",
+      "developer": "Peaky Muzzle",
+      "icon": "https://play-lh.googleusercontent.com/YgPTsFz6uwFWlweSNtcVfvrap-mqp--EAY44533uKahsAwtVgEwQdY3LcVOmQu1lwwKH",
+      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormhunt&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "happy.pixel.coloring.art.color.games",
+      "title": "픽셀 아트 색칠 - Pixel Art Coloring",
+      "developer": "HDuo Fun Games",
+      "icon": "https://play-lh.googleusercontent.com/54DpSUbNF2WKuGT5RaRnBcQ8TmHPJazlXs1-NtGuNT4TZqnDGwd3uaIkmpY3Tv24cg",
+      "url": "https://play.google.com/store/apps/details?id=happy.pixel.coloring.art.color.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -4917,24 +4937,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "spider.solitaire.card.games.free.klondike.patience",
-      "title": "카드게임 - 스파이더카드놀이",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/nAYT7nHsy7QMEzJJCITNyNPpQZYv8z8vcFvvYZK8CY9J8koR8houV10ynZWbHDP6b0me",
-      "url": "https://play.google.com/store/apps/details?id=spider.solitaire.card.games.free.klondike.patience&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.redvel.soccer.star.football.legends.games.clash.multiplayer.online",
-      "title": "Soccer Star Super Football",
-      "developer": "Redvel Sports Games",
-      "icon": "https://play-lh.googleusercontent.com/sr9XFBB12SZTKslbE1mJ9Ray0_zLLHZnthnyOOLubswGT4kTohv4eabEs96DUecwh_N6",
-      "url": "https://play.google.com/store/apps/details?id=com.redvel.soccer.star.football.legends.games.clash.multiplayer.online&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
