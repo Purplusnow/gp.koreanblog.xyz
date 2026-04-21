@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T10:26:15.080Z",
+  "updatedAt": "2026-04-21T10:45:27.584Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -964,7 +964,8 @@
     "com.gameloft.anmp.disney.speedstorm",
     "com.chillingo.robberybob2.android.gplay",
     "com.nekki.shadowfight",
-    "onetap.game.tictactoe"
+    "onetap.game.tictactoe",
+    "com.ninjakiwi.bloonstd6"
   ],
   "items": [
     {
@@ -1049,6 +1050,15 @@
       "isGame": true
     },
     {
+      "appId": "com.ninjakiwi.bloonstd6",
+      "title": "Bloons TD 6",
+      "developer": "ninja kiwi",
+      "icon": "https://play-lh.googleusercontent.com/4te8y2It_nyY4yX5jcSEFaTDro98302l9EnSbkJyCobGUo8GWxteV_8kJ8nlXyStxw",
+      "url": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
       "appId": "com.halfbrick.jetpackjoyride",
       "title": "제트팩 조이라이드",
       "developer": "Halfbrick Studios",
@@ -1072,6 +1082,15 @@
       "developer": "Sparkling Society - Historic Park & Tycoon Games",
       "icon": "https://play-lh.googleusercontent.com/bqZkjKQhPFsSsV8U0A9asMMQulp9ikk3m3u0wjqk1NMfe0SnibYkZqzjGqV-eMwlj1eF",
       "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.agar.io",
+      "title": "Agar.io",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/jIU8Ky1KlDOHH4Hfp-S_QjPATGtp8M2ddYccWMGFVPXl6Umqy3k5hK9_0jayltJ1UPw",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.agar.io&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -1135,15 +1154,6 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/j3gUvDKbAvnK4rvyFuTxzmQOEUV41R5QwFHA66PORIHuZeb2fyirIGrjA79npAD3ZGna",
       "url": "https://play.google.com/store/apps/details?id=mad.royale.tanks&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.agar.io",
-      "title": "Agar.io",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/jIU8Ky1KlDOHH4Hfp-S_QjPATGtp8M2ddYccWMGFVPXl6Umqy3k5hK9_0jayltJ1UPw",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.agar.io&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
@@ -4897,15 +4907,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.plarium.mechlegion",
-      "title": "Mech Arena (메크 아레나)",
-      "developer": "Plarium Global Ltd",
-      "icon": "https://play-lh.googleusercontent.com/YmC3PbhCybbBi1YN57foR-kfEY50z7Bm4ku7a_lauo5y_pd-AAIQM7WXrsN-H0DDXEA",
-      "url": "https://play.google.com/store/apps/details?id=com.plarium.mechlegion&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
