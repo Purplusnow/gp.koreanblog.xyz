@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T00:59:05.946Z",
+  "updatedAt": "2026-04-21T01:14:33.055Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -976,6 +976,15 @@
       "isGame": true
     },
     {
+      "appId": "com.nekki.shadowfight",
+      "title": "섀도우 파이트 2",
+      "developer": "NEKKI",
+      "icon": "https://play-lh.googleusercontent.com/BG6-jQ8UwJfsHar7Ca00kVPgfUUbZ2F_xwnW-V6qwRBQuRc9X8aaKyu9kqeRHq7D9fE",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-21",
+      "isGame": true
+    },
+    {
       "appId": "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
       "title": "2, 3, 4 세 아동용 게임",
       "developer": "IDZ Digital Private Limited",
@@ -1026,15 +1035,6 @@
       "developer": "Deca_Games",
       "icon": "https://play-lh.googleusercontent.com/SjoUsj06xcSRIz8rWzFUDV2VawAgnRJXebJhcr4UhPUl-ds_C9kTYzxMoadbUgxbUq8",
       "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.nekki.shadowfight",
-      "title": "섀도우 파이트 2",
-      "developer": "NEKKI",
-      "icon": "https://play-lh.googleusercontent.com/BG6-jQ8UwJfsHar7Ca00kVPgfUUbZ2F_xwnW-V6qwRBQuRc9X8aaKyu9kqeRHq7D9fE",
-      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
