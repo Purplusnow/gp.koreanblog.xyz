@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T22:53:15.692Z",
+  "updatedAt": "2026-04-21T23:48:17.930Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -969,7 +969,8 @@
     "fall.stars.race",
     "com.wildspike.wormhunt",
     "happy.pixel.coloring.art.color.games",
-    "com.empire.grow.rome"
+    "com.empire.grow.rome",
+    "truck.simulator.climb.frontline"
   ],
   "items": [
     {
@@ -1005,6 +1006,15 @@
       "developer": "Games Station Studio",
       "icon": "https://play-lh.googleusercontent.com/Pow90vZowVaFqub46S40DMRSFPL8v_Roem-hRAxTP10Dt6P855o3RhUpMlh11BWC_da8",
       "url": "https://play.google.com/store/apps/details?id=com.empire.grow.rome&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "truck.simulator.climb.frontline",
+      "title": "Truck Simulator: Frontline WW2",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/RpcFa5Qu0BNg1vR1D-5r85ctjvt-1HPeUtoOmWYbPFcuXdxxbNx442lVSAPWPrqjEjA",
+      "url": "https://play.google.com/store/apps/details?id=truck.simulator.climb.frontline&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -4947,15 +4957,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ailiyong.world.course",
-      "title": "BabyBus 키즈 사이언스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/Ja5Ug2xpV-HMYcfgt98_v3PPK3qHPXttOwWkx-6YHogs15dRilf5B4lg6o4h567ttluR",
-      "url": "https://play.google.com/store/apps/details?id=com.ailiyong.world.course&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
