@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T14:52:16.291Z",
+  "updatedAt": "2026-04-22T16:17:20.552Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -977,9 +977,59 @@
     "com.vfg.silkroad.google",
     "com.jumkaash.impossibleisland.andr",
     "com.jszc.gpkr",
-    "com.FishEatFish.FeedGrow"
+    "com.FishEatFish.FeedGrow",
+    "com.solitaire.klondike.my.magic.dragon.friends.cardgames",
+    "games.my.zombie.shooter",
+    "com.playgendary.tom",
+    "com.robtopx.geometrydashsubzero",
+    "com.madfingergames.deadtrigger"
   ],
   "items": [
+    {
+      "appId": "com.solitaire.klondike.my.magic.dragon.friends.cardgames",
+      "title": "솔리테어 드래곤",
+      "developer": "Playdayy",
+      "icon": "https://play-lh.googleusercontent.com/kxeIFc_fDy_kV_Uzhj9HShoRgAyxIBHHu8VKHbOIQ7NhWRPH40u98K-n1gujjJOnlvw",
+      "url": "https://play.google.com/store/apps/details?id=com.solitaire.klondike.my.magic.dragon.friends.cardgames&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "games.my.zombie.shooter",
+      "title": "좀비 스테이트(Zombie State) FPS 좀비게임",
+      "developer": "KEYSTORM HOLDINGS LTD",
+      "icon": "https://play-lh.googleusercontent.com/FKdcKzyQ85lp_7fHOLMULFNzJMCNGWWBziwJ2JsPkNvTSXrQ_s1IIqFAY2VwCCWLRpc",
+      "url": "https://play.google.com/store/apps/details?id=games.my.zombie.shooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.tom",
+      "title": "Tomb of the Mask: 픽셀 미로",
+      "developer": "Playgendary Limited",
+      "icon": "https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.tom&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.robtopx.geometrydashsubzero",
+      "title": "Geometry Dash SubZero",
+      "developer": "RobTop Games",
+      "icon": "https://play-lh.googleusercontent.com/QtW5CVMDs9zzbRW5L2QNMqcapOXCMsUiRxPe-eKwiR04L-DQf3gcW21GOglufcRj8A",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometrydashsubzero&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.madfingergames.deadtrigger",
+      "title": "Dead Trigger: Survival Shooter",
+      "developer": "Deca_Games",
+      "icon": "https://play-lh.googleusercontent.com/dXNRVSz6qFGfv5Z4a_uu_4H4vFgVLRjipF7uCnzQgnSj_gR7y_WdwfIrCF13sng_gwpZ",
+      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
     {
       "appId": "fall.stars.race",
       "title": "STAR: 슈퍼 트리키 어메이징 런",
@@ -4689,15 +4739,6 @@
       "isGame": true
     },
     {
-      "appId": "com.nexon.nsc.maplem",
-      "title": "메이플스토리M",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/owWNVyxgBbz-pQzCa6DWQPCsaV1Fs1lLIhXw8L6fof119ERZaGepBfRgbIboHMlZMZaQu_DMhi2zz1_-th95JA",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
       "appId": "com.yatzy.classic.dice.duel.game",
       "title": "Yatzy GO! Classic Dice Game",
       "developer": "Game In Life",
@@ -5027,42 +5068,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.stone3.ig",
-      "title": "Nova: Space Armada",
-      "developer": "STONE3 PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/fsGDGS-woG6WlbzzMwpOCDFLOX-WEnld77igrR3pUZDVnyX3bmPdVwTiyJyUe_Y_6wM",
-      "url": "https://play.google.com/store/apps/details?id=com.stone3.ig&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.Gaggle.fun.GooseGooseDuck",
-      "title": "Goose Goose Duck",
-      "developer": "Gaggle Studios, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/2l652ZLy6I_sz1hYKEKHxAlIt65gQfXqBSRLF3WCSxj_51_i_xUyxuRxY6r5ionKJHQ",
-      "url": "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.game.pvz2_row",
-      "title": "플랜츠 vs. 좀비 2",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/r8kGrEySHDwfk2bv1HYmk4K76ioLYeDgr6W5SEAsNhoYlHdu-4kVJdaK9NIyVv9z__0_WOOQpSa2qMkaR9m5JQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.ck",
-      "title": "쿠키런: 킹덤",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/7i60FokaELq3mE5v-EDFSAj8pcQTY63N5otoEl0tw1GneccJHz-UcxiNzvJtOFXg2ZeLgjPKWUfbZh6nAVjb0w",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
