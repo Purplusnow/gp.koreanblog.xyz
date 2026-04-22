@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T12:05:34.388Z",
+  "updatedAt": "2026-04-22T14:52:16.291Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -975,7 +975,9 @@
     "and.matchgames.zenblossom",
     "com.kooapps.stackybirdandroid",
     "com.vfg.silkroad.google",
-    "com.jumkaash.impossibleisland.andr"
+    "com.jumkaash.impossibleisland.andr",
+    "com.jszc.gpkr",
+    "com.FishEatFish.FeedGrow"
   ],
   "items": [
     {
@@ -1065,6 +1067,24 @@
       "developer": "Awem Games Limited",
       "icon": "https://play-lh.googleusercontent.com/reJs9MLh_PcC5kV8fgHd0TIvBv101fDEBlzg41NleRoNe2vZcLXBw59DzdeI7WJ9ziI",
       "url": "https://play.google.com/store/apps/details?id=com.jumkaash.impossibleisland.andr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.jszc.gpkr",
+      "title": "비스트 클래시: 라스트 프런트",
+      "developer": "Kingnet Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/TF-WQXh0yvZdUcaEQ_bVDBuF0ue79wg7MwXgxb9iZ8RvvT5-rklAAM77T6UNmGTHGdBqC5QEeYkw8er0NT_sTA",
+      "url": "https://play.google.com/store/apps/details?id=com.jszc.gpkr&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.FishEatFish.FeedGrow",
+      "title": "뻐끔뻐끔 배틀-Fish Eat Fish.io",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/6dxSHa7jrOk4hVYKYhs7ZJHa9-cbjxJPb9pAxQCG8QQIAUtu06PbfRz-RGamYH4IYA",
+      "url": "https://play.google.com/store/apps/details?id=com.FishEatFish.FeedGrow&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -5007,24 +5027,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.smilegate.outerplane.stove.google",
-      "title": "아우터플레인 (OUTERPLANE)",
-      "developer": "Major9",
-      "icon": "https://play-lh.googleusercontent.com/PKMsanVZjsl6FD5Qc5Y5Ezw-l2J6Xtskqxfrf8PpQQtcbd011gepryahqjVyBMM_u3PBOPklHTG1kLFZLv3p",
-      "url": "https://play.google.com/store/apps/details?id=com.smilegate.outerplane.stove.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.ironmarines.invasion.rts",
-      "title": "아이언 마린 Invasion: SF RTS 게임",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/Z3rDUkzHmiGSWyz-upjb1teT9hoM4_9DsZngFaaFomaMt4mJnp1HuuLwjj6Y_ERpuYJx",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.ironmarines.invasion.rts&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
