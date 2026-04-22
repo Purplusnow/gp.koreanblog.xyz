@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T10:39:44.791Z",
+  "updatedAt": "2026-04-22T12:05:34.388Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -973,7 +973,9 @@
     "truck.simulator.climb.frontline",
     "com.tutotoons.app.lolsurprisediscohouse",
     "and.matchgames.zenblossom",
-    "com.kooapps.stackybirdandroid"
+    "com.kooapps.stackybirdandroid",
+    "com.vfg.silkroad.google",
+    "com.jumkaash.impossibleisland.andr"
   ],
   "items": [
     {
@@ -1045,6 +1047,24 @@
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
       "icon": "https://play-lh.googleusercontent.com/j7Sz-Dgj6xFeOPxjs666Rf6kUmFhxoD2AvhRKNOO7Sd45XrkiuraHAM1k5XxyKAx6n7b",
       "url": "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.vfg.silkroad.google",
+      "title": "실크로드 어게인",
+      "developer": "VFive Games Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
+      "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.jumkaash.impossibleisland.andr",
+      "title": "Cradle of Maya: Match 3 Puzzle",
+      "developer": "Awem Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/reJs9MLh_PcC5kV8fgHd0TIvBv101fDEBlzg41NleRoNe2vZcLXBw59DzdeI7WJ9ziI",
+      "url": "https://play.google.com/store/apps/details?id=com.jumkaash.impossibleisland.andr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -4987,24 +5007,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.jamcity.pdt",
-      "title": "Disney Magic Match 3D 매직 매치",
-      "developer": "Jam City, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/qconeayUXUcn7AjcSLFOHp9b12b1j6TzblZx0UJvJ4HWjg-03ImNAj2wNk-g5kyMknKb",
-      "url": "https://play.google.com/store/apps/details?id=com.jamcity.pdt&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.rbx.alice.android.prod",
-      "title": "Alice's Hotel - Match Story",
-      "developer": "RED BRIX WALL",
-      "icon": "https://play-lh.googleusercontent.com/8PZKVKcuWeRwolVR9N-_lnBsExFN2WnrO08uBstluFeOS1znX1YRD7p7YEZyJ2kl-MgB",
-      "url": "https://play.google.com/store/apps/details?id=com.rbx.alice.android.prod&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
