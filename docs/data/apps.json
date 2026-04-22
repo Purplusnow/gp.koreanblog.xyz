@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T23:48:17.930Z",
+  "updatedAt": "2026-04-22T03:35:52.463Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -970,7 +970,10 @@
     "com.wildspike.wormhunt",
     "happy.pixel.coloring.art.color.games",
     "com.empire.grow.rome",
-    "truck.simulator.climb.frontline"
+    "truck.simulator.climb.frontline",
+    "com.tutotoons.app.lolsurprisediscohouse",
+    "and.matchgames.zenblossom",
+    "com.kooapps.stackybirdandroid"
   ],
   "items": [
     {
@@ -1015,6 +1018,33 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/RpcFa5Qu0BNg1vR1D-5r85ctjvt-1HPeUtoOmWYbPFcuXdxxbNx442lVSAPWPrqjEjA",
       "url": "https://play.google.com/store/apps/details?id=truck.simulator.climb.frontline&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.lolsurprisediscohouse",
+      "title": "L.O.L. Surprise! 디스코 하우스",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/6RVtcn1F_rp9-zFqlt122d718OE9FNskt3IkAu2gf8BUSt7CvhQ3CLkdPAXRInYobGs",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.lolsurprisediscohouse&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "and.matchgames.zenblossom",
+      "title": "Zen Blossom: Flower Tile Match",
+      "developer": "BRAINWORKS PUBLISHING PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/K8jdNjA-wdsPE5a2UYmWObyzp8Pe4QjJpBZE8-yQZ5TA5fzRyQZJ1nKE6lDZ8iDJGpo",
+      "url": "https://play.google.com/store/apps/details?id=and.matchgames.zenblossom&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.kooapps.stackybirdandroid",
+      "title": "Stacky Bird: 하이퍼 캐주얼 플라잉 버디 게임",
+      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
+      "icon": "https://play-lh.googleusercontent.com/j7Sz-Dgj6xFeOPxjs666Rf6kUmFhxoD2AvhRKNOO7Sd45XrkiuraHAM1k5XxyKAx6n7b",
+      "url": "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -4957,33 +4987,6 @@
       "developer": "Century Games PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/DLovyLDLznCbkDw39T-d9BUXkDbUjO9ne3_eJyA27IcfgIXR2Hmu3HqEDlYxGXnwrp0",
       "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.crazysort.supermarket.goodstriple",
-      "title": "Crazy Sort - 상품 정렬, 매치 3 퍼즐",
-      "developer": "Jewel Loft",
-      "icon": "https://play-lh.googleusercontent.com/xp0Yzg4hWuywaGxWraKYaycla750mnqF-FUiALxG2enk6IGAwkE3eTlIpk7hgPjjmQ",
-      "url": "https://play.google.com/store/apps/details?id=com.crazysort.supermarket.goodstriple&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.playfirst.cookingdashx",
-      "title": "Cooking Dash",
-      "developer": "Glu",
-      "icon": "https://play-lh.googleusercontent.com/0mCnWLGtkjXh6-yqxcc3U55Zw1jXJ-IzSxBYMlrd_YfI-yEVDIqh_IMYJ1Aohl7DVIi0",
-      "url": "https://play.google.com/store/apps/details?id=com.playfirst.cookingdashx&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.smolsiesmycutepethouse.free",
-      "title": "Smolsies - 내 귀여운 펫 하우스",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/_2ELP6TEN_cQJ_1cIlDR_gDNjZ2cXVQtEcza_s5wuS2bEQwdQPQLMhUkNyKJ36sAEA",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.smolsiesmycutepethouse.free&hl=ko&gl=KR",
       "discoveredDate": "2026-04-01",
       "isGame": true
     },
