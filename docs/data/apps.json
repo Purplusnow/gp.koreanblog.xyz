@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T23:55:51.032Z",
+  "updatedAt": "2026-04-23T01:41:36.278Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -985,7 +985,9 @@
     "com.madfingergames.deadtrigger",
     "com.playrix.manormatters",
     "com.onicore.torch",
-    "com.storm8.propertybrothers"
+    "com.storm8.propertybrothers",
+    "com.infinity.railways",
+    "com.puzzlegames.puzzlebrickslegend"
   ],
   "items": [
     {
@@ -1061,6 +1063,33 @@
       "isGame": true
     },
     {
+      "appId": "com.infinity.railways",
+      "title": "철도 - 기차 시뮬레이터",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
+      "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzlegames.puzzlebrickslegend",
+      "title": "컬러블록: 콤보 블라스트(Color Block)",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.vfg.silkroad.google",
+      "title": "실크로드 어게인",
+      "developer": "VFive Games Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
+      "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-22",
+      "isGame": true
+    },
+    {
       "appId": "fall.stars.race",
       "title": "STAR: 슈퍼 트리키 어메이징 런",
       "developer": "CASUAL AZUR GAMES",
@@ -1129,15 +1158,6 @@
       "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
       "icon": "https://play-lh.googleusercontent.com/j7Sz-Dgj6xFeOPxjs666Rf6kUmFhxoD2AvhRKNOO7Sd45XrkiuraHAM1k5XxyKAx6n7b",
       "url": "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.vfg.silkroad.google",
-      "title": "실크로드 어게인",
-      "developer": "VFive Games Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
-      "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
@@ -4766,24 +4786,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.archosaur.kr.sgzw.gp",
-      "title": "삼국지워",
-      "developer": "Archosaur Games",
-      "icon": "https://play-lh.googleusercontent.com/IeF-5hYbYtkPwUUhPfvHFUcvjcEOjSt3sLG7zbD2Ugi7ZcWUPVe2Ah2gQTGNU0r93Y4J",
-      "url": "https://play.google.com/store/apps/details?id=com.archosaur.kr.sgzw.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.kongregate.mobile.bitheroes.google",
-      "title": "비트 히어로즈 퀘스:트픽셀 RPG",
-      "developer": "Kongregate",
-      "icon": "https://play-lh.googleusercontent.com/YWKlt0hkMEtlyPvyvor4470KKzivPibKduAQKB8XkyzjR7j2eha_gXJp_ONvphFceLY",
-      "url": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.bitheroes.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
