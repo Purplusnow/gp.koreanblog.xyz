@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T03:39:47.966Z",
+  "updatedAt": "2026-04-23T06:14:45.815Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -987,7 +987,9 @@
     "com.onicore.torch",
     "com.storm8.propertybrothers",
     "com.infinity.railways",
-    "com.puzzlegames.puzzlebrickslegend"
+    "com.puzzlegames.puzzlebrickslegend",
+    "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
+    "dragon.virtual.pet.game"
   ],
   "items": [
     {
@@ -1077,6 +1079,24 @@
       "developer": "Ivy",
       "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
       "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
+      "title": "원더 머지(Wonder Merge) - 콜렉팅 게임",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/_RBo5nDo3_NMC08twy9BZAhStqh2JFtmw4rq3hxiOaRF4MQcA1ZClMgM1Khfgrwj7j2lLDaGaBo7rUVgfJAEoA",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "dragon.virtual.pet.game",
+      "title": "My Dragon - 가상 애완동물 게임",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/JJ-409dZZf-No_RfVfZwmHTOkNRXKIQX60uU9iwgtZtzi1_GVnhBpA4kJ-DW8T0H7vw",
+      "url": "https://play.google.com/store/apps/details?id=dragon.virtual.pet.game&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
@@ -4786,24 +4806,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "azurgames.idle.war",
-      "title": "킹덤 클래시 - 중세 전략",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/4coyiJulfacItuxK3Kpbt1oJG2wiVRHraf7BYm3yBNeEGyPz-XxejOfkighbxhc2tK0",
-      "url": "https://play.google.com/store/apps/details?id=azurgames.idle.war&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.zynga.pottermatch",
-      "title": "해리포터: 퍼즐과 마법 - 퍼즐게임",
-      "developer": "Zynga",
-      "icon": "https://play-lh.googleusercontent.com/ZMtIaA6ZCli4-nU1dKv9RPII7s893n-fyT2yysVmTERnb3lwgavD9K64dYj3rek1Yr7m",
-      "url": "https://play.google.com/store/apps/details?id=com.zynga.pottermatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
