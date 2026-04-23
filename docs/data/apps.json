@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T21:02:17.521Z",
+  "updatedAt": "2026-04-23T21:57:56.250Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -994,7 +994,10 @@
     "com.pandadagames.ninja.global",
     "com.azurgames.dinosaurs",
     "com.dreamotion.roadtovalor",
-    "com.sparkler.los"
+    "com.sparkler.los",
+    "com.linegames.fq",
+    "playorna.com.orna",
+    "com.bighelmets.destiny"
   ],
   "items": [
     {
@@ -1012,6 +1015,33 @@
       "developer": "Atlas Studio Co., Ltd.",
       "icon": "https://play-lh.googleusercontent.com/fJUzx3upmfvrUBpm_slmAZ1fE5MVURSFaqtfXn26S3jXW_4eNdJy8Jl4L1vB80m0DYk",
       "url": "https://play.google.com/store/apps/details?id=com.sparkler.los&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.linegames.fq",
+      "title": "페어리테일 퀘스트",
+      "developer": "LINE Games",
+      "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
+      "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "playorna.com.orna",
+      "title": "Orna: 판타지 RPG & GPS MMO",
+      "developer": "Northern Forge",
+      "icon": "https://play-lh.googleusercontent.com/lahVHSlMNgsEefAV1xN-cgx6RbwGGnTlwzJ6cwqPjXeom2tOAgRAL12ChdtgCG8OPfE",
+      "url": "https://play.google.com/store/apps/details?id=playorna.com.orna&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.bighelmets.destiny",
+      "title": "Big Helmets: Heroes of Destiny",
+      "developer": "BoomBit Games",
+      "icon": "https://play-lh.googleusercontent.com/6dpQ0G87X63S7Z82EMMoBI07pcgDhR4mszTdGnUWY1YVYxHf1H8lcu9UZtTQa3daq6Vj",
+      "url": "https://play.google.com/store/apps/details?id=com.bighelmets.destiny&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
@@ -4856,33 +4886,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.dominations.asia.g",
-      "title": "도미네이션즈",
-      "developer": "Big Huge Games.",
-      "icon": "https://play-lh.googleusercontent.com/zVBPWFlFto8I8dGZdzOxav0ihBrJ9-f3ckb1mUypDPfw779yTxDZqLF_BGKE-XR9IPg",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.dominations.asia.g&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "bg.xssoftware.ladypopular.fashionarena",
-      "title": "Lady Popular: Fashion Arena",
-      "developer": "XS Software AD",
-      "icon": "https://play-lh.googleusercontent.com/vOalTquk3cOn5KCc4GwZ7YyefbAvNBI7h1fCe2mqBO5gf9IJD47pCItYs-waIxIKfY4",
-      "url": "https://play.google.com/store/apps/details?id=bg.xssoftware.ladypopular.fashionarena&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixelfederation.portcity.ship.tycoon.strategy.simulation",
-      "title": "Port City: Ship Transit Tycoon",
-      "developer": "PIXEL FEDERATION, s.r.o.",
-      "icon": "https://play-lh.googleusercontent.com/-oqGZkACCdCpIGaA3YqLjJPwIlRmK3kGCih5eoYrwiif_S9aZMK7622IROinBSE2gm1eWpB57IzS3J0C-A4O",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.portcity.ship.tycoon.strategy.simulation&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
