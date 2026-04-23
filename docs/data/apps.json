@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T15:20:35.000Z",
+  "updatedAt": "2026-04-23T17:41:33.744Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -992,9 +992,29 @@
     "dragon.virtual.pet.game",
     "com.com2us.frostpunk.android.google.global.normal",
     "com.pandadagames.ninja.global",
-    "com.azurgames.dinosaurs"
+    "com.azurgames.dinosaurs",
+    "com.dreamotion.roadtovalor",
+    "com.sparkler.los"
   ],
   "items": [
+    {
+      "appId": "com.dreamotion.roadtovalor",
+      "title": "로드 투 발러 : 월드워2",
+      "developer": "Dreamotion Inc.",
+      "icon": "https://play-lh.googleusercontent.com/UX7pJBCQS7uHwCv8YneopXWaYfkX4UBNzMdpIsbLV-oIFMhgYIv9uGKH3PuZt5A8K_Zm",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamotion.roadtovalor&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.sparkler.los",
+      "title": "Lord of Seas: Survival & War",
+      "developer": "Atlas Studio Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/fJUzx3upmfvrUBpm_slmAZ1fE5MVURSFaqtfXn26S3jXW_4eNdJy8Jl4L1vB80m0DYk",
+      "url": "https://play.google.com/store/apps/details?id=com.sparkler.los&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
     {
       "appId": "com.infinity.railways",
       "title": "철도 - 기차 시뮬레이터",
@@ -4836,24 +4856,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.kids.construction.vehicles.truck.building.games",
-      "title": "건설 차량과 트럭",
-      "developer": "Timpy Games For Kids, Toddlers & Baby",
-      "icon": "https://play-lh.googleusercontent.com/Dd22yHUK59e13qTqfgW8vgJb7h3yzoPvxHcc3VVDeDyhi_KeNIeZCKlwnoanWIZEbQ4",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.kids.construction.vehicles.truck.building.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.herocraft.game.piratearena",
-      "title": "대항해해적-해적 배틀아레나",
-      "developer": "HeroCraft Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/knl0BlwEwcYVDHTWaqNdeNVj07wlAzWZQL5DTgJ-HtRHJJhXOcVLgrMj7cFlYQ6SL_14",
-      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.piratearena&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
