@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T01:41:36.278Z",
+  "updatedAt": "2026-04-23T03:31:50.431Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -991,6 +991,15 @@
   ],
   "items": [
     {
+      "appId": "com.infinity.railways",
+      "title": "철도 - 기차 시뮬레이터",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
+      "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
       "appId": "com.solitaire.klondike.my.magic.dragon.friends.cardgames",
       "title": "솔리테어 드래곤",
       "developer": "Playdayy",
@@ -1059,15 +1068,6 @@
       "developer": "Storm8 Studios",
       "icon": "https://play-lh.googleusercontent.com/ey_Zy9RxCyv5gd7V5hTr5Di0BT_yj7olvDpqvPeCQQK54mvLllvCvDh_-qNKPFLUep4",
       "url": "https://play.google.com/store/apps/details?id=com.storm8.propertybrothers&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.infinity.railways",
-      "title": "철도 - 기차 시뮬레이터",
-      "developer": "Infinity Games, Lda",
-      "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
-      "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
