@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T09:00:00.020Z",
+  "updatedAt": "2026-04-23T10:41:56.940Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -989,7 +989,10 @@
     "com.infinity.railways",
     "com.puzzlegames.puzzlebrickslegend",
     "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
-    "dragon.virtual.pet.game"
+    "dragon.virtual.pet.game",
+    "com.com2us.frostpunk.android.google.global.normal",
+    "com.pandadagames.ninja.global",
+    "com.azurgames.dinosaurs"
   ],
   "items": [
     {
@@ -1097,6 +1100,33 @@
       "developer": "Appsyoulove",
       "icon": "https://play-lh.googleusercontent.com/JJ-409dZZf-No_RfVfZwmHTOkNRXKIQX60uU9iwgtZtzi1_GVnhBpA4kJ-DW8T0H7vw",
       "url": "https://play.google.com/store/apps/details?id=dragon.virtual.pet.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.frostpunk.android.google.global.normal",
+      "title": "프로스트펑크: 비욘드더아이스",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/C5k8Thw-uZ1T_9AzyYIOJ3RanlgTqP331aBI3Mweogi44Odr03Anp2MFwUgsB1FjQeg",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.frostpunk.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.pandadagames.ninja.global",
+      "title": "닌자 머스트 다이",
+      "developer": "Pandada Games",
+      "icon": "https://play-lh.googleusercontent.com/6kbTvUdMo5IgbhYsVAEMwoklhMoHSTgQnOTbWeTnzhtSscg66wkvgavuGnJsajL82TWb7WG_VylwyeZ6R-ktqBU",
+      "url": "https://play.google.com/store/apps/details?id=com.pandadagames.ninja.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.azurgames.dinosaurs",
+      "title": "쥬라기몬스터월드: 공룡전쟁 3D FPS",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/Tv2iQT8F7GGKrVkiM4h-agI-j4ecorQ93i_ABAO0uit3bcmXeOajrKlvsZ6jxBfdw3c",
+      "url": "https://play.google.com/store/apps/details?id=com.azurgames.dinosaurs&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
@@ -4806,33 +4836,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "ig.com.hot.pot.qdc",
-      "title": "Hotpot Fever: Food Games",
-      "developer": "iKame Games - Zego Studio",
-      "icon": "https://play-lh.googleusercontent.com/wy4-8vLbPov2utuXORrZKLhkYlDjhy4JRs8EgBa5zsEPsprLSVdeKKTO3haVBdJ0Q9kkeKMkPxmByOLCw_kh2Q",
-      "url": "https://play.google.com/store/apps/details?id=ig.com.hot.pot.qdc&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.critical.strike2",
-      "title": "Critical Strike: 총게임 온라인게임 FPS",
-      "developer": "VERTIGO GAMES",
-      "icon": "https://play-lh.googleusercontent.com/1csTjOtbTC2EveysnGzqzQ_rQU3qjdBv4BK8DJo0LfZO9U12g1KltGPdHBS2x6ym1NTw",
-      "url": "https://play.google.com/store/apps/details?id=com.critical.strike2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.slg.savagesurvival",
-      "title": "새비지 서바이벌: 쥬라기 아일",
-      "developer": "Phantix Games",
-      "icon": "https://play-lh.googleusercontent.com/lQk91XJ-esQ23lf8xLgjdZx1Kq9SeX73T6N2Yx7Q0jjFDluIOue8swaSQZ_qM7VMrBO6evc2tY0P3yf0ypM6YUo",
-      "url": "https://play.google.com/store/apps/details?id=com.slg.savagesurvival&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
