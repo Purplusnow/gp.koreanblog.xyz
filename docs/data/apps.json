@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T22:59:19.368Z",
+  "updatedAt": "2026-04-23T23:57:25.730Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -997,7 +997,14 @@
     "com.sparkler.los",
     "com.linegames.fq",
     "playorna.com.orna",
-    "com.bighelmets.destiny"
+    "com.bighelmets.destiny",
+    "com.tree.idle.cat.school",
+    "com.picorea.estherbunny",
+    "com.YSK.SF",
+    "com.elephantgames.icebound.secrets.endless.night.mystery.googf2p",
+    "com.lunosoft.jewelrelics",
+    "com.playdigious.seaofstars",
+    "com.snowgames.darktapdice"
   ],
   "items": [
     {
@@ -1042,6 +1049,69 @@
       "developer": "BoomBit Games",
       "icon": "https://play-lh.googleusercontent.com/6dpQ0G87X63S7Z82EMMoBI07pcgDhR4mszTdGnUWY1YVYxHf1H8lcu9UZtTQa3daq6Vj",
       "url": "https://play.google.com/store/apps/details?id=com.bighelmets.destiny&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.tree.idle.cat.school",
+      "title": "고양이 학교 : 귀여운 방치형 타이쿤 게임",
+      "developer": "TREEPLLA",
+      "icon": "https://play-lh.googleusercontent.com/klRIHUOegTLLQKb3hrgNuH5nm-qHUlLJDCbLT5GvBrx7uvYRnqi4rkpoVhlORvfw_lrMgAcirtCBYN3lOfxLbg",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.school&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.picorea.estherbunny",
+      "title": "에스더버니 팝걸",
+      "developer": "Picorea, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/JJeRDqHeHFRWOn3PMOLy3n7dQ-jPO6kS7Ot6SCxUZy8G2YuBDpgBcsUL_OBVBWsAUzG4nxQDZPEiZFVcauPCFg",
+      "url": "https://play.google.com/store/apps/details?id=com.picorea.estherbunny&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.YSK.SF",
+      "title": "Sea Fantasy",
+      "developer": "YoshiyukiNakashima",
+      "icon": "https://play-lh.googleusercontent.com/ouIvwra-9S202ScpFpBc7HHEB2rhjI6CSX-28F3-moR6vUNyU03qmSEiI6FdWp7xMibgYfrNPQez_1v8UW1lBA",
+      "url": "https://play.google.com/store/apps/details?id=com.YSK.SF&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.elephantgames.icebound.secrets.endless.night.mystery.googf2p",
+      "title": "얼음 속에 갇힌 비밀 3: 탐정 숨겨진 물건 찾기 게임",
+      "developer": "Crooto Software",
+      "icon": "https://play-lh.googleusercontent.com/lEknjaexxslYyI8xVLQh_aXWrTiew1RDGEMtE4zYY-DLzavfAWlkuMwPglTRqkg68TB3otKHVZKBhFPmJAjp4Q",
+      "url": "https://play.google.com/store/apps/details?id=com.elephantgames.icebound.secrets.endless.night.mystery.googf2p&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.lunosoft.jewelrelics",
+      "title": "2026 쥬얼 매치 아일랜드",
+      "developer": "LUNOSOFT INC",
+      "icon": "https://play-lh.googleusercontent.com/Fd8BEpPoCtTH0ihvCkFmOio4-ZnOjsD__-t1pRUGhTXTj-QQKyOpdcvYgCRnn--UUL3R",
+      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelrelics&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.playdigious.seaofstars",
+      "title": "Sea of Stars",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/uNNNzA46WAZOup2z6tvt35a47Hx-qDEy34mDmrIZFP-W9qEjnKyAwHOKZVkSVOv8XIDKjjMPZtD-cguDjZrz2NI",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.snowgames.darktapdice",
+      "title": "다크탭 다이스",
+      "developer": "Snow_Games",
+      "icon": "https://play-lh.googleusercontent.com/e3LSvec2ZYW-shAlvyXD1MuDM07gJIAQTZ63F6fByssMfR_xRDoQizwmpn9meDBv3TVyO05Lh1QZLLEOiZNnvw",
+      "url": "https://play.google.com/store/apps/details?id=com.snowgames.darktapdice&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
@@ -4886,69 +4956,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.loltap.farmland",
-      "title": "팜랜드",
-      "developer": "Homa",
-      "icon": "https://play-lh.googleusercontent.com/tD58VAhX1FSZIiusN5VwNsS8-8SyRlx_6D-oW4Bj3kFHzuIZR36BD1u9rOAz1I-VbA",
-      "url": "https://play.google.com/store/apps/details?id=com.loltap.farmland&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.cyberjoy.prjw5n2",
-      "title": "플래닛 디펜스(Planet Defense)",
-      "developer": "CyberJoy Games",
-      "icon": "https://play-lh.googleusercontent.com/xbak8iQv5Y31_ImbVHy88I1ITaU8RBBv9IA3JBOSZAuURso_yRFDEP0Xw7i6lnBceuvX",
-      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.prjw5n2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.skgames.trafficrider",
-      "title": "Traffic Rider",
-      "developer": "skgames",
-      "icon": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
-      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.alicegames.idle.rpg.battler",
-      "title": "Darkest AFK: 턴제 액션 RPG 게임 오프라인",
-      "developer": "Three wishes slot machines game studio",
-      "icon": "https://play-lh.googleusercontent.com/95d6LWALv1fCAwLOESMPFod7Shch2ysTjaTxwedwauGOdpzzM5-rTtc1OBsEo8oqAFM",
-      "url": "https://play.google.com/store/apps/details?id=com.alicegames.idle.rpg.battler&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.oceanmatch",
-      "title": "물고기 매치 (Ocean Match)",
-      "developer": "LinkDesks Classic Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/ELPOWfI2tE7BW5DEhsBw_GxzneREneBSOaiPkhQBqp169kl3bAfRzVRvKUCeiutNwFdcxlqTztAKte0xHlMCNw",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.oceanmatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game",
-      "title": "Bus Masters: India Simulator",
-      "developer": "Highbrow Interactive",
-      "icon": "https://play-lh.googleusercontent.com/BRZXSYXLSGjq2ENHCHYONLzzWV9B0S0wu7WWEVkTAUmKQU9NtNsPV0dPq90lGcoZKA",
-      "url": "https://play.google.com/store/apps/details?id=com.highbrowinteractive.bus.masters.india.highway.driving.simulator.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.hottagames.nte",
-      "title": "이환",
-      "developer": "N2E",
-      "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
