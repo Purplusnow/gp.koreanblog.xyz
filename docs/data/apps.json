@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T04:59:23.036Z",
+  "updatedAt": "2026-04-24T06:18:47.486Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1004,7 +1004,11 @@
     "com.elephantgames.icebound.secrets.endless.night.mystery.googf2p",
     "com.lunosoft.jewelrelics",
     "com.playdigious.seaofstars",
-    "com.snowgames.darktapdice"
+    "com.snowgames.darktapdice",
+    "com.bailing.lark.roll.dev",
+    "com.doghowlgames.EasyDeliveryCo",
+    "com.nextinitiatives.minigames.mpp",
+    "com.square_enix.android_googleplay.dqsgw"
   ],
   "items": [
     {
@@ -1112,6 +1116,42 @@
       "developer": "Snow_Games",
       "icon": "https://play-lh.googleusercontent.com/e3LSvec2ZYW-shAlvyXD1MuDM07gJIAQTZ63F6fByssMfR_xRDoQizwmpn9meDBv3TVyO05Lh1QZLLEOiZNnvw",
       "url": "https://play.google.com/store/apps/details?id=com.snowgames.darktapdice&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.bailing.lark.roll.dev",
+      "title": "딸깍 다이스",
+      "developer": "Habby",
+      "icon": "https://play-lh.googleusercontent.com/v3pbvtq0opWpTG4tMimTP5ydpn42Bi-eN_8pFvNGkD-npdPj5u7kzctiuqR9AZohYIo",
+      "url": "https://play.google.com/store/apps/details?id=com.bailing.lark.roll.dev&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.doghowlgames.EasyDeliveryCo",
+      "title": "Easy Delivery Co.",
+      "developer": "Doghowl Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/f-bhGYDTDTXmEfjLZg-TbPZhYQzFJMxNA_FUgDmmohQv8W6PsqeyxpkPZIRYbw_ZWVMO",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.EasyDeliveryCo&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.nextinitiatives.minigames.mpp",
+      "title": "Sola Mahjong",
+      "developer": "NEXT INITIATIVES LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/30EU_4gF0zOuYPcXZQEsPv_Ihu6GSPt-tHbmqFvGKHmPcGhWnbW7G_hIJBLzKTC0B2P88F_mAXxk2CEQTjFT",
+      "url": "https://play.google.com/store/apps/details?id=com.nextinitiatives.minigames.mpp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.square_enix.android_googleplay.dqsgw",
+      "title": "드래곤 퀘스트 스매시 그로우 드퀘 로그라이트 RPG",
+      "developer": "SQUARE ENIX Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/6bzUcvt69zrgmreeiQcXikKrKhQIIvXhumgdjauiryHkr47MzqIuZ2csYXZbXULsaZSHjX3Nf8g_ZED_1YX_Tw",
+      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dqsgw&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
@@ -4956,42 +4996,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.dragonest.artifacts.google",
-      "title": "Neo Artifacts - Strategy RPG",
-      "developer": "Dragonest Games",
-      "icon": "https://play-lh.googleusercontent.com/MiBQqQf_--CAIVVCZ5uou1OLLyP0E_XgfM9H_gDulAhdvmADRskUTffURazsavyCR-ixb1xdZ4ZBmdVXMIPyT6s",
-      "url": "https://play.google.com/store/apps/details?id=com.dragonest.artifacts.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.happyelements.es2.kr.gp",
-      "title": "앙상블스타즈",
-      "developer": "Eureka Creation Limited",
-      "icon": "https://play-lh.googleusercontent.com/ZFEYEISHj1lHP0At7eXlAshZc2vov5Oc_3Av8Qu_qD1ZBy5jKkoJUsfkO9Gtxet5xcYf3zRk0HGY5yxyR5zfCA",
-      "url": "https://play.google.com/store/apps/details?id=com.happyelements.es2.kr.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.gramgames.mergedragons",
-      "title": "머지 드래곤즈! (Merge Dragons!)",
-      "developer": "Gram Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/6QX_XsITM8N9JDu-rxLditJhs-gG0K_nMLAr5kiZIJRgW9u5XoyR0Xe3ytsFMFlhUPv6wqkLe239u3gBNsGy0Q",
-      "url": "https://play.google.com/store/apps/details?id=com.gramgames.mergedragons&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamedevltd.wwh",
-      "title": "월드워 히어로즈: 밀리터리 슈팅 게임! 2차세계대전게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/yiunr7mRmqO2d-BmnXXrG6Y5tevGZPs-FS8yCXZoGqhFgzDfs7yLzZemGVGFnO-WK7DM",
-      "url": "https://play.google.com/store/apps/details?id=com.gamedevltd.wwh&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
