@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T17:10:20.810Z",
+  "updatedAt": "2026-04-24T19:07:50.775Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1008,9 +1008,19 @@
     "com.bailing.lark.roll.dev",
     "com.doghowlgames.EasyDeliveryCo",
     "com.nextinitiatives.minigames.mpp",
-    "com.square_enix.android_googleplay.dqsgw"
+    "com.square_enix.android_googleplay.dqsgw",
+    "com.daerisoft.thespikerm"
   ],
   "items": [
+    {
+      "appId": "com.daerisoft.thespikerm",
+      "title": "더 스파이크 크로스",
+      "developer": "SUNCYAN",
+      "icon": "https://play-lh.googleusercontent.com/4PJBK5kE84iwgnbwF0WZp4qibNaiG9ChHCm9CJd6rkk4uTf_OjnNDt-RpvcrI_X0doc",
+      "url": "https://play.google.com/store/apps/details?id=com.daerisoft.thespikerm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-25",
+      "isGame": true
+    },
     {
       "appId": "com.dreamotion.roadtovalor",
       "title": "로드 투 발러 : 월드워2",
@@ -4996,15 +5006,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.eyewind.case.master",
-      "title": "Case Hunter: 진실은 언제나 하나!",
-      "developer": "Focus apps",
-      "icon": "https://play-lh.googleusercontent.com/Aq6SFaNPGzjdByFMVjiFwD7a4Lqky2hoMDbMitv-zgeuGTgDWqXbbtIG62U2l65lRg",
-      "url": "https://play.google.com/store/apps/details?id=com.eyewind.case.master&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
