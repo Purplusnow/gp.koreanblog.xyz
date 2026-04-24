@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T21:01:18.729Z",
+  "updatedAt": "2026-04-24T21:57:03.647Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1009,7 +1009,9 @@
     "com.doghowlgames.EasyDeliveryCo",
     "com.nextinitiatives.minigames.mpp",
     "com.square_enix.android_googleplay.dqsgw",
-    "com.daerisoft.thespikerm"
+    "com.daerisoft.thespikerm",
+    "com.playgendary.creamaster",
+    "com.infinitygames.loopenergy"
   ],
   "items": [
     {
@@ -1018,6 +1020,24 @@
       "developer": "SUNCYAN",
       "icon": "https://play-lh.googleusercontent.com/4PJBK5kE84iwgnbwF0WZp4qibNaiG9ChHCm9CJd6rkk4uTf_OjnNDt-RpvcrI_X0doc",
       "url": "https://play.google.com/store/apps/details?id=com.daerisoft.thespikerm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.creamaster",
+      "title": "퍼펙트 크림: 크림",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/EGoZod6tDrBOCoZA26emNbmrfLMo2IY-r2x8SEHBukTjoD1elgUd7patG_LzFk4ALA",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.creamaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.infinitygames.loopenergy",
+      "title": "에너지: 스트레스 격파 루프",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/_n0EFiM3WoNI1Ui9debHzAsnd011gJm0BiJsS2LVEaygrUjwsXcsyyF5C_jC67hQavkJ",
+      "url": "https://play.google.com/store/apps/details?id=com.infinitygames.loopenergy&hl=ko&gl=KR",
       "discoveredDate": "2026-04-25",
       "isGame": true
     },
@@ -5006,24 +5026,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.solobandgames.worldtrmerge",
-      "title": "World Tour Merge: 합성게임 여행 어드벤처",
-      "developer": "SoloBand Games",
-      "icon": "https://play-lh.googleusercontent.com/8XWnXHleNZ25yJyB-QZmq9fUz6zCfjU8roe60fdjg3tQxRamvyF22HIAHpEkuas7oT4",
-      "url": "https://play.google.com/store/apps/details?id=com.solobandgames.worldtrmerge&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.zoomatch",
-      "title": "동물원 매치 (Zoo Match)",
-      "developer": "LinkDesks Daily Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/dPn84eXZ3K_GuMxJwpPPdgi5y_kdb1HHRI0lzGkWJpv7q0Z9Vet4pLM7TVsxJ-JIkGpEluH3Py34nJ8upCSogA",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.zoomatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
