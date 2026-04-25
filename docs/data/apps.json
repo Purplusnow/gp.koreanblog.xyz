@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T15:51:46.397Z",
+  "updatedAt": "2026-04-25T16:56:54.809Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1014,9 +1014,19 @@
     "com.infinitygames.loopenergy",
     "com.gaijingames.wtm",
     "com.elex.twdsaw.gp",
-    "games.onebutton.golfbattle"
+    "games.onebutton.golfbattle",
+    "com.TravelMergeFamily"
   ],
   "items": [
+    {
+      "appId": "com.TravelMergeFamily",
+      "title": "Travel Merge Family: 게임 병합",
+      "developer": "ArruGa Corp.",
+      "icon": "https://play-lh.googleusercontent.com/9T0NAFH5KTWPwzh50Djhu-eL9raOg0gMBKdrJ49jbIZOwV-lv-7pECifteLW_vDBOmg",
+      "url": "https://play.google.com/store/apps/details?id=com.TravelMergeFamily&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-26",
+      "isGame": true
+    },
     {
       "appId": "com.daerisoft.thespikerm",
       "title": "더 스파이크 크로스",
@@ -5056,15 +5066,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.atari.mobile.rctempire",
-      "title": "RollerCoaster Tycoon® Touch™",
-      "developer": "Atari, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/uZc0UMcikiM6LNicTBmVhyLdJqj8LLFxi1_oAGUXB6fLuI8OyM1crDHzbbYRWlafrzg",
-      "url": "https://play.google.com/store/apps/details?id=com.atari.mobile.rctempire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
