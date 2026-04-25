@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T23:52:07.235Z",
+  "updatedAt": "2026-04-25T00:52:22.739Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1051,20 +1051,20 @@
       "isGame": true
     },
     {
-      "appId": "com.sparkler.los",
-      "title": "Lord of Seas: Survival & War",
-      "developer": "Atlas Studio Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/fJUzx3upmfvrUBpm_slmAZ1fE5MVURSFaqtfXn26S3jXW_4eNdJy8Jl4L1vB80m0DYk",
-      "url": "https://play.google.com/store/apps/details?id=com.sparkler.los&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
       "appId": "com.linegames.fq",
       "title": "페어리테일 퀘스트",
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.sparkler.los",
+      "title": "Lord of Seas: Survival & War",
+      "developer": "Atlas Studio Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/fJUzx3upmfvrUBpm_slmAZ1fE5MVURSFaqtfXn26S3jXW_4eNdJy8Jl4L1vB80m0DYk",
+      "url": "https://play.google.com/store/apps/details?id=com.sparkler.los&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
