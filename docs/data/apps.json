@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T09:05:52.593Z",
+  "updatedAt": "2026-04-25T10:57:18.091Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1011,7 +1011,10 @@
     "com.square_enix.android_googleplay.dqsgw",
     "com.daerisoft.thespikerm",
     "com.playgendary.creamaster",
-    "com.infinitygames.loopenergy"
+    "com.infinitygames.loopenergy",
+    "com.gaijingames.wtm",
+    "com.elex.twdsaw.gp",
+    "games.onebutton.golfbattle"
   ],
   "items": [
     {
@@ -1038,6 +1041,33 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/_n0EFiM3WoNI1Ui9debHzAsnd011gJm0BiJsS2LVEaygrUjwsXcsyyF5C_jC67hQavkJ",
       "url": "https://play.google.com/store/apps/details?id=com.infinitygames.loopenergy&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.gaijingames.wtm",
+      "title": "War Thunder Mobile",
+      "developer": "GAIJIN NETWORK LTD",
+      "icon": "https://play-lh.googleusercontent.com/CH9aIFwltZvzGIcURz1c-DpeQm7hwgKxTJjzpHH3U8IEAC0UV0Ky8xS4liq3A1nysw",
+      "url": "https://play.google.com/store/apps/details?id=com.gaijingames.wtm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.elex.twdsaw.gp",
+      "title": "더 워킹데드: 서바이버즈",
+      "developer": "Galaxy Play Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/8uil9TpDVE3f4Irnong8_VyrXSQtXJVb36ZVDd93qdHGEWqT0f-0wjYRTdioH--GVxM3dE1Hv0sUvbezfMOjAg",
+      "url": "https://play.google.com/store/apps/details?id=com.elex.twdsaw.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-25",
+      "isGame": true
+    },
+    {
+      "appId": "games.onebutton.golfbattle",
+      "title": "Golf Battle",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/esbN_3G8c1xSX2B3O5vQ1CMhYoLrRJyj4iZqH4fGqOof5YTpx0sv7WzhsHwZBgmgsfY",
+      "url": "https://play.google.com/store/apps/details?id=games.onebutton.golfbattle&hl=ko&gl=KR",
       "discoveredDate": "2026-04-25",
       "isGame": true
     },
@@ -5026,33 +5056,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.puzzle.wool.away",
-      "title": "Knit Away",
-      "developer": "PixOn Games",
-      "icon": "https://play-lh.googleusercontent.com/6i9BVKdrohyAvsj7bROAchQv7507F3u1-nueDOm4lF8sPQDUCAswcFTytpdbRyNBCZ2h",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzle.wool.away&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.mybogames.mergetown",
-      "title": "Aisle Secrets: Merge the Drama",
-      "developer": "MYBO",
-      "icon": "https://play-lh.googleusercontent.com/4LTXP4JcZy5TPuXonGZkWy_vRu2KHYwaPxTSo-CQ1HOxKIwSMBKhffD0oQRYjFpoWAE",
-      "url": "https://play.google.com/store/apps/details?id=com.mybogames.mergetown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.ironmarines",
-      "title": "아이언 마린, 오프라인에서 즐기는  실시간 전략 게임",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/wDprCOdIS8yKcW5gKacH3cbHEtu1IaNrHdK-Omwm8nvC9PgE_ABScgnGWwTQc7DP4ks",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.ironmarines&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
