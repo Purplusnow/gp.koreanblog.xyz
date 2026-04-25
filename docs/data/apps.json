@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T21:49:22.782Z",
+  "updatedAt": "2026-04-25T22:51:30.367Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1015,7 +1015,8 @@
     "com.gaijingames.wtm",
     "com.elex.twdsaw.gp",
     "games.onebutton.golfbattle",
-    "com.TravelMergeFamily"
+    "com.TravelMergeFamily",
+    "com.racinggames_city.car.racing_Free"
   ],
   "items": [
     {
@@ -1024,6 +1025,15 @@
       "developer": "ArruGa Corp.",
       "icon": "https://play-lh.googleusercontent.com/9T0NAFH5KTWPwzh50Djhu-eL9raOg0gMBKdrJ49jbIZOwV-lv-7pECifteLW_vDBOmg",
       "url": "https://play.google.com/store/apps/details?id=com.TravelMergeFamily&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.racinggames_city.car.racing_Free",
+      "title": "자동차 주차 운전 학교 (멀티플레이어)",
+      "developer": "Racing Games Android - Appsoleut Games",
+      "icon": "https://play-lh.googleusercontent.com/cp8M1KTyXg8rZGxdhfEYE1YgduTk9rGod8kIlxJmpkU9K3JAthr6E0iKiKVqYoZMC2k",
+      "url": "https://play.google.com/store/apps/details?id=com.racinggames_city.car.racing_Free&hl=ko&gl=KR",
       "discoveredDate": "2026-04-26",
       "isGame": true
     },
@@ -5066,15 +5076,6 @@
       "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
       "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.advant.streamer",
-      "title": "라마 - 게으른 블로거",
-      "developer": "CrazyLabs LTD",
-      "icon": "https://play-lh.googleusercontent.com/PPpGnCsjVxbruCyOUYo1OvLONmWXf8jYwtdDOcnJdEADX69dvQCJ7gJr7UXewfobVyI",
-      "url": "https://play.google.com/store/apps/details?id=com.advant.streamer&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-02",
       "isGame": true
     },
     {
