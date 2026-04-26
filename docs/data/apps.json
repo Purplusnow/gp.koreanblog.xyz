@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T11:50:03.590Z",
+  "updatedAt": "2026-04-26T13:36:54.613Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1017,7 +1017,8 @@
     "games.onebutton.golfbattle",
     "com.TravelMergeFamily",
     "com.racinggames_city.car.racing_Free",
-    "and.lhhpub.goodshunt"
+    "and.lhhpub.goodshunt",
+    "com.gravity.rom.aos"
   ],
   "items": [
     {
@@ -1044,6 +1045,15 @@
       "developer": "LIHUHU PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/yowUuoBFBxlUYU3VCew-b5fAlixjfpecos46ql8D-5_NaLIynw_VSBDGx99QYfPx7Vi_",
       "url": "https://play.google.com/store/apps/details?id=and.lhhpub.goodshunt&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.gravity.rom.aos",
+      "title": "라그나로크M: ETERNAL LOVE",
+      "developer": "GRAVITY Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/Alyo44PjkqpBIPyR-V22RVPh9UcZGgNtNEDLkVaBd4UELrB_1bXkvGy_-bHUEaZtqw",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.rom.aos&hl=ko&gl=KR",
       "discoveredDate": "2026-04-26",
       "isGame": true
     },
@@ -4473,15 +4483,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "kidultlovin.word.zen",
-      "title": "Zen Word® - Relax Puzzle Game",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A",
-      "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
