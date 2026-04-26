@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T06:17:36.414Z",
+  "updatedAt": "2026-04-26T08:21:09.217Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1016,7 +1016,8 @@
     "com.elex.twdsaw.gp",
     "games.onebutton.golfbattle",
     "com.TravelMergeFamily",
-    "com.racinggames_city.car.racing_Free"
+    "com.racinggames_city.car.racing_Free",
+    "and.lhhpub.goodshunt"
   ],
   "items": [
     {
@@ -1034,6 +1035,15 @@
       "developer": "Racing Games Android - Appsoleut Games",
       "icon": "https://play-lh.googleusercontent.com/cp8M1KTyXg8rZGxdhfEYE1YgduTk9rGod8kIlxJmpkU9K3JAthr6E0iKiKVqYoZMC2k",
       "url": "https://play.google.com/store/apps/details?id=com.racinggames_city.car.racing_Free&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-26",
+      "isGame": true
+    },
+    {
+      "appId": "and.lhhpub.goodshunt",
+      "title": "굿즈 헌트: 슈퍼마켓 속 쇼핑 구멍 Goods Hunt",
+      "developer": "LIHUHU PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/yowUuoBFBxlUYU3VCew-b5fAlixjfpecos46ql8D-5_NaLIynw_VSBDGx99QYfPx7Vi_",
+      "url": "https://play.google.com/store/apps/details?id=and.lhhpub.goodshunt&hl=ko&gl=KR",
       "discoveredDate": "2026-04-26",
       "isGame": true
     },
@@ -4463,15 +4473,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.cherrypopgames.snookerblitz",
-      "title": "Snooker Blitz",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/FjG-ZEL69pcSlA9oMTrHvB7IX4cjLaxi9NiQ2fEH_6EYgpiTOgjvvPbPCB_k8bhToGXe",
-      "url": "https://play.google.com/store/apps/details?id=com.cherrypopgames.snookerblitz&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
