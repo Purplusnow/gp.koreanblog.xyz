@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T22:53:02.344Z",
+  "updatedAt": "2026-04-26T23:52:15.762Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1018,9 +1018,19 @@
     "com.TravelMergeFamily",
     "com.racinggames_city.car.racing_Free",
     "and.lhhpub.goodshunt",
-    "com.gravity.rom.aos"
+    "com.gravity.rom.aos",
+    "com.igg.android.mobileroyale"
   ],
   "items": [
+    {
+      "appId": "com.igg.android.mobileroyale",
+      "title": "모바일 로얄 - Mobile Royale",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/zLCtdOT-jJap2RchrrkRI1eIx-JOBANKc1udCpD8EmYw5AwTf_6eB-ylbMY0yhPVvOI",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-27",
+      "isGame": true
+    },
     {
       "appId": "com.TravelMergeFamily",
       "title": "Travel Merge Family: 게임 병합",
@@ -4483,15 +4493,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "games.spearmint.triplecrush",
-      "title": "Tiledom",
-      "developer": "Funvent Studios DMCC",
-      "icon": "https://play-lh.googleusercontent.com/cDE8yFKapAFacxAmcQiLRlNkHbIWqj05Ey3WIejzJ5M6wvW0OyDOHwU7p_4PiTcqTSaQ0ShC4JeLvMuEe6iL78I",
-      "url": "https://play.google.com/store/apps/details?id=games.spearmint.triplecrush&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
