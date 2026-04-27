@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T16:49:44.632Z",
+  "updatedAt": "2026-04-27T18:14:34.172Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1019,9 +1019,29 @@
     "com.racinggames_city.car.racing_Free",
     "and.lhhpub.goodshunt",
     "com.gravity.rom.aos",
-    "com.igg.android.mobileroyale"
+    "com.igg.android.mobileroyale",
+    "net.skillcap.domino",
+    "com.ea.games.simsfreeplay_row"
   ],
   "items": [
+    {
+      "appId": "net.skillcap.domino",
+      "title": "Dominoes online - play Domino!",
+      "developer": "AppForge Interactive Entertainment FZ-LLC",
+      "icon": "https://play-lh.googleusercontent.com/3rJTBsiiRRkhXwwoCVLElKDx10B1sAaY-dVRRU0-MCVF5fnzi47ryRFXYY-5_oHhfpJP",
+      "url": "https://play.google.com/store/apps/details?id=net.skillcap.domino&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.games.simsfreeplay_row",
+      "title": "심즈 프리플레이",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/k6O4kn3AZFxmzCeW4X7cHokiKkQDt9IMDbe346qVt3f31AVSeb50WeMrZ4p95CXQQOaXU5iMJVL4gWF_7rhZ",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
     {
       "appId": "com.igg.android.mobileroyale",
       "title": "모바일 로얄 - Mobile Royale",
@@ -4493,24 +4513,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.topskater",
-      "title": "플립 스케이터",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/cMvvRKfVO80z5aAbr8UXJsSKyyEfwxazdV29npcstlXfQukscREwZLd5SO2bQqaEf00",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.topskater&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.pockettrend.neomonsters",
-      "title": "네오 몬스터",
-      "developer": "ZigZaGame Inc.",
-      "icon": "https://play-lh.googleusercontent.com/7MIw_TaxkX9d0bTe8LRRjdQHispRojxI0TlmwNWFFYpv_DAYyNJCgbsmnao-eA8xHQ",
-      "url": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
