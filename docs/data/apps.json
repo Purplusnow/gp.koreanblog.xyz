@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T20:16:22.812Z",
+  "updatedAt": "2026-04-27T22:03:21.875Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1022,7 +1022,9 @@
     "com.igg.android.mobileroyale",
     "net.skillcap.domino",
     "com.ea.games.simsfreeplay_row",
-    "com.kixeye.wcm"
+    "com.kixeye.wcm",
+    "com.ivy.streetracing.hd",
+    "com.combineinc.streetracing.driftthreeD"
   ],
   "items": [
     {
@@ -1049,6 +1051,24 @@
       "developer": "KIXEYE Canada Ltd",
       "icon": "https://play-lh.googleusercontent.com/Gkwn7z35wuoYqrGeXff2iRd9DXFgiW-I3ThsFhluOBqsFOWPIogWsOglfHRqDdWDCQ",
       "url": "https://play.google.com/store/apps/details?id=com.kixeye.wcm&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.ivy.streetracing.hd",
+      "title": "스트리트 레이싱 HD",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/n9_tEUOXWNjLJT4pDzK4p4aZwUOOkuIpexQKz-cJbIgmVYTxvEcq2nZiCajE_-V7DfQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ivy.streetracing.hd&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.combineinc.streetracing.driftthreeD",
+      "title": "스트리트 레이싱 3D",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
+      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=ko&gl=KR",
       "discoveredDate": "2026-04-28",
       "isGame": true
     },
@@ -4523,24 +4543,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "flexus.dye.hard",
-      "title": "다이 하드 - 컬러 전쟁",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/KPupUUBsQkLiNweH5RLQz0cT9AIZtRuyHsRoop3G8V4Jj9tZR71TCUkTngcBB9vBEOwn",
-      "url": "https://play.google.com/store/apps/details?id=flexus.dye.hard&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.playstrom.hero.tower",
-      "title": "TDS - 타워 데스티니 서바이브",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/eqAoI9GFqgdNJWPM2CWEZt2j-dfJzeVNv79Bc5pegE9mdaYv2oTDuhi5IRMnITh5S4U",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.hero.tower&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
