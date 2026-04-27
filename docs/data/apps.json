@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T18:14:34.172Z",
+  "updatedAt": "2026-04-27T20:16:22.812Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1021,7 +1021,8 @@
     "com.gravity.rom.aos",
     "com.igg.android.mobileroyale",
     "net.skillcap.domino",
-    "com.ea.games.simsfreeplay_row"
+    "com.ea.games.simsfreeplay_row",
+    "com.kixeye.wcm"
   ],
   "items": [
     {
@@ -1039,6 +1040,15 @@
       "developer": "ELECTRONIC ARTS",
       "icon": "https://play-lh.googleusercontent.com/k6O4kn3AZFxmzCeW4X7cHokiKkQDt9IMDbe346qVt3f31AVSeb50WeMrZ4p95CXQQOaXU5iMJVL4gWF_7rhZ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_row&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.kixeye.wcm",
+      "title": "워커맨더",
+      "developer": "KIXEYE Canada Ltd",
+      "icon": "https://play-lh.googleusercontent.com/Gkwn7z35wuoYqrGeXff2iRd9DXFgiW-I3ThsFhluOBqsFOWPIogWsOglfHRqDdWDCQ",
+      "url": "https://play.google.com/store/apps/details?id=com.kixeye.wcm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-28",
       "isGame": true
     },
@@ -4513,15 +4523,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "idle.goblins.wood.tycoon",
-      "title": "Goblins Wood: 숲속 방치 타이쿤 시뮬레이터",
-      "developer": "ProGamesLab",
-      "icon": "https://play-lh.googleusercontent.com/ligY7Dtb3omnTjD45MX6HRd18SpnFG-3THMPMVZVrlYiOZzgAxBcXGwgFroYuy0Qcgg",
-      "url": "https://play.google.com/store/apps/details?id=idle.goblins.wood.tycoon&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
