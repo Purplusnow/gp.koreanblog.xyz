@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T06:39:10.265Z",
+  "updatedAt": "2026-04-28T09:31:41.009Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1024,7 +1024,9 @@
     "com.ea.games.simsfreeplay_row",
     "com.kixeye.wcm",
     "com.ivy.streetracing.hd",
-    "com.combineinc.streetracing.driftthreeD"
+    "com.combineinc.streetracing.driftthreeD",
+    "com.gravity.roidle.google",
+    "org.herozero"
   ],
   "items": [
     {
@@ -1069,6 +1071,24 @@
       "developer": "Ivy",
       "icon": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
       "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.gravity.roidle.google",
+      "title": "라그나로크 아이들 어드벤처 PLUS",
+      "developer": "GRAVITY Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/mJ41Z2ua9gDzxrQbR-McavEe2QlkVETJBKPHY1NGN92b5g0gI35WO2pzI_Mbp7i47Mbl",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.roidle.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-28",
+      "isGame": true
+    },
+    {
+      "appId": "org.herozero",
+      "title": "Hero Zero Multiplayer RPG",
+      "developer": "Playata GmbH",
+      "icon": "https://play-lh.googleusercontent.com/kdedc3TKMjQHM4KKobreMyvHCVVT59eaJRl4dlVZUrI1a0dRrB90zAVSzcWRoyhVE_w6",
+      "url": "https://play.google.com/store/apps/details?id=org.herozero&hl=ko&gl=KR",
       "discoveredDate": "2026-04-28",
       "isGame": true
     },
@@ -4543,24 +4563,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "io.supercent.linkedcubic",
-      "title": "스네이크 클래시 (Snake Clash)",
-      "developer": "Supercent, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/xNSxw5A59GfuHoNm_ezurQdUjGIo6U3XILbvfwAfSz3VnV_FkUZz5B6TFBPyyHUknVA",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.fc.goods.sort.matching.puzzle.triplemaster",
-      "title": "상품 정렬: 매치 3 퍼즐 - Goods Sorting",
-      "developer": "FALCON GAMES",
-      "icon": "https://play-lh.googleusercontent.com/F4r_imTe0hKKnVfrOUxbS8oumI6LpU-UgFbOW0VHoYQ_FnrcXq0p3QRR96u5wNANm2A",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
