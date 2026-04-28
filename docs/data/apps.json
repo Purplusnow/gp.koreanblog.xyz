@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T20:24:24.826Z",
+  "updatedAt": "2026-04-28T22:08:20.828Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1026,9 +1026,29 @@
     "com.ivy.streetracing.hd",
     "com.combineinc.streetracing.driftthreeD",
     "com.gravity.roidle.google",
-    "org.herozero"
+    "org.herozero",
+    "com.infinity.traffix",
+    "com.supercharge.bikerush.moto.traffic.rider"
   ],
   "items": [
+    {
+      "appId": "com.infinity.traffix",
+      "title": "Traffix: 교통 관리 시뮬레이터",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/hCvyzYt7xPW6T0eF5VQH-b8SBxU_wSm41q88icU3lI1Jkd-fSazFgFR_Cdi_g3acjeI",
+      "url": "https://play.google.com/store/apps/details?id=com.infinity.traffix&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.supercharge.bikerush.moto.traffic.rider",
+      "title": "Bike Rider",
+      "developer": "Supercharge Mobile",
+      "icon": "https://play-lh.googleusercontent.com/MdjYe_y4YF3W_7tXfcupgTPKXFDUFtCDnvN2o0HYfn1Q6NbOFLNoBPPNxtnOv6ryhwHY",
+      "url": "https://play.google.com/store/apps/details?id=com.supercharge.bikerush.moto.traffic.rider&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
     {
       "appId": "net.skillcap.domino",
       "title": "Dominoes online - play Domino!",
@@ -4563,24 +4583,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.je.supersus",
-      "title": "Super Sus",
-      "developer": "PIProductions",
-      "icon": "https://play-lh.googleusercontent.com/8ACvTGAR6qPr2QijjbjcvbtShmNrTqbF_ZtleZi3_ivpvUxi7MQ-X0E44YNxxI0kDVk",
-      "url": "https://play.google.com/store/apps/details?id=com.je.supersus&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.studio27.MelonPlayground",
-      "title": "Melon Sandbox",
-      "developer": "playducky.com",
-      "icon": "https://play-lh.googleusercontent.com/9KgS1cF6vWMF9Fl25S36bKr8zDh0ddkTOeN7WpBcQAE-pKfahG2DjUxbQ8sespNoe3KW3qbcaVD8H6DfNys6",
-      "url": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
