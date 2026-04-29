@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T00:02:45.720Z",
+  "updatedAt": "2026-04-29T03:58:32.580Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1028,7 +1028,10 @@
     "com.gravity.roidle.google",
     "org.herozero",
     "com.infinity.traffix",
-    "com.supercharge.bikerush.moto.traffic.rider"
+    "com.supercharge.bikerush.moto.traffic.rider",
+    "com.neojoy.hxbb",
+    "com.nhnent.SK10392",
+    "com.nianticlabs.monsterhunter"
   ],
   "items": [
     {
@@ -1046,6 +1049,33 @@
       "developer": "Supercharge Mobile",
       "icon": "https://play-lh.googleusercontent.com/MdjYe_y4YF3W_7tXfcupgTPKXFDUFtCDnvN2o0HYfn1Q6NbOFLNoBPPNxtnOv6ryhwHY",
       "url": "https://play.google.com/store/apps/details?id=com.supercharge.bikerush.moto.traffic.rider&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.neojoy.hxbb",
+      "title": "아이들 엔젤스: 여신전쟁",
+      "developer": "Neorigin  Games",
+      "icon": "https://play-lh.googleusercontent.com/P_I7uI_GQc6JTEnLxU-IbnkfWnaOiTO5Ag-YG3XUCofiBrgXIBKRT88S4nEndkEb8oca_O2IrkjTqNgMUzl2pA",
+      "url": "https://play.google.com/store/apps/details?id=com.neojoy.hxbb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.nhnent.SK10392",
+      "title": "킹덤스토리 - 3000뽑기 증정",
+      "developer": "SOFTNYX",
+      "icon": "https://play-lh.googleusercontent.com/_YLfFI5QlkQV5upgDUQrNCOGKAkoP4j6L9zB7dddVHLiNXUjUx9kuu_vGwkgy7hwrrruBEiceop5y0zs0ZO2NQ",
+      "url": "https://play.google.com/store/apps/details?id=com.nhnent.SK10392&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.nianticlabs.monsterhunter",
+      "title": "Monster Hunter Now",
+      "developer": "Niantic, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/mxHo1WUdHe_zsc9lC5PDS5hJE_didRFaIQ13g57n9LMHo6d3vE-nzFNhqhUV0f-2mw",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.monsterhunter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
       "isGame": true
     },
@@ -4583,33 +4613,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "easy.sudoku.puzzle.solver.free",
-      "title": "스도쿠 - 클래식 스도쿠 퍼즐",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/hYLElG0RAgn60XE6cfgsPPW_JB63PEVWvDtvhipAGvTpxBX5YgLGt3UXvnJ_kRwKhnE",
-      "url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.loomgames.pixelflow",
-      "title": "Pixel Flow!",
-      "developer": "Loom Games A.Ş.",
-      "icon": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
-      "url": "https://play.google.com/store/apps/details?id=com.loomgames.pixelflow&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "io.supercent.weaponrpg",
-      "title": "XP Hero (XP 히어로)",
-      "developer": "Supercent, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/nEq2g7dQ5kRB8miiWbxNOppYw557TLfH5mOe9Cca78KYrSGYoyCtSCFEpZIqnQR45yOY",
-      "url": "https://play.google.com/store/apps/details?id=io.supercent.weaponrpg&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
