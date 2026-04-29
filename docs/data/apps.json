@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T20:18:10.896Z",
+  "updatedAt": "2026-04-29T22:08:18.460Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1032,9 +1032,19 @@
     "com.neojoy.hxbb",
     "com.nhnent.SK10392",
     "com.nianticlabs.monsterhunter",
-    "com.madfingergames.deadtrigger2"
+    "com.madfingergames.deadtrigger2",
+    "com.oakever.arrows"
   ],
   "items": [
+    {
+      "appId": "com.oakever.arrows",
+      "title": "Arrows GO! - 화살표 퍼즐",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.arrows&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
     {
       "appId": "com.infinity.traffix",
       "title": "Traffix: 교통 관리 시뮬레이터",
@@ -4623,15 +4633,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamedots.seasideescape",
-      "title": "씨사이드 익스케이프: 합성 & 스토리 게임",
-      "developer": "Microfun Limited",
-      "icon": "https://play-lh.googleusercontent.com/93kcTe6blELo16KuK-U7bK3hDpbR8MD8zet6YyFMrLxZMZWwyrYADZo49JvqRghHMdWbM9hToxFax4TNeu7T",
-      "url": "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
