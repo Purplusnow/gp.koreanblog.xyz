@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T09:20:12.026Z",
+  "updatedAt": "2026-04-29T11:49:21.872Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1031,7 +1031,8 @@
     "com.supercharge.bikerush.moto.traffic.rider",
     "com.neojoy.hxbb",
     "com.nhnent.SK10392",
-    "com.nianticlabs.monsterhunter"
+    "com.nianticlabs.monsterhunter",
+    "com.madfingergames.deadtrigger2"
   ],
   "items": [
     {
@@ -1076,6 +1077,15 @@
       "developer": "Niantic, Inc.",
       "icon": "https://play-lh.googleusercontent.com/mxHo1WUdHe_zsc9lC5PDS5hJE_didRFaIQ13g57n9LMHo6d3vE-nzFNhqhUV0f-2mw",
       "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.monsterhunter&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.madfingergames.deadtrigger2",
+      "title": "DEAD TRIGGER 2 온라인 좀비 슈팅 게임",
+      "developer": "Deca_Games",
+      "icon": "https://play-lh.googleusercontent.com/B_HXB7yUI5D8l47gwEoyAm9LAyCEuaGCVT1Dwvi3KaMn00b_iv101uHTWE7XD_vMv3g",
+      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
       "isGame": true
     },
@@ -4613,15 +4623,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "jp.pokemon.pokemonunite",
-      "title": "Pokémon UNITE",
-      "developer": "The Pokémon Company",
-      "icon": "https://play-lh.googleusercontent.com/_GcGarBEWaLgioZ5WtLSlJk2RF2YfN2b4rr9ToW6b_7X2Mny2zB3o7sOnA4MDDV6wuVya8MaMW8zdO0oYeHCKw",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
