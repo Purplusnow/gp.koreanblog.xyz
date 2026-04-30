@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T22:05:23.580Z",
+  "updatedAt": "2026-04-30T23:07:39.194Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1041,7 +1041,8 @@
     "com.iz.my.daycare.baby.sitter.kids.family.town.twins.games",
     "com.wsy.google.wansuiye.en",
     "com.YoStarKR.Arknights",
-    "com.popve.dicevmonster"
+    "com.popve.dicevmonster",
+    "com.sinyee.babybus.cat"
   ],
   "items": [
     {
@@ -1059,6 +1060,15 @@
       "developer": "Homa",
       "icon": "https://play-lh.googleusercontent.com/-J2Vb9jNFL0GlW2gf_uLPVDfAL9OVaM1WuP3oex7brIznE9Z3K3pbMXW3wz8KSblcVD5",
       "url": "https://play.google.com/store/apps/details?id=com.popve.dicevmonster&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.cat",
+      "title": "아기팬더의 고양이 게임",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/7CPc7mkxYnrfUzjEWQT6C5b-us5pTScDdO6ao20VuMfNoU-ELhZsrQRiA9KUVnUQxSI2",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
       "isGame": true
     },
@@ -4713,15 +4723,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.cedargames.mysterytown",
-      "title": "미스터리 타운: 합성 게임 (Mystery Town)",
-      "developer": "Cedar Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/dgF-7gzJzmqOFh6BNmg48dHIaHhqtqLWqUjDic-rS2COxhfWlBCaa5_PaLsxtvZKcLA",
-      "url": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
