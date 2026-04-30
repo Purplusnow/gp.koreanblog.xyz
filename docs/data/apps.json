@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T03:59:45.485Z",
+  "updatedAt": "2026-04-30T05:57:30.860Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1034,7 +1034,8 @@
     "com.nianticlabs.monsterhunter",
     "com.madfingergames.deadtrigger2",
     "com.oakever.arrows",
-    "com.bubadu.supermarket"
+    "com.bubadu.supermarket",
+    "com.beingame.zc.zombie.shelter.survival"
   ],
   "items": [
     {
@@ -1056,6 +1057,24 @@
       "isGame": true
     },
     {
+      "appId": "com.beingame.zc.zombie.shelter.survival",
+      "title": "Zero city: 좀비게임 & 생존 아포칼립스",
+      "developer": "MYGAMES MENA FZ LLC",
+      "icon": "https://play-lh.googleusercontent.com/uLsdkgyvpVmQCQUhgQc-6hijnmNDdD8kpKhrvDXaOAdPWX-fQIrtwy-zMsnPIcx0XwFz",
+      "url": "https://play.google.com/store/apps/details?id=com.beingame.zc.zombie.shelter.survival&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.neojoy.hxbb",
+      "title": "아이들 엔젤스: 여신전쟁",
+      "developer": "Neorigin  Games",
+      "icon": "https://play-lh.googleusercontent.com/P_I7uI_GQc6JTEnLxU-IbnkfWnaOiTO5Ag-YG3XUCofiBrgXIBKRT88S4nEndkEb8oca_O2IrkjTqNgMUzl2pA",
+      "url": "https://play.google.com/store/apps/details?id=com.neojoy.hxbb&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-29",
+      "isGame": true
+    },
+    {
       "appId": "com.infinity.traffix",
       "title": "Traffix: 교통 관리 시뮬레이터",
       "developer": "Infinity Games, Lda",
@@ -1070,15 +1089,6 @@
       "developer": "Supercharge Mobile",
       "icon": "https://play-lh.googleusercontent.com/MdjYe_y4YF3W_7tXfcupgTPKXFDUFtCDnvN2o0HYfn1Q6NbOFLNoBPPNxtnOv6ryhwHY",
       "url": "https://play.google.com/store/apps/details?id=com.supercharge.bikerush.moto.traffic.rider&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.neojoy.hxbb",
-      "title": "아이들 엔젤스: 여신전쟁",
-      "developer": "Neorigin  Games",
-      "icon": "https://play-lh.googleusercontent.com/P_I7uI_GQc6JTEnLxU-IbnkfWnaOiTO5Ag-YG3XUCofiBrgXIBKRT88S4nEndkEb8oca_O2IrkjTqNgMUzl2pA",
-      "url": "https://play.google.com/store/apps/details?id=com.neojoy.hxbb&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
       "isGame": true
     },
@@ -4643,15 +4653,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.ventogames.findthecat",
-      "title": "Find The Cat - Spot It!",
-      "developer": "Agave Games",
-      "icon": "https://play-lh.googleusercontent.com/JVUrYb53YKB2WTdq4OXnFELdD3FqjDqZxayl9Hnzgxx-7rx_6I3NQ7j_VjCxegOz6QhFOdUAbtfejfv1siyJgQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ventogames.findthecat&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
