@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T18:19:21.209Z",
+  "updatedAt": "2026-04-30T20:16:38.498Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1039,9 +1039,29 @@
     "ata.squid.pimd",
     "com.airplanecooking.chef.kitchen.restaurant.diner",
     "com.iz.my.daycare.baby.sitter.kids.family.town.twins.games",
-    "com.wsy.google.wansuiye.en"
+    "com.wsy.google.wansuiye.en",
+    "com.YoStarKR.Arknights",
+    "com.popve.dicevmonster"
   ],
   "items": [
+    {
+      "appId": "com.YoStarKR.Arknights",
+      "title": "명일방주",
+      "developer": "Yostar Limited.",
+      "icon": "https://play-lh.googleusercontent.com/CV04ek0EGV3IGD9iZDPcMEIKlYKW30p7Gia4qIjdiXk8_XkzmKUvgjznxZ0WneN6dNg",
+      "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.popve.dicevmonster",
+      "title": "Dice vs Monsters: 타워 디펜스 로그라이크",
+      "developer": "Homa",
+      "icon": "https://play-lh.googleusercontent.com/-J2Vb9jNFL0GlW2gf_uLPVDfAL9OVaM1WuP3oex7brIznE9Z3K3pbMXW3wz8KSblcVD5",
+      "url": "https://play.google.com/store/apps/details?id=com.popve.dicevmonster&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-01",
+      "isGame": true
+    },
     {
       "appId": "com.oakever.arrows",
       "title": "Arrows GO! - 화살표 퍼즐",
@@ -4693,24 +4713,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.mojang.minecrafttrialpe",
-      "title": "Minecraft 체험판",
-      "developer": "Mojang",
-      "icon": "https://play-lh.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG",
-      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.tree.hybrid.catslife",
-      "title": "고양이 라이프 : 귀여운 시뮬레이션 게임",
-      "developer": "TREEPLLA",
-      "icon": "https://play-lh.googleusercontent.com/r8H5QjIE3vu4ajTVI8LwbCWTpIcQUWUUIuUQay5TUKt5evjqdf6Rx1AZstrZh0XE6mM",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.hybrid.catslife&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
