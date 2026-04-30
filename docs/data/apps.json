@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T09:22:42.444Z",
+  "updatedAt": "2026-04-30T11:48:02.687Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1035,7 +1035,11 @@
     "com.madfingergames.deadtrigger2",
     "com.oakever.arrows",
     "com.bubadu.supermarket",
-    "com.beingame.zc.zombie.shelter.survival"
+    "com.beingame.zc.zombie.shelter.survival",
+    "ata.squid.pimd",
+    "com.airplanecooking.chef.kitchen.restaurant.diner",
+    "com.iz.my.daycare.baby.sitter.kids.family.town.twins.games",
+    "com.wsy.google.wansuiye.en"
   ],
   "items": [
     {
@@ -1062,6 +1066,42 @@
       "developer": "MYGAMES MENA FZ LLC",
       "icon": "https://play-lh.googleusercontent.com/uLsdkgyvpVmQCQUhgQc-6hijnmNDdD8kpKhrvDXaOAdPWX-fQIrtwy-zMsnPIcx0XwFz",
       "url": "https://play.google.com/store/apps/details?id=com.beingame.zc.zombie.shelter.survival&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
+    {
+      "appId": "ata.squid.pimd",
+      "title": "Party in my Dorm: Campus Life",
+      "developer": "A Thinking Ape Entertainment Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/yg2phIBrYRyo9S0sKsTC2VMgVk10AX_Q5gReZ6azQdxgJFSW5ZspjJroGkQL40A_gA",
+      "url": "https://play.google.com/store/apps/details?id=ata.squid.pimd&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.airplanecooking.chef.kitchen.restaurant.diner",
+      "title": "Cooking Go® 비행기 & 기차 요리사",
+      "developer": "RedFish Games",
+      "icon": "https://play-lh.googleusercontent.com/R5XG1-UN7yVA7YVlEYKDjem8mY0bhiggde27A8q7tnJtS3PRtbHg5HnJEy3yoMwcfJ0",
+      "url": "https://play.google.com/store/apps/details?id=com.airplanecooking.chef.kitchen.restaurant.diner&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.my.daycare.baby.sitter.kids.family.town.twins.games",
+      "title": "마이 티지 베이비 데이케어 - 아이들 게임 재생",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/88mvT-BiahrXL-17WP_I_mHLvB2CrMU6SBlbEjQWjBDvNTVg6ZTl-bs5U7E1xXPQCzXe",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.my.daycare.baby.sitter.kids.family.town.twins.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.wsy.google.wansuiye.en",
+      "title": "Call Me Emperor",
+      "developer": "Clicktouch Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/tx85s1DcAHZ0YhuhWBhFe0f6uNwCnmZRmP9juX5mUPk8gjje4r3JzaXX84i9csTvxbEYkEpG-kgNHDewqUiTJA",
+      "url": "https://play.google.com/store/apps/details?id=com.wsy.google.wansuiye.en&hl=ko&gl=KR",
       "discoveredDate": "2026-04-30",
       "isGame": true
     },
@@ -4653,42 +4693,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.infiniplay.merge.fashion.romance.story",
-      "title": "패션 병합（Merge Fashion）: 로맨스 스토리",
-      "developer": "Infiniplay-Game",
-      "icon": "https://play-lh.googleusercontent.com/PkJ4CUd1sTyToxvZbwGDeYKY7ivU5dSN7f4QZQl_TcoKG_EWFxsXg5eyx3zLYnMwWgk8",
-      "url": "https://play.google.com/store/apps/details?id=com.infiniplay.merge.fashion.romance.story&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.unicostudio.braintest",
-      "title": "브레인 테스트 (Brain Test): 까다로운 퍼즐",
-      "developer": "Unico Studio",
-      "icon": "https://play-lh.googleusercontent.com/L4-Oa6O8GV4I23JTmo-xKSjfyjowc0d2uGGfdScYkCTMk6ftxTwGowdAjgh2nOrJlEmI",
-      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.proximabeta.nikke",
-      "title": "승리의 여신: 니케",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-      "url": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.hwqgrhhjfd.idlefastfood",
-      "title": "Eatventure",
-      "developer": "Lessmore GmbH",
-      "icon": "https://play-lh.googleusercontent.com/iQkccRgYNjF0xdVFioJo0SabtPKO0nSZrP7p8zCLGYpUypROC-Boo9GN3GaHddhudkO7",
-      "url": "https://play.google.com/store/apps/details?id=com.hwqgrhhjfd.idlefastfood&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
