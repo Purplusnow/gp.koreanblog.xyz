@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T00:03:27.432Z",
+  "updatedAt": "2026-04-30T03:59:45.485Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1033,7 +1033,8 @@
     "com.nhnent.SK10392",
     "com.nianticlabs.monsterhunter",
     "com.madfingergames.deadtrigger2",
-    "com.oakever.arrows"
+    "com.oakever.arrows",
+    "com.bubadu.supermarket"
   ],
   "items": [
     {
@@ -1042,6 +1043,15 @@
       "developer": "Oakever Games",
       "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
       "url": "https://play.google.com/store/apps/details?id=com.oakever.arrows&hl=ko&gl=KR",
+      "discoveredDate": "2026-04-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubadu.supermarket",
+      "title": "수퍼마켓 (Supermarket Game)",
+      "developer": "FM by Bubadu",
+      "icon": "https://play-lh.googleusercontent.com/I76goWhJ1kbhckphBG0mZBbfHfNTojWdfVttTP28Qdvpj-wQ9edgTcHBo_3Pob5LhAI",
+      "url": "https://play.google.com/store/apps/details?id=com.bubadu.supermarket&hl=ko&gl=KR",
       "discoveredDate": "2026-04-30",
       "isGame": true
     },
@@ -4633,15 +4643,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "io.randomco.travel",
-      "title": "Travel Town - 결합 어드벤처",
-      "developer": "Magmatic Games LTD",
-      "icon": "https://play-lh.googleusercontent.com/JUd09-Jkgctks6QibZBPeqnpPA-6A6nMXZqAW9Fa0MKOsolbvGKSXEnuq9nxiKNCFVOT",
-      "url": "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
