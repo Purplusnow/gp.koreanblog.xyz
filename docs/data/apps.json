@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T11:17:22.592Z",
+  "updatedAt": "2026-05-01T13:48:58.962Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1042,7 +1042,8 @@
     "com.wsy.google.wansuiye.en",
     "com.YoStarKR.Arknights",
     "com.popve.dicevmonster",
-    "com.sinyee.babybus.cat"
+    "com.sinyee.babybus.cat",
+    "com.sinyee.babybus.care"
   ],
   "items": [
     {
@@ -1069,6 +1070,15 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/7CPc7mkxYnrfUzjEWQT6C5b-us5pTScDdO6ao20VuMfNoU-ELhZsrQRiA9KUVnUQxSI2",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.cat&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.care",
+      "title": "아기 팬더  돌보기",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
       "isGame": true
     },
@@ -4723,15 +4733,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "supa.game.mala",
-      "title": "마라마스터 : 인형계, 포토카드 포장, 마라탕 먹방",
-      "developer": "Supa Inc.",
-      "icon": "https://play-lh.googleusercontent.com/aUDqEHkWYL0Qx6kdDCE84T9fxUj2Di92Xgp4xe5BzSKLH11TiVJ5lAJqsLvd6AyRxdzYpGIYQfdXUgDTrY8jmHc",
-      "url": "https://play.google.com/store/apps/details?id=supa.game.mala&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
