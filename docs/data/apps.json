@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T22:01:43.701Z",
+  "updatedAt": "2026-05-01T23:01:17.380Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1048,7 +1048,8 @@
     "com.MustBeFun.GamesInOneWatchGames",
     "com.aigrind.warspear",
     "com.dirtybit.fra",
-    "com.rsg.heroesevolved"
+    "com.rsg.heroesevolved",
+    "com.renderedideas.fruitcutter"
   ],
   "items": [
     {
@@ -1093,6 +1094,15 @@
       "developer": "Netdragon Websoft Inc,",
       "icon": "https://play-lh.googleusercontent.com/81YUvchemU95D-H6ZPZLigGRk0B4tZL-L-Q3IBGV6ocoTjJzjj2jhqgyc4UDWLAxSugs",
       "url": "https://play.google.com/store/apps/details?id=com.rsg.heroesevolved&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.renderedideas.fruitcutter",
+      "title": "Fruit Cutter - Watch Game",
+      "developer": "RI Casual Offline Games",
+      "icon": "https://play-lh.googleusercontent.com/sCuzFejEAzhOHMhM3mxjtyolNedSQxr5i2X_XUJuwnDXa_yYFrFBBpbQVDZIAVdMKg",
+      "url": "https://play.google.com/store/apps/details?id=com.renderedideas.fruitcutter&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
@@ -4783,15 +4793,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.readygo.dark.gp",
-      "title": "Dark War Survival",
-      "developer": "Florere Game",
-      "icon": "https://play-lh.googleusercontent.com/tDRSxFkEK59P1UigJ2u7Yy-QKTG-CiTWbztHzMUmfOEnyhEdX_6ilsqgyauDaDjitw8",
-      "url": "https://play.google.com/store/apps/details?id=com.readygo.dark.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
