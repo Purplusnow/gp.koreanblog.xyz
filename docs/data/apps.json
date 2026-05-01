@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T21:04:04.068Z",
+  "updatedAt": "2026-05-01T22:01:43.701Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1044,7 +1044,11 @@
     "com.popve.dicevmonster",
     "com.sinyee.babybus.cat",
     "com.sinyee.babybus.care",
-    "com.playdigious.deadcells.mobile"
+    "com.playdigious.deadcells.mobile",
+    "com.MustBeFun.GamesInOneWatchGames",
+    "com.aigrind.warspear",
+    "com.dirtybit.fra",
+    "com.rsg.heroesevolved"
   ],
   "items": [
     {
@@ -1053,6 +1057,42 @@
       "developer": "Playdigious",
       "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.MustBeFun.GamesInOneWatchGames",
+      "title": "Games In One - Watch Games",
+      "developer": "Must Be Fun",
+      "icon": "https://play-lh.googleusercontent.com/TvIbWZcJKZK5O6jEwngHk2UaBP2THo-ZRwqdRakmHxKX01aZG2Uc1hp3vVWRH4avUc7E",
+      "url": "https://play.google.com/store/apps/details?id=com.MustBeFun.GamesInOneWatchGames&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.aigrind.warspear",
+      "title": "Warspear Online (MMORPG, RPG)",
+      "developer": "TITULUM",
+      "icon": "https://play-lh.googleusercontent.com/tF4783h8pjNbfIynuEDhYIs-ZqSzu50W-VTl3GCSbvwiJb5hEWcjB-Skq27OWzDPU98",
+      "url": "https://play.google.com/store/apps/details?id=com.aigrind.warspear&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.dirtybit.fra",
+      "title": "FR3 - 온라인 멀티플레이어 러닝 게임",
+      "developer": "Dirtybit",
+      "icon": "https://play-lh.googleusercontent.com/NgOATHjl2gP57ouPj9Jnan4uIRNFBmI3k_tcpW__-9wsFT9k2c-HQvlIirnZd802fw",
+      "url": "https://play.google.com/store/apps/details?id=com.dirtybit.fra&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.rsg.heroesevolved",
+      "title": "Heroes Evolved",
+      "developer": "Netdragon Websoft Inc,",
+      "icon": "https://play-lh.googleusercontent.com/81YUvchemU95D-H6ZPZLigGRk0B4tZL-L-Q3IBGV6ocoTjJzjj2jhqgyc4UDWLAxSugs",
+      "url": "https://play.google.com/store/apps/details?id=com.rsg.heroesevolved&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
@@ -4743,42 +4783,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.cedargames.tileclear",
-      "title": "타일 클리어 - 퍼즐 게임",
-      "developer": "Cedar Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f",
-      "url": "https://play.google.com/store/apps/details?id=com.cedargames.tileclear&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.grandgames.magicsort",
-      "title": "매직 정렬!  (Magic Sort !)",
-      "developer": "Grand Games A.Ş.",
-      "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
-      "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.ksrgland.goat",
-      "title": "King's Throne: Royal Delights",
-      "developer": "GOAT Games",
-      "icon": "https://play-lh.googleusercontent.com/D1OTNDqde01Ik8EBCCiPDjtpap22E6vCeU-_7z58LPGmszrW4YmZ7tiwyORVk3wbuKEF",
-      "url": "https://play.google.com/store/apps/details?id=com.ksrgland.goat&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.and.games505.TerrariaPaid",
-      "title": "Terraria",
-      "developer": "505 Games Srl",
-      "icon": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos",
-      "url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
