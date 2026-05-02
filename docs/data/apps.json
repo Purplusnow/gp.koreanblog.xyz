@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T19:13:46.212Z",
+  "updatedAt": "2026-05-02T20:54:41.653Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1052,9 +1052,29 @@
     "com.renderedideas.fruitcutter",
     "com.deemedyainc.duels",
     "com.microdose.balljam",
-    "com.edkongames.ww2"
+    "com.edkongames.ww2",
+    "com.hyperbeard.pocketlove",
+    "com.farlightgames.igame.gp"
   ],
   "items": [
+    {
+      "appId": "com.hyperbeard.pocketlove",
+      "title": "포켓 러브",
+      "developer": "HyperBeard",
+      "icon": "https://play-lh.googleusercontent.com/UdgUop5EY0WE8t4DXBKnS5U-RGkeESduiXWZ_BzRx-i04dsAWjU858KSqhIbuz7HvA",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperbeard.pocketlove&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.farlightgames.igame.gp",
+      "title": "AFK: 새로운 여정",
+      "developer": "FARLIGHT",
+      "icon": "https://play-lh.googleusercontent.com/47mM_TAer7iZxVogCbwLCAqOF92LDRQU2PUcbZTFRsd-zmseWrL-4EiXbaPCuC9kWWIKA6YWU096xI9cDTmbPA",
+      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.igame.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-03",
+      "isGame": true
+    },
     {
       "appId": "com.playdigious.deadcells.mobile",
       "title": "데드 셀 - Dead Cells",
@@ -4823,24 +4843,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigbreakgames.wot",
-      "title": "월드 워 머신 컨퀘스트",
-      "developer": "NDREAM Corp.",
-      "icon": "https://play-lh.googleusercontent.com/DXM-tJktKtleFLcy5yWatbWRZMqWIKWLUg5W1LxT1f6gsNbYub0c4cCrtDNYYSrqbPs",
-      "url": "https://play.google.com/store/apps/details?id=com.bigbreakgames.wot&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.percent.aos.cooptd",
-      "title": "협동 타워 디펜스 : 친구와 함께",
-      "developer": "Supermagic",
-      "icon": "https://play-lh.googleusercontent.com/Hlc2-66nb99p3dy5qJE095Di19ib_uSHaEwfJ5_j09vJb2mw98q3cSnGRg28Q-Auww",
-      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
