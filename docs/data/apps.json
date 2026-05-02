@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T13:41:27.479Z",
+  "updatedAt": "2026-05-02T14:59:26.113Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1051,7 +1051,8 @@
     "com.rsg.heroesevolved",
     "com.renderedideas.fruitcutter",
     "com.deemedyainc.duels",
-    "com.microdose.balljam"
+    "com.microdose.balljam",
+    "com.edkongames.ww2"
   ],
   "items": [
     {
@@ -1123,6 +1124,15 @@
       "developer": "VOODOO",
       "icon": "https://play-lh.googleusercontent.com/QvaEFQhS4SCDQmI941wYCTg83AoQkZt4WN-fZRyhh2XW2tcxjT0pQKXLm1Be7K0XdC4",
       "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.edkongames.ww2",
+      "title": "2차 세계대전 WW2 FPS 전술 슈팅 게임 군인 게임",
+      "developer": "Edkon Games GmbH",
+      "icon": "https://play-lh.googleusercontent.com/H2gkyEii_ozUzpqGxd6HgXBN1H1DIn4yelbKN0-uMHVRgBFTG7JApEzuGyTXUs1ilDXSxP8BTkpV-v0yvA3LWg",
+      "url": "https://play.google.com/store/apps/details?id=com.edkongames.ww2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
@@ -4813,15 +4823,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.global.pnckkr",
-      "title": "퍼즐 앤 카오스",
-      "developer": "BLANCOZONE NETWORK KOREA",
-      "icon": "https://play-lh.googleusercontent.com/k1VvaKYOmUYUb5wqlw7MZ3VGFi_nCJy1LZX1mSeVVLGpZMAV3v4m6AKGnsXxSv_tDAwX",
-      "url": "https://play.google.com/store/apps/details?id=com.global.pnckkr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
