@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T23:59:52.124Z",
+  "updatedAt": "2026-05-02T03:42:52.059Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1049,7 +1049,8 @@
     "com.aigrind.warspear",
     "com.dirtybit.fra",
     "com.rsg.heroesevolved",
-    "com.renderedideas.fruitcutter"
+    "com.renderedideas.fruitcutter",
+    "com.deemedyainc.duels"
   ],
   "items": [
     {
@@ -1103,6 +1104,15 @@
       "developer": "RI Casual Offline Games",
       "icon": "https://play-lh.googleusercontent.com/sCuzFejEAzhOHMhM3mxjtyolNedSQxr5i2X_XUJuwnDXa_yYFrFBBpbQVDZIAVdMKg",
       "url": "https://play.google.com/store/apps/details?id=com.renderedideas.fruitcutter&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.deemedyainc.duels",
+      "title": "듀얼즈: 에픽 PVP 전투 게임 <Duels>",
+      "developer": "Gameplay Galaxy",
+      "icon": "https://play-lh.googleusercontent.com/VrPiDKzA1wJt-F2zMx-TTuWrpwPUtRXXyUoExd_G3urisdeTsWOHpPbSeFmd6MXf100L",
+      "url": "https://play.google.com/store/apps/details?id=com.deemedyainc.duels&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
@@ -4793,15 +4803,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.readygo.barrel.gp",
-      "title": "라스트 Z: 서바이벌 슈터",
-      "developer": "Florere Game",
-      "icon": "https://play-lh.googleusercontent.com/DVXTZpTR02_xoN1kOqnhOOuW9p1LiUHiu_Vw0xjzdu1SswhIbLp3OdV4x6skiarMGcE",
-      "url": "https://play.google.com/store/apps/details?id=com.readygo.barrel.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
