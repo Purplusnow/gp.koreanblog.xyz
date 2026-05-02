@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T11:54:23.478Z",
+  "updatedAt": "2026-05-02T13:41:27.479Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1050,7 +1050,8 @@
     "com.dirtybit.fra",
     "com.rsg.heroesevolved",
     "com.renderedideas.fruitcutter",
-    "com.deemedyainc.duels"
+    "com.deemedyainc.duels",
+    "com.microdose.balljam"
   ],
   "items": [
     {
@@ -1113,6 +1114,15 @@
       "developer": "Gameplay Galaxy",
       "icon": "https://play-lh.googleusercontent.com/VrPiDKzA1wJt-F2zMx-TTuWrpwPUtRXXyUoExd_G3urisdeTsWOHpPbSeFmd6MXf100L",
       "url": "https://play.google.com/store/apps/details?id=com.deemedyainc.duels&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.microdose.balljam",
+      "title": "Marble Sort!",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/QvaEFQhS4SCDQmI941wYCTg83AoQkZt4WN-fZRyhh2XW2tcxjT0pQKXLm1Be7K0XdC4",
+      "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
@@ -4803,15 +4813,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.greenmushroom.boomblitz.gp",
-      "title": "탑 히어로즈",
-      "developer": "RiverGame",
-      "icon": "https://play-lh.googleusercontent.com/jeoEzb6JQStOCUuSPNy4pwzMfpZse5JXaOojt8rO07gJs4NWeIjb-x4pOJpbjnhZNg",
-      "url": "https://play.google.com/store/apps/details?id=com.greenmushroom.boomblitz.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
