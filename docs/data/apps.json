@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T14:59:56.381Z",
+  "updatedAt": "2026-05-03T15:57:19.541Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1054,9 +1054,19 @@
     "com.microdose.balljam",
     "com.edkongames.ww2",
     "com.hyperbeard.pocketlove",
-    "com.farlightgames.igame.gp"
+    "com.farlightgames.igame.gp",
+    "com.indusgame.play"
   ],
   "items": [
+    {
+      "appId": "com.indusgame.play",
+      "title": "Prime Rush",
+      "developer": "SuperGaming SG",
+      "icon": "https://play-lh.googleusercontent.com/5GZdAI6Ke7o64k_xjnzIYbCiVUsY-09TcnVc5tgnNab5vjCyuAWscWxxzGK_laJTy4OnZ8Lq4vdKFOW-kRHG1w",
+      "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
     {
       "appId": "com.hyperbeard.pocketlove",
       "title": "포켓 러브",
@@ -4843,15 +4853,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "rts.bunker.wars",
-      "title": "Bunker Wars: 1차 세계대전 RTS 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/awCwyIrkWQ7jwtMZLLVxOD1vS_ZOQV5q7cAuRSfW1oOL6xsdmB-TPSC0F6Zudpfry5QB",
-      "url": "https://play.google.com/store/apps/details?id=rts.bunker.wars&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
