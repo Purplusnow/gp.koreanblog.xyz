@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T17:58:33.415Z",
+  "updatedAt": "2026-05-03T19:13:24.708Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1055,7 +1055,9 @@
     "com.edkongames.ww2",
     "com.hyperbeard.pocketlove",
     "com.farlightgames.igame.gp",
-    "com.indusgame.play"
+    "com.indusgame.play",
+    "com.my.warface.online.fps.pvp.action.shooter",
+    "com.DetailGames.HungryAliens"
   ],
   "items": [
     {
@@ -1064,6 +1066,24 @@
       "developer": "SuperGaming SG",
       "icon": "https://play-lh.googleusercontent.com/5GZdAI6Ke7o64k_xjnzIYbCiVUsY-09TcnVc5tgnNab5vjCyuAWscWxxzGK_laJTy4OnZ8Lq4vdKFOW-kRHG1w",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.warface.online.fps.pvp.action.shooter",
+      "title": "Warface GO: PvP&FPS 총슈팅 온라인 게임",
+      "developer": "Innova Solutions FZ-LLC",
+      "icon": "https://play-lh.googleusercontent.com/rrNPqKqRwg7y5v3v2YlL77nRv5pI_Cw2htxsIFVw2DCcubkdzzN7d0iFHGApemrsCkp0",
+      "url": "https://play.google.com/store/apps/details?id=com.my.warface.online.fps.pvp.action.shooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.DetailGames.HungryAliens",
+      "title": "QWER의 지구정복 : 외계인은 배고파",
+      "developer": "By4m Studio",
+      "icon": "https://play-lh.googleusercontent.com/MX01MfLpfnJ2ksPgARtQQQNv3N0EjGOzNxGWR752IqrqA6reZ3hpFKzVRzUWqIRXGd0qCGOixDic3IU_ZLoq",
+      "url": "https://play.google.com/store/apps/details?id=com.DetailGames.HungryAliens&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
@@ -4853,24 +4873,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.percent.royaldice",
-      "title": "랜덤 다이스 디펜스 : PVP 타워 디펜스",
-      "developer": "111%",
-      "icon": "https://play-lh.googleusercontent.com/Nr7NsP1WRrzcMZA-93rlDvm03scNvOhZqAUVPPzQdFcG9XfnApBxtSFRxn7WwW4cFlc",
-      "url": "https://play.google.com/store/apps/details?id=com.percent.royaldice&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.xh.penguin.android",
-      "title": "펭귄 대모험 : 꽁꽁 방어전",
-      "developer": "POPJOY",
-      "icon": "https://play-lh.googleusercontent.com/WUKysAG664jEe8MINILGGFjjencMWt4i8JuOK9Rh7IFa7onmvoCjkYAqSIg8DJ6FVQ",
-      "url": "https://play.google.com/store/apps/details?id=com.xh.penguin.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
