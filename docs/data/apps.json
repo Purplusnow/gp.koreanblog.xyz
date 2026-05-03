@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T20:57:12.869Z",
+  "updatedAt": "2026-05-03T21:55:38.532Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1057,7 +1057,8 @@
     "com.farlightgames.igame.gp",
     "com.indusgame.play",
     "com.my.warface.online.fps.pvp.action.shooter",
-    "com.DetailGames.HungryAliens"
+    "com.DetailGames.HungryAliens",
+    "com.integragames.openhouse.android"
   ],
   "items": [
     {
@@ -1084,6 +1085,15 @@
       "developer": "By4m Studio",
       "icon": "https://play-lh.googleusercontent.com/MX01MfLpfnJ2ksPgARtQQQNv3N0EjGOzNxGWR752IqrqA6reZ3hpFKzVRzUWqIRXGd0qCGOixDic3IU_ZLoq",
       "url": "https://play.google.com/store/apps/details?id=com.DetailGames.HungryAliens&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.integragames.openhouse.android",
+      "title": "오픈 하우스",
+      "developer": "RED BRIX COMPUTER SYSTEMS",
+      "icon": "https://play-lh.googleusercontent.com/1-7KNfnthSdHwhBVBg2fV0BF0ErlEy7EtizfUSR4_KbIeT6T_ZiD2J0R2WrAkNvRXHU",
+      "url": "https://play.google.com/store/apps/details?id=com.integragames.openhouse.android&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
@@ -4873,15 +4883,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.spcomes.hellotown",
-      "title": "헬로 타운 : 신입사원 머지 성공 스토리",
-      "developer": "Springcomes",
-      "icon": "https://play-lh.googleusercontent.com/SSNukhchpbRZqfI0ytTwNsbu_7wW3xXZ60Z-OlmN03Q9nioqgQ2VRbmyPvdzjy3mI9n9",
-      "url": "https://play.google.com/store/apps/details?id=com.spcomes.hellotown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
