@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T04:51:19.299Z",
+  "updatedAt": "2026-05-04T05:02:44.672Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1062,7 +1062,9 @@
     "com.dwjp.gp",
     "net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes",
     "com.joycity.im",
-    "com.daerigame.girladriftrm"
+    "com.daerigame.girladriftrm",
+    "clear.tap.geometrydash.puzzle.away.clash.block.games",
+    "com.disney.emojimatch_goo"
   ],
   "items": [
     {
@@ -1134,6 +1136,24 @@
       "developer": "DAERI SOFT Inc",
       "icon": "https://play-lh.googleusercontent.com/Y8SLjAdXCg_IRVcf8HJYxEKXfHtVRlx5bH5Cr8sgf3IApRr-x_ddIBl2ADp1mcgCMadcN5g9Gj01zvzxaewQ-Q",
       "url": "https://play.google.com/store/apps/details?id=com.daerigame.girladriftrm&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "clear.tap.geometrydash.puzzle.away.clash.block.games",
+      "title": "Take Away - 3D 블록 제거",
+      "developer": "EasyFun Puzzle Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/fWFpXkCTQZUoTTlmVu4VEzg5jQVfX7B7Yh_wFLw1u64CwvlJkZ9ViQd9eCDLs9fzYgqHwEijlVikoc2GNzNN1A",
+      "url": "https://play.google.com/store/apps/details?id=clear.tap.geometrydash.puzzle.away.clash.block.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.disney.emojimatch_goo",
+      "title": "디즈니 이모지 블리츠",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/ttEp5YKjdiFEEIW1URHbDKps14TwoUgQthysnGxgVA_2c2eJe6UVcmh_uClq5CgkWJbEl9qhbrLT6hbqiymfyQ",
+      "url": "https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
@@ -4923,24 +4943,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.detailgames.tged",
-      "title": "역대급 영지 설계사: 촤라락 디펜스",
-      "developer": "Detailgames",
-      "icon": "https://play-lh.googleusercontent.com/JysWmQVJlTQoBewLCiCGWGt92zBtrUNu-7nAAsVvvKYQtVUZnmwIR-G4NQs9INuf0Dl7ZYzz4lBa23Vpzv83y30",
-      "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "screw.puzzle.match3.brain.puzz",
-      "title": "나사 매치 - 나사풀기 핀 퍼즐 나사게임 3d",
-      "developer": "Astrasen Global",
-      "icon": "https://play-lh.googleusercontent.com/d3Yn1qFH6iQdqQ5wkcsf0ACzuQavPYUzsahfaUNmp4KWcrbkf_IRGTBQn6glaUk_7Oo",
-      "url": "https://play.google.com/store/apps/details?id=screw.puzzle.match3.brain.puzz&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
