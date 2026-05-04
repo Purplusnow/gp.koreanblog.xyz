@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T04:01:44.809Z",
+  "updatedAt": "2026-05-04T04:51:19.299Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1058,7 +1058,11 @@
     "com.indusgame.play",
     "com.my.warface.online.fps.pvp.action.shooter",
     "com.DetailGames.HungryAliens",
-    "com.integragames.openhouse.android"
+    "com.integragames.openhouse.android",
+    "com.dwjp.gp",
+    "net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes",
+    "com.joycity.im",
+    "com.daerigame.girladriftrm"
   ],
   "items": [
     {
@@ -1094,6 +1098,42 @@
       "developer": "RED BRIX COMPUTER SYSTEMS",
       "icon": "https://play-lh.googleusercontent.com/1-7KNfnthSdHwhBVBg2fV0BF0ErlEy7EtizfUSR4_KbIeT6T_ZiD2J0R2WrAkNvRXHU",
       "url": "https://play.google.com/store/apps/details?id=com.integragames.openhouse.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.dwjp.gp",
+      "title": "애니멀 가든 - 진짜 꽃다발을 배달돼요!",
+      "developer": "GARDA",
+      "icon": "https://play-lh.googleusercontent.com/9tisP7I7eqm1r486gEOpk3Zy4KGuSqS5I2z9V__eEtdAZwSRv68DyXHrmGIt5EtRcvkIjcKVmqpfnGbk8g6Lqg",
+      "url": "https://play.google.com/store/apps/details?id=com.dwjp.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes",
+      "title": "재미있는 수학: 아이들을 위한 암산",
+      "developer": "Speedymind LLC",
+      "icon": "https://play-lh.googleusercontent.com/rL1QrkLaAMltwcKTUKC6VSRQZ7oRceUw_6OTS4Vey4nxNvBj02-xdyPsUyMtV1J1DWQ",
+      "url": "https://play.google.com/store/apps/details?id=net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.joycity.im",
+      "title": "임진왜란: 조선의 반격",
+      "developer": "JOYCITY Corp.",
+      "icon": "https://play-lh.googleusercontent.com/lCe1gmPZFYWVAC9SART7Bm4AFDPNRmxteII5Qa417kZVxBgpKdbXbgDaGLLpRevIPyPcQj7W-dLvDdBMmm_ceA",
+      "url": "https://play.google.com/store/apps/details?id=com.joycity.im&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.daerigame.girladriftrm",
+      "title": "표류소녀: 다시 만난 세계",
+      "developer": "DAERI SOFT Inc",
+      "icon": "https://play-lh.googleusercontent.com/Y8SLjAdXCg_IRVcf8HJYxEKXfHtVRlx5bH5Cr8sgf3IApRr-x_ddIBl2ADp1mcgCMadcN5g9Gj01zvzxaewQ-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.daerigame.girladriftrm&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
@@ -4883,42 +4923,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.nordcurrent.happyclinicf2p",
-      "title": "해피 클리닉: 병원 시뮬레이션 게임",
-      "developer": "Nordcurrent Games",
-      "icon": "https://play-lh.googleusercontent.com/x9DpM9PihtGDo3-3TD3eMt_3G3RXwJl6fLSb1oXmRuKtIIrOLzqqDlny7yLk3Y7FjbP4",
-      "url": "https://play.google.com/store/apps/details?id=com.nordcurrent.happyclinicf2p&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.imagineer.sumikkogurashi.farm",
-      "title": "Sumikkogurashi Farm",
-      "developer": "Imagineer Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/hsk_Sb2qEzLeYRZhHwN1WK8GUMLhqgf4rMiI7-jJ5FGTdC6yEcLxiHU8ZX3afVWFCDxL202fVoYyt53UXE4pWvQ",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.sumikkogurashi.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.actgames.HelloKittyMDS",
-      "title": "헬로키티 마이 드림 스토어",
-      "developer": "ACTGames Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/oeSmBipeMSBbmIOvRs3Me2hIZNrmK6bGSZ2jsIizR957jhZJaCA5KR8a46VuUqM0y5AJaswHKc1RGonlYjam",
-      "url": "https://play.google.com/store/apps/details?id=com.actgames.HelloKittyMDS&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.shimmergames.tenants.gp",
-      "title": "갓물주 키우기",
-      "developer": "ShimmerGames",
-      "icon": "https://play-lh.googleusercontent.com/0eUCp4jK2Z4jC0hybwX36-ixM4Pnmgohb4sTv4bl46WCOVTnYvF9XylgDFP3prWjKc44",
-      "url": "https://play.google.com/store/apps/details?id=com.shimmergames.tenants.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
