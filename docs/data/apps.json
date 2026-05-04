@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T14:25:09.623Z",
+  "updatedAt": "2026-05-04T16:56:35.229Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1065,9 +1065,19 @@
     "com.daerigame.girladriftrm",
     "clear.tap.geometrydash.puzzle.away.clash.block.games",
     "com.disney.emojimatch_goo",
-    "com.balysv.loop"
+    "com.balysv.loop",
+    "co.tamatem.fashionqueen"
   ],
   "items": [
+    {
+      "appId": "co.tamatem.fashionqueen",
+      "title": "ملكة الموضة | لعبة قصص و تمثيل",
+      "developer": "Tamatem Inc.",
+      "icon": "https://play-lh.googleusercontent.com/ppTGVK9wiouzKLnAwoX7GTcufm0PcEfXCpjz7AHFSpG8RH5dgfykK8X-Z0VTds2fNvvd",
+      "url": "https://play.google.com/store/apps/details?id=co.tamatem.fashionqueen&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-05",
+      "isGame": true
+    },
     {
       "appId": "com.indusgame.play",
       "title": "Prime Rush",
@@ -4953,15 +4963,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.mind.quiz.brain.out",
-      "title": "Brain Out®: 넌센스 마스터, 두뇌 트레이닝",
-      "developer": "Focus apps",
-      "icon": "https://play-lh.googleusercontent.com/cIZT8s6NiS_Ez_t0EbD_zoMgvdUsUIP8dgArn4iWcWynE4HYSsYdG7xJTuwkl-vZ3lE",
-      "url": "https://play.google.com/store/apps/details?id=com.mind.quiz.brain.out&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
