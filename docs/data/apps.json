@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T06:49:29.993Z",
+  "updatedAt": "2026-05-04T09:29:51.729Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1064,7 +1064,8 @@
     "com.joycity.im",
     "com.daerigame.girladriftrm",
     "clear.tap.geometrydash.puzzle.away.clash.block.games",
-    "com.disney.emojimatch_goo"
+    "com.disney.emojimatch_goo",
+    "com.balysv.loop"
   ],
   "items": [
     {
@@ -1154,6 +1155,15 @@
       "developer": "Jam City, Inc.",
       "icon": "https://play-lh.googleusercontent.com/ttEp5YKjdiFEEIW1URHbDKps14TwoUgQthysnGxgVA_2c2eJe6UVcmh_uClq5CgkWJbEl9qhbrLT6hbqiymfyQ",
       "url": "https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.balysv.loop",
+      "title": "무한 루프: 진정 및 휴식",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/Zn0e1ULoepwefhCTvz1z3QJMzEBvMxxZuZGALkPnkeNV99NcR62VrvkN3QOZ9XbtfA",
+      "url": "https://play.google.com/store/apps/details?id=com.balysv.loop&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
@@ -4943,15 +4953,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.riotgames.mobile.leagueconnect",
-      "title": "라이엇 모바일",
-      "developer": "Riot Games, Inc",
-      "icon": "https://play-lh.googleusercontent.com/KV6LJhKnHyzT_Zlr76Qac4IG8PRqK9r-2-CCf-4zs1XDLfKSWUmkNbZlnL64IZVMzg",
-      "url": "https://play.google.com/store/apps/details?id=com.riotgames.mobile.leagueconnect&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
