@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T06:26:06.193Z",
+  "updatedAt": "2026-05-05T09:15:53.625Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1067,7 +1067,8 @@
     "com.disney.emojimatch_goo",
     "com.balysv.loop",
     "co.tamatem.fashionqueen",
-    "com.refuelgames.rally"
+    "com.refuelgames.rally",
+    "com.Nobodyshot.kuboom"
   ],
   "items": [
     {
@@ -1085,6 +1086,15 @@
       "developer": "Refuel Games Pty Ltd",
       "icon": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
       "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.Nobodyshot.kuboom",
+      "title": "쿠붐 3D: FPS 슈팅 게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/YtiaoIxd_T6sfqTrFrO4YGhVcBxtotHyw2uasWu5VhTHvHhg3owG6SNdwuiNj7JUCIM",
+      "url": "https://play.google.com/store/apps/details?id=com.Nobodyshot.kuboom&hl=ko&gl=KR",
       "discoveredDate": "2026-05-05",
       "isGame": true
     },
@@ -4973,15 +4983,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.fungames.sniper3d",
-      "title": "스나이퍼 3D：건슈팅 게임",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
-      "url": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
