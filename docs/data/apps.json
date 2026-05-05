@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T22:11:32.858Z",
+  "updatedAt": "2026-05-05T00:03:08.397Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1066,7 +1066,8 @@
     "clear.tap.geometrydash.puzzle.away.clash.block.games",
     "com.disney.emojimatch_goo",
     "com.balysv.loop",
-    "co.tamatem.fashionqueen"
+    "co.tamatem.fashionqueen",
+    "com.refuelgames.rally"
   ],
   "items": [
     {
@@ -1075,6 +1076,15 @@
       "developer": "Tamatem Inc.",
       "icon": "https://play-lh.googleusercontent.com/ppTGVK9wiouzKLnAwoX7GTcufm0PcEfXCpjz7AHFSpG8RH5dgfykK8X-Z0VTds2fNvvd",
       "url": "https://play.google.com/store/apps/details?id=co.tamatem.fashionqueen&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.refuelgames.rally",
+      "title": "Rally Fury - 익스트림 레이싱",
+      "developer": "Refuel Games Pty Ltd",
+      "icon": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=ko&gl=KR",
       "discoveredDate": "2026-05-05",
       "isGame": true
     },
@@ -4963,15 +4973,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.glu.zbs",
-      "title": "레프트 투 서바이브: 모바일 좀비 서바이벌 게임",
-      "developer": "MY.GAMES HOLDINGS LTD",
-      "icon": "https://play-lh.googleusercontent.com/ohQwV8muWm31_uU01QwRt4x4RfKthPIls9S4mCsGkz_OpR-8brO4EFjrIh4WxaWmVVWG",
-      "url": "https://play.google.com/store/apps/details?id=com.glu.zbs&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
