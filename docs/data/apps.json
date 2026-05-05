@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T00:03:08.397Z",
+  "updatedAt": "2026-05-05T03:14:38.224Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1089,6 +1089,15 @@
       "isGame": true
     },
     {
+      "appId": "com.dwjp.gp",
+      "title": "애니멀 가든 - 진짜 꽃다발을 배달돼요!",
+      "developer": "GARDA",
+      "icon": "https://play-lh.googleusercontent.com/9tisP7I7eqm1r486gEOpk3Zy4KGuSqS5I2z9V__eEtdAZwSRv68DyXHrmGIt5EtRcvkIjcKVmqpfnGbk8g6Lqg",
+      "url": "https://play.google.com/store/apps/details?id=com.dwjp.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
       "appId": "com.indusgame.play",
       "title": "Prime Rush",
       "developer": "SuperGaming SG",
@@ -1121,15 +1130,6 @@
       "developer": "RED BRIX COMPUTER SYSTEMS",
       "icon": "https://play-lh.googleusercontent.com/1-7KNfnthSdHwhBVBg2fV0BF0ErlEy7EtizfUSR4_KbIeT6T_ZiD2J0R2WrAkNvRXHU",
       "url": "https://play.google.com/store/apps/details?id=com.integragames.openhouse.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.dwjp.gp",
-      "title": "애니멀 가든 - 진짜 꽃다발을 배달돼요!",
-      "developer": "GARDA",
-      "icon": "https://play-lh.googleusercontent.com/9tisP7I7eqm1r486gEOpk3Zy4KGuSqS5I2z9V__eEtdAZwSRv68DyXHrmGIt5EtRcvkIjcKVmqpfnGbk8g6Lqg",
-      "url": "https://play.google.com/store/apps/details?id=com.dwjp.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
