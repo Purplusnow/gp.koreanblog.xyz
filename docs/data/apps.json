@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T03:14:38.224Z",
+  "updatedAt": "2026-05-05T03:34:02.052Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1098,6 +1098,15 @@
       "isGame": true
     },
     {
+      "appId": "com.DetailGames.HungryAliens",
+      "title": "QWER의 지구정복 : 외계인은 배고파",
+      "developer": "By4m Studio",
+      "icon": "https://play-lh.googleusercontent.com/MX01MfLpfnJ2ksPgARtQQQNv3N0EjGOzNxGWR752IqrqA6reZ3hpFKzVRzUWqIRXGd0qCGOixDic3IU_ZLoq",
+      "url": "https://play.google.com/store/apps/details?id=com.DetailGames.HungryAliens&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-04",
+      "isGame": true
+    },
+    {
       "appId": "com.indusgame.play",
       "title": "Prime Rush",
       "developer": "SuperGaming SG",
@@ -1112,15 +1121,6 @@
       "developer": "Innova Solutions FZ-LLC",
       "icon": "https://play-lh.googleusercontent.com/rrNPqKqRwg7y5v3v2YlL77nRv5pI_Cw2htxsIFVw2DCcubkdzzN7d0iFHGApemrsCkp0",
       "url": "https://play.google.com/store/apps/details?id=com.my.warface.online.fps.pvp.action.shooter&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.DetailGames.HungryAliens",
-      "title": "QWER의 지구정복 : 외계인은 배고파",
-      "developer": "By4m Studio",
-      "icon": "https://play-lh.googleusercontent.com/MX01MfLpfnJ2ksPgARtQQQNv3N0EjGOzNxGWR752IqrqA6reZ3hpFKzVRzUWqIRXGd0qCGOixDic3IU_ZLoq",
-      "url": "https://play.google.com/store/apps/details?id=com.DetailGames.HungryAliens&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
