@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:42:28.787Z",
+  "updatedAt": "2026-05-06T22:05:16.423Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1069,7 +1069,8 @@
     "co.tamatem.fashionqueen",
     "com.refuelgames.rally",
     "com.Nobodyshot.kuboom",
-    "com.whoyaho.pendeco"
+    "com.whoyaho.pendeco",
+    "com.miniclip.minitennis"
   ],
   "items": [
     {
@@ -1078,6 +1079,15 @@
       "developer": "Whoyaho Corp.",
       "icon": "https://play-lh.googleusercontent.com/4VG72Y8jbmaylwbF95A2dgaCU7Pl2wIL8TNq5tiUcoF1prMlzazw7bcZPDG8hjMpohmmYljYcup6SjIQ4urZag",
       "url": "https://play.google.com/store/apps/details?id=com.whoyaho.pendeco&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.minitennis",
+      "title": "Mini Tennis",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/qXWycTStSa4IBiHnEdFKHSQNNUNTxr62PGGpXiELg2H-bL0-uXFOCsANOkGFbpOIyXNQ",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.minitennis&hl=ko&gl=KR",
       "discoveredDate": "2026-05-07",
       "isGame": true
     },
@@ -4993,15 +5003,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.nns.genesis",
-      "title": "창세기전 키우기",
-      "developer": "NEW NORMAL SOFT",
-      "icon": "https://play-lh.googleusercontent.com/4piT6-Ynexl-A6zBFNhaggAtgaXySGDy6s4267zDVqxklJcZtv-WIJ112PuVD85CPQVcg1MSBdZtRZKSZVcdlg",
-      "url": "https://play.google.com/store/apps/details?id=com.nns.genesis&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
