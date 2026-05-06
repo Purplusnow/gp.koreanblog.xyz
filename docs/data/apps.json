@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T14:40:19.558Z",
+  "updatedAt": "2026-05-06T16:50:56.870Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1068,9 +1068,19 @@
     "com.balysv.loop",
     "co.tamatem.fashionqueen",
     "com.refuelgames.rally",
-    "com.Nobodyshot.kuboom"
+    "com.Nobodyshot.kuboom",
+    "com.whoyaho.pendeco"
   ],
   "items": [
+    {
+      "appId": "com.whoyaho.pendeco",
+      "title": "볼꾸의 달인 - 볼펜 꾸미기 ASMR 비즈 만들기",
+      "developer": "Whoyaho Corp.",
+      "icon": "https://play-lh.googleusercontent.com/4VG72Y8jbmaylwbF95A2dgaCU7Pl2wIL8TNq5tiUcoF1prMlzazw7bcZPDG8hjMpohmmYljYcup6SjIQ4urZag",
+      "url": "https://play.google.com/store/apps/details?id=com.whoyaho.pendeco&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-07",
+      "isGame": true
+    },
     {
       "appId": "co.tamatem.fashionqueen",
       "title": "ملكة الموضة | لعبة قصص و تمثيل",
@@ -4983,15 +4993,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.screenshake.dominodreams",
-      "title": "Domino Dreams™",
-      "developer": "SuperPlay.",
-      "icon": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw",
-      "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
