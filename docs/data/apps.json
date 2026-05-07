@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T23:04:28.700Z",
+  "updatedAt": "2026-05-07T00:00:54.467Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1070,7 +1070,8 @@
     "com.refuelgames.rally",
     "com.Nobodyshot.kuboom",
     "com.whoyaho.pendeco",
-    "com.miniclip.minitennis"
+    "com.miniclip.minitennis",
+    "com.outplayentertainment.candywitch"
   ],
   "items": [
     {
@@ -1088,6 +1089,15 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/qXWycTStSa4IBiHnEdFKHSQNNUNTxr62PGGpXiELg2H-bL0-uXFOCsANOkGFbpOIyXNQ",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.minitennis&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.outplayentertainment.candywitch",
+      "title": "Crafty Candy - Match 3 Game",
+      "developer": "Outplay Entertainment Ltd",
+      "icon": "https://play-lh.googleusercontent.com/FFSOpOIPS9kS9zl0LBnQvJPNxERiIBOUO6CEPbspr513ZvGNP-PJsGogV5Jcw3xdbXW-gkDWEXRovM5uR6g1",
+      "url": "https://play.google.com/store/apps/details?id=com.outplayentertainment.candywitch&hl=ko&gl=KR",
       "discoveredDate": "2026-05-07",
       "isGame": true
     },
@@ -5003,15 +5013,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.warrior.officebuilding.gp",
-      "title": "Idle Office Tycoon - Get Rich!",
-      "developer": "Warrior Game",
-      "icon": "https://play-lh.googleusercontent.com/OS42hQppLHCstbSQEf8cSE2ICiGn433M1kLC3do6Ws0EnNFXACHocflBs5GTqQG72ss0",
-      "url": "https://play.google.com/store/apps/details?id=com.warrior.officebuilding.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
