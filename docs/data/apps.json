@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T11:58:48.808Z",
+  "updatedAt": "2026-05-07T14:42:09.273Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1073,7 +1073,8 @@
     "com.miniclip.minitennis",
     "com.outplayentertainment.candywitch",
     "com.storytoys.lego.bluey.googleplay",
-    "com.glu.dashtown"
+    "com.glu.dashtown",
+    "com.pop.bubbleshooter.gem.classic.games"
   ],
   "items": [
     {
@@ -1118,6 +1119,15 @@
       "developer": "Glu",
       "icon": "https://play-lh.googleusercontent.com/0fO7MXkF1_TdcAEKTQBI36i4KIu5ldn53I8B7iPLhp84BHao6ocapXht8fWELfD-oBc",
       "url": "https://play.google.com/store/apps/details?id=com.glu.dashtown&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.pop.bubbleshooter.gem.classic.games",
+      "title": "버블 슈터 보석 퍼즐 팝",
+      "developer": "Lynn Mobile Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/fKjVNP4xL4Wk77hUczfwEtJxWy_pIXzRu6QEJb5N3rj1J_XH21NAkp0cP7oYwFaAr3c",
+      "url": "https://play.google.com/store/apps/details?id=com.pop.bubbleshooter.gem.classic.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-07",
       "isGame": true
     },
@@ -5033,15 +5043,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.epidgames.trickcalrevive",
-      "title": "트릭컬 리바이브 - 2.5주년 600뽑기 증정",
-      "developer": "EPIDGames",
-      "icon": "https://play-lh.googleusercontent.com/8GfqbOi56hkpKWFcjzeTHGygG7HB3q2wgKWfSnU5U9rGte7I8PtzkrQK83K9gaNTmuOblnyAPDnCns1BfDPr",
-      "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
