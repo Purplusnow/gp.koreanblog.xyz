@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T00:00:54.467Z",
+  "updatedAt": "2026-05-07T03:57:56.999Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1071,7 +1071,9 @@
     "com.Nobodyshot.kuboom",
     "com.whoyaho.pendeco",
     "com.miniclip.minitennis",
-    "com.outplayentertainment.candywitch"
+    "com.outplayentertainment.candywitch",
+    "com.storytoys.lego.bluey.googleplay",
+    "com.glu.dashtown"
   ],
   "items": [
     {
@@ -1098,6 +1100,24 @@
       "developer": "Outplay Entertainment Ltd",
       "icon": "https://play-lh.googleusercontent.com/FFSOpOIPS9kS9zl0LBnQvJPNxERiIBOUO6CEPbspr513ZvGNP-PJsGogV5Jcw3xdbXW-gkDWEXRovM5uR6g1",
       "url": "https://play.google.com/store/apps/details?id=com.outplayentertainment.candywitch&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.storytoys.lego.bluey.googleplay",
+      "title": "LEGO® 블루이",
+      "developer": "StoryToys",
+      "icon": "https://play-lh.googleusercontent.com/EnvbSf0eakme3iULCEJNhTZuXh7Uo7YxYPW90PTQ6-3F19BCDOfdH46FmK7inOfFSuBK",
+      "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.bluey.googleplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.glu.dashtown",
+      "title": "Diner DASH Adventures",
+      "developer": "Glu",
+      "icon": "https://play-lh.googleusercontent.com/0fO7MXkF1_TdcAEKTQBI36i4KIu5ldn53I8B7iPLhp84BHao6ocapXht8fWELfD-oBc",
+      "url": "https://play.google.com/store/apps/details?id=com.glu.dashtown&hl=ko&gl=KR",
       "discoveredDate": "2026-05-07",
       "isGame": true
     },
@@ -5013,24 +5033,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.actionfit.catmerge",
-      "title": "머지 냥카페 : 고양이 머지 게임",
-      "developer": "ACTIONFIT",
-      "icon": "https://play-lh.googleusercontent.com/OLuOionkDc_BiJNw3ojfuE-cczW_rIFsm5LLXBlpck3ovOF85wGk02oVcsRLnWZqd2Y",
-      "url": "https://play.google.com/store/apps/details?id=com.actionfit.catmerge&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.easybrain.arrow.puzzle.game",
-      "title": "Arrow Puzzle - 화살퍼즐게임",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ",
-      "url": "https://play.google.com/store/apps/details?id=com.easybrain.arrow.puzzle.game&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
