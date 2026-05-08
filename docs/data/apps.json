@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T08:45:29.084Z",
+  "updatedAt": "2026-05-08T10:45:32.935Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1074,9 +1074,19 @@
     "com.outplayentertainment.candywitch",
     "com.storytoys.lego.bluey.googleplay",
     "com.glu.dashtown",
-    "com.pop.bubbleshooter.gem.classic.games"
+    "com.pop.bubbleshooter.gem.classic.games",
+    "com.arrows.escape"
   ],
   "items": [
+    {
+      "appId": "com.arrows.escape",
+      "title": "화살표 미로 - 퍼즐 탈출",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/34ku9OikKH7qAIKiGp6vwCjmNWrbFhm-omrluJXbDxiMZ0wjMEExIM8cAY23Xu_wUebR6dofEDsA1rX8Xjku",
+      "url": "https://play.google.com/store/apps/details?id=com.arrows.escape&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-08",
+      "isGame": true
+    },
     {
       "appId": "com.whoyaho.pendeco",
       "title": "볼꾸의 달인 - 볼펜 꾸미기 ASMR 비즈 만들기",
@@ -5043,15 +5053,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.traverse.zhfx.en.gp",
-      "title": "악룡은 지킬 수 없다",
-      "developer": "Wonder Game Inc.",
-      "icon": "https://play-lh.googleusercontent.com/c9nUrCN6IaI4ug8ubjneAdgqv8zpFgEp1O7730jFAfJUU-NuORCGD_qz_uHqTSZ4CwqgKUZwaAyb3FWHTMUOqQ",
-      "url": "https://play.google.com/store/apps/details?id=com.traverse.zhfx.en.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
