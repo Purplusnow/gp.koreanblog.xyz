@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T10:45:32.935Z",
+  "updatedAt": "2026-05-08T12:15:55.372Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1075,7 +1075,10 @@
     "com.storytoys.lego.bluey.googleplay",
     "com.glu.dashtown",
     "com.pop.bubbleshooter.gem.classic.games",
-    "com.arrows.escape"
+    "com.arrows.escape",
+    "xyz.lightgame.tuantuan",
+    "com.triple.match.goods.sort.puzzle.game",
+    "com.playwithfurcifer.bpb.android"
   ],
   "items": [
     {
@@ -1084,6 +1087,33 @@
       "developer": "SayGames Ltd",
       "icon": "https://play-lh.googleusercontent.com/34ku9OikKH7qAIKiGp6vwCjmNWrbFhm-omrluJXbDxiMZ0wjMEExIM8cAY23Xu_wUebR6dofEDsA1rX8Xjku",
       "url": "https://play.google.com/store/apps/details?id=com.arrows.escape&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-08",
+      "isGame": true
+    },
+    {
+      "appId": "xyz.lightgame.tuantuan",
+      "title": "픽셀 히어로즈: 방치형 RPG",
+      "developer": "HZ Game",
+      "icon": "https://play-lh.googleusercontent.com/0xSBwSvBzIQ_hvdi4tKCL5a2Qrbja49uu1536RaRX8F-vv2RL-ZrvyeWnFrurvkAMAu_cmDGLrL4CxF0FHff",
+      "url": "https://play.google.com/store/apps/details?id=xyz.lightgame.tuantuan&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.triple.match.goods.sort.puzzle.game",
+      "title": "상품 러시！3D 분류 퍼즐",
+      "developer": "Playdayy",
+      "icon": "https://play-lh.googleusercontent.com/H90MDDlGoJC6Rj4QPMb1HGjzHsWfH9Fv2CL6_BWLjdIVAUvxbNrx50hc3D22pmjetpEGqjljdVCIKPGugetxpQs",
+      "url": "https://play.google.com/store/apps/details?id=com.triple.match.goods.sort.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.playwithfurcifer.bpb.android",
+      "title": "Backpack Battles",
+      "developer": "IndieArk",
+      "icon": "https://play-lh.googleusercontent.com/5MecEgjYvyg72mw7-Rm9ia2oys6i42Tj7E_J-l5-UgJZnK3GWF-NUuGkad0xEqV1uNIwqXVKIkkys8ajqLnz9A",
+      "url": "https://play.google.com/store/apps/details?id=com.playwithfurcifer.bpb.android&hl=ko&gl=KR",
       "discoveredDate": "2026-05-08",
       "isGame": true
     },
@@ -5053,33 +5083,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.mysterytag.paris",
-      "title": "Paris: City Adventure",
-      "developer": "MTAG PUBLISHING LTD",
-      "icon": "https://play-lh.googleusercontent.com/Z6VkKxlqtM5vXhvH7r0NWnOOAtIvYurlOFQCdCMFOsyjuuIqi-ATX2bZPVlQTNn04w",
-      "url": "https://play.google.com/store/apps/details?id=com.mysterytag.paris&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.vizorapps.atlantis",
-      "title": "Atlantis Odyssey: 어드벤처 게임",
-      "developer": "VIZOR APPS LTD.",
-      "icon": "https://play-lh.googleusercontent.com/99a7K7d8UuLvcxaOLZDVOSXRSy-3kvuAcyfYQD77bicbaEzjS8G5keartHe4Iue9ZlY",
-      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.atlantis&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.matchinggo.puzzlegames",
-      "title": "매칭 고 (Matching Go!) - 퍼즐 게임",
-      "developer": "Lynn Mobile Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/pksx7PX9uVtIn7Xgm8IVxhMT_Mpji67pO_Z1npWicpTIHiyi7AGRGIIZpAq9GbkK1F0",
-      "url": "https://play.google.com/store/apps/details?id=com.matchinggo.puzzlegames&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
