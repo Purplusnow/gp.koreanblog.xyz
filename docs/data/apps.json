@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T16:24:14.513Z",
+  "updatedAt": "2026-05-08T18:18:48.082Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1078,9 +1078,19 @@
     "com.arrows.escape",
     "xyz.lightgame.tuantuan",
     "com.triple.match.goods.sort.puzzle.game",
-    "com.playwithfurcifer.bpb.android"
+    "com.playwithfurcifer.bpb.android",
+    "com.wood.bolt.wordle.screw.nuts.puzzle"
   ],
   "items": [
+    {
+      "appId": "com.wood.bolt.wordle.screw.nuts.puzzle",
+      "title": "1 하트 윌 우들 스크류 온",
+      "developer": "LifePulse Puzzle Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/3l5HiW1HL3MT86rgAJrCZ6SpuCOxm9I4gxKS8in8mAsz1RXr2AyRt63QaXQ57Kx6-DutV11MvDsEdX41MnzNb9A",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.bolt.wordle.screw.nuts.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
     {
       "appId": "com.arrows.escape",
       "title": "화살표 미로 - 퍼즐 탈출",
@@ -5083,15 +5093,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.joycastle.mergematch",
-      "title": "Matching Story - Puzzle Games",
-      "developer": "VERTEX GAMES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/KXarpFAjxU-WsYtoa_N1H9gHrZ9-Kg_QVYnzehuykwBbAehrjuHSN-nYuJJVwmDZOpMw",
-      "url": "https://play.google.com/store/apps/details?id=com.joycastle.mergematch&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
