@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T16:04:46.624Z",
+  "updatedAt": "2026-05-09T17:08:44.909Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1090,7 +1090,8 @@
     "com.bytro.supremacy1914",
     "com.sandstormi.bloodhonor",
     "com.QuestLab.DraftWar",
-    "com.tiltingpoint.warhammer"
+    "com.tiltingpoint.warhammer",
+    "com.tactilegames.simonscatmatch"
   ],
   "items": [
     {
@@ -1126,6 +1127,15 @@
       "developer": "Tilting Point",
       "icon": "https://play-lh.googleusercontent.com/n4ka5WUwcRpceOOBpipJv7sM1wrdCyCNXKRto3jaKVicr0KuZXxjC4HI215UO7IFP2Ac",
       "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.warhammer&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.tactilegames.simonscatmatch",
+      "title": "Simon's Cat Match!",
+      "developer": "Tactile Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/Vo5d_895fOQIz5JfZ32fXaIYfnZT85c2um-CHBxu1AHtLMoNZAoWkJEYqcONCCG7UEEkSoqYfE3aOKfSbOPImgk",
+      "url": "https://play.google.com/store/apps/details?id=com.tactilegames.simonscatmatch&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4834,15 +4844,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.pixelfederation.seaport.explore.collect.trade",
-      "title": "Sea Port: 선박왕 전략 게임",
-      "developer": "PIXEL FEDERATION, s.r.o.",
-      "icon": "https://play-lh.googleusercontent.com/RYPmVGVnJ17HbBadlr9sgXKjdq0bC_mVySTug3S7YyXpaj4b4GXw9Oou0uTcuq3a6HYOsgn_coT_hRzHxhKFYuc",
-      "url": "https://play.google.com/store/apps/details?id=air.com.pixelfederation.seaport.explore.collect.trade&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
