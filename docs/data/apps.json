@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T11:06:59.875Z",
+  "updatedAt": "2026-05-09T13:46:11.857Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1084,7 +1084,9 @@
     "com.netease.vikingard",
     "com.rvappstudios.jigsaw.puzzles.kids",
     "com.neptune.anchorpanic",
-    "com.mergeland.alices.wonder.adventure"
+    "com.mergeland.alices.wonder.adventure",
+    "com.linkdesks.iBubble",
+    "com.puzzle1studio.go.bubblepoporiginpuzzlegame"
   ],
   "items": [
     {
@@ -1138,6 +1140,24 @@
       "developer": "Gaming Laboratory",
       "icon": "https://play-lh.googleusercontent.com/Ml2EyvFeklfKjDZAEktteqYDqsuFThU1IVu8GvDXKCJpi6p8SS_CwpqVPq7hfkrgSyFXHLvrBtHnc2_46Dq8IQ",
       "url": "https://play.google.com/store/apps/details?id=com.mergeland.alices.wonder.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.linkdesks.iBubble",
+      "title": "버블 슈터 - 버블 히트",
+      "developer": "Bubble Joy",
+      "icon": "https://play-lh.googleusercontent.com/pqjLxXgTrZFNFuvgD5vCujkHhcVFH3bOPmc5i49htdoAmOsiBegwNmOnRhjUaT5jSw",
+      "url": "https://play.google.com/store/apps/details?id=com.linkdesks.iBubble&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
+      "title": "버블팝 오리진! 퍼즐 게임",
+      "developer": "Puzzle1Studio",
+      "icon": "https://play-lh.googleusercontent.com/0CdMeebHQFS517J0yyU6htiB52-o3HFjkYWu5LiD8tCE8GF4g0Udz5x6nqdd8MdmDg",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=ko&gl=KR",
       "discoveredDate": "2026-05-09",
       "isGame": true
     },
@@ -4774,24 +4794,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.puzzlegame.match3.jewelcraze",
-      "title": "Jewel Craze: Match 3 Puzzle",
-      "developer": "SOFISH GAMES",
-      "icon": "https://play-lh.googleusercontent.com/qTk5VP5lLyrekUw-seDMedjnJ8SqjJFHHV1aqY50uz6NA5p5S_Q66jQH51U6c8GqRfw34xbl3AVn1fgf73hH2Q",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegame.match3.jewelcraze&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.match.busters.free.gp",
-      "title": "Dream Master-Match Buster",
-      "developer": "PuzzleLoft",
-      "icon": "https://play-lh.googleusercontent.com/W9picv8Dljz0FEZ11hSVS99N2HJKOT4J6WR3Uje6RS_fpkGugH45zG6-sWjAGwC5NBU7W6j9SK_UahmBCbUR5w",
-      "url": "https://play.google.com/store/apps/details?id=com.match.busters.free.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
