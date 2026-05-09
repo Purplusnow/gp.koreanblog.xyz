@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T00:05:59.202Z",
+  "updatedAt": "2026-05-09T04:30:37.659Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1080,7 +1080,8 @@
     "com.triple.match.goods.sort.puzzle.game",
     "com.playwithfurcifer.bpb.android",
     "com.wood.bolt.wordle.screw.nuts.puzzle",
-    "com.madovergames.BubbleShooterClassic"
+    "com.madovergames.BubbleShooterClassic",
+    "com.netease.vikingard"
   ],
   "items": [
     {
@@ -1098,6 +1099,15 @@
       "developer": "Bubble Shooter @ MadOverGames",
       "icon": "https://play-lh.googleusercontent.com/pg-ilXN-5stIKn0tyntMAisEIQM_WvY7gnfvfy1ibi6GrYSJhsPx_LILD1tA88fUfF0",
       "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterClassic&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.netease.vikingard",
+      "title": "바이킹가드 Vikingard",
+      "developer": "Orienjoy International Company Limited",
+      "icon": "https://play-lh.googleusercontent.com/5D1wyoBwpl49xUP7YWmzjsuogZoRMCVlvm7jYI95VCKzyrD-5fkBdRAzypvJOcl3TQ",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.vikingard&hl=ko&gl=KR",
       "discoveredDate": "2026-05-09",
       "isGame": true
     },
@@ -5103,15 +5113,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.runawayplay.birdgame",
-      "title": "버드 포레스트",
-      "developer": "Runaway Play",
-      "icon": "https://play-lh.googleusercontent.com/EWpkqSwUpqSp8OE0jzXVhv4Rs0KhisbRlQwzSOX0l3Bp9Gio4TGSfmc8Qye_gPbBlw",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.birdgame&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
