@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T21:56:27.087Z",
+  "updatedAt": "2026-05-09T22:58:32.925Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1095,7 +1095,8 @@
     "com.HolydayStudios.Firestone",
     "com.heavenburnsred",
     "com.special.thewolfgame.asia",
-    "com.avalon.rpg"
+    "com.avalon.rpg",
+    "com.eapublishing.dhsw.free"
   ],
   "items": [
     {
@@ -1176,6 +1177,15 @@
       "developer": "Northern Forge",
       "icon": "https://play-lh.googleusercontent.com/A7JhsA8uqA349N14s24ljzmFc9zV2jz_EwODDzBCvYJHSRNp71w-VcDDJvhmZmaIbtJ_w8_VMyGEOe-vPWnM5Q",
       "url": "https://play.google.com/store/apps/details?id=com.avalon.rpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.eapublishing.dhsw.free",
+      "title": "데몬 헌터: 섀도우 월드",
+      "developer": "EA Publishing",
+      "icon": "https://play-lh.googleusercontent.com/sfC78Sx8irzXox1gd2DIInp14B1vMlOVOCs1EBeNNKPB4LhrnF8wskp-F5tIRfi1SZIb",
+      "url": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.free&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4884,15 +4894,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.trophygames.farmmanager",
-      "title": "Farm Manager - 2026",
-      "developer": "Xombat Development - Airline manager games",
-      "icon": "https://play-lh.googleusercontent.com/KIJU_1EGSxw7kVuAwqj6FkAHaO9q7xrcfPFVT66o87MIYtvQrimA4IiFedAnQoZm4oGw",
-      "url": "https://play.google.com/store/apps/details?id=com.trophygames.farmmanager&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
