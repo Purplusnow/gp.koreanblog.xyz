@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T15:04:05.965Z",
+  "updatedAt": "2026-05-09T16:04:46.624Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1086,9 +1086,49 @@
     "com.neptune.anchorpanic",
     "com.mergeland.alices.wonder.adventure",
     "com.linkdesks.iBubble",
-    "com.puzzle1studio.go.bubblepoporiginpuzzlegame"
+    "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
+    "com.bytro.supremacy1914",
+    "com.sandstormi.bloodhonor",
+    "com.QuestLab.DraftWar",
+    "com.tiltingpoint.warhammer"
   ],
   "items": [
+    {
+      "appId": "com.bytro.supremacy1914",
+      "title": "Supremacy 1914 -실시간 세계대전 전략 게임",
+      "developer": "Stillfront Supremacy GmbH",
+      "icon": "https://play-lh.googleusercontent.com/M9mvxgzO1liEnkJiyELK3dxicNH_i8vpwRPaktpwh0G6YvThMW9hlYWmfuYyQviKCpo",
+      "url": "https://play.google.com/store/apps/details?id=com.bytro.supremacy1914&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.sandstormi.bloodhonor",
+      "title": "전쟁 및 전략 게임 -  Wartime Glory",
+      "developer": "Buldogo Games",
+      "icon": "https://play-lh.googleusercontent.com/41ebp-YSJjlp1qYqg0JmWjARwED6yeoXNQ3BDw43JhBtbltiUnPX0rvEUFMZ4ksobDE",
+      "url": "https://play.google.com/store/apps/details?id=com.sandstormi.bloodhonor&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.QuestLab.DraftWar",
+      "title": "Draft Showdown",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/S7t9MlZ5Hh9WWtnABp7QWKwKPUBXag3GnFT7wNbVLPDT6pFDieC_4NGnmu6u0bnmGEx-bDrByMwNRYx1RlcisB8",
+      "url": "https://play.google.com/store/apps/details?id=com.QuestLab.DraftWar&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.tiltingpoint.warhammer",
+      "title": "Warhammer: 카오스 & 컨퀘스트",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/n4ka5WUwcRpceOOBpipJv7sM1wrdCyCNXKRto3jaKVicr0KuZXxjC4HI215UO7IFP2Ac",
+      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.warhammer&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
     {
       "appId": "com.wood.bolt.wordle.screw.nuts.puzzle",
       "title": "1 하트 윌 우들 스크류 온",
@@ -4794,42 +4834,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.match.homemansion.design.puzzlegame",
-      "title": "Home Mansion",
-      "developer": "Enjoysports",
-      "icon": "https://play-lh.googleusercontent.com/Z1PDMq6l_A2Ni3MEFsRwyNwQxbC9dgvhj2njUDi9II1v54YXGtL6LdEGrzxD-FrM1rw",
-      "url": "https://play.google.com/store/apps/details?id=com.match.homemansion.design.puzzlegame&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.zigzagame.paranoize",
-      "title": "패러노이즈",
-      "developer": "ZigZaGame Inc.",
-      "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-      "url": "https://play.google.com/store/apps/details?id=com.zigzagame.paranoize&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.games.foundation",
-      "title": "파운데이션: 우주 전선",
-      "developer": "FunPlus International AG",
-      "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA",
-      "url": "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.ig.screwdom",
-      "title": "Screwdom 3D",
-      "developer": "iKame Games - Zego Studio",
-      "icon": "https://play-lh.googleusercontent.com/lrGM85RjRRh4pax0P6JbDVzXF7XeJA9PSMTpRujqqDhVgiOSInZ1l3sg0uBURw9INs8",
-      "url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
