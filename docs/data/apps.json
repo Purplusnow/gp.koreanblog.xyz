@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T22:08:11.041Z",
+  "updatedAt": "2026-05-09T00:05:59.202Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1079,7 +1079,8 @@
     "xyz.lightgame.tuantuan",
     "com.triple.match.goods.sort.puzzle.game",
     "com.playwithfurcifer.bpb.android",
-    "com.wood.bolt.wordle.screw.nuts.puzzle"
+    "com.wood.bolt.wordle.screw.nuts.puzzle",
+    "com.madovergames.BubbleShooterClassic"
   ],
   "items": [
     {
@@ -1088,6 +1089,15 @@
       "developer": "LifePulse Puzzle Game Studio",
       "icon": "https://play-lh.googleusercontent.com/3l5HiW1HL3MT86rgAJrCZ6SpuCOxm9I4gxKS8in8mAsz1RXr2AyRt63QaXQ57Kx6-DutV11MvDsEdX41MnzNb9A",
       "url": "https://play.google.com/store/apps/details?id=com.wood.bolt.wordle.screw.nuts.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.madovergames.BubbleShooterClassic",
+      "title": "Bubble Shooter - 버블 슈터",
+      "developer": "Bubble Shooter @ MadOverGames",
+      "icon": "https://play-lh.googleusercontent.com/pg-ilXN-5stIKn0tyntMAisEIQM_WvY7gnfvfy1ibi6GrYSJhsPx_LILD1tA88fUfF0",
+      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterClassic&hl=ko&gl=KR",
       "discoveredDate": "2026-05-09",
       "isGame": true
     },
@@ -5093,15 +5103,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.outloud.petshelter",
-      "title": "Idle Pet Shelter",
-      "developer": "Nova Sphere Limited",
-      "icon": "https://play-lh.googleusercontent.com/cpbx3HPb4_4r5curNtLWWGwC8MCEoFgrYIAKgCKE-BqksbUfetCYRVhlK_NtzT6sxNY",
-      "url": "https://play.google.com/store/apps/details?id=com.outloud.petshelter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
