@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T17:08:44.909Z",
+  "updatedAt": "2026-05-09T19:17:10.435Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1091,7 +1091,9 @@
     "com.sandstormi.bloodhonor",
     "com.QuestLab.DraftWar",
     "com.tiltingpoint.warhammer",
-    "com.tactilegames.simonscatmatch"
+    "com.tactilegames.simonscatmatch",
+    "com.HolydayStudios.Firestone",
+    "com.heavenburnsred"
   ],
   "items": [
     {
@@ -1136,6 +1138,24 @@
       "developer": "Tactile Games Limited",
       "icon": "https://play-lh.googleusercontent.com/Vo5d_895fOQIz5JfZ32fXaIYfnZT85c2um-CHBxu1AHtLMoNZAoWkJEYqcONCCG7UEEkSoqYfE3aOKfSbOPImgk",
       "url": "https://play.google.com/store/apps/details?id=com.tactilegames.simonscatmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.HolydayStudios.Firestone",
+      "title": "화의석 - 방치 클릭커 온라인 RPG",
+      "developer": "Holyday Studios Ltd",
+      "icon": "https://play-lh.googleusercontent.com/991XYN5-W8tOuorLpLkv8-JQ1jm_1vjDQiUGVE4GDeu0quHltI7mahbtdISYqneyaAJzlrbtmZbxLhClU4V86Q",
+      "url": "https://play.google.com/store/apps/details?id=com.HolydayStudios.Firestone&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.heavenburnsred",
+      "title": "헤븐 번즈 레드",
+      "developer": "WFS, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/IzdBGRsLy5Cf9NCTd11VTBAGZX6RaOqUglTAgvl5pRRXTDjDxQc1YlWM4vykHwu2rnpOBTo-Pqh8lON2ko5aLQ",
+      "url": "https://play.google.com/store/apps/details?id=com.heavenburnsred&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4844,24 +4864,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.standegg.mergecatcafe2",
-      "title": "머지머지 고양이 카페: 카페 꾸미기",
-      "developer": "StandEgg Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/PmbHzwNgTCZi_lQSMYakLMWKII1Vw3s8C_JsKDwSs7m8VW1vxCQUDv09Xyy98gxbaSY",
-      "url": "https://play.google.com/store/apps/details?id=com.standegg.mergecatcafe2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.mhclyxpb.gatja",
-      "title": "동방 찻집",
-      "developer": "X.P. Games",
-      "icon": "https://play-lh.googleusercontent.com/2mcqVmxR-2TUf_D_tMHo9wj8Y2Pyva6BgZeJnaL5O4HBFJ8CJhES0SL9cc-6iMCbzThV5TnJbh4do2CNDWJliv8",
-      "url": "https://play.google.com/store/apps/details?id=com.mhclyxpb.gatja&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
