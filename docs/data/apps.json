@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T07:17:53.243Z",
+  "updatedAt": "2026-05-09T09:40:55.912Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1081,7 +1081,8 @@
     "com.playwithfurcifer.bpb.android",
     "com.wood.bolt.wordle.screw.nuts.puzzle",
     "com.madovergames.BubbleShooterClassic",
-    "com.netease.vikingard"
+    "com.netease.vikingard",
+    "com.rvappstudios.jigsaw.puzzles.kids"
   ],
   "items": [
     {
@@ -1108,6 +1109,15 @@
       "developer": "Orienjoy International Company Limited",
       "icon": "https://play-lh.googleusercontent.com/5D1wyoBwpl49xUP7YWmzjsuogZoRMCVlvm7jYI95VCKzyrD-5fkBdRAzypvJOcl3TQ",
       "url": "https://play.google.com/store/apps/details?id=com.netease.vikingard&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.rvappstudios.jigsaw.puzzles.kids",
+      "title": "아이들을 위한 퍼즐 게임: 직소 퍼즐",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/R9iuUKPtxoGBTCE9L6ynvP4myQR02heaMYdO_wvpm3awQjNrpWrR5B4U3FafEQGOzkQHZHQ8HIf9s4fQNF-jvg",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.jigsaw.puzzles.kids&hl=ko&gl=KR",
       "discoveredDate": "2026-05-09",
       "isGame": true
     },
@@ -5113,15 +5123,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.gget_WW",
-      "title": "SD건담 지 제네레이션 이터널",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/R3WK1OduR8UzhjipEkWiVpoNrbgcgQ3JD1IyCyN5Xp1BTjcPGOWNMMU5UGDiJkzoLnZ0VoG2Z0zVhWX-PoBSzYA",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gget_WW&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
