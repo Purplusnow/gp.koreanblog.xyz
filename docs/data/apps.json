@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T09:40:55.912Z",
+  "updatedAt": "2026-05-09T11:06:59.875Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1082,7 +1082,9 @@
     "com.wood.bolt.wordle.screw.nuts.puzzle",
     "com.madovergames.BubbleShooterClassic",
     "com.netease.vikingard",
-    "com.rvappstudios.jigsaw.puzzles.kids"
+    "com.rvappstudios.jigsaw.puzzles.kids",
+    "com.neptune.anchorpanic",
+    "com.mergeland.alices.wonder.adventure"
   ],
   "items": [
     {
@@ -1118,6 +1120,24 @@
       "developer": "RV AppStudios",
       "icon": "https://play-lh.googleusercontent.com/R9iuUKPtxoGBTCE9L6ynvP4myQR02heaMYdO_wvpm3awQjNrpWrR5B4U3FafEQGOzkQHZHQ8HIf9s4fQNF-jvg",
       "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.jigsaw.puzzles.kids&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.neptune.anchorpanic",
+      "title": "앵커패닉 : 1주년 600뽑 대축제",
+      "developer": "Neptune Corp.",
+      "icon": "https://play-lh.googleusercontent.com/R4QmhBqfPmhnNASMg2F93UDjKyibPoGQol4y9K3afzZbc_gYextTP3mPEaxYzAW0Hy6ZarcJiJCIs7wsCyP7",
+      "url": "https://play.google.com/store/apps/details?id=com.neptune.anchorpanic&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.mergeland.alices.wonder.adventure",
+      "title": "Alice's Dream: 합병 익지 게임",
+      "developer": "Gaming Laboratory",
+      "icon": "https://play-lh.googleusercontent.com/Ml2EyvFeklfKjDZAEktteqYDqsuFThU1IVu8GvDXKCJpi6p8SS_CwpqVPq7hfkrgSyFXHLvrBtHnc2_46Dq8IQ",
+      "url": "https://play.google.com/store/apps/details?id=com.mergeland.alices.wonder.adventure&hl=ko&gl=KR",
       "discoveredDate": "2026-05-09",
       "isGame": true
     },
@@ -5123,24 +5143,6 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ksL8K2npW6IAg09tPMRIJ4ldqIPm6LSH2NZ0jZ8Tr_D6bxWUue34aTj1MdvLhgVzvLDnG1wb5i-BicD-thre",
       "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang4&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.rockbite.deeptown",
-      "title": "Deep Town: 마이닝시티 방치형게임",
-      "developer": "Game Veterans",
-      "icon": "https://play-lh.googleusercontent.com/1eZTURYKhwvf3m2BHXvVocOVlK2d34P2Q-YClTyjeKQKlpE5HXXVyvvcO5kOjNiOtqp76A2jjNhED0svNjyQdDc",
-      "url": "https://play.google.com/store/apps/details?id=com.rockbite.deeptown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.HyperBeardGames.MyDearFarm",
-      "title": "사랑스러운 농장",
-      "developer": "HyperBeard",
-      "icon": "https://play-lh.googleusercontent.com/MLEp5f-RKrXeLzpFKgtVFWuQ4NE69ijw5CspsmE5YqpM1lMnx-fGAJ0tmJFnTeidX4M",
-      "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-03",
       "isGame": true
     },
