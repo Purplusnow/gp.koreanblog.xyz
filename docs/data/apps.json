@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T20:57:12.510Z",
+  "updatedAt": "2026-05-09T21:56:27.087Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1094,7 +1094,8 @@
     "com.tactilegames.simonscatmatch",
     "com.HolydayStudios.Firestone",
     "com.heavenburnsred",
-    "com.special.thewolfgame.asia"
+    "com.special.thewolfgame.asia",
+    "com.avalon.rpg"
   ],
   "items": [
     {
@@ -1166,6 +1167,15 @@
       "developer": "SPECIAL (HONG KONG) CO., LIMITED",
       "icon": "https://play-lh.googleusercontent.com/5pVcURsIgar-gAh5OA2PPNqNIms9ncvk4H4pB2Z1QUpTLDB2gTBhX75z_89FbzmNu4w",
       "url": "https://play.google.com/store/apps/details?id=com.special.thewolfgame.asia&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.avalon.rpg",
+      "title": "Hero of Aethric | 클래식 RPG",
+      "developer": "Northern Forge",
+      "icon": "https://play-lh.googleusercontent.com/A7JhsA8uqA349N14s24ljzmFc9zV2jz_EwODDzBCvYJHSRNp71w-VcDDJvhmZmaIbtJ_w8_VMyGEOe-vPWnM5Q",
+      "url": "https://play.google.com/store/apps/details?id=com.avalon.rpg&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4874,15 +4884,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.playstrom.my.sticker.room",
-      "title": "마이 스티커 룸 (My Sticker Room)",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/5G8cI6eET8Qr8SPD4Hqb7JkO8IOkNuQ0iy0SJGu4Z5FiArb_aM53uBN3F3hCLTtxnJpM",
-      "url": "https://play.google.com/store/apps/details?id=com.playstrom.my.sticker.room&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
