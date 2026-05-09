@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T19:17:10.435Z",
+  "updatedAt": "2026-05-09T20:57:12.510Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1093,7 +1093,8 @@
     "com.tiltingpoint.warhammer",
     "com.tactilegames.simonscatmatch",
     "com.HolydayStudios.Firestone",
-    "com.heavenburnsred"
+    "com.heavenburnsred",
+    "com.special.thewolfgame.asia"
   ],
   "items": [
     {
@@ -1156,6 +1157,15 @@
       "developer": "WFS, Inc.",
       "icon": "https://play-lh.googleusercontent.com/IzdBGRsLy5Cf9NCTd11VTBAGZX6RaOqUglTAgvl5pRRXTDjDxQc1YlWM4vykHwu2rnpOBTo-Pqh8lON2ko5aLQ",
       "url": "https://play.google.com/store/apps/details?id=com.heavenburnsred&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.special.thewolfgame.asia",
+      "title": "울프 게임: 더 와일드 킹덤",
+      "developer": "SPECIAL (HONG KONG) CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/5pVcURsIgar-gAh5OA2PPNqNIms9ncvk4H4pB2Z1QUpTLDB2gTBhX75z_89FbzmNu4w",
+      "url": "https://play.google.com/store/apps/details?id=com.special.thewolfgame.asia&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4864,15 +4874,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.potatoplay.mergerestaurant",
-      "title": "Merge Restaurant: 병합하며 레스토랑 운영",
-      "developer": "Potato Play",
-      "icon": "https://play-lh.googleusercontent.com/y2CYh9z3uTGQFoDsGehEplQ8PIgmYQ7C5rjZCsKC4K6td4xamZ-c-93oVSC0IW5UYhRu",
-      "url": "https://play.google.com/store/apps/details?id=com.potatoplay.mergerestaurant&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
