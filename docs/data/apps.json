@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T19:18:37.227Z",
+  "updatedAt": "2026-05-10T20:59:55.304Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1103,7 +1103,9 @@
     "com.haegin.lasthunterk",
     "com.kurechii.postknight2",
     "com.gamevil.gvtwd.android.google.global.normal",
-    "com.wb.goog.dc.dcwc"
+    "com.wb.goog.dc.dcwc",
+    "air.com.smileygamer.christmassweeper3",
+    "com.amanotes.pamadancingroad"
   ],
   "items": [
     {
@@ -1121,6 +1123,24 @@
       "developer": "Warner Bros. International Enterprises",
       "icon": "https://play-lh.googleusercontent.com/i9GnL5pFb47sdgMQqB-FNqB8EEPqiwLmtWDM5SDaynTNjmCYGu6Z8ldZIzKOxRyFPg",
       "url": "https://play.google.com/store/apps/details?id=com.wb.goog.dc.dcwc&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.smileygamer.christmassweeper3",
+      "title": "크리스마스 스위퍼 3 - 크리스마스 매치-3 게임",
+      "developer": "CharStudio - Fun Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/C5EJ9Q0VtgLKkCeHIgjCZ_TBFWsPpUzPJHwx6bo6D9s1tS3Hqxp6dpL_IfSzFVo1dlnLfdf_kFZXLqiJZBJxaQ",
+      "url": "https://play.google.com/store/apps/details?id=air.com.smileygamer.christmassweeper3&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.amanotes.pamadancingroad",
+      "title": "Dancing Road: Color Ball Run!",
+      "developer": "AMANOTES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/XUyRaUhW5nxaP07vkXhEYdUfAblcwqCdOI0bSOBmciyUReQLMF5A1nn0Y4Ac_6f1h6wd",
+      "url": "https://play.google.com/store/apps/details?id=com.amanotes.pamadancingroad&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
       "isGame": true
     },
@@ -4964,24 +4984,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.scopely.startrek",
-      "title": "Star Trek™ 플릿 커맨드",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/VJKnucpvNSmuoh0g-6ZOUIYjU7axhLr1HIALvrjkyxlbaLOrCkDCd5HLbpF7J-J-Ycm1r540uRdqDKykWgAZRQ",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.startrek&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.dentistII",
-      "title": "아기 팬더: 치아 관리",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/OfF1pGgZROFCRQ8-6-5HbTVia3pgkZ6VtNVIBDWv8rA3b_NumSA89CoQrneanCHaVQM",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.dentistII&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
