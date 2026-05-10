@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T17:58:55.705Z",
+  "updatedAt": "2026-05-10T19:18:37.227Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1101,9 +1101,29 @@
     "com.gryphongames.planetminer",
     "com.v2r.tower.google",
     "com.haegin.lasthunterk",
-    "com.kurechii.postknight2"
+    "com.kurechii.postknight2",
+    "com.gamevil.gvtwd.android.google.global.normal",
+    "com.wb.goog.dc.dcwc"
   ],
   "items": [
+    {
+      "appId": "com.gamevil.gvtwd.android.google.global.normal",
+      "title": "워킹데드: 올스타즈 - 수집형 RPG",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/YMGNYSExxfmz3Sw0dM5FoZM56_jXZjbnSJ1X4IZXizEzaCirGYTl49iPYsGVM3uZgvw4M0wYinXS2fR1TkdoDw",
+      "url": "https://play.google.com/store/apps/details?id=com.gamevil.gvtwd.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.wb.goog.dc.dcwc",
+      "title": "DC Worlds Collide Strategy RPG",
+      "developer": "Warner Bros. International Enterprises",
+      "icon": "https://play-lh.googleusercontent.com/i9GnL5pFb47sdgMQqB-FNqB8EEPqiwLmtWDM5SDaynTNjmCYGu6Z8ldZIzKOxRyFPg",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.dc.dcwc&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
     {
       "appId": "com.bytro.supremacy1914",
       "title": "Supremacy 1914 -실시간 세계대전 전략 게임",
@@ -4944,24 +4964,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.linegames.hkfm",
-      "title": "헬로키티 프렌즈 매치",
-      "developer": "LINE Games",
-      "icon": "https://play-lh.googleusercontent.com/TDA5o9z8vWQfDXbliDlEryxaBTQuve5Ru2QW30T2KYiMa4uQi3LK29PfkBTComyBk2NhZLXQy-mzWMSXgrJf5fw",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.hkfm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "cat.mansion.merge.games",
-      "title": "고양이 맨션: 고양이 게임",
-      "developer": "Ladaneta Games",
-      "icon": "https://play-lh.googleusercontent.com/Qs_AsYi9P6CK28F_nFcpPql9_OesreUnZdtuG0d2GiQRzo_CZorjjgfOocSaJfiDEhE",
-      "url": "https://play.google.com/store/apps/details?id=cat.mansion.merge.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
