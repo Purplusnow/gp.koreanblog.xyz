@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T09:45:47.728Z",
+  "updatedAt": "2026-05-10T11:07:48.759Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1098,7 +1098,9 @@
     "com.avalon.rpg",
     "com.eapublishing.dhsw.free",
     "com.arkgame.ft",
-    "com.gryphongames.planetminer"
+    "com.gryphongames.planetminer",
+    "com.v2r.tower.google",
+    "com.haegin.lasthunterk"
   ],
   "items": [
     {
@@ -1206,6 +1208,24 @@
       "developer": "Gryphon Games",
       "icon": "https://play-lh.googleusercontent.com/rM960Q0c6lhX71ZTwzlVJ4yzVKWSRzYvaTzPfZ6Poj9o_Ptbc_WooyZKv8UmbeQ3Pzw",
       "url": "https://play.google.com/store/apps/details?id=com.gryphongames.planetminer&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.v2r.tower.google",
+      "title": "미친 타워가 되었다: 반주년 미친쿠폰 이벤트",
+      "developer": "V2R",
+      "icon": "https://play-lh.googleusercontent.com/IbSCM7XuoCbuz3eMzln_zwqTnkscYsd2xvOb4o5alzMxkdwCrjrr_oymWRgNaCyntnjGIaVZ7pan4UcZTVFN",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.tower.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.haegin.lasthunterk",
+      "title": "라스트 헌터 K: 서울",
+      "developer": "HAEGIN Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/dVfWi62o5tyVEuuAMlABqR2djMlUuAO7JQGwe89mstsLsHgqwJJaiVVwrnLu0Eper_ohdeoYBtsMIqXzM8xP5A",
+      "url": "https://play.google.com/store/apps/details?id=com.haegin.lasthunterk&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4914,24 +4934,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.my.tizi.modern.home.decor.room.design.house",
-      "title": "Tizi 모던 홈 & 룸 디자인",
-      "developer": "Tizi Town Games",
-      "icon": "https://play-lh.googleusercontent.com/Os9u-pouN6nTZV7eK4h7PfblDlxPOKNraqMd0ZmDTI-Y5mHiJbeDtZzngzq9ilHYp6A",
-      "url": "https://play.google.com/store/apps/details?id=com.my.tizi.modern.home.decor.room.design.house&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.supersolid.honestfood",
-      "title": "푸드 스트리트 (Food Street)  레스토랑 게임",
-      "developer": "Supersolid",
-      "icon": "https://play-lh.googleusercontent.com/d6kkfHKX7IhzoX5d9seD1nMe8pAj_4zRAYejh_15Iqu5W_Yvdut9Qo616SEUTTXRSFA",
-      "url": "https://play.google.com/store/apps/details?id=com.supersolid.honestfood&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
