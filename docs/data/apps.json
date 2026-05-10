@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T11:07:48.759Z",
+  "updatedAt": "2026-05-10T13:49:22.976Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1100,7 +1100,8 @@
     "com.arkgame.ft",
     "com.gryphongames.planetminer",
     "com.v2r.tower.google",
-    "com.haegin.lasthunterk"
+    "com.haegin.lasthunterk",
+    "com.kurechii.postknight2"
   ],
   "items": [
     {
@@ -1226,6 +1227,15 @@
       "developer": "HAEGIN Co., Ltd.",
       "icon": "https://play-lh.googleusercontent.com/dVfWi62o5tyVEuuAMlABqR2djMlUuAO7JQGwe89mstsLsHgqwJJaiVVwrnLu0Eper_ohdeoYBtsMIqXzM8xP5A",
       "url": "https://play.google.com/store/apps/details?id=com.haegin.lasthunterk&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.kurechii.postknight2",
+      "title": "Postknight 2",
+      "developer": "Kurechii",
+      "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
+      "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4934,15 +4944,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "br.com.tapps.weareilluminati",
-      "title": "We Are Illuminati: Conspiracy",
-      "developer": "By Aliens L.L.C-F.Z",
-      "icon": "https://play-lh.googleusercontent.com/rK80ILdiYsMiGoGrTMyZAmSu1Y1e3RUPpxFIsy_ELLWoFX48c8J3OnZHv1Lg_htSQYk",
-      "url": "https://play.google.com/store/apps/details?id=br.com.tapps.weareilluminati&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
