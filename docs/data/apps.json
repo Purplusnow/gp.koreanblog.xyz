@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T21:58:16.678Z",
+  "updatedAt": "2026-05-10T23:00:38.447Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1106,7 +1106,10 @@
     "com.wb.goog.dc.dcwc",
     "air.com.smileygamer.christmassweeper3",
     "com.amanotes.pamadancingroad",
-    "com.pikpok.hrc.play"
+    "com.pikpok.hrc.play",
+    "com.bandainamcoent.tensuramrkww",
+    "com.gamesture.team.guild.raids.pvp.multiplayer",
+    "com.autumn.skullgirls"
   ],
   "items": [
     {
@@ -1151,6 +1154,33 @@
       "developer": "PIKPOK",
       "icon": "https://play-lh.googleusercontent.com/M7FuJwbyp1shf_capbkNRW88puml--Ktev-SrtSEETSTfTng6tg8TNW7TKE5H4POnPNF",
       "url": "https://play.google.com/store/apps/details?id=com.pikpok.hrc.play&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.tensuramrkww",
+      "title": "전생슬 - 마왕과 용의 건국담",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/9-Nf-i3DyZU5Ao_xFlsiwReFREu1X0Ly_xCr7ksKHkJOv0dfZIyjmByakDmVprI8BEI7R76LoEVpNFuyLfyiGw",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.tensuramrkww&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamesture.team.guild.raids.pvp.multiplayer",
+      "title": "슬래시 & 롤: 라이브 길드 레이드",
+      "developer": "Gamesture sp. z o.o.",
+      "icon": "https://play-lh.googleusercontent.com/IbGYYdUM8o8ckZ_OL_sZoAzV7VnfIMXJTJLrCmBHxkTF4iHAFq-8l8SwzGp4KTco6Q",
+      "url": "https://play.google.com/store/apps/details?id=com.gamesture.team.guild.raids.pvp.multiplayer&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.autumn.skullgirls",
+      "title": "Skullgirls: 대전 RPG",
+      "developer": "Autumn Games, LLC",
+      "icon": "https://play-lh.googleusercontent.com/dlWJgcz5nlr7gBZ_yw-e0gkS-p4P6xxejfUXyLTbh7i2adMI_66MimsDL-NlD5DuGng",
+      "url": "https://play.google.com/store/apps/details?id=com.autumn.skullgirls&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
       "isGame": true
     },
@@ -4994,33 +5024,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.TironiumTech.IdlePlanetMiner",
-      "title": "Idle Planet Miner",
-      "developer": "Tech Tree Games",
-      "icon": "https://play-lh.googleusercontent.com/q4z9-_f_DXy4N9dfKyU2BRCxG_191iweFqSINx9NiH-ZxS_qisLWotOHdvQPDhC1qg",
-      "url": "https://play.google.com/store/apps/details?id=com.TironiumTech.IdlePlanetMiner&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.PepiPlay.PepiHospital",
-      "title": "Pepi City: Hospital Life",
-      "developer": "Pepi Play",
-      "icon": "https://play-lh.googleusercontent.com/GkJZdYwhS6G5p_3FDv7c4t1-sCZn9tjKy8wokIwPJefu8EVSeFfcGK19yCO4AQdE0a8",
-      "url": "https://play.google.com/store/apps/details?id=com.PepiPlay.PepiHospital&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapps.virtual.pet.hotel.games.world",
-      "title": "Pet Shop Fever: Animal Hotel",
-      "developer": "Tapps Games - PT",
-      "icon": "https://play-lh.googleusercontent.com/4lyTqPou1JiwzH_jwdlff92scR4YEIvWSiTL5WMhYDdxLEIk06SFF9J2Cxz9kAFYIwbd",
-      "url": "https://play.google.com/store/apps/details?id=com.tapps.virtual.pet.hotel.games.world&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
