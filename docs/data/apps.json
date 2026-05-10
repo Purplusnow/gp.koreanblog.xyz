@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T23:58:16.393Z",
+  "updatedAt": "2026-05-10T04:07:19.760Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1096,7 +1096,9 @@
     "com.heavenburnsred",
     "com.special.thewolfgame.asia",
     "com.avalon.rpg",
-    "com.eapublishing.dhsw.free"
+    "com.eapublishing.dhsw.free",
+    "com.arkgame.ft",
+    "com.gryphongames.planetminer"
   ],
   "items": [
     {
@@ -1186,6 +1188,24 @@
       "developer": "EA Publishing",
       "icon": "https://play-lh.googleusercontent.com/sfC78Sx8irzXox1gd2DIInp14B1vMlOVOCs1EBeNNKPB4LhrnF8wskp-F5tIRfi1SZIb",
       "url": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.arkgame.ft",
+      "title": "낚시여행",
+      "developer": "ARK GAME LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/t4Xoas7AH7ombMTINFCuskyACRSc5AjqjSy-uCA_9qMvR8eiWiMS6qebh4VsDztd2g",
+      "url": "https://play.google.com/store/apps/details?id=com.arkgame.ft&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.gryphongames.planetminer",
+      "title": "Planet Miner: Idle Action Game",
+      "developer": "Gryphon Games",
+      "icon": "https://play-lh.googleusercontent.com/rM960Q0c6lhX71ZTwzlVJ4yzVKWSRzYvaTzPfZ6Poj9o_Ptbc_WooyZKv8UmbeQ3Pzw",
+      "url": "https://play.google.com/store/apps/details?id=com.gryphongames.planetminer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
       "isGame": true
     },
@@ -4894,24 +4914,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "jp.pokemon.pokemonquest",
-      "title": "포켓몬 퀘스트",
-      "developer": "The Pokémon Company",
-      "icon": "https://play-lh.googleusercontent.com/EgO34BOGEhnGGd0Yk4HRppcYAF8RNF7-WCe0Y2j6rzvn5CGQlrQj6BxaCRT5h7PdnA",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonquest&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftDMHM",
-      "title": "미니언 러쉬: 러닝 게임",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/M4d-AiMY0-yIM0JMT6uybeC6riVq9NOxYth0T4Zhtb29TMH3jPfKSj_AodgqTlD2-Do",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
