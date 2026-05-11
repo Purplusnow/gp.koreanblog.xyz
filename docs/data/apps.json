@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T04:19:33.380Z",
+  "updatedAt": "2026-05-11T08:31:31.047Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1111,7 +1111,10 @@
     "com.gamesture.team.guild.raids.pvp.multiplayer",
     "com.autumn.skullgirls",
     "com.haiku.adventure.escape.game.mystery.stories",
-    "com.riotgames.legendsofruneterra"
+    "com.riotgames.legendsofruneterra",
+    "com.socialquantum.acityint",
+    "com.gameinsight.airport",
+    "com.ironhidegames.kingdomrush.mp"
   ],
   "items": [
     {
@@ -1201,6 +1204,33 @@
       "developer": "Riot Games, Inc",
       "icon": "https://play-lh.googleusercontent.com/Wl6RZeACttfzYLZDQOL1EayB8ECjP_pLGnaDTbwKR4pBTVi1CtJzeIMdcmkT8TMATKQ",
       "url": "https://play.google.com/store/apps/details?id=com.riotgames.legendsofruneterra&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.socialquantum.acityint",
+      "title": "Megapolis: 집짓기게임",
+      "developer": "Social Quantum Ltd",
+      "icon": "https://play-lh.googleusercontent.com/8qN_EFo4PROdxkS3tT-ZhkwycB_c7Y7i4gvpe9D6HtCGlWR7rdcrlI76IfCFXVJWzOE",
+      "url": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameinsight.airport",
+      "title": "Airport City",
+      "developer": "Game Insight",
+      "icon": "https://play-lh.googleusercontent.com/wQBiqTLhXSeZHN_66XINkWK-awnkl9sk-AdmY0qeYvULVz99yWh6FfO9o12CSrIxKPo",
+      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.airport&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.kingdomrush.mp",
+      "title": "Kingdom Rush Battles: TD 게임",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/CsvCR_COicavGEzjiqhbqinqj60CSfjVqPNhyOJRQBOo9PI13vJTRbL7Nj5BM3vUcw",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.kingdomrush.mp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
       "isGame": true
     },
@@ -4634,15 +4664,6 @@
       "isGame": true
     },
     {
-      "appId": "com.NHNEnt.NDuelgo",
-      "title": "한게임 신맞고 : 대한민국 원조 고스톱",
-      "developer": "NHN Corp.",
-      "icon": "https://play-lh.googleusercontent.com/lifT_-kL3feDD5GmANAV_XJNgtEUbMEJdv1BMph1XzVN7ditOHQ1Ocd6qKUl-pw8V2q2ndH-8n5VS24h3JvK",
-      "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
       "appId": "com.tensquaregames.hunting.clash.wild.hunter.deer",
       "title": "Hunting Clash - 스나이퍼 사냥",
       "developer": "Ten Square Games",
@@ -5044,24 +5065,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.tizi.royal.princess.dollhouse.life.games.home.design.world.my.wonder.town",
-      "title": "Tizi Town - 공주님 집 디자인 게임",
-      "developer": "IDZ Digital Private Limited",
-      "icon": "https://play-lh.googleusercontent.com/a_4JawQ9OkPEON31azeeGBFOuVzT9jsceVxp9Q_TeHsGSaMwg-UpDDuKxrGR7-Cw9A",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.tizi.royal.princess.dollhouse.life.games.home.design.world.my.wonder.town&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.ldw.vf3",
-      "title": "Virtual Families 3",
-      "developer": "Last Day of Work, LLC",
-      "icon": "https://play-lh.googleusercontent.com/NoOmYiaaMN-kQ7Gm6ep5OSNm12T5TxIuujnfPBhOXSx-JKo6xpwicariF9VYyjuTv9o",
-      "url": "https://play.google.com/store/apps/details?id=com.ldw.vf3&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
