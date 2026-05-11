@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T19:05:26.980Z",
+  "updatedAt": "2026-05-11T20:52:36.584Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1117,9 +1117,29 @@
     "com.ironhidegames.kingdomrush.mp",
     "com.ObliqueGames.MagicTowerDefense100",
     "com.hts.ams",
-    "com.my.defense"
+    "com.my.defense",
+    "com.zy.wqmt.global",
+    "com.g5e.thehiddentreasurespg.android"
   ],
   "items": [
+    {
+      "appId": "com.zy.wqmt.global",
+      "title": "무기미도",
+      "developer": "AISNO Games",
+      "icon": "https://play-lh.googleusercontent.com/nqLue2Oepp7rR6Xz2ySQQhOnbXh4EjxFEms7rQkrRlS0xMvFcSojkpSTjCJIHDP7K7L2PqZAvbT4EmpWX_ciTg",
+      "url": "https://play.google.com/store/apps/details?id=com.zy.wqmt.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.thehiddentreasurespg.android",
+      "title": "숨은 보물 - 숨은 그림 찾기 & 매치 게임",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/7eG8wBS7Blrfzx6MlFgD2Y3QUGpEWFZ7k89zHbIwetJoiIWcdtTl5EmL_cBO-Tpxu1I6",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.thehiddentreasurespg.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
     {
       "appId": "com.gamevil.gvtwd.android.google.global.normal",
       "title": "워킹데드: 올스타즈 - 수집형 RPG",
@@ -4690,24 +4710,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.solitaire.patience.klondike.classic.card.games",
-      "title": "솔리테어: 카드 게임",
-      "developer": "Happibits Game",
-      "icon": "https://play-lh.googleusercontent.com/QpFrQDh45onges6PpsdpijrvF1AIq7Qg47PKF6r0kJQ20HydpYo9zjzyqqSbsvezbqE",
-      "url": "https://play.google.com/store/apps/details?id=com.solitaire.patience.klondike.classic.card.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.byaliens.bidwars4",
-      "title": "Bid Wars: Auction Master 3D",
-      "developer": "By Aliens L.L.C-F.Z",
-      "icon": "https://play-lh.googleusercontent.com/sDLcOlxRPmSMTOL8m8lYJhRHouwDfnfROwQzWR8F0rMYSz8oAeEUWyYtCctxP-v0Aw",
-      "url": "https://play.google.com/store/apps/details?id=com.byaliens.bidwars4&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
