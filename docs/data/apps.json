@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T23:00:38.447Z",
+  "updatedAt": "2026-05-11T00:02:14.736Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1109,7 +1109,9 @@
     "com.pikpok.hrc.play",
     "com.bandainamcoent.tensuramrkww",
     "com.gamesture.team.guild.raids.pvp.multiplayer",
-    "com.autumn.skullgirls"
+    "com.autumn.skullgirls",
+    "com.haiku.adventure.escape.game.mystery.stories",
+    "com.riotgames.legendsofruneterra"
   ],
   "items": [
     {
@@ -1181,6 +1183,24 @@
       "developer": "Autumn Games, LLC",
       "icon": "https://play-lh.googleusercontent.com/dlWJgcz5nlr7gBZ_yw-e0gkS-p4P6xxejfUXyLTbh7i2adMI_66MimsDL-NlD5DuGng",
       "url": "https://play.google.com/store/apps/details?id=com.autumn.skullgirls&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.haiku.adventure.escape.game.mystery.stories",
+      "title": "Adventure Escape Mysteries",
+      "developer": "Haiku Games",
+      "icon": "https://play-lh.googleusercontent.com/H-ZRylN8H71iTNmE5TgJwu4UJHlvwDEsW75B4SLSjWc4-VMTXVldhyqtjY2yNyUB27gd1Dw3CMQ5GNMIBmJp0wg",
+      "url": "https://play.google.com/store/apps/details?id=com.haiku.adventure.escape.game.mystery.stories&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.riotgames.legendsofruneterra",
+      "title": "레전드 오브 룬테라",
+      "developer": "Riot Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/Wl6RZeACttfzYLZDQOL1EayB8ECjP_pLGnaDTbwKR4pBTVi1CtJzeIMdcmkT8TMATKQ",
+      "url": "https://play.google.com/store/apps/details?id=com.riotgames.legendsofruneterra&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
       "isGame": true
     },
@@ -5024,24 +5044,6 @@
       "developer": "Joy Nice Games",
       "icon": "https://play-lh.googleusercontent.com/LiyvCntsR8Bq-9PAKWJahDon36AV2ls2omwy7KWX1PWhxGLFutkoqJ1ydyvDutI4Pr28nLMInT-7R3THulLPoJg",
       "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.MadOut.BIG",
-      "title": "MadOut 2: 온라인 게임 RP 자동차 월드",
-      "developer": "MadOut Games LLC FZ",
-      "icon": "https://play-lh.googleusercontent.com/GKto-6a7YRJ9v_ijr21vZQaWbHImoOWBixcxNP_hs25ZTabDzf1apiv5arTK2kScOcBC",
-      "url": "https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-04",
-      "isGame": true
-    },
-    {
-      "appId": "seafood.tycoon.inc.idle.dovi",
-      "title": "Seafood Inc - 해산물, 타이쿤, 아이들",
-      "developer": "Dovi Games",
-      "icon": "https://play-lh.googleusercontent.com/7WwPEkMsM55GCqtCr5dKx5P4v1Xg8V8A27s4rSmkZQzNwDozvDnt8csZ0LZzoM5bxw",
-      "url": "https://play.google.com/store/apps/details?id=seafood.tycoon.inc.idle.dovi&hl=ko&gl=KR",
       "discoveredDate": "2026-04-04",
       "isGame": true
     },
