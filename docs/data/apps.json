@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T00:02:14.736Z",
+  "updatedAt": "2026-05-11T03:23:53.774Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1412,20 +1412,20 @@
       "isGame": true
     },
     {
-      "appId": "com.arrows.escape",
-      "title": "화살표 미로 - 퍼즐 탈출",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/34ku9OikKH7qAIKiGp6vwCjmNWrbFhm-omrluJXbDxiMZ0wjMEExIM8cAY23Xu_wUebR6dofEDsA1rX8Xjku",
-      "url": "https://play.google.com/store/apps/details?id=com.arrows.escape&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-08",
-      "isGame": true
-    },
-    {
       "appId": "xyz.lightgame.tuantuan",
       "title": "픽셀 히어로즈: 방치형 RPG",
       "developer": "HZ Game",
       "icon": "https://play-lh.googleusercontent.com/0xSBwSvBzIQ_hvdi4tKCL5a2Qrbja49uu1536RaRX8F-vv2RL-ZrvyeWnFrurvkAMAu_cmDGLrL4CxF0FHff",
       "url": "https://play.google.com/store/apps/details?id=xyz.lightgame.tuantuan&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.arrows.escape",
+      "title": "화살표 미로 - 퍼즐 탈출",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/34ku9OikKH7qAIKiGp6vwCjmNWrbFhm-omrluJXbDxiMZ0wjMEExIM8cAY23Xu_wUebR6dofEDsA1rX8Xjku",
+      "url": "https://play.google.com/store/apps/details?id=com.arrows.escape&hl=ko&gl=KR",
       "discoveredDate": "2026-05-08",
       "isGame": true
     },
