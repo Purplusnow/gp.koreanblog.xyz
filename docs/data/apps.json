@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T08:31:31.047Z",
+  "updatedAt": "2026-05-11T12:19:58.668Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1114,7 +1114,10 @@
     "com.riotgames.legendsofruneterra",
     "com.socialquantum.acityint",
     "com.gameinsight.airport",
-    "com.ironhidegames.kingdomrush.mp"
+    "com.ironhidegames.kingdomrush.mp",
+    "com.ObliqueGames.MagicTowerDefense100",
+    "com.hts.ams",
+    "com.my.defense"
   ],
   "items": [
     {
@@ -1231,6 +1234,33 @@
       "developer": "Ironhide Games",
       "icon": "https://play-lh.googleusercontent.com/CsvCR_COicavGEzjiqhbqinqj60CSfjVqPNhyOJRQBOo9PI13vJTRbL7Nj5BM3vUcw",
       "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.kingdomrush.mp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.ObliqueGames.MagicTowerDefense100",
+      "title": "매직 디펜스 : 방치 디펜스",
+      "developer": "OBLIQUE GAMES",
+      "icon": "https://play-lh.googleusercontent.com/wqniCCLoQYB5VWw-tm9kcT3iM3fvxzktOAHRYK7JaoRpr7eNRqli8dvFvXezcNRQj8bZZeCfj0JAnr6-REELHA",
+      "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.MagicTowerDefense100&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.hts.ams",
+      "title": "아미 맨 스트라이크 - 전쟁 시뮬레이션 & 군대 모험",
+      "developer": "Volcano Force",
+      "icon": "https://play-lh.googleusercontent.com/yGkCI-1RKvTc_gnHE62mDHIU5StirB7dWXLpVi4fr6PUP7VzglttZyN-uT8UJ-wnGA",
+      "url": "https://play.google.com/store/apps/details?id=com.hts.ams&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.defense",
+      "title": "러쉬 로얄(Rush Royale) - 디펜스게임 PVP",
+      "developer": "MYGAMES MENA FZ LLC",
+      "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
+      "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
       "isGame": true
     },
@@ -4660,33 +4690,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.tensquaregames.hunting.clash.wild.hunter.deer",
-      "title": "Hunting Clash - 스나이퍼 사냥",
-      "developer": "Ten Square Games",
-      "icon": "https://play-lh.googleusercontent.com/tVM9Ot91xYxxp28FrPWYN_rbTheT0CFsUE09z8riGGx4srvUR0eiXCeJTgHiIZYyR6SHp82q2l27XpcVmNojUA",
-      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.hunting.clash.wild.hunter.deer&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.invinciblesstudioltd.soccermanager2025",
-      "title": "Soccer Manager 2026- 축구",
-      "developer": "Invincibles Studio Ltd",
-      "icon": "https://play-lh.googleusercontent.com/KMvVhbG5DQmwjFSqAsiwfOsuLhU7jSSV1wB-FQdsjZz0oh3PjBA-iTLJ_CelShgi99U",
-      "url": "https://play.google.com/store/apps/details?id=com.invinciblesstudioltd.soccermanager2025&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.fruitsies",
-      "title": "Fruitsies - 펫 친구",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/zXnIG_ar-kbo_EtzkqHnx9S2b3ugZsOYiY3dMF0SbX_PqcUy0Fa4Msp7H3FurBXMUNw",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.fruitsies&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
