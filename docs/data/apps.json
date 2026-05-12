@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T04:44:11.966Z",
+  "updatedAt": "2026-05-12T07:51:18.832Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1121,7 +1121,9 @@
     "com.zy.wqmt.global",
     "com.g5e.thehiddentreasurespg.android",
     "com.upjers.newzealandfarmer",
-    "com.pixelpie.bubblemasters"
+    "com.pixelpie.bubblemasters",
+    "com.frojo.moy7",
+    "com.gamehouse.deliciousdinercooking"
   ],
   "items": [
     {
@@ -1157,6 +1159,24 @@
       "developer": "PixelPie Games",
       "icon": "https://play-lh.googleusercontent.com/X0k9C7clOLbPH31ZOTxqN8p1HrMCMw3zs0gLQTNdOyOOD-LEWsvV88038X3y2P6tKz8",
       "url": "https://play.google.com/store/apps/details?id=com.pixelpie.bubblemasters&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.frojo.moy7",
+      "title": "Moy 7 - Virtual Pet Game",
+      "developer": "Frojo Apps",
+      "icon": "https://play-lh.googleusercontent.com/PZyAjd3dKbDeIh6j9PdeOFd6KC5wj4jKwy7qI1RvZ7ursD3fYPc-Kud7XKlHVECErz4",
+      "url": "https://play.google.com/store/apps/details?id=com.frojo.moy7&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamehouse.deliciousdinercooking",
+      "title": "딜리셔스 월드 - 요리 게임",
+      "developer": "GameHouse LLC",
+      "icon": "https://play-lh.googleusercontent.com/aY1GCsV2oTI2RQJaZKuO8U0VO5Y2cxdI4ySOZCX0vzcUogVTDGV5UELGNu4NFLZEwQ",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.deliciousdinercooking&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
       "isGame": true
     },
@@ -4730,24 +4750,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.cocoplay.fashion.style",
-      "title": "슈퍼 스타일리스트 패션 혁신",
-      "developer": "CrazyLabs LTD",
-      "icon": "https://play-lh.googleusercontent.com/VXPXcQfUYiVowOKBY_0_jY4S_E7gyOpeV5yxgYAAxCQgFt94KOFGJpYA4gPGWAJmlf38uC_V-m9gHSaZiCaUoUE",
-      "url": "https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.jewelsofthewildwestmatch3.android",
-      "title": "Jewels of the Wild West: 매치 3",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/ZpkLYF98Opjh7IgVkHf8EUVKLvP3SEVQtJEhtsUEYl0Mpb70RFEuej0Yb83II2807w",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofthewildwestmatch3.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
