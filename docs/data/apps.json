@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T16:28:36.732Z",
+  "updatedAt": "2026-05-12T19:04:11.230Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1127,7 +1127,8 @@
     "com.netmarble.sololv",
     "games.extradimension.cafemerge",
     "com.alexanderwinn.TerraGenesis",
-    "com.akpublish.zombie"
+    "com.akpublish.zombie",
+    "defense.roguelike.cell.shoot.survivor"
   ],
   "items": [
     {
@@ -1154,6 +1155,15 @@
       "developer": "AKPublish pty ltd",
       "icon": "https://play-lh.googleusercontent.com/RL_os67Fecps9mSWUv0_a4iDIvjvk2vWmvBqMsoKYQKCH60_2pqJAc3rwXE8mDohAg",
       "url": "https://play.google.com/store/apps/details?id=com.akpublish.zombie&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "defense.roguelike.cell.shoot.survivor",
+      "title": "세포 특공대",
+      "developer": "Snap Brain Games",
+      "icon": "https://play-lh.googleusercontent.com/HIYto_vFjfydJoCs_xzzRFBbABliylxeFtui_B6lCpW9tuvNqn6WCrLTdzkZGzzad0o",
+      "url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
       "isGame": true
     },
@@ -4790,15 +4800,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameicreate.mycafeshopcookinggame",
-      "title": "마이 카페 샵 : 요리 게임",
-      "developer": "GameiCreate",
-      "icon": "https://play-lh.googleusercontent.com/AP4vGs6KPOx5iKwGDy6Ak7nibMxalIB3ETRI-nnTgbv-tkIIHgXcS-W6zviZfANEBALe",
-      "url": "https://play.google.com/store/apps/details?id=com.gameicreate.mycafeshopcookinggame&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
