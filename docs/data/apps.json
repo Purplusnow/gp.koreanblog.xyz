@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T20:48:23.525Z",
+  "updatedAt": "2026-05-12T22:20:25.897Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1130,7 +1130,9 @@
     "com.akpublish.zombie",
     "defense.roguelike.cell.shoot.survivor",
     "com.g5e.romepg.android",
-    "nature.magic.dash"
+    "nature.magic.dash",
+    "net.gameduo.sg2",
+    "com.GnarlyGameStudio.FrontlineHeroes"
   ],
   "items": [
     {
@@ -1184,6 +1186,24 @@
       "developer": "Branching Factor",
       "icon": "https://play-lh.googleusercontent.com/43KVp5xfqfM8gWL6tQEqGnl7z7vtdxgdaC7WMqwBn_poX9b3-5wpyfz1i49nRlmEBw",
       "url": "https://play.google.com/store/apps/details?id=nature.magic.dash&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "net.gameduo.sg2",
+      "title": "삼국이분다2",
+      "developer": "kikike corp.",
+      "icon": "https://play-lh.googleusercontent.com/zkY8pPJH7ihgNfwQbuaQhMMX0q3Jzea2Tz3cGeb18TCNWE1C3E80jRBow5cWXXHzkA",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.sg2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.GnarlyGameStudio.FrontlineHeroes",
+      "title": "Frontline Heroes: 제2차 세계대전 전투",
+      "developer": "Homa",
+      "icon": "https://play-lh.googleusercontent.com/buwm23drLw1gh4vmJgNy57NJ7QMlQAYxQu8RXPOhfGrRxQKVO3PtXMuHIR-mEuqWn_4",
+      "url": "https://play.google.com/store/apps/details?id=com.GnarlyGameStudio.FrontlineHeroes&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
       "isGame": true
     },
@@ -4820,24 +4840,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamegos.mobile.manorcafe",
-      "title": "Manor Cafe - 매치 3 게임",
-      "developer": "GAMEGOS",
-      "icon": "https://play-lh.googleusercontent.com/y6KGlI4suAxJwzujqZuSc5pjl00cUOkim2HqIZmUKi5hiPk0ykT8VkU8fC_pX3ItM0o",
-      "url": "https://play.google.com/store/apps/details?id=com.gamegos.mobile.manorcafe&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.games.fairyadventure",
-      "title": "Fairyscapes Adventure",
-      "developer": "FUNJOY",
-      "icon": "https://play-lh.googleusercontent.com/7ej_D0GC3gXCMjGmg6Vp2jb-sGa-6XowhJPpBsVEUS-_lYqgWyH1FieFTgkuWlv-BNQY",
-      "url": "https://play.google.com/store/apps/details?id=com.games.fairyadventure&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
