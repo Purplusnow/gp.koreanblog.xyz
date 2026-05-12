@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T22:16:07.929Z",
+  "updatedAt": "2026-05-12T00:06:36.115Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1119,7 +1119,8 @@
     "com.hts.ams",
     "com.my.defense",
     "com.zy.wqmt.global",
-    "com.g5e.thehiddentreasurespg.android"
+    "com.g5e.thehiddentreasurespg.android",
+    "com.upjers.newzealandfarmer"
   ],
   "items": [
     {
@@ -1137,6 +1138,15 @@
       "developer": "G5 Entertainment",
       "icon": "https://play-lh.googleusercontent.com/7eG8wBS7Blrfzx6MlFgD2Y3QUGpEWFZ7k89zHbIwetJoiIWcdtTl5EmL_cBO-Tpxu1I6",
       "url": "https://play.google.com/store/apps/details?id=com.g5e.thehiddentreasurespg.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.upjers.newzealandfarmer",
+      "title": "My Free Farm 2",
+      "developer": "upjers GmbH",
+      "icon": "https://play-lh.googleusercontent.com/IVKQZgpQquVo4hsYdrqN6bc59VTbhwrCzvHCoFdJhxSi6mPHCB90RXqnttw2llI9WQ",
+      "url": "https://play.google.com/store/apps/details?id=com.upjers.newzealandfarmer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
       "isGame": true
     },
@@ -4710,15 +4720,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "org.nanobit.hollywood",
-      "title": "할리우드 스토리®: 패션 스타",
-      "developer": "Supercharge Mobile",
-      "icon": "https://play-lh.googleusercontent.com/0BjIgM9QPDXURrt5n5BXDSbzQfWjzNVi7w4OlTDoe_hQ-0XwuYx_d5K4ymYVeihRg-c",
-      "url": "https://play.google.com/store/apps/details?id=org.nanobit.hollywood&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
