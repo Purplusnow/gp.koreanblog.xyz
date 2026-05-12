@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T00:06:36.115Z",
+  "updatedAt": "2026-05-12T04:44:11.966Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1120,7 +1120,8 @@
     "com.my.defense",
     "com.zy.wqmt.global",
     "com.g5e.thehiddentreasurespg.android",
-    "com.upjers.newzealandfarmer"
+    "com.upjers.newzealandfarmer",
+    "com.pixelpie.bubblemasters"
   ],
   "items": [
     {
@@ -1147,6 +1148,15 @@
       "developer": "upjers GmbH",
       "icon": "https://play-lh.googleusercontent.com/IVKQZgpQquVo4hsYdrqN6bc59VTbhwrCzvHCoFdJhxSi6mPHCB90RXqnttw2llI9WQ",
       "url": "https://play.google.com/store/apps/details?id=com.upjers.newzealandfarmer&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixelpie.bubblemasters",
+      "title": "Bubble Busters: Bubble Shooter",
+      "developer": "PixelPie Games",
+      "icon": "https://play-lh.googleusercontent.com/X0k9C7clOLbPH31ZOTxqN8p1HrMCMw3zs0gLQTNdOyOOD-LEWsvV88038X3y2P6tKz8",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelpie.bubblemasters&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
       "isGame": true
     },
@@ -4720,15 +4730,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.matryoshka.cityrescueteam",
-      "title": "레스큐 팀 - 병원 게임",
-      "developer": "Matryoshka",
-      "icon": "https://play-lh.googleusercontent.com/qA-67wVep7XNYbeyY8BKlvRiiHLKbHOLpzisLturLq2AlNg-LULC68JutNS-bsAO8Uo",
-      "url": "https://play.google.com/store/apps/details?id=com.matryoshka.cityrescueteam&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
