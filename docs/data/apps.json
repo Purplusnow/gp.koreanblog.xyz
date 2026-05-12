@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T13:10:03.641Z",
+  "updatedAt": "2026-05-12T16:28:36.732Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1124,9 +1124,39 @@
     "com.pixelpie.bubblemasters",
     "com.frojo.moy7",
     "com.gamehouse.deliciousdinercooking",
-    "com.netmarble.sololv"
+    "com.netmarble.sololv",
+    "games.extradimension.cafemerge",
+    "com.alexanderwinn.TerraGenesis",
+    "com.akpublish.zombie"
   ],
   "items": [
+    {
+      "appId": "games.extradimension.cafemerge",
+      "title": "Starbrew Cafe: Mystical Merge",
+      "developer": "Extra Dimension Games Inc.",
+      "icon": "https://play-lh.googleusercontent.com/6OAWteVRGj-hmuKyC28Oyv7X4A1YMhPelJ8Inc9lZPFkRDLEcYNtvExaBwqFif69MJQ",
+      "url": "https://play.google.com/store/apps/details?id=games.extradimension.cafemerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.alexanderwinn.TerraGenesis",
+      "title": "TerraGenesis - 우주 정착자",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/7UacdSjhh-poOl876WIiI0KOHAiWgBNwCGmqgZ-BWPXLAm9Z3YKNNpJVnDS-LLiKg4c",
+      "url": "https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.akpublish.zombie",
+      "title": "Zombeast: Zombie  좀비 슈팅 게임",
+      "developer": "AKPublish pty ltd",
+      "icon": "https://play-lh.googleusercontent.com/RL_os67Fecps9mSWUv0_a4iDIvjvk2vWmvBqMsoKYQKCH60_2pqJAc3rwXE8mDohAg",
+      "url": "https://play.google.com/store/apps/details?id=com.akpublish.zombie&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
     {
       "appId": "com.zy.wqmt.global",
       "title": "무기미도",
@@ -4760,33 +4790,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameberry.sorry.card.board.game",
-      "title": "Sorry! World - Board game",
-      "developer": "Gameberry Labs",
-      "icon": "https://play-lh.googleusercontent.com/sMqw_ga_zlEKyzSFkNlB1iqzcgRQUtjSyNkC4W03YSymGR5QnsEkJwKOrZ9t4r2ukH05",
-      "url": "https://play.google.com/store/apps/details?id=com.gameberry.sorry.card.board.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.dance",
-      "title": "아기 팬더: 공주 파티",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/7uWUzcn7vFuQ2edJzhn1sCCnMKA9iNU8mO5YYBYPd75CiRx5Qg21ZyoCJSILBloxWA",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.dance&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.play.merge.restyle",
-      "title": "Merge Restyle",
-      "developer": "Higgs Gaming",
-      "icon": "https://play-lh.googleusercontent.com/sr8i8ugqIKlRlr2ajK4p6ipUgc0BvWoixVx786YTQ-Bb2GFN1mXttP-XfkmYLXXwQuEljU3bYLW3z7_17cd7hA",
-      "url": "https://play.google.com/store/apps/details?id=com.play.merge.restyle&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
