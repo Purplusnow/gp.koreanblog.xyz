@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T19:04:11.230Z",
+  "updatedAt": "2026-05-12T20:48:23.525Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1128,7 +1128,9 @@
     "games.extradimension.cafemerge",
     "com.alexanderwinn.TerraGenesis",
     "com.akpublish.zombie",
-    "defense.roguelike.cell.shoot.survivor"
+    "defense.roguelike.cell.shoot.survivor",
+    "com.g5e.romepg.android",
+    "nature.magic.dash"
   ],
   "items": [
     {
@@ -1164,6 +1166,24 @@
       "developer": "Snap Brain Games",
       "icon": "https://play-lh.googleusercontent.com/HIYto_vFjfydJoCs_xzzRFBbABliylxeFtui_B6lCpW9tuvNqn6WCrLTdzkZGzzad0o",
       "url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.g5e.romepg.android",
+      "title": "Jewels of Rome 보석 짝을 맞추어 도시 재건",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/XHJbS2uEJTxLuCbTrdD_gFWAH7sS5GN6uoHJ3gsZ16kvRnsUhz3SGmmauMH3lQyNykN95DKu8PFlWPAUFMGJow",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.romepg.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "nature.magic.dash",
+      "title": "Sugar Rush - A Quick Adventure",
+      "developer": "Branching Factor",
+      "icon": "https://play-lh.googleusercontent.com/43KVp5xfqfM8gWL6tQEqGnl7z7vtdxgdaC7WMqwBn_poX9b3-5wpyfz1i49nRlmEBw",
+      "url": "https://play.google.com/store/apps/details?id=nature.magic.dash&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
       "isGame": true
     },
@@ -4800,24 +4820,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubadu.bubbuschool",
-      "title": "Bubbu School - 내 귀여운 동물",
-      "developer": "Bubadu",
-      "icon": "https://play-lh.googleusercontent.com/WMtprh6jgr4cxNxsYg2jdasU6EKvkue-p3QL2z1hTcNevszcfC_mILZwX1N22xa-l_w",
-      "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbuschool&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "puzzlegame.buildfun.jewelmatch",
-      "title": "Jewel Blast Time - Match 3",
-      "developer": "BuildFun - Jewel Games Star",
-      "icon": "https://play-lh.googleusercontent.com/QRY2Tm8OaHmRSD73NR6g9-GSK29ha-B17nrfKyorRJza7QkNZPh1ot5Ra9E9YPxBxb8xwkV6bomY2JjEWGxzSxA",
-      "url": "https://play.google.com/store/apps/details?id=puzzlegame.buildfun.jewelmatch&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
