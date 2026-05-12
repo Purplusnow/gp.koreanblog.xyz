@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T10:39:54.453Z",
+  "updatedAt": "2026-05-12T13:10:03.641Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1123,7 +1123,8 @@
     "com.upjers.newzealandfarmer",
     "com.pixelpie.bubblemasters",
     "com.frojo.moy7",
-    "com.gamehouse.deliciousdinercooking"
+    "com.gamehouse.deliciousdinercooking",
+    "com.netmarble.sololv"
   ],
   "items": [
     {
@@ -1177,6 +1178,15 @@
       "developer": "GameHouse LLC",
       "icon": "https://play-lh.googleusercontent.com/aY1GCsV2oTI2RQJaZKuO8U0VO5Y2cxdI4ySOZCX0vzcUogVTDGV5UELGNu4NFLZEwQ",
       "url": "https://play.google.com/store/apps/details?id=com.gamehouse.deliciousdinercooking&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.sololv",
+      "title": "나 혼자만 레벨업:어라이즈 - 2주년 500뽑기 증정",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
       "isGame": true
     },
@@ -4750,15 +4760,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "funvent.tilepark",
-      "title": "Tile Park",
-      "developer": "Funvent Studios DMCC",
-      "icon": "https://play-lh.googleusercontent.com/xIcIeb1IJWDSJbAzuE6O9n1-g6U-lxkTKCHUijzZpCgv6wX8qPz82OIW7MZSyVnSFQ",
-      "url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
