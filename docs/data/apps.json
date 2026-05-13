@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T04:55:44.815Z",
+  "updatedAt": "2026-05-13T08:06:59.857Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1132,7 +1132,8 @@
     "com.g5e.romepg.android",
     "nature.magic.dash",
     "net.gameduo.sg2",
-    "com.GnarlyGameStudio.FrontlineHeroes"
+    "com.GnarlyGameStudio.FrontlineHeroes",
+    "com.ea.gp.bejeweledskies"
   ],
   "items": [
     {
@@ -1204,6 +1205,15 @@
       "developer": "Homa",
       "icon": "https://play-lh.googleusercontent.com/buwm23drLw1gh4vmJgNy57NJ7QMlQAYxQu8RXPOhfGrRxQKVO3PtXMuHIR-mEuqWn_4",
       "url": "https://play.google.com/store/apps/details?id=com.GnarlyGameStudio.FrontlineHeroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.ea.gp.bejeweledskies",
+      "title": "Bejeweled Stars",
+      "developer": "ELECTRONIC ARTS",
+      "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
       "isGame": true
     },
@@ -4840,15 +4850,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.uken.solitaire.story",
-      "title": "솔리테어 스토리 - Ava's Manor",
-      "developer": "Uken Games",
-      "icon": "https://play-lh.googleusercontent.com/2m57RMnHkgOnj8rAZdUD7W97Eq5jv7w_n9zGg979iFBsou_OU89rCXPK8ucNQPqA6A",
-      "url": "https://play.google.com/store/apps/details?id=com.uken.solitaire.story&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
