@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T20:06:43.199Z",
+  "updatedAt": "2026-05-13T22:21:08.548Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1133,9 +1133,29 @@
     "nature.magic.dash",
     "net.gameduo.sg2",
     "com.GnarlyGameStudio.FrontlineHeroes",
-    "com.ea.gp.bejeweledskies"
+    "com.ea.gp.bejeweledskies",
+    "com.magnificgames.waralliance",
+    "com.my.ffs.simulator.americandad"
   ],
   "items": [
+    {
+      "appId": "com.magnificgames.waralliance",
+      "title": "War Alliance - PvP Royale",
+      "developer": "MG Magnific Games GmbH",
+      "icon": "https://play-lh.googleusercontent.com/NfxMcAhlRqrWl5YseRtr95UhQWEdOLvNMclHLtE35RFt9livjykngunI5K72279uug",
+      "url": "https://play.google.com/store/apps/details?id=com.magnificgames.waralliance&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.ffs.simulator.americandad",
+      "title": "American Dad! Apocalypse Soon",
+      "developer": "Reliance Games",
+      "icon": "https://play-lh.googleusercontent.com/D444E_g4JX5ffbYvMO-AGbzdJYmtthCbCyLCFEtadZoT2rTd8WuWyBbRIqrYEOmW-bBfDbdc2HaLVvDSBjXSWA",
+      "url": "https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-14",
+      "isGame": true
+    },
     {
       "appId": "games.extradimension.cafemerge",
       "title": "Starbrew Cafe: Mystical Merge",
@@ -4850,24 +4870,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.spcomes.mergepeko",
-      "title": "머지 페코 : 페코짱 카와이~!",
-      "developer": "Springcomes",
-      "icon": "https://play-lh.googleusercontent.com/CR7KxRX5VmWThfZ9-t5RRrQRivc1QMJvN-WJX_Cx8yE4sWiIb87uRkKbRsoTxvKBa-0N",
-      "url": "https://play.google.com/store/apps/details?id=com.spcomes.mergepeko&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.spcomes.emerge",
-      "title": "머지 스위츠 : 고양이 카페 스토리",
-      "developer": "Springcomes",
-      "icon": "https://play-lh.googleusercontent.com/2j76oUIyaE6yJy0MuUeuh_aCzLpIjP3eLHTe6V3lXhMhN64mGWhgJOVV-bAcft4mcFLk",
-      "url": "https://play.google.com/store/apps/details?id=com.spcomes.emerge&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
