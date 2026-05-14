@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T00:11:46.843Z",
+  "updatedAt": "2026-05-14T04:54:39.017Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1135,7 +1135,8 @@
     "com.GnarlyGameStudio.FrontlineHeroes",
     "com.ea.gp.bejeweledskies",
     "com.magnificgames.waralliance",
-    "com.my.ffs.simulator.americandad"
+    "com.my.ffs.simulator.americandad",
+    "com.vivastudios.tower.battle"
   ],
   "items": [
     {
@@ -1153,6 +1154,15 @@
       "developer": "Reliance Games",
       "icon": "https://play-lh.googleusercontent.com/D444E_g4JX5ffbYvMO-AGbzdJYmtthCbCyLCFEtadZoT2rTd8WuWyBbRIqrYEOmW-bBfDbdc2HaLVvDSBjXSWA",
       "url": "https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.vivastudios.tower.battle",
+      "title": "Tower Battle: 타워 연결하기",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/8FcwMtlOhvdnKjuP8NegHyXTimD7x4SdBNIGqW_7VJ6cxdN1ueqfHL8lEVEEQN64yDOwyBoK5FYf0ZtGjXHR",
+      "url": "https://play.google.com/store/apps/details?id=com.vivastudios.tower.battle&hl=ko&gl=KR",
       "discoveredDate": "2026-05-14",
       "isGame": true
     },
@@ -4870,15 +4880,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.devgame.masha.and.bear.my.friends",
-      "title": "Masha and the Bear: My Friends",
-      "developer": "DEVGAME KIDS games",
-      "icon": "https://play-lh.googleusercontent.com/WhqQQ73pQ0a8Zisy2e34ur2aArCcVwTl1jCTb_ponSIIZ9Dpy5q4sahOK-Qh0zHSswo",
-      "url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
