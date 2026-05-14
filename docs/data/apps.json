@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T21:19:04.932Z",
+  "updatedAt": "2026-05-14T23:06:50.931Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1139,7 +1139,8 @@
     "com.vivastudios.tower.battle",
     "air.net.ideasam.games.cat",
     "com.mysterytag.cityrestart",
-    "com.funovus.wildcastle2"
+    "com.funovus.wildcastle2",
+    "com.superbox.aos.catkitchen"
   ],
   "items": [
     {
@@ -1157,6 +1158,15 @@
       "developer": "Funovus",
       "icon": "https://play-lh.googleusercontent.com/HWfy_2pDUYBldXkAQEPHK6GHlscggYcI46rNDMtBOKT-lxAvy2mqm0D1Q-qrqmZ2Qd46",
       "url": "https://play.google.com/store/apps/details?id=com.funovus.wildcastle2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.superbox.aos.catkitchen",
+      "title": "캣스토랑 : 고양이 셰프",
+      "developer": "SUPERBOX Inc",
+      "icon": "https://play-lh.googleusercontent.com/U13NvIWoTc1rS2-67blbtut0-sooRq3E08N5D_j1yU_5Z-Gx91vb-eyxy5uyMsFn_JuT",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.catkitchen&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
       "isGame": true
     },
@@ -4910,15 +4920,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.supersolid.spark",
-      "title": "홈 스트리트 (Home Street)",
-      "developer": "Supersolid",
-      "icon": "https://play-lh.googleusercontent.com/yyMtgYiHqFTs4fjszSOzYqtaJ9diRTsGcRUkTycx01SXpUVN7GlDNcML14Lu88BWUR0",
-      "url": "https://play.google.com/store/apps/details?id=com.supersolid.spark&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
