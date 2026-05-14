@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T19:59:54.299Z",
+  "updatedAt": "2026-05-14T21:19:04.932Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1138,7 +1138,8 @@
     "com.my.ffs.simulator.americandad",
     "com.vivastudios.tower.battle",
     "air.net.ideasam.games.cat",
-    "com.mysterytag.cityrestart"
+    "com.mysterytag.cityrestart",
+    "com.funovus.wildcastle2"
   ],
   "items": [
     {
@@ -1147,6 +1148,15 @@
       "developer": "MTAG PUBLISHING LTD",
       "icon": "https://play-lh.googleusercontent.com/ua772Eqq9unIqoZ_RISA7jA53a5n8US1bGV_K2o7xdFGgw2ytPqADcA4hVlZ-vzriLc",
       "url": "https://play.google.com/store/apps/details?id=com.mysterytag.cityrestart&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.funovus.wildcastle2",
+      "title": "키티 캐슬: 타워 디펜스",
+      "developer": "Funovus",
+      "icon": "https://play-lh.googleusercontent.com/HWfy_2pDUYBldXkAQEPHK6GHlscggYcI46rNDMtBOKT-lxAvy2mqm0D1Q-qrqmZ2Qd46",
+      "url": "https://play.google.com/store/apps/details?id=com.funovus.wildcastle2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
       "isGame": true
     },
@@ -4900,15 +4910,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.nukeboxstudios.foodtruckchef",
-      "title": "푸트 트럭 셰프  요리 게임",
-      "developer": "Nukebox Studios",
-      "icon": "https://play-lh.googleusercontent.com/8J4G3dqmId_WEek3GyAQKu0baOSPpmjN8KPU5liON2tNR1pORFJXqXqNL3sU4DW2zUo",
-      "url": "https://play.google.com/store/apps/details?id=com.nukeboxstudios.foodtruckchef&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
