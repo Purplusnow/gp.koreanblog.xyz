@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T07:51:06.453Z",
+  "updatedAt": "2026-05-14T10:29:13.968Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1136,7 +1136,8 @@
     "com.ea.gp.bejeweledskies",
     "com.magnificgames.waralliance",
     "com.my.ffs.simulator.americandad",
-    "com.vivastudios.tower.battle"
+    "com.vivastudios.tower.battle",
+    "air.net.ideasam.games.cat"
   ],
   "items": [
     {
@@ -1163,6 +1164,15 @@
       "developer": "Viva Games Studios",
       "icon": "https://play-lh.googleusercontent.com/8FcwMtlOhvdnKjuP8NegHyXTimD7x4SdBNIGqW_7VJ6cxdN1ueqfHL8lEVEEQN64yDOwyBoK5FYf0ZtGjXHR",
       "url": "https://play.google.com/store/apps/details?id=com.vivastudios.tower.battle&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-14",
+      "isGame": true
+    },
+    {
+      "appId": "air.net.ideasam.games.cat",
+      "title": "고양이와 비밀의 숲",
+      "developer": "IDEASAM",
+      "icon": "https://play-lh.googleusercontent.com/sDRYkGg2SMMdCraedkAyaTStwvUDCEhspTi9ZGpoOrpNLEV9Bt-LBO9nwCeNW_jR",
+      "url": "https://play.google.com/store/apps/details?id=air.net.ideasam.games.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-14",
       "isGame": true
     },
@@ -4880,15 +4890,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.yoyo.doll.decor.life.home.design.love.match.makeover.games",
-      "title": "YOYO 가정장식생활: Makeover, Unpack",
-      "developer": "YoYo Dress Up Games",
-      "icon": "https://play-lh.googleusercontent.com/fKeXCDS2jEeultXkmhNyo-NQknhzDPWbOCOZ7fuLtweW8b4uKJz9v35Y8fKbCHIBh0E",
-      "url": "https://play.google.com/store/apps/details?id=com.yoyo.doll.decor.life.home.design.love.match.makeover.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
