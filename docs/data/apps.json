@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T13:00:39.645Z",
+  "updatedAt": "2026-05-14T15:27:40.454Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1137,9 +1137,19 @@
     "com.magnificgames.waralliance",
     "com.my.ffs.simulator.americandad",
     "com.vivastudios.tower.battle",
-    "air.net.ideasam.games.cat"
+    "air.net.ideasam.games.cat",
+    "com.mysterytag.cityrestart"
   ],
   "items": [
+    {
+      "appId": "com.mysterytag.cityrestart",
+      "title": "Diamond City: Idle Tycoon",
+      "developer": "MTAG PUBLISHING LTD",
+      "icon": "https://play-lh.googleusercontent.com/ua772Eqq9unIqoZ_RISA7jA53a5n8US1bGV_K2o7xdFGgw2ytPqADcA4hVlZ-vzriLc",
+      "url": "https://play.google.com/store/apps/details?id=com.mysterytag.cityrestart&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-15",
+      "isGame": true
+    },
     {
       "appId": "com.magnificgames.waralliance",
       "title": "War Alliance - PvP Royale",
@@ -4890,15 +4900,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamehouse.hm4gp",
-      "title": "하트의 묘약 - 의사의 선서",
-      "developer": "GameHouse LLC",
-      "icon": "https://play-lh.googleusercontent.com/M1mPDcyb4HNOSOyswWAuv7voxebRtAcF3B7T5quYFTtGwxHgIEFrQK7BRA0DbtVXkJ8I6P4aOzZn_RC_maAFXA",
-      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.hm4gp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
