@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T14:29:26.693Z",
+  "updatedAt": "2026-05-15T16:58:20.316Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1142,9 +1142,19 @@
     "com.funovus.wildcastle2",
     "com.superbox.aos.catkitchen",
     "com.sinyee.babybus.adventure",
-    "farm.parking.game"
+    "farm.parking.game",
+    "com.sinyee.babybus.ambulance"
   ],
   "items": [
+    {
+      "appId": "com.sinyee.babybus.ambulance",
+      "title": "아기 판다의 응급 처치 요령",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/W2FocgfAD9pvaptjrW9UtvX-AZXMAADkaSi0a9bpb7nrS8ydJtFWi2Ek3y33MxTM9bCi",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.ambulance&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
     {
       "appId": "com.mysterytag.cityrestart",
       "title": "Diamond City: Idle Tycoon",
@@ -4940,15 +4950,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookingcity.chef.kitchen.craze.fever",
-      "title": "Cooking City - 요리의 마을",
-      "developer": "MAGIC SEVEN CO., LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/WlwQNbYJ3Ku5OsAh1sgalYjRMhUaQbVl0XVN5uE5u288IYQl1ZnXoX2edj58AjrVCpPU1bk83SK7gYapo2bOuKk",
-      "url": "https://play.google.com/store/apps/details?id=com.cookingcity.chef.kitchen.craze.fever&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
