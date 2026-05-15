@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T08:10:18.250Z",
+  "updatedAt": "2026-05-15T11:27:50.995Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1140,7 +1140,9 @@
     "air.net.ideasam.games.cat",
     "com.mysterytag.cityrestart",
     "com.funovus.wildcastle2",
-    "com.superbox.aos.catkitchen"
+    "com.superbox.aos.catkitchen",
+    "com.sinyee.babybus.adventure",
+    "farm.parking.game"
   ],
   "items": [
     {
@@ -1167,6 +1169,24 @@
       "developer": "SUPERBOX Inc",
       "icon": "https://play-lh.googleusercontent.com/U13NvIWoTc1rS2-67blbtut0-sooRq3E08N5D_j1yU_5Z-Gx91vb-eyxy5uyMsFn_JuT",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.catkitchen&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.adventure",
+      "title": "용감한 탐험놀이 - 베이비버스",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/Yi5G3Vx7kG9eketQVGSirhrY0cDNvQH_4BhVX-AmfDtmW1zG9E2jNO6qO0AJ28v9fBA",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-15",
+      "isGame": true
+    },
+    {
+      "appId": "farm.parking.game",
+      "title": "Farm Jam: 주차게임 그리고 동물게임",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/-K3GqQzWCjU-ejoqcXo-44_a_DHlV4LIv-iyvQDL5N0Yx9L_mA7OpNeY8UU-S56Zdw",
+      "url": "https://play.google.com/store/apps/details?id=farm.parking.game&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
       "isGame": true
     },
@@ -4920,24 +4940,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.food",
-      "title": "전통 중국먹거리 요리게임 - 베이비버스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/UN24kMjdLEj21CpLbyWFW9EVruYuzf4H4jzrC2Pbc8zIZgxiXwxNV-6p9x4DvcFb2D0j",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.food&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.runawayplay.OldFriends",
-      "title": "Old Friends Dog Game",
-      "developer": "Runaway Play",
-      "icon": "https://play-lh.googleusercontent.com/RGgV3gnwVbWAldOJz3Oo0Fa-kQ-KzF9di16X54E9xZX2B83JVBefw-gUDBpNFwGNShU",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.OldFriends&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
