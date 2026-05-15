@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T20:21:02.001Z",
+  "updatedAt": "2026-05-15T22:08:01.880Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1143,7 +1143,18 @@
     "com.superbox.aos.catkitchen",
     "com.sinyee.babybus.adventure",
     "farm.parking.game",
-    "com.sinyee.babybus.ambulance"
+    "com.sinyee.babybus.ambulance",
+    "com.Deliciousgames.ZWR",
+    "com.MonsterPlanet.CatIdleRpg",
+    "com.RustyLake.ServantOfTheLake",
+    "com.TeamSparta.MadDefense",
+    "com.actionfit.toy.defense.aos",
+    "com.bandainamcoent.dgup_ww",
+    "com.buffstudio.holdonlord",
+    "com.chillyroom.containerofsoul.gp",
+    "com.com2usholdings.starsailors.android.google.global.normal",
+    "com.dwgames.chunorpg",
+    "com.en.chens.ete2024"
   ],
   "items": [
     {
@@ -1152,6 +1163,105 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/W2FocgfAD9pvaptjrW9UtvX-AZXMAADkaSi0a9bpb7nrS8ydJtFWi2Ek3y33MxTM9bCi",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.ambulance&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.Deliciousgames.ZWR",
+      "title": "좀왜진 : 방치된 좀비 잡기",
+      "developer": "Delicious Games Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/1S3rkoxCjnCFwiNCw2epTUXwH3RDuzyt725UYe04aBhzSIvV0BMTTDhaCQzuGFaJqWg-tc7ZrGtLAguJzlAt",
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.ZWR&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.MonsterPlanet.CatIdleRpg",
+      "title": "냥이 기사단 키우기: 방치형 RPG",
+      "developer": "MONSTER PLANET Corp.",
+      "icon": "https://play-lh.googleusercontent.com/9vCQv-lrMQJlol0I1SopaM8V3a4pLBPju_kGy7d8u5uUs2SCeQuVygJy4sm3C6YwJVnWeYiUpNKLxULLigwc9g",
+      "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.CatIdleRpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.RustyLake.ServantOfTheLake",
+      "title": "Servant of the Lake",
+      "developer": "Rusty Lake",
+      "icon": "https://play-lh.googleusercontent.com/rgEydSyELNBQ-_IdNRUyc8d3DaqEaGqJY92SBh7ncP4lEMjn98RNxe33EE120IBX-RPcRYx0PFp4SfhfQdsE",
+      "url": "https://play.google.com/store/apps/details?id=com.RustyLake.ServantOfTheLake&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.TeamSparta.MadDefense",
+      "title": "매드 라쿤: 전략 타워 디펜스",
+      "developer": "RocketdanGames",
+      "icon": "https://play-lh.googleusercontent.com/ni8hQjbi-ZI5WJItYcyxgbD5sUcZVXv5sUQAWU0frYwsdsG9jySQsGg31MVUZWQ2Mv3lb0ipzA6zg6O5tpkx_w",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.actionfit.toy.defense.aos",
+      "title": "Toy Survivor - 장난감 서바이벌 전쟁",
+      "developer": "ACTIONFIT",
+      "icon": "https://play-lh.googleusercontent.com/HTeeEy1T_Whbkmcl2YN4YholLqLQ-nC5M9Kr9ATvZRYDA2vpHMhS15BAiSIwfms-Q-nXJIejWJv0PiiAyoIw",
+      "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.dgup_ww",
+      "title": "디지몬 UP",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/WC1AVEJf1u9_0WkRdzRHBaOcV9UOr4PpnWA5dWi5itaBn0oUz3MOXgXLgQ2f-2PuWrk27Wv5FmB0qaeIq_F8Xw",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_ww&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.buffstudio.holdonlord",
+      "title": "버텨라! 영주님!",
+      "developer": "Buff Studio Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/WIAWPltXaE_-F7nWr-DxBel4iQYkTHb601Rt11OHzxJYUcFqfGro-5ULCv8S3gH6PNeh2-2JETHHw8yfOVnNRA",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.chillyroom.containerofsoul.gp",
+      "title": "Abyssal Soul - 로그라이크 카드 게임",
+      "developer": "ChillyRoom",
+      "icon": "https://play-lh.googleusercontent.com/HCBbJCfLUkLPWf8Y3WAypI27jXvQTiCtn7QShYOMQNeY5ntOrjNqB9meSyNWTt3CJRMhccxg3Ln_tUeEkW4kes0",
+      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.containerofsoul.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2usholdings.starsailors.android.google.global.normal",
+      "title": "스타 세일러",
+      "developer": "Com2uS Holdings",
+      "icon": "https://play-lh.googleusercontent.com/GLWsJ5lkUTceLOAH-iO33WuLE059TbNBqbTOx9BT2pby-ZNscv_CChRpeJF3aytuEBFiyv9EioPpL3EpW_3Y",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.dwgames.chunorpg",
+      "title": "추노 키우기",
+      "developer": "DwG",
+      "icon": "https://play-lh.googleusercontent.com/dHI9gG1yYj37bfiRTuuhUYXatXosmp-NHlNe_5MzbLg4JWWDi-EnvO6iwru6O2n12KWd8q5oXe1Br5zKMVa9xKY",
+      "url": "https://play.google.com/store/apps/details?id=com.dwgames.chunorpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.en.chens.ete2024",
+      "title": "E.T.E Chronicle",
+      "developer": "CHENS GLOBAL LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/ors2lwO7M5bUL-RZZB31Bh9dSBG-ERblEE669zNYhxigLSXKUC_PJCG4VPkW8FpIcg",
+      "url": "https://play.google.com/store/apps/details?id=com.en.chens.ete2024&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
       "isGame": true
     },
@@ -4729,69 +4839,6 @@
       "isGame": true
     },
     {
-      "appId": "com.mergegames.taylorsecret",
-      "title": "타일러의 비밀: 머지 스토리",
-      "developer": "Merge story",
-      "icon": "https://play-lh.googleusercontent.com/EqnDDuAMKV_otxxMyPf4K1FBNEX3hTGru6ayQztgWKC74Y_6qyqLHjt6ESwTxSgVeT0",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegames.taylorsecret&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.miaworld.life.avatar.doll.dressup.design.makeover",
-      "title": "Mia World: Life Sims 어린이 가족게임",
-      "developer": "31 Dress up Games",
-      "icon": "https://play-lh.googleusercontent.com/4JM12EIz6jd-5rfVMg6AzD_AyyFvgAQUy-4L2D6ylp9CKeQf1HRftlKlol8voI4RF2A",
-      "url": "https://play.google.com/store/apps/details?id=com.miaworld.life.avatar.doll.dressup.design.makeover&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.floofmypethouse",
-      "title": "Floof - 나의 펫하우스 - 강아지 고양이 게임",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/l30WEcoDVeix9KPVqBXo4MiZoByL6kZ2OvBI-H0-IKOyirD9S8qhFl-bKk7ezINUFv0",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.floofmypethouse&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.food.dash.diner.craze.happy.ASMR",
-      "title": "Diner Fever™：쿠킹 게임",
-      "developer": "gameone",
-      "icon": "https://play-lh.googleusercontent.com/eRQPrrLEPkwXabSdTxb7kRZzeYn8wklU23LYd-61f5KXnRpiDgqiiofBCWcrGiCCXegCsygXzaydFdCqGGs8",
-      "url": "https://play.google.com/store/apps/details?id=com.food.dash.diner.craze.happy.ASMR&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.hospital.craze.clinic.happy.doctor.ASMR",
-      "title": "호스피탈 프렌지(Hospital Frenzy)",
-      "developer": "RedFish Games",
-      "icon": "https://play-lh.googleusercontent.com/DWS9s8FrZhbCJTu2XHKiqi_J5ZiuHkoqphaHDd0gsNknKLlQ2M8-kP_L1rfwTgDAWFMt",
-      "url": "https://play.google.com/store/apps/details?id=com.hospital.craze.clinic.happy.doctor.ASMR&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.landsharkgames.zenkoi2.android",
-      "title": "Zen Koi 2",
-      "developer": "LandShark Games",
-      "icon": "https://play-lh.googleusercontent.com/w0Oq6AVDkkg5uFcwhGvd1WBodhxNhx0V5Z_K6S-BPH9pytqoeEq7NoMBJyU-WErVPQHhTLlgPFWE3r9leOV0",
-      "url": "https://play.google.com/store/apps/details?id=com.landsharkgames.zenkoi2.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.mysterytag.farmland",
-      "title": "FarmLand",
-      "developer": "MTAG PUBLISHING LTD",
-      "icon": "https://play-lh.googleusercontent.com/lW-cs7adeMj15ofvzt-hFTNdXp2Hrr26MPGxkyO8Pdpf-8h4eYcS3jF5ShYR8aJ6Sw",
-      "url": "https://play.google.com/store/apps/details?id=com.mysterytag.farmland&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
       "appId": "com.gameicreate.halloweenstreetfoodshoprestaurantgame",
       "title": "Halloween Cooking Games",
       "developer": "GameiCreate",
@@ -4950,42 +4997,6 @@
       "developer": "REEF GAMES LTD",
       "icon": "https://play-lh.googleusercontent.com/dwQuCX28Z0UufuNPDdzUCpmLcKPG_ICS7wHyBzLSNi8UMxi7YKdwV7ehDPUt5ZhEzJnW3fiSsBLt3yCLOMncmw",
       "url": "https://play.google.com/store/apps/details?id=com.reefgames.fabletown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubadu.bubbu2",
-      "title": "Bubbu 2 - 나의 반려동물 왕국",
-      "developer": "Bubadu",
-      "icon": "https://play-lh.googleusercontent.com/xhakYBa5xySD7mm0BYwCbix2OPuGWckCblpSqtnpaza2DTOj7-KjzrRWEZarV7MVzzU",
-      "url": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.idleif.abyssrium",
-      "title": "어비스리움 - 나만의 힐링 아쿠아리움 (VR 지원)",
-      "developer": "Wemade Connect",
-      "icon": "https://play-lh.googleusercontent.com/xqniva3NkaQ2MYanJrEADehaL8G0ny5kYqEdOMw5Nh-gPF4DMyBOCuk8ablVvZWyNeEIoIN-dU1tZrgGkTye",
-      "url": "https://play.google.com/store/apps/details?id=com.idleif.abyssrium&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.liftapp.tamadog",
-      "title": "Tamadog - 강아지 키우기 펫프렌즈게임",
-      "developer": "Appsyoulove",
-      "icon": "https://play-lh.googleusercontent.com/re13dIFhWzljY6jf_zPTIFCoo2m4s0a_Ms5Lbh3Ii9yoRlkm5H8RL0o-lvUIpnOgXyMl",
-      "url": "https://play.google.com/store/apps/details?id=com.liftapp.tamadog&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.diet",
-      "title": "아기 팬더: 요리 파티",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/bzQ753fzJZ6ZBbZAqtFIuthD_kftAKz881LeNxJiMjlgAHDd3qpA_Xjz0mQ6Lmap9Ag",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.diet&hl=ko&gl=KR",
       "discoveredDate": "2026-04-05",
       "isGame": true
     },
