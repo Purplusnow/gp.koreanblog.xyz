@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T12:00:29.432Z",
+  "updatedAt": "2026-05-16T13:52:54.778Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1160,7 +1160,8 @@
     "com.crowdstar.covetfashion",
     "com.snake.io.slither.merge.fun.game",
     "dk.tactile.lilysgarden",
-    "com.spaceapegames.carsuperstar"
+    "com.spaceapegames.carsuperstar",
+    "air.com.kitchenscramble.goo"
   ],
   "items": [
     {
@@ -1322,6 +1323,15 @@
       "developer": "Offroad Games",
       "icon": "https://play-lh.googleusercontent.com/PTmDIVDP0yhrbN5rTxepD862HFmPu_iijg9qjgq6HNWgthN0Ipb0B-RNF5tpK6eeJtml_i5EjO1PQWUcPpvf9SY",
       "url": "https://play.google.com/store/apps/details?id=com.spaceapegames.carsuperstar&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.kitchenscramble.goo",
+      "title": "Kitchen Scramble: Cooking Game",
+      "developer": "Garden City Games",
+      "icon": "https://play-lh.googleusercontent.com/4AKGTNsz-ll2vRCsmTtSwJfnXD59Rta1hCR8rL07Ot83Rwsg24zXHBsLTNnGk8s6TfrC",
+      "url": "https://play.google.com/store/apps/details?id=air.com.kitchenscramble.goo&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
       "isGame": true
     },
@@ -4895,15 +4905,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.bakery",
-      "title": "아기팬더의 케이크 샵",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/mSD8Lsfjj6QhcZD0KIeFUfV5eWPHwssTVcKu7jKZ27s0DD6PpvDYxeRtADMgWrtHbg",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.bakery&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
