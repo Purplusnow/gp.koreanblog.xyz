@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T03:56:11.463Z",
+  "updatedAt": "2026-05-16T06:30:43.771Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1156,7 +1156,8 @@
     "com.dwgames.chunorpg",
     "com.en.chens.ete2024",
     "com.ironhidegames.android.kingdomrush4",
-    "com.sandsoft.fingerwarriors"
+    "com.sandsoft.fingerwarriors",
+    "com.crowdstar.covetfashion"
   ],
   "items": [
     {
@@ -1282,6 +1283,15 @@
       "developer": "Sunice Limited",
       "icon": "https://play-lh.googleusercontent.com/10gHSafpY6e_4mF8hSNu9vPZloTnD6l9rYyxsLn5r_I6UW7W564ufCe0g51CD7wD93k",
       "url": "https://play.google.com/store/apps/details?id=com.sandsoft.fingerwarriors&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.crowdstar.covetfashion",
+      "title": "Covet Fashion: Dress Up Game",
+      "developer": "Crowdstar Inc",
+      "icon": "https://play-lh.googleusercontent.com/Rb_JkPsooMjRJl9eIuTJ6yu5XECVJjz_N-vgR08vH3hoIkGA8Bxk1oTr5FB0A16wIns",
+      "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
       "isGame": true
     },
@@ -4855,15 +4865,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.scopely.gardenjoy",
-      "title": "Garden Joy: Exterior Designer",
-      "developer": "Burlingame Studios",
-      "icon": "https://play-lh.googleusercontent.com/yigDGcTl9ElJ3vz5OtDmMyoG0WZY-APiD5VC83fYmp5uiOm1GtmPYPBQ4ggoTpPf0iE",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.gardenjoy&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
