@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T08:55:24.355Z",
+  "updatedAt": "2026-05-16T10:23:33.807Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1159,7 +1159,8 @@
     "com.sandsoft.fingerwarriors",
     "com.crowdstar.covetfashion",
     "com.snake.io.slither.merge.fun.game",
-    "dk.tactile.lilysgarden"
+    "dk.tactile.lilysgarden",
+    "com.spaceapegames.carsuperstar"
   ],
   "items": [
     {
@@ -1312,6 +1313,15 @@
       "developer": "Tactile Games",
       "icon": "https://play-lh.googleusercontent.com/WSJ53kBRApJis-K7Z2lwNEmtMU9s6DrxWHfADBqBb40UEXlbXUoQQSyEjD1isyg0SGo",
       "url": "https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.spaceapegames.carsuperstar",
+      "title": "Chrome Valley Customs",
+      "developer": "Offroad Games",
+      "icon": "https://play-lh.googleusercontent.com/PTmDIVDP0yhrbN5rTxepD862HFmPu_iijg9qjgq6HNWgthN0Ipb0B-RNF5tpK6eeJtml_i5EjO1PQWUcPpvf9SY",
+      "url": "https://play.google.com/store/apps/details?id=com.spaceapegames.carsuperstar&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
       "isGame": true
     },
@@ -4885,15 +4895,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.runawayplay.flutter",
-      "title": "Flutter: 나비 정원",
-      "developer": "Runaway Play",
-      "icon": "https://play-lh.googleusercontent.com/A8J1XOLThIfy19F0QcnlgTo_zjb3qZnMiBlOO_ElcY7buXHaUEebbQq3AmLnIz7gdJWc",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.flutter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
