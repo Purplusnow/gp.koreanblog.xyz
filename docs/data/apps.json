@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T06:30:43.771Z",
+  "updatedAt": "2026-05-16T08:55:24.355Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1157,7 +1157,9 @@
     "com.en.chens.ete2024",
     "com.ironhidegames.android.kingdomrush4",
     "com.sandsoft.fingerwarriors",
-    "com.crowdstar.covetfashion"
+    "com.crowdstar.covetfashion",
+    "com.snake.io.slither.merge.fun.game",
+    "dk.tactile.lilysgarden"
   ],
   "items": [
     {
@@ -1292,6 +1294,24 @@
       "developer": "Crowdstar Inc",
       "icon": "https://play-lh.googleusercontent.com/Rb_JkPsooMjRJl9eIuTJ6yu5XECVJjz_N-vgR08vH3hoIkGA8Bxk1oTr5FB0A16wIns",
       "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.snake.io.slither.merge.fun.game",
+      "title": "Worms Merge: 유휴 및 io 게임",
+      "developer": "Hippo Lab",
+      "icon": "https://play-lh.googleusercontent.com/u4T9qZWg95KnmGashXs07_08JhHuo74snworPxDjpD_VLSINpO0I-MmltfREA7Fi_TjR",
+      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.merge.fun.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "dk.tactile.lilysgarden",
+      "title": "릴리의 정원 (Lily's Garden)",
+      "developer": "Tactile Games",
+      "icon": "https://play-lh.googleusercontent.com/WSJ53kBRApJis-K7Z2lwNEmtMU9s6DrxWHfADBqBb40UEXlbXUoQQSyEjD1isyg0SGo",
+      "url": "https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
       "isGame": true
     },
@@ -4865,24 +4885,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.mergedomhomedesign.game",
-      "title": "Mergedom: 머지 꾸미기게임 집",
-      "developer": "Carry1st",
-      "icon": "https://play-lh.googleusercontent.com/8k3gfmQ14hw2GGPLx67bSC2mrxLMUYBbZLdxjgppYl34mVH5COlAheOJv27mNZP_nl8",
-      "url": "https://play.google.com/store/apps/details?id=com.mergedomhomedesign.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.kurogame.wutheringwaves.global",
-      "title": "명조:워더링 웨이브",
-      "developer": "HK KURO GAMES LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/L0Dn7FRoGO0Ocxb3MidlNpv_DMehL8xlEkVJcnb2MaxtdhCKIBMOC0IfWmpr0okokXfwKKw-PSxcDnoJrJ2v",
-      "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
