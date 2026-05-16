@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T15:08:49.331Z",
+  "updatedAt": "2026-05-16T17:10:55.630Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1162,7 +1162,8 @@
     "dk.tactile.lilysgarden",
     "com.spaceapegames.carsuperstar",
     "air.com.kitchenscramble.goo",
-    "com.global.zljslg"
+    "com.global.zljslg",
+    "com.twodesperados.pic.cross.picross.logic"
   ],
   "items": [
     {
@@ -1171,6 +1172,15 @@
       "developer": "37GAMES",
       "icon": "https://play-lh.googleusercontent.com/h_f8Mb1nMncdHTok-6hUUbVBa3jYFztBq4w06CE1DTlMkEvbe_aA496YBFHXH4PYn6Ql",
       "url": "https://play.google.com/store/apps/details?id=com.global.zljslg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.twodesperados.pic.cross.picross.logic",
+      "title": "Nonogram Crossing Logic Puzzle",
+      "developer": "Two Desperados Ltd",
+      "icon": "https://play-lh.googleusercontent.com/KlAB4A9DwFFk2IBB-EByJa-1p_FO1IZwIQI4xpnqvH1IWZUkb4lf2N7mEYpnrkth8QA",
+      "url": "https://play.google.com/store/apps/details?id=com.twodesperados.pic.cross.picross.logic&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
       "isGame": true
     },
@@ -4915,15 +4925,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.superpixel.pixelknights",
-      "title": "픽셀 기사단 키우기 : 방치형RPG",
-      "developer": "SUPERBOX Inc",
-      "icon": "https://play-lh.googleusercontent.com/IsHz2_PvGghfiaYmhYcwBIIq2FGIDCJaxkQgSo6CLoYUgR2yUWddGcjKi8Y2KAhCkV8",
-      "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
