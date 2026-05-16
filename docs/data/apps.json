@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T00:01:59.958Z",
+  "updatedAt": "2026-05-16T03:56:11.463Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1154,7 +1154,9 @@
     "com.chillyroom.containerofsoul.gp",
     "com.com2usholdings.starsailors.android.google.global.normal",
     "com.dwgames.chunorpg",
-    "com.en.chens.ete2024"
+    "com.en.chens.ete2024",
+    "com.ironhidegames.android.kingdomrush4",
+    "com.sandsoft.fingerwarriors"
   ],
   "items": [
     {
@@ -1262,6 +1264,24 @@
       "developer": "CHENS GLOBAL LIMITED",
       "icon": "https://play-lh.googleusercontent.com/ors2lwO7M5bUL-RZZB31Bh9dSBG-ERblEE669zNYhxigLSXKUC_PJCG4VPkW8FpIcg",
       "url": "https://play.google.com/store/apps/details?id=com.en.chens.ete2024&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.kingdomrush4",
+      "title": "킹덤 러쉬 벤전스 (KR Vengeance)",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/8uftLSAWvbW3stKpvAfJ1NQUxcxex8aOagUcgl0JJKwCXD35fOIF_8Vc9O6V9p3fXOw",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush4&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.sandsoft.fingerwarriors",
+      "title": "요새전선 : 카드히어로 TD",
+      "developer": "Sunice Limited",
+      "icon": "https://play-lh.googleusercontent.com/10gHSafpY6e_4mF8hSNu9vPZloTnD6l9rYyxsLn5r_I6UW7W564ufCe0g51CD7wD93k",
+      "url": "https://play.google.com/store/apps/details?id=com.sandsoft.fingerwarriors&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
       "isGame": true
     },
@@ -4835,24 +4855,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameicreate.halloweenstreetfoodshoprestaurantgame",
-      "title": "Halloween Cooking Games",
-      "developer": "GameiCreate",
-      "icon": "https://play-lh.googleusercontent.com/JVBVm4cQcRmkv3hf5KHvL8E6FNk5abkixvLNjvtM2Uhfl-IZWKaoy7QC-iMtaaDeFwE",
-      "url": "https://play.google.com/store/apps/details?id=com.gameicreate.halloweenstreetfoodshoprestaurantgame&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubble.shooter.family",
-      "title": "Bubble Shooter Family",
-      "developer": "Playful Bytes",
-      "icon": "https://play-lh.googleusercontent.com/wDaN9HOJ6OIaNU719M7ZNdlMf-h1nGjX66pPjRHMMXmaJzIsFq1KWhm-O4f4QuiFcI8",
-      "url": "https://play.google.com/store/apps/details?id=com.bubble.shooter.family&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
