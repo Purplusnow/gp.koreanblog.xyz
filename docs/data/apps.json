@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T19:19:39.244Z",
+  "updatedAt": "2026-05-16T21:00:23.426Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1163,7 +1163,9 @@
     "com.spaceapegames.carsuperstar",
     "air.com.kitchenscramble.goo",
     "com.global.zljslg",
-    "com.twodesperados.pic.cross.picross.logic"
+    "com.twodesperados.pic.cross.picross.logic",
+    "com.cyberjoy.spaceoutpost",
+    "com.dreamotion.empire"
   ],
   "items": [
     {
@@ -1181,6 +1183,24 @@
       "developer": "Two Desperados Ltd",
       "icon": "https://play-lh.googleusercontent.com/KlAB4A9DwFFk2IBB-EByJa-1p_FO1IZwIQI4xpnqvH1IWZUkb4lf2N7mEYpnrkth8QA",
       "url": "https://play.google.com/store/apps/details?id=com.twodesperados.pic.cross.picross.logic&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyberjoy.spaceoutpost",
+      "title": "Space Outpost: Drone War",
+      "developer": "CyberJoy Games",
+      "icon": "https://play-lh.googleusercontent.com/rvP8IpoT1Sf8gJCx4MJcwXYBm4RYPxhLvLRnGQw04QAPbwcWxPNuiu3fjPgXhLl3gA",
+      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.spaceoutpost&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.dreamotion.empire",
+      "title": "로드 투 발러: 엠파이어스",
+      "developer": "Dreamotion Inc.",
+      "icon": "https://play-lh.googleusercontent.com/5kmHTcqYkX8lBhJoih2fmMbGEuTzpl2_R-eX7fq6ppsrZK6Ub0448jCFsZdEVvZ4ntU",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamotion.empire&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
       "isGame": true
     },
@@ -4925,24 +4945,6 @@
       "developer": "UGO Games",
       "icon": "https://play-lh.googleusercontent.com/WS-7J2ZkhuBPm2YTRQshvN8NQrV3rU1jN0XPRmJdbMflox0zgx6_N-OtkH1bDXluLA",
       "url": "https://play.google.com/store/apps/details?id=ugo.com.play.free.farmington&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.neowiz.games.newmatgo",
-      "title": "피망 뉴맞고: 고스톱 대표 맞고 게임",
-      "developer": "NEOWIZ corp",
-      "icon": "https://play-lh.googleusercontent.com/qBfObI-V3H60nuqcHrk5o261MlEVHzAHdQYRan2Qa_2YX8vtr5U9HNi6iJ5gNcd8nu55dKHvQLoFmkZmEeVKCA",
-      "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.newmatgo&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.epicoro.castleclashers",
-      "title": "Castle Clashers!",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/VW7o5ybPRq9TbTQs9_pzrJkYoFk4QVxUkV96bVfauDmGBZ8O6KNHIRH4oIRlkQAgogw",
-      "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=ko&gl=KR",
       "discoveredDate": "2026-04-06",
       "isGame": true
     },
