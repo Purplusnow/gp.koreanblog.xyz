@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T22:05:17.729Z",
+  "updatedAt": "2026-05-17T23:09:14.317Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1171,7 +1171,8 @@
     "linkdesks.classicsolitaire.klondike.cardgames",
     "net.mobigame.zombietsunami",
     "com.smilegate.chaoszero.stove.google",
-    "jp.goodsmile.touhoulostwordglobal_android"
+    "jp.goodsmile.touhoulostwordglobal_android",
+    "com.appcraft.number.puzzle"
   ],
   "items": [
     {
@@ -1180,6 +1181,15 @@
       "developer": "GOOD SMILE COMPANY, Inc",
       "icon": "https://play-lh.googleusercontent.com/IzsjNG8yz_p_s0dHcHUF2_Q_6Fdan1ZenIa6RGvUTlH3MweFElefq1EzsITJsOm2qw4ODepZo0aJ2JNafO4lAA",
       "url": "https://play.google.com/store/apps/details?id=jp.goodsmile.touhoulostwordglobal_android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.appcraft.number.puzzle",
+      "title": "Numberzilla: 퍼즐 수학 게임 숫자 게임 논리",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/bsviI_8TO7KIBabaSyEaJnY1lVH17z8MjvUOnewj4kVh7huq6RGxzlCqCvKREyBRGV0",
+      "url": "https://play.google.com/store/apps/details?id=com.appcraft.number.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
       "isGame": true
     },
@@ -4798,15 +4808,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.game.space.shooter2",
-      "title": "스페이스 슈터: 외계인 슈팅게임",
-      "developer": "1SOFT",
-      "icon": "https://play-lh.googleusercontent.com/Oa1PZCjO15VdjojFHUg8Q6MJdyffxW5kCiEzgpXvcxLMFwkHpi8EGl696q96RKqfmwk",
-      "url": "https://play.google.com/store/apps/details?id=com.game.space.shooter2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
