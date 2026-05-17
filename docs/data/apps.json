@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T11:20:25.277Z",
+  "updatedAt": "2026-05-17T13:53:07.387Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1169,7 +1169,8 @@
     "com.plarium.vikings",
     "com.razmobi.monstertrucks2",
     "linkdesks.classicsolitaire.klondike.cardgames",
-    "net.mobigame.zombietsunami"
+    "net.mobigame.zombietsunami",
+    "com.smilegate.chaoszero.stove.google"
   ],
   "items": [
     {
@@ -1241,6 +1242,15 @@
       "developer": "Mobigame SAS",
       "icon": "https://play-lh.googleusercontent.com/y2v9w4KjUe4djmd3yYgj2_XrDIt_D9JO2c2NkYdxtYyE6cGl21JgU4aMqTEcoQzQorLD",
       "url": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.smilegate.chaoszero.stove.google",
+      "title": "카오스 제로 나이트메어",
+      "developer": "Smilegate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
+      "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
       "isGame": true
     },
@@ -4778,15 +4788,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.recommendapp.global",
-      "title": "아기팬더의 키즈 플레이",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/s6jH1DlGNk5-8dNjLp0jd8rTFsGlau3IEiWTO-R4USOOn1gxWrtKWRwbH0IR8aeszCIbAPW4gBc_uwgZcTVXEg",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.recommendapp.global&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
