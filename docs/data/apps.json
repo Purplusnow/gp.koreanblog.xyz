@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T15:09:09.605Z",
+  "updatedAt": "2026-05-17T17:09:36.047Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1170,9 +1170,19 @@
     "com.razmobi.monstertrucks2",
     "linkdesks.classicsolitaire.klondike.cardgames",
     "net.mobigame.zombietsunami",
-    "com.smilegate.chaoszero.stove.google"
+    "com.smilegate.chaoszero.stove.google",
+    "jp.goodsmile.touhoulostwordglobal_android"
   ],
   "items": [
+    {
+      "appId": "jp.goodsmile.touhoulostwordglobal_android",
+      "title": "Touhou LostWord",
+      "developer": "GOOD SMILE COMPANY, Inc",
+      "icon": "https://play-lh.googleusercontent.com/IzsjNG8yz_p_s0dHcHUF2_Q_6Fdan1ZenIa6RGvUTlH3MweFElefq1EzsITJsOm2qw4ODepZo0aJ2JNafO4lAA",
+      "url": "https://play.google.com/store/apps/details?id=jp.goodsmile.touhoulostwordglobal_android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-18",
+      "isGame": true
+    },
     {
       "appId": "com.global.zljslg",
       "title": "쥬라기 대륙:디노시아",
@@ -4788,15 +4798,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.Seriously.BestFiends",
-      "title": "Best Fiends - Match 3 Puzzles",
-      "developer": "Playtika",
-      "icon": "https://play-lh.googleusercontent.com/f8uOEX90LCMfmR8DBJ_VSL70hOTwE0EnaIhuId6wQSNb0U3qX4X6PEaGvA7yfgsIsC-r6LV7FLQgsEnPTmRfJw",
-      "url": "https://play.google.com/store/apps/details?id=com.Seriously.BestFiends&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
