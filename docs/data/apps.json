@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T04:25:19.366Z",
+  "updatedAt": "2026-05-18T08:51:01.315Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1172,7 +1172,9 @@
     "net.mobigame.zombietsunami",
     "com.smilegate.chaoszero.stove.google",
     "jp.goodsmile.touhoulostwordglobal_android",
-    "com.appcraft.number.puzzle"
+    "com.appcraft.number.puzzle",
+    "com.aldagames.polygonfantasy",
+    "com.droidhang.ad"
   ],
   "items": [
     {
@@ -1190,6 +1192,24 @@
       "developer": "Appsyoulove",
       "icon": "https://play-lh.googleusercontent.com/bsviI_8TO7KIBabaSyEaJnY1lVH17z8MjvUOnewj4kVh7huq6RGxzlCqCvKREyBRGV0",
       "url": "https://play.google.com/store/apps/details?id=com.appcraft.number.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.aldagames.polygonfantasy",
+      "title": "폴리곤 판타지: 액션 RPG",
+      "developer": "Alda Games",
+      "icon": "https://play-lh.googleusercontent.com/gTClOsH65tqP-Ad1JhpxsJfsFnso7986exk4i0eOXxUEdUunolkZAUqwb0VKXm7JPA",
+      "url": "https://play.google.com/store/apps/details?id=com.aldagames.polygonfantasy&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.droidhang.ad",
+      "title": "Idle Heroes - 아이들 히어로즈",
+      "developer": "DHGAMES",
+      "icon": "https://play-lh.googleusercontent.com/Hs1icA4suzVUKQLWrAq3uUc9VwH4UoKvXVyMEsPnEHQmVAe3uWq9jX5P09XhvjPeposAgohH3g38RrLomY7nbA",
+      "url": "https://play.google.com/store/apps/details?id=com.droidhang.ad&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
       "isGame": true
     },
@@ -4808,24 +4828,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.dress",
-      "title": "아기팬더 : 인형 코디하기",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/FB4ol3xF4lW174FPdvnRlc7yJ3lCgDtGm1s7rPFIsK-CkoQGfInXrh-Vry3lN2dJiWU",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.dress&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "tycoon.building.simulator.games.aldagames.com",
-      "title": "Transport Tycoon Empire",
-      "developer": "Alda Games",
-      "icon": "https://play-lh.googleusercontent.com/sVLq7XkY7a80AFyOPxFUrD9NqwyFU4gIV42P3MtpgtP8SrgRucKyoKt3WTbvr92DVw",
-      "url": "https://play.google.com/store/apps/details?id=tycoon.building.simulator.games.aldagames.com&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
