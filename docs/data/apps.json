@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T21:40:45.545Z",
+  "updatedAt": "2026-05-19T23:16:20.589Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1190,7 +1190,8 @@
     "com.Playrion.AirlinesManager2",
     "com.com2us.minigame.android.google.global.normal",
     "com.godzilab.idlerpg",
-    "com.netmarble.kofafk"
+    "com.netmarble.kofafk",
+    "com.fungi.houseflip"
   ],
   "items": [
     {
@@ -1262,6 +1263,15 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/gzYCg8GGxbHYIUpLJ00w6B7dhUEOMQkn1JyxxLdCGvr7Px_ton0MUGqKSkR4pl-xfnr92lMV84tD6G82z2Fq",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.kofafk&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.fungi.houseflip",
+      "title": "House Flip",
+      "developer": "fun-gi",
+      "icon": "https://play-lh.googleusercontent.com/OW2uAkp2DkG83zNJQGO_HOW-mrDy7_rQ6KdQJZbLSWF16Ot_FDmI7U8G3mlhaLP36XXQMCDEOxwR-VJuwwVtEGU",
+      "url": "https://play.google.com/store/apps/details?id=com.fungi.houseflip&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
       "isGame": true
     },
@@ -4619,15 +4629,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.cyberjoy.soccer",
-      "title": "Football Empire - Dream Begins",
-      "developer": "CyberJoy Games",
-      "icon": "https://play-lh.googleusercontent.com/61LUfvjtzSXqwbfwD5r6xhtGXvo2Za4i5jw_BztLrjcNXrbzgUDvzncS7d6Pm7LhaC-Q",
-      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.soccer&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
