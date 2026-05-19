@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T05:10:03.097Z",
+  "updatedAt": "2026-05-19T10:02:09.709Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1179,7 +1179,9 @@
     "com.raventurn.realcoaster",
     "com.ondi.fortias.saga",
     "com.aldagames.zombero.bullet.hell",
-    "com.tapps.roguelike.rpg.cardguardians"
+    "com.tapps.roguelike.rpg.cardguardians",
+    "com.funplus.familyfarm",
+    "com.pg.crossrim"
   ],
   "items": [
     {
@@ -1206,6 +1208,24 @@
       "developer": "Tapps Games - PT",
       "icon": "https://play-lh.googleusercontent.com/ZJrZOKBQJzdFYPVX5Pt1aeshVSu94vlOBa7_cdiGQfAOovogQsn04XBYnKRHAprOUPE",
       "url": "https://play.google.com/store/apps/details?id=com.tapps.roguelike.rpg.cardguardians&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.funplus.familyfarm",
+      "title": "패밀리팜",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/NOm5nhqI7T5IT_4hct96i_gdU1sp4z_WXgtBb6SIdDJXN29AoDiJa0iKcOEZsVjpU1Y",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.familyfarm&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.pg.crossrim",
+      "title": "크로스림:오디세이",
+      "developer": "Capcloud",
+      "icon": "https://play-lh.googleusercontent.com/gxNWp2pvXDvi9Ytxs_AbD2nfE6qsfMszqEx7wqwayyyh29LDla4JTPWaWDQ8NpzMjw",
+      "url": "https://play.google.com/store/apps/details?id=com.pg.crossrim&hl=ko&gl=KR",
       "discoveredDate": "2026-05-19",
       "isGame": true
     },
@@ -4878,24 +4898,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.edujoy.dentist",
-      "title": "Dentist games",
-      "developer": "AppQuiz",
-      "icon": "https://play-lh.googleusercontent.com/C8AUGTDZ3l_EmCLQG6Tvpwk9UwVBZ9Bjuh6QETz8A6oEJF0CaJBUHgJwQFZhNqNOAys9",
-      "url": "https://play.google.com/store/apps/details?id=com.edujoy.dentist&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.superbloomgames.atable",
-      "title": "베뉴: 집 꾸미기 & 인테리어 게임",
-      "developer": "Superbloom",
-      "icon": "https://play-lh.googleusercontent.com/XUEaRmJcqykvbRQlrkhloBwZFD8NYF6QfQHQokbDLw9KHlnMHQwfJnxDk7ZMuOUUxjSElrje3BppJHT97ISo",
-      "url": "https://play.google.com/store/apps/details?id=com.superbloomgames.atable&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
