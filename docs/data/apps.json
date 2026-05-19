@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T10:02:09.709Z",
+  "updatedAt": "2026-05-19T12:50:59.950Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1181,7 +1181,8 @@
     "com.aldagames.zombero.bullet.hell",
     "com.tapps.roguelike.rpg.cardguardians",
     "com.funplus.familyfarm",
-    "com.pg.crossrim"
+    "com.pg.crossrim",
+    "com.leap.searchit"
   ],
   "items": [
     {
@@ -1226,6 +1227,15 @@
       "developer": "Capcloud",
       "icon": "https://play-lh.googleusercontent.com/gxNWp2pvXDvi9Ytxs_AbD2nfE6qsfMszqEx7wqwayyyh29LDla4JTPWaWDQ8NpzMjw",
       "url": "https://play.google.com/store/apps/details?id=com.pg.crossrim&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.leap.searchit",
+      "title": "Search It – 숨은그림찾기",
+      "developer": "Leap Game Studios",
+      "icon": "https://play-lh.googleusercontent.com/VPw6Np6VusWZpkAB5rvZWbuSGmZnz1v85EQMwaoMBbZlI_gB_pWVwvBOf0tiFxN_t5EiIq_0ye7UzDZNhPOnOw",
+      "url": "https://play.google.com/store/apps/details?id=com.leap.searchit&hl=ko&gl=KR",
       "discoveredDate": "2026-05-19",
       "isGame": true
     },
@@ -4898,15 +4908,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapps.games.dig.dinoquest2",
-      "title": "Dino Quest 2: Dinosaur Fossil",
-      "developer": "Tapps Games - PT",
-      "icon": "https://play-lh.googleusercontent.com/wDd_UFPHI1m8E1LFQYYbp8AjKPbq9V7VACSiSd-xdIgyH1yVlRnhwaUiI0RIVH6HFg",
-      "url": "https://play.google.com/store/apps/details?id=com.tapps.games.dig.dinoquest2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
