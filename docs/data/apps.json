@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T16:29:42.116Z",
+  "updatedAt": "2026-05-19T19:11:18.054Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1182,9 +1182,59 @@
     "com.tapps.roguelike.rpg.cardguardians",
     "com.funplus.familyfarm",
     "com.pg.crossrim",
-    "com.leap.searchit"
+    "com.leap.searchit",
+    "com.vizorapps.merge",
+    "com.lightcore.unknownherosagakor",
+    "co.imba.archero",
+    "com.naddic.bbhero",
+    "com.Playrion.AirlinesManager2"
   ],
   "items": [
+    {
+      "appId": "com.vizorapps.merge",
+      "title": "Pines Peak: 로얄 머지 게임",
+      "developer": "VIZOR APPS LTD.",
+      "icon": "https://play-lh.googleusercontent.com/UoXdA72zj9COWscdqypevzJbBKnsrTaQ9qp3QA3OSO6j2BnKdH8L_8ufT5uoVo8MAbYL7YgrB0cfQzr4xwcD",
+      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.lightcore.unknownherosagakor",
+      "title": "미송자의 노래: 도트 방치형 RPG",
+      "developer": "Lightcore Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/b513TUGNcY5Byv97gV97dddDyldWSvT0dCgJJcoGt2Sw7zmHVpzTuaAUqzGOMaYLRcIMKg-HUNGouuQY673ffg",
+      "url": "https://play.google.com/store/apps/details?id=com.lightcore.unknownherosagakor&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "co.imba.archero",
+      "title": "아처 헌터 - 오프라인 액션 RPG 게임",
+      "developer": "Suga Studio",
+      "icon": "https://play-lh.googleusercontent.com/9hx0qGNoS32QtcKq1ECd9iKgRbmyAmFkhhfTe3vOy8FxBmBfIspkiPffSpCJKxCJuq6uWaz1ygrnorIZISNDEE0",
+      "url": "https://play.google.com/store/apps/details?id=co.imba.archero&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.naddic.bbhero",
+      "title": "별별히어로 : 영웅 다 있소",
+      "developer": "Mafgames",
+      "icon": "https://play-lh.googleusercontent.com/g5EoFBv6Z2-eDON25vV9UaIaLV1h1bQnqZ-mgNERcLoonsVaepsVHiKETZ4WQ2ZN04Xm6Pw3p82vRSeYcDKcfQ",
+      "url": "https://play.google.com/store/apps/details?id=com.naddic.bbhero&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.Playrion.AirlinesManager2",
+      "title": "Airlines Manager: Plane Tycoon",
+      "developer": "Playrion",
+      "icon": "https://play-lh.googleusercontent.com/dwq4cO_LdzDUqge2VSZ87CK9JDaXn9nstO81iLQv3pwB3-Z1oKx_LFnkUITd6656ORQ4",
+      "url": "https://play.google.com/store/apps/details?id=com.Playrion.AirlinesManager2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
     {
       "appId": "com.ondi.fortias.saga",
       "title": "Fortias Saga: Idle RPG",
@@ -4543,42 +4593,6 @@
       "isGame": true
     },
     {
-      "appId": "com.mergegame.merge",
-      "title": "Merge Inn - 카페 머지 게임",
-      "developer": "Original Games Pte. Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/vEmpdpQmL9J7PpkjVQKynuBOh9YiuEHP4TdE5yG8BRW3dtuUxKGycCE6_X67Edfl8cWA",
-      "url": "https://play.google.com/store/apps/details?id=com.mergegame.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.eastsidegames.theofficeswm",
-      "title": "The Office: Somehow We Manage",
-      "developer": "East Side Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/bkagxTYRJ0XowNr9s-6_7GmvqceUOZKOPE3whOwTZT8giYPL32wG64wO54Hi5G3ITQ",
-      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.theofficeswm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "sortpuz.water.sort.puzzle.game",
-      "title": "물&소다 색깔맞추기 물병게임（SortPuz™）",
-      "developer": "Dark Halo",
-      "icon": "https://play-lh.googleusercontent.com/l0QMc_qNdfLGkZnqPc4FN7g5TztX1vezh45B39pSAsaLu6lpbl_bwAA9eCKw89awwcw",
-      "url": "https://play.google.com/store/apps/details?id=sortpuz.water.sort.puzzle.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.mahjong.android",
-      "title": "마작 여정: 타일 짝 맞추기 모험 퀘스트",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/MlKCyda38rA4kzGX17DthPYSUpHkB4tY0Ic__PA-4kxgVl-dm5B53OsxFKyO3iY24w",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.mahjong.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
       "appId": "com.happygames.mergehotel",
       "title": "Hotel Rush: Merge Story",
       "developer": "Game Veterans",
@@ -4908,15 +4922,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparklingsociety.zoolifeanimalparkgame",
-      "title": "동물원 생활: 동물 공원 게임",
-      "developer": "Sparkling Society - Build Town City Building Games",
-      "icon": "https://play-lh.googleusercontent.com/ADub3qCiVz8-TJ0npuImJjz-IiDpxm2Gmd7X9vQ3iwp_oHaC84i3cpbW1R4A8uPHYfM",
-      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.zoolifeanimalparkgame&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
