@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T19:11:18.054Z",
+  "updatedAt": "2026-05-19T21:40:45.545Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1187,7 +1187,10 @@
     "com.lightcore.unknownherosagakor",
     "co.imba.archero",
     "com.naddic.bbhero",
-    "com.Playrion.AirlinesManager2"
+    "com.Playrion.AirlinesManager2",
+    "com.com2us.minigame.android.google.global.normal",
+    "com.godzilab.idlerpg",
+    "com.netmarble.kofafk"
   ],
   "items": [
     {
@@ -1232,6 +1235,33 @@
       "developer": "Playrion",
       "icon": "https://play-lh.googleusercontent.com/dwq4cO_LdzDUqge2VSZ87CK9JDaXn9nstO81iLQv3pwB3-Z1oKx_LFnkUITd6656ORQ4",
       "url": "https://play.google.com/store/apps/details?id=com.Playrion.AirlinesManager2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.minigame.android.google.global.normal",
+      "title": "미니게임천국 (feat.액션퍼즐패밀리)",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/7Q-6UdvuFmf6ZXYJZNYfyg1mYWDA05CJgnNoQGQ1KB-8y_QtVOENfD4uNFaa1_rtwg",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.minigame.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.godzilab.idlerpg",
+      "title": "모두 부수세요 - PVP 방치형 RPG",
+      "developer": "Imperia Online JSC",
+      "icon": "https://play-lh.googleusercontent.com/3NXqFDy4GxFSJ2jFjoOVJzLrRgvrdlgnCbSerOvVX-Xo3AfxRbrjCejpuw_Ne3OrAE53",
+      "url": "https://play.google.com/store/apps/details?id=com.godzilab.idlerpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.kofafk",
+      "title": "킹 오브 파이터 AFK",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/gzYCg8GGxbHYIUpLJ00w6B7dhUEOMQkn1JyxxLdCGvr7Px_ton0MUGqKSkR4pl-xfnr92lMV84tD6G82z2Fq",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.kofafk&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
       "isGame": true
     },
@@ -4589,33 +4619,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.happygames.mergehotel",
-      "title": "Hotel Rush: Merge Story",
-      "developer": "Game Veterans",
-      "icon": "https://play-lh.googleusercontent.com/MK9vCkD6up3rCDywP7wW1EjVqxk3IzcOGbvwE8BYr0hdBVKYaKL0v7yarlrrH_NWXn-X",
-      "url": "https://play.google.com/store/apps/details?id=com.happygames.mergehotel&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children",
-      "title": "2, 3, 4 세 아동용 아기 학습 게임",
-      "developer": "IDZ Digital Private Limited",
-      "icon": "https://play-lh.googleusercontent.com/7cJNNPucfq6Aaw3DiIqRTBYqbclI7rES6QqeocI_7S6e-pf0p8xL2xug1KVpzpY8zYBC",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.games.kids.toddler.learning.girls.boys.puzzle.preschool.game.children&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.innogames.cozycoast",
-      "title": "Cozy Coast: Merge Adventure",
-      "developer": "InnoGames GmbH",
-      "icon": "https://play-lh.googleusercontent.com/Xc7HZQePEZsMmmy7sZFKlLfi1e5jtFOdvn_JX74HdciPy-2JXFSPdNV-GbH9BxJZ-Q",
-      "url": "https://play.google.com/store/apps/details?id=com.innogames.cozycoast&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
