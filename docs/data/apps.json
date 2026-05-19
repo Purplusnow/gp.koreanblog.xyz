@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T00:16:05.727Z",
+  "updatedAt": "2026-05-19T05:10:03.097Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1178,7 +1178,8 @@
     "com.fansipan.pixel.hero.action.rpg.adventure.games",
     "com.raventurn.realcoaster",
     "com.ondi.fortias.saga",
-    "com.aldagames.zombero.bullet.hell"
+    "com.aldagames.zombero.bullet.hell",
+    "com.tapps.roguelike.rpg.cardguardians"
   ],
   "items": [
     {
@@ -1196,6 +1197,15 @@
       "developer": "Alda Games",
       "icon": "https://play-lh.googleusercontent.com/Fos8LCDUEsM-4GvbfZUmboxud3SVJhhqtnDlZieinaPNUVdtqqFYAg0leL8kzKVu2o2u",
       "url": "https://play.google.com/store/apps/details?id=com.aldagames.zombero.bullet.hell&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapps.roguelike.rpg.cardguardians",
+      "title": "Card Guardians Roguelike Games",
+      "developer": "Tapps Games - PT",
+      "icon": "https://play-lh.googleusercontent.com/ZJrZOKBQJzdFYPVX5Pt1aeshVSu94vlOBa7_cdiGQfAOovogQsn04XBYnKRHAprOUPE",
+      "url": "https://play.google.com/store/apps/details?id=com.tapps.roguelike.rpg.cardguardians&hl=ko&gl=KR",
       "discoveredDate": "2026-05-19",
       "isGame": true
     },
@@ -4868,15 +4878,6 @@
       "developer": "Imagineer Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/p2HSD6AKgm09u04ZOzxKrQ5EUxi8dtDovsayb1Ci35KSQMHq8Mb-aO5KY9trk01ZOO5RaquPUmFY4bOZxRH8CY4",
       "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.rilakkuma.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.girlstown",
-      "title": "아기팬더의 걸즈 타운",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/ezzf5r8bxc5Ut-CepXPh_qpiRmmC75c_AC1JfR1NmvgPm1sASWhzq-ZrGpvN4vsj_M_HaUxbFMC0JEN1tJVPJPk",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.girlstown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-07",
       "isGame": true
     },
