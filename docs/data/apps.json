@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T21:05:58.127Z",
+  "updatedAt": "2026-05-20T23:23:20.840Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1197,7 +1197,14 @@
     "com.my.cooking.chef.kitchen.craze.fever",
     "com.arumgames.solitareword",
     "com.cloud.hunter.gp",
-    "com.grilltown.grill"
+    "com.grilltown.grill",
+    "com.starstable.ssom",
+    "com.ch.ruler.match",
+    "word.games.puzzle.offline.games",
+    "com.asobimo.avabel_gp_b3",
+    "com.sandboxol.blockymods",
+    "com.miniclip.basketballstars",
+    "com.edkongames.mobs"
   ],
   "items": [
     {
@@ -1224,6 +1231,69 @@
       "developer": "Alchemical Inc.",
       "icon": "https://play-lh.googleusercontent.com/r8TwULQWBUEAlQSpVjQPkAEYqrPY6AElD8HNfHs7hTIEq6wvp1q_N3AGPFfY5ViFOH4g",
       "url": "https://play.google.com/store/apps/details?id=com.grilltown.grill&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.starstable.ssom",
+      "title": "Star Stable Online",
+      "developer": "Star Stable Entertainment AB",
+      "icon": "https://play-lh.googleusercontent.com/_W8DslDTt_Pa0joQFEfJ04eG2nOBGMb2XUfodXwJA4BU0fw_DlTCdjooCDerRG_dhSk",
+      "url": "https://play.google.com/store/apps/details?id=com.starstable.ssom&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.ch.ruler.match",
+      "title": "Ruler Match: 타일 퍼즐",
+      "developer": "Fungoodgames",
+      "icon": "https://play-lh.googleusercontent.com/b6Mg6V_fxCWI8fJnIsgPKeKL8hd3LbZb2qmBdCi37fBs638s8_yH5aKrTCy3rbuMHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ch.ruler.match&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "word.games.puzzle.offline.games",
+      "title": "낱말퀴즈-단어&단어게임&두뇌 훈련&현실적인 게임",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/fYeACZGDVaUFn4Zlga6ZR3VpdPaRDUjFCt_9oJGhy37S_9ZqnB2b1KtyVLwN3vZ-UGE",
+      "url": "https://play.google.com/store/apps/details?id=word.games.puzzle.offline.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.asobimo.avabel_gp_b3",
+      "title": "신의 탑-하늘의 정원 　AVABEL Online",
+      "developer": "Asobimo, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/0LTEvBFENzQQ23az42DSDoudvBgx8OE-ZsdfHRPqdS5_m0-R1BnT_U4Q4-oXaE__j0meSt3GQRDs0UChE2siIg",
+      "url": "https://play.google.com/store/apps/details?id=com.asobimo.avabel_gp_b3&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.sandboxol.blockymods",
+      "title": "Blockman Go",
+      "developer": "Blockman GO studio",
+      "icon": "https://play-lh.googleusercontent.com/YK-kgK6_jF5nx3FdyOskpLLVu-5jfr_hncm851KD1dAM2TJCwTFguyNl52INMxXpJdI",
+      "url": "https://play.google.com/store/apps/details?id=com.sandboxol.blockymods&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.basketballstars",
+      "title": "Basketball Stars: 멀티플레이어",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/IwJlaXKcLSfIkLE_aINFAT4UJszoaU9pC9fs8OqGIhV5GoyFPFk1HfuKWa2DKeQDGmAz",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.basketballstars&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.edkongames.mobs",
+      "title": "현대 작전 - 총게임 온라인게임 FPS",
+      "developer": "Edkon Games GmbH",
+      "icon": "https://play-lh.googleusercontent.com/YZnqvKDGCILAzvfT-bmYfiH6Msvt_xc1XJ7wQzM1IjZ_nl8i0Al3i5YWBNszhdkhMUY",
+      "url": "https://play.google.com/store/apps/details?id=com.edkongames.mobs&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
       "isGame": true
     },
@@ -4689,69 +4759,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildsky.wildarmydraft",
-      "title": "Merge War: 퍼즐 아레나",
-      "developer": "Funovus",
-      "icon": "https://play-lh.googleusercontent.com/N_4rdhS0gYISwTOzKQiatMRLAK0NTuhwNSVhOSHsk_9We1Jn53G1rx57wLfgcUTTqg",
-      "url": "https://play.google.com/store/apps/details?id=com.wildsky.wildarmydraft&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "atlantis.invaders.subnautica.space.shooter",
-      "title": "아틀란티스 인베이더",
-      "developer": "Spirit Bomb - Heartcore Games",
-      "icon": "https://play-lh.googleusercontent.com/a16imG1ZONuXEIM1K5i9zJPSuY7Nw4k4LkLvwRFpy6ILXOkUBFy7cBX467dfYnN52VbE",
-      "url": "https://play.google.com/store/apps/details?id=atlantis.invaders.subnautica.space.shooter&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.plarium.raidlegends",
-      "title": "레이드: 그림자의 전설",
-      "developer": "Plarium Global Ltd",
-      "icon": "https://play-lh.googleusercontent.com/dPzFPSPSfQ1udWlEY6CmuTE9zw6Rij9iVPCJDXlebEp4z9wGvpqPJGFjCZD7fogom_o",
-      "url": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.newmoonproduction.bigfarmhomestead",
-      "title": "빅 팜 홈스테드",
-      "developer": "Goodgame Studios",
-      "icon": "https://play-lh.googleusercontent.com/AXGE4qVf9zz8MtCrRRnnNqCeuQOLOm0tvUZ1w9iTOdY_xc4FL92x4qfGxgvAS-hhJGI",
-      "url": "https://play.google.com/store/apps/details?id=com.newmoonproduction.bigfarmhomestead&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.candysmashmania.sweetcrush.free",
-      "title": "Candy Smash Mania",
-      "developer": "gameone",
-      "icon": "https://play-lh.googleusercontent.com/anANObDQTsa6123SHt4Os8y_CisHS53vZvp0FuYzGDX1-TuFClFpfVBuLkZxKVDm6QjLG5gECcaZoOGB60SAbVU",
-      "url": "https://play.google.com/store/apps/details?id=com.candysmashmania.sweetcrush.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "color.match.line.connect.brain.puzzle",
-      "title": "블라썸 매치: Blossom Sort®, 꽃 타일 퍼즐",
-      "developer": "Gloryway Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/QhFFuPNHPZG3gbsdBK09aK649d0m9ysFqMNdQ-yn6S4nCduB3MIw8N3mgZnWrcCKf2or",
-      "url": "https://play.google.com/store/apps/details?id=color.match.line.connect.brain.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.linkdesks.bubblegames.bubbleshooter",
-      "title": "버블 슈터 아이스 - 버블 팝",
-      "developer": "PUZZLEJOY",
-      "icon": "https://play-lh.googleusercontent.com/bo0f64TErpifdHh4mMkMp96abZoMYgmkCCDRC-M-ze23Z8dniB7kGPE8ivRmk0VwCvo",
-      "url": "https://play.google.com/store/apps/details?id=com.linkdesks.bubblegames.bubbleshooter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
