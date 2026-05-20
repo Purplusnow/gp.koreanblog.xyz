@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T04:22:07.803Z",
+  "updatedAt": "2026-05-20T08:33:45.853Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1191,7 +1191,9 @@
     "com.com2us.minigame.android.google.global.normal",
     "com.godzilab.idlerpg",
     "com.netmarble.kofafk",
-    "com.fungi.houseflip"
+    "com.fungi.houseflip",
+    "com.funstay.android.global.idlerpgv1",
+    "com.yulong.sgame.gp"
   ],
   "items": [
     {
@@ -1272,6 +1274,24 @@
       "developer": "fun-gi",
       "icon": "https://play-lh.googleusercontent.com/OW2uAkp2DkG83zNJQGO_HOW-mrDy7_rQ6KdQJZbLSWF16Ot_FDmI7U8G3mlhaLP36XXQMCDEOxwR-VJuwwVtEGU",
       "url": "https://play.google.com/store/apps/details?id=com.fungi.houseflip&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.funstay.android.global.idlerpgv1",
+      "title": "다크스타 : 방치형 RPG",
+      "developer": "Neptune Corp.",
+      "icon": "https://play-lh.googleusercontent.com/mHdddeSe4rjWSZChb4Jvd5OYjINUp7lb5bhIp6AkNNT-D_PgvWx6VA8bbXUJFvHtkIo",
+      "url": "https://play.google.com/store/apps/details?id=com.funstay.android.global.idlerpgv1&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.yulong.sgame.gp",
+      "title": "퓨어 화이트 대작전：뮤지컬 소녀의 마법 모험",
+      "developer": "Gaminpower",
+      "icon": "https://play-lh.googleusercontent.com/3A9PZLKwBns5fev_yBDY6zbfIc7PnYl0hHji58AtdVtQzX-xTfQaRfft1PVbnVheJSxc827j68rRZfxhQNjUnA",
+      "url": "https://play.google.com/store/apps/details?id=com.yulong.sgame.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
       "isGame": true
     },
@@ -4629,24 +4649,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcool.puzzle.fruitgenies",
-      "title": "과일 퍼즐 : 매치 3 퍼즐 게임",
-      "developer": "Bigcool Games",
-      "icon": "https://play-lh.googleusercontent.com/_ZvQ0OsTEQ4pxby2TRYW08ifcoZ1JMdpQxqZvCSlGYBd7nymsuwp0XET2ND9yIoGWIg",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.fruitgenies&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildsky.td",
-      "title": "와일드 스카이 타워 디펜스: 애픽 전설 TD RPG",
-      "developer": "Funovus",
-      "icon": "https://play-lh.googleusercontent.com/Sh2nboKHVVhcG2iekVBFkIfTM2bHa2wm2rAcHJbtupHy-d0ap2pvGXTy575cXfuFGg",
-      "url": "https://play.google.com/store/apps/details?id=com.wildsky.td&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
