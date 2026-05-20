@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T08:33:45.853Z",
+  "updatedAt": "2026-05-20T11:55:06.964Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1193,7 +1193,8 @@
     "com.netmarble.kofafk",
     "com.fungi.houseflip",
     "com.funstay.android.global.idlerpgv1",
-    "com.yulong.sgame.gp"
+    "com.yulong.sgame.gp",
+    "com.my.cooking.chef.kitchen.craze.fever"
   ],
   "items": [
     {
@@ -1292,6 +1293,15 @@
       "developer": "Gaminpower",
       "icon": "https://play-lh.googleusercontent.com/3A9PZLKwBns5fev_yBDY6zbfIc7PnYl0hHji58AtdVtQzX-xTfQaRfft1PVbnVheJSxc827j68rRZfxhQNjUnA",
       "url": "https://play.google.com/store/apps/details?id=com.yulong.sgame.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.my.cooking.chef.kitchen.craze.fever",
+      "title": "내 요리: 미치도록 빠른 레스토랑 요리 게임",
+      "developer": "gameone",
+      "icon": "https://play-lh.googleusercontent.com/KTxVzqzRRu1xFag0gp-yfS_4nSkH1zHzYV9n3U20X3qQ6oDPoBFjUXrNG8W6HWmf06c",
+      "url": "https://play.google.com/store/apps/details?id=com.my.cooking.chef.kitchen.craze.fever&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
       "isGame": true
     },
@@ -4649,15 +4659,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.mathbrain.sudoku",
-      "title": "스도쿠 마스터 · Sudoku Master",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/stjTItfEyoYW6XankxkYMzHl29ydCcWs-iA-jMXsEmQr9or8GmJw0Cdyyh02aoY47mWv",
-      "url": "https://play.google.com/store/apps/details?id=com.mathbrain.sudoku&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
