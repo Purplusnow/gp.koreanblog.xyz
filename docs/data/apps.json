@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T15:51:17.643Z",
+  "updatedAt": "2026-05-20T18:27:54.855Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1196,7 +1196,8 @@
     "com.yulong.sgame.gp",
     "com.my.cooking.chef.kitchen.craze.fever",
     "com.arumgames.solitareword",
-    "com.cloud.hunter.gp"
+    "com.cloud.hunter.gp",
+    "com.grilltown.grill"
   ],
   "items": [
     {
@@ -1214,6 +1215,15 @@
       "developer": "CLOUD RIFT MELODY GAMES CO., LIMITED",
       "icon": "https://play-lh.googleusercontent.com/A-UWrXP-1SXx4LipDgYlR3WYq7SGyTMy6mjZNuXKC23p0eKEuC7dSTlSSR0DXDZdG_hCFxNFdxsmiAlhysD-mt4",
       "url": "https://play.google.com/store/apps/details?id=com.cloud.hunter.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.grilltown.grill",
+      "title": "Corner cafe : Merge & Cook",
+      "developer": "Alchemical Inc.",
+      "icon": "https://play-lh.googleusercontent.com/r8TwULQWBUEAlQSpVjQPkAEYqrPY6AElD8HNfHs7hTIEq6wvp1q_N3AGPFfY5ViFOH4g",
+      "url": "https://play.google.com/store/apps/details?id=com.grilltown.grill&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
       "isGame": true
     },
@@ -4679,15 +4689,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.dena.a12026418",
-      "title": "Pokémon Masters EX",
-      "developer": "DeNA Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/Tu51Gqk5mXHXl7QVYr2wfyyXUn4CCfqAYKg-3Ws1bN6zyDqvR6YvDaa6ug_e5pDIjIjQIQifHa4QLMeKw9NfhA",
-      "url": "https://play.google.com/store/apps/details?id=com.dena.a12026418&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
