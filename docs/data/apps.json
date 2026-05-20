@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T11:55:06.964Z",
+  "updatedAt": "2026-05-20T15:51:17.643Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1194,9 +1194,29 @@
     "com.fungi.houseflip",
     "com.funstay.android.global.idlerpgv1",
     "com.yulong.sgame.gp",
-    "com.my.cooking.chef.kitchen.craze.fever"
+    "com.my.cooking.chef.kitchen.craze.fever",
+    "com.arumgames.solitareword",
+    "com.cloud.hunter.gp"
   ],
   "items": [
+    {
+      "appId": "com.arumgames.solitareword",
+      "title": "King of Solitaire: Word Puzzle",
+      "developer": "Arumgames",
+      "icon": "https://play-lh.googleusercontent.com/rNI-NqbHsYVOwKJpWmxpGJSC87JcTfw8TtIQiAd0aAMQ5m6huyCI6TZv4QIG1kR0jSKwXaPrByWK-7sOHrUQmw",
+      "url": "https://play.google.com/store/apps/details?id=com.arumgames.solitareword&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.cloud.hunter.gp",
+      "title": "원죄: 신의 심판",
+      "developer": "CLOUD RIFT MELODY GAMES CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/A-UWrXP-1SXx4LipDgYlR3WYq7SGyTMy6mjZNuXKC23p0eKEuC7dSTlSSR0DXDZdG_hCFxNFdxsmiAlhysD-mt4",
+      "url": "https://play.google.com/store/apps/details?id=com.cloud.hunter.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
     {
       "appId": "com.vizorapps.merge",
       "title": "Pines Peak: 로얄 머지 게임",
@@ -4659,24 +4679,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.sopt.mafia42.client",
-      "title": "마피아42",
-      "developer": "TEAM42",
-      "icon": "https://play-lh.googleusercontent.com/kCz-s8Fjp8WGynal3RTe3XyebFRk79CCZaxlRQvVfBmqSjLcTjR-etIESIx_4G5eGpIg",
-      "url": "https://play.google.com/store/apps/details?id=com.sopt.mafia42.client&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "net.gameduo.gv",
-      "title": "캣 히어로 : 방치형 RPG",
-      "developer": "Gameduo",
-      "icon": "https://play-lh.googleusercontent.com/BlT2h_1OpOPqhVk06YDN3CeyU3x_93W5JH32XmKxrDJcV0zDjgJ6_QJ3o-ol6yd9X6M",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.gv&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
