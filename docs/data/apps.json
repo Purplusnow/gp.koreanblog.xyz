@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T08:40:01.122Z",
+  "updatedAt": "2026-05-21T12:24:54.921Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1218,7 +1218,10 @@
     "com.com2us.futuremlb.android.google.global.normal",
     "com.gameinsight.gobandroid",
     "com.nebulajoy.act.dmcpoc.asia",
-    "com.squareenixmontreal.hitmango"
+    "com.squareenixmontreal.hitmango",
+    "com.zykj.princessknight",
+    "com.moonactive.holestars",
+    "fi.twomenandadog.zombiecatchers"
   ],
   "items": [
     {
@@ -1434,6 +1437,33 @@
       "developer": "Deca Games",
       "icon": "https://play-lh.googleusercontent.com/Yc5lCFD_Vm694m_2Yk7QT0KVxfXGVyNLoreJOFKy03kBEnTkEsSf2lAxy8TAi745-Q",
       "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmango&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.zykj.princessknight",
+      "title": "드래곤 퇴치",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/WBTABM0AudvgsQzE4Jt6rOxr7uaImipT4Rn4S55pUQMGB1l2do39t0w1azmmFuTfhqY0sqRa5jl3b97CAZ1Y",
+      "url": "https://play.google.com/store/apps/details?id=com.zykj.princessknight&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.moonactive.holestars",
+      "title": "Hole Stars: 퍼즐 게임",
+      "developer": "Moon Active",
+      "icon": "https://play-lh.googleusercontent.com/FNCz82sncnDjBLqJyHmQZEuHFVxbQIpVuSExCOTCcelqEo654O2z-bUVAFxo0IR5MX3-64UBgqZl7HLq-_3WgQ",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.holestars&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "fi.twomenandadog.zombiecatchers",
+      "title": "Zombie Catchers (좀비 캐쳐)",
+      "developer": "Deca Games",
+      "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
+      "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
       "isGame": true
     },
@@ -4795,15 +4825,6 @@
       "isGame": true
     },
     {
-      "appId": "com.libii.frozenworld",
-      "title": "Paper Princess's Fantasy Life",
-      "developer": "Libii HK Limited",
-      "icon": "https://play-lh.googleusercontent.com/TO7J7N9ppHpXyUkQaLtBFSnr8Y62Mm0PKYMDoiDtsg6tNkMLXx6BoTauFK8NUd6jnks",
-      "url": "https://play.google.com/store/apps/details?id=com.libii.frozenworld&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
       "appId": "com.playrion.airportmanager",
       "title": "Airport Simulator: Plane City",
       "developer": "Playrion",
@@ -4899,24 +4920,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.superplaystudios.dicedreams",
-      "title": "Dice Dreams™️",
-      "developer": "SuperPlay.",
-      "icon": "https://play-lh.googleusercontent.com/5MLgC2WWXcq1Pol8qRAXOKzIJY9qySkjF43DnWyd5F9fPj_heinHeIxvgIpPQwcaQ1w-mUzUmoP1Xeslf29irg",
-      "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.dicedreams&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.ldw.vv6",
-      "title": "Virtual Villagers 6",
-      "developer": "Last Day of Work, LLC",
-      "icon": "https://play-lh.googleusercontent.com/mC8C_3T5t6jpxUTErfUnyjmmFGqzt7AqpuP5-lKVYd3yk3Wa3ksuhw8ZgfqBXPexmQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ldw.vv6&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
