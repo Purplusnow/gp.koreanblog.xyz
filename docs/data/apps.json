@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T19:07:38.726Z",
+  "updatedAt": "2026-05-21T21:44:30.078Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1227,7 +1227,10 @@
     "com.h73.jhqyna",
     "com.media720.games2020",
     "com.playdigious.northgard",
-    "com.bandainamcoent.gundamucengage_ww"
+    "com.bandainamcoent.gundamucengage_ww",
+    "com.vitastudio.solitaire",
+    "com.wemade.nightcrows",
+    "com.sports.real.golf.rival.online"
   ],
   "items": [
     {
@@ -1281,6 +1284,33 @@
       "developer": "Bandai Namco Entertainment Inc.",
       "icon": "https://play-lh.googleusercontent.com/_oMwneG8w4bNsPZjQYk1j1yDcVh5jQLin2gYrYIf7cC9Tl9xLzUj5AUjAGYFjv1CA_OnWW2cPjVbslViBPK9bGc",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gundamucengage_ww&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.vitastudio.solitaire",
+      "title": "Vita Solitaire for Seniors",
+      "developer": "Vita Studio.",
+      "icon": "https://play-lh.googleusercontent.com/zugvpGQ6r3ruK8szB4x7DjP8E9ykqkbk21VwsTwYyYpqVVjudni4_nFbt4Oc1AgSFmc",
+      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.solitaire&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.wemade.nightcrows",
+      "title": "나이트 크로우",
+      "developer": "Wemade Co., Ltd",
+      "icon": "https://play-lh.googleusercontent.com/TjjQk-u1yoZ-9pWHa6vMqY46rN7NhyVGVrb9yZ54nJdzj8U1LwsWj91KzJFKwRliFg",
+      "url": "https://play.google.com/store/apps/details?id=com.wemade.nightcrows&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.sports.real.golf.rival.online",
+      "title": "Golf Rival",
+      "developer": "Zynga",
+      "icon": "https://play-lh.googleusercontent.com/WWz5qGVgkSI0inGsVG0n0zTa-DKh8s-sA0fZAGCDl9i7cbKm0SslseUxIuEPRA0Yvuhptn5jxiXk3hjAKdNk",
+      "url": "https://play.google.com/store/apps/details?id=com.sports.real.golf.rival.online&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
       "isGame": true
     },
@@ -4741,24 +4771,6 @@
       "isGame": true
     },
     {
-      "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "title": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
-      "developer": "RV AppStudios",
-      "icon": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.baby.toddler.kids.games.learning.activity&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.imaginalis.HouseFlipperMobile",
-      "title": "하우스 플리퍼: 홈 디자인",
-      "developer": "PlayWay SA",
-      "icon": "https://play-lh.googleusercontent.com/rwjr3-VaimKfX7UOIyB5gTm2bt9WxfOFNgzBLOHAytg9DXly0FjVZrbNInlUQMEue2MgYz-X6LYBc6yL68wwn1U",
-      "url": "https://play.google.com/store/apps/details?id=com.imaginalis.HouseFlipperMobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
       "appId": "com.budgestudios.googleplay.HotWheelsUnlimited",
       "title": "Hot Wheels Unlimited",
       "developer": "Budge Studios",
@@ -4881,15 +4893,6 @@
       "developer": "RiverGame",
       "icon": "https://play-lh.googleusercontent.com/fOjnoESqo-wJBALK_Kv3c8ly6p2Ta5ijmEaB8DvLZuXNwiJ2U2uBEJ3bcoYKA9IRrvAj",
       "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.dramaton.dolls",
-      "title": "Go! Dolliz: 인형 언박싱 및 드레스업",
-      "developer": "Dramaton",
-      "icon": "https://play-lh.googleusercontent.com/jf1yEk0b9bxVs6uW7ov9dVokR4HrFVwk9pk9bjOAFNqf4cejzsDk_vc6I0Ye5ya6aOg",
-      "url": "https://play.google.com/store/apps/details?id=com.dramaton.dolls&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
