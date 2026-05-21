@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T23:23:20.840Z",
+  "updatedAt": "2026-05-21T04:38:52.684Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1204,7 +1204,21 @@
     "com.asobimo.avabel_gp_b3",
     "com.sandboxol.blockymods",
     "com.miniclip.basketballstars",
-    "com.edkongames.mobs"
+    "com.edkongames.mobs",
+    "com.amanotes.duetfriends",
+    "me.pou.app",
+    "com.thg.d",
+    "com.luckyspingames.merge2",
+    "hidden.object.find.seek.search.mystery.puzzle.games.free",
+    "com.robtopx.geometryjump",
+    "jp.co.capcom.sf4ce",
+    "com.zeptolab.bulletecho.google",
+    "com.wildlifestudios.free.online.games.suspects",
+    "io.voodoo.paper2",
+    "com.com2us.futuremlb.android.google.global.normal",
+    "com.gameinsight.gobandroid",
+    "com.nebulajoy.act.dmcpoc.asia",
+    "com.squareenixmontreal.hitmango"
   ],
   "items": [
     {
@@ -1294,6 +1308,132 @@
       "developer": "Edkon Games GmbH",
       "icon": "https://play-lh.googleusercontent.com/YZnqvKDGCILAzvfT-bmYfiH6Msvt_xc1XJ7wQzM1IjZ_nl8i0Al3i5YWBNszhdkhMUY",
       "url": "https://play.google.com/store/apps/details?id=com.edkongames.mobs&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.amanotes.duetfriends",
+      "title": "Duet Friends: 귀여운 동물 음악 게임",
+      "developer": "AMANOTES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/cik44rG0c2-G_x8gaH-DUCVHDkjDLt7tNFAetX3P8sSTwaWeAi5FPIVAAS7wYS09hmU",
+      "url": "https://play.google.com/store/apps/details?id=com.amanotes.duetfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "me.pou.app",
+      "title": "Pou",
+      "developer": "Zakeh",
+      "icon": "https://play-lh.googleusercontent.com/xToRFw-mqA18HtizgutV0K1IouakfR8iJ3PW75u-1n1oxbP7hVfBMlgHWIwuUYKKS_s",
+      "url": "https://play.google.com/store/apps/details?id=me.pou.app&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.thg.d",
+      "title": "챔피언 스트라이크 - PvP 아레나",
+      "developer": "Two Hands Games",
+      "icon": "https://play-lh.googleusercontent.com/2C9O8tK-sCCcPmOsRv0sMF4aWWEModtnhErGYyVNSODtCqS2ZNyX_SZQoOGmG54o1JfhEkEmU9zP_ge3qEJ_WA",
+      "url": "https://play.google.com/store/apps/details?id=com.thg.d&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.luckyspingames.merge2",
+      "title": "Merge Treasure Hunt",
+      "developer": "Lucky Spin Games",
+      "icon": "https://play-lh.googleusercontent.com/HIZ0xTTajoSuM7_GJH8mhZ8P6QQJNZyGBQR2EIAA_eDrKfx4DuICAepReQcEwrao4kJMBPeSoELgSmK7WYpdOQ",
+      "url": "https://play.google.com/store/apps/details?id=com.luckyspingames.merge2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "hidden.object.find.seek.search.mystery.puzzle.games.free",
+      "title": "숨은그림찾기 게임: Seek It",
+      "developer": "NimbleMind Network Inc.",
+      "icon": "https://play-lh.googleusercontent.com/wjlDWPj_fLATFob1nDPcGy_6EEEOZwpM1tjHQnVdvzJTuHJe5y0UH173Siz1oWjGuA",
+      "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.robtopx.geometryjump",
+      "title": "Geometry Dash",
+      "developer": "RobTop Games",
+      "icon": "https://play-lh.googleusercontent.com/ixHXzBWPmmKWIBxDMfjbIXK10UQCTDvIYOcs_uLXHCRbdsz2siJFYfb7MqckU8eC3Ks",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjump&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "jp.co.capcom.sf4ce",
+      "title": "Street Fighter IV CE",
+      "developer": "CAPCOM CO., LTD.",
+      "icon": "https://play-lh.googleusercontent.com/8oEqWvaiUX6genNzGqe31c8FfWRnZz-KXfqnwJ8qLUGy1_XmA_XQ1BtYTm_X3JIimFdv",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.capcom.sf4ce&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.zeptolab.bulletecho.google",
+      "title": "불릿 에코",
+      "developer": "ZeptoLab",
+      "icon": "https://play-lh.googleusercontent.com/Rkz2MrSLKuN3EG7odvoj5B025V8V2aL5W-TKGvczmUw1b07SLn8W6-1FEG2ly6izydhm2Nocd1lJhZp008oQwA",
+      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.bulletecho.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildlifestudios.free.online.games.suspects",
+      "title": "용의자들: 미스테리 맨션 (Suspects)",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/pTwou7SJK6HsLV3yAYSf5bAqnueMv08xP-TSzvoLAbBnaJ0xrirqsa5NUlugFGTJ_oaB",
+      "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.free.online.games.suspects&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "io.voodoo.paper2",
+      "title": "Paper.io 2",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/VLNMnYux_aq-VLdWuwXGSGqxBlVZUh0LQvUZrc58tDLvuK08CITp9WzT8638iACsYGgTS9BSe-XMZA5_fufZ",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.futuremlb.android.google.global.normal",
+      "title": "MLB 9이닝스 라이벌 26",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/H9o9BAmZopoJ_1NH1eCqspX57dJhqUsgHZdWlbivsTH2T-1jn-PX3cUObfNPpsjZmA6yx5pchQfp3-X2EnEd8g",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.futuremlb.android.google.global.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.gameinsight.gobandroid",
+      "title": "Guns of Boom",
+      "developer": "Game Insight",
+      "icon": "https://play-lh.googleusercontent.com/0Rqh-hgkf10RQ_EjDy8U0oEFZxDO3ouKoIrgVRAWHZlbX_bHWkhxcazeuYI8wJxHBg",
+      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.gobandroid&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.nebulajoy.act.dmcpoc.asia",
+      "title": "데빌메이크라이: 피크 오브 컴뱃",
+      "developer": "nebulajoy",
+      "icon": "https://play-lh.googleusercontent.com/4QrFwSOYiO8Vex_qxcxm5Gtyz9fIbmt18KY85dBUPgaawLDK_A1KIkTcZxgU6dZ9BC_9E4JvG-95aQU0m38A",
+      "url": "https://play.google.com/store/apps/details?id=com.nebulajoy.act.dmcpoc.asia&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.squareenixmontreal.hitmango",
+      "title": "Hitman GO",
+      "developer": "Deca Games",
+      "icon": "https://play-lh.googleusercontent.com/Yc5lCFD_Vm694m_2Yk7QT0KVxfXGVyNLoreJOFKy03kBEnTkEsSf2lAxy8TAi745-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmango&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
       "isGame": true
     },
@@ -4759,132 +4899,6 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/_ocPd2cOaJUvE8cCFsq-co5DBJO6bcAXXmcp6PGyTh9DqIqvo0Tgtx_dnVTz2Edz7MhUJbX7wJcmiPUGxHDG310",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.tile.match.blockpuzzle",
-      "title": "Tile Family® - 퍼즐 게임",
-      "developer": "Playflux",
-      "icon": "https://play-lh.googleusercontent.com/OkULCwX5BY0_u2AzIriMhR263bIgNXDyvfdOG-Qz1m2rFHvmmQW1IAJKursJgStYpJk",
-      "url": "https://play.google.com/store/apps/details?id=com.tile.match.blockpuzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.abi.skewer.sort",
-      "title": "Foodie Sizzle: 푸디 시즐",
-      "developer": "ABI GAMES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/qhBLI38PNQ7Jpv18mludll5bjepLoP7s2gKwpCEVhTY-SGvK6BW1mthbIEL44oqM6_c",
-      "url": "https://play.google.com/store/apps/details?id=com.abi.skewer.sort&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
-      "title": "타일 매치 - 트리플 퍼즐",
-      "developer": "PlaySimple Games",
-      "icon": "https://play-lh.googleusercontent.com/g1zZS63i7Y9_wi-wINFWhTX6wvCWotL5OZSZN4bhhvSfgUI0lakdmQVYegHNg4GoAA",
-      "url": "https://play.google.com/store/apps/details?id=in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.visionstudio.tilevacation",
-      "title": "Tile Vacation - Triple Match",
-      "developer": "VisionStudio(HK)",
-      "icon": "https://play-lh.googleusercontent.com/s8kKJIUT7IqtbPDqjaVIGhpzEEg7uPMBeq2SFZsG07uH25_9Th3B7EhKwNz7uv5-nA",
-      "url": "https://play.google.com/store/apps/details?id=com.visionstudio.tilevacation&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.exoticmatch.game",
-      "title": "Zen Match",
-      "developer": "Moon Active",
-      "icon": "https://play-lh.googleusercontent.com/3egWC9bantIWkHK0b75eNDz0RTH4uUyqwf3giquyQXPVgVeCB0vn_m8N4SAUEQVGAxo",
-      "url": "https://play.google.com/store/apps/details?id=com.exoticmatch.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.fotoable.mergetown",
-      "title": "머지스토리 (Mergical) -펀 매치 아일랜드 게임",
-      "developer": "BETTA GAMES",
-      "icon": "https://play-lh.googleusercontent.com/1XWbvsHs8eWYhdRREqw85dubc72fdWPbBcqZMm0wp-PhWIWnjUt8emlR6qU81jqU5WtM7HCmoMwvnQst3xPTO0s",
-      "url": "https://play.google.com/store/apps/details?id=com.fotoable.mergetown&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.matchfamliy3d.tirple.match.gp",
-      "title": "3D 매치 마스터",
-      "developer": "PuzzleLoft",
-      "icon": "https://play-lh.googleusercontent.com/lF-qTAVpuRu3dvaFG3CVbC5UA_kmztHpkfPLYb_IAXIhVjHIV5SYQdaRHrnO5S05",
-      "url": "https://play.google.com/store/apps/details?id=com.matchfamliy3d.tirple.match.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.sgn.pandapop.gp",
-      "title": "Panda Pop- 판다 팝",
-      "developer": "Jam City, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/zFJ5I5ux1MhvpNRZ99oSgkvB5E3V84h5sQHIJnwJDw1hr0-gmN6dPLXlXEsMxaal0Lg",
-      "url": "https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.tilegarden.match3",
-      "title": "Tile Garden: 3매치 퍼즐",
-      "developer": "Lion Studios",
-      "icon": "https://play-lh.googleusercontent.com/3e4BqJbTsdyO2gsbppZvPpNDnHwKS3lOViVvQ3d5mn_C-ZtybS-mAbMKOTXwAyE4cZdZ",
-      "url": "https://play.google.com/store/apps/details?id=com.tilegarden.match3&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.cooking.kitchen.games.girls.kids.food",
-      "title": ";아이들을 위한 요리 게임",
-      "developer": "Timpy Games For Kids, Toddlers & Baby",
-      "icon": "https://play-lh.googleusercontent.com/A_n0HdqBmsLEdGCVIEdGE1HGMEP71tUeyEWxcUkAUWae8qg6_Q0DyBHqzWFgwn3f5CI",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.cooking.kitchen.games.girls.kids.food&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.me2zen.tripeaks.v4.and",
-      "title": "솔리테르 트라이픽스 팜 어드벤처",
-      "developer": "Ghost Studio Company",
-      "icon": "https://play-lh.googleusercontent.com/AvcN3cwecmeH955n4watOl6QKEV9__VCP4jQLAkS4h7gg4MU-qVxjk7O18NDVYEx9LFM7UQdsHH-fefrna892Q",
-      "url": "https://play.google.com/store/apps/details?id=com.me2zen.tripeaks.v4.and&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.skypeople.finalbladegb",
-      "title": "파이널 블레이드 : 기억을 깨우다",
-      "developer": "(주) 넷플레버",
-      "icon": "https://play-lh.googleusercontent.com/vKu1NXS-mWEuQ7AFQ5FbXvq9x5-9VGdJ7dXQGHX4xYxMmXMkpdPrtaymj25lMRkbSivt1TqzJEO_rMWPg7j6lg",
-      "url": "https://play.google.com/store/apps/details?id=com.skypeople.finalbladegb&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.oxiwyle.modernage2",
-      "title": "모던 에이지 2",
-      "developer": "Oxiwyle Inc",
-      "icon": "https://play-lh.googleusercontent.com/ragmbrEcludGKFIQpeAAxx6Zdgy4yxdvTBhBXecLNB5qLZHecrwqhaoMKIoeIG78e98",
-      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.deuscraft.TurboTeam",
-      "title": "그랜드 호텔 마니아: 호텔 게임",
-      "developer": "DeusCraft",
-      "icon": "https://play-lh.googleusercontent.com/rJRWyLUC5UCWZxSyq0lzaXV5XEUf_7gjrNWFkP07rGE1js1KlhX1YL52qPOhSTo_qK0OQ7z-FjxMJkGE348EiDc",
-      "url": "https://play.google.com/store/apps/details?id=com.deuscraft.TurboTeam&hl=ko&gl=KR",
       "discoveredDate": "2026-04-08",
       "isGame": true
     },
