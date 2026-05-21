@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T16:22:15.228Z",
+  "updatedAt": "2026-05-21T19:07:38.726Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1221,9 +1221,69 @@
     "com.squareenixmontreal.hitmango",
     "com.zykj.princessknight",
     "com.moonactive.holestars",
-    "fi.twomenandadog.zombiecatchers"
+    "fi.twomenandadog.zombiecatchers",
+    "com.zepetto.theoutlaw",
+    "com.pazugames.chicbaby2",
+    "com.h73.jhqyna",
+    "com.media720.games2020",
+    "com.playdigious.northgard",
+    "com.bandainamcoent.gundamucengage_ww"
   ],
   "items": [
+    {
+      "appId": "com.zepetto.theoutlaw",
+      "title": "Outlaw-Real Time Shooting Game",
+      "developer": "Zepetto Co",
+      "icon": "https://play-lh.googleusercontent.com/_No-PXSljXfHV8FlhY_KB68ewcfctqvR08xJXfllWjaUb6nEwhWDIYaPmHczyNUmVQ",
+      "url": "https://play.google.com/store/apps/details?id=com.zepetto.theoutlaw&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.pazugames.chicbaby2",
+      "title": "베이비 케어 : 아기 게임 - 옷 입히기 게임",
+      "developer": "Pazu Games",
+      "icon": "https://play-lh.googleusercontent.com/GbyOcid9rrysN22a37DJocO9bI4PBxuKei9saU6GRsqi1nX1uIRwiEHARSykltzAfZg",
+      "url": "https://play.google.com/store/apps/details?id=com.pazugames.chicbaby2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.h73.jhqyna",
+      "title": "Once Human",
+      "developer": "Exptional Global",
+      "icon": "https://play-lh.googleusercontent.com/0-94hjDsVyTjm0Jic6AP8wVbuSb4SCrrxcZnQDJ5YgNHukFjG-g6C1yMlGmuYDsJW3Pdva4Iqrp9ox5GPFpj-HU",
+      "url": "https://play.google.com/store/apps/details?id=com.h73.jhqyna&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.media720.games2020",
+      "title": "와이파이 필요없는 게임 - 오프라인 게임 100+",
+      "developer": "Fun Offline Games",
+      "icon": "https://play-lh.googleusercontent.com/V9r9XbUk5njQHiag_eBmx-MuADSz2Bp4gReReTR_zyj5BFfYS-wTF2UzgpAhLD9s7Q",
+      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.playdigious.northgard",
+      "title": "노르트가르드 - Northgard",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/A_7LZ3GLOrscdIf0rTSC3MjGZmGvKQ5u-hpUTAtE-3YyhYGATMBLdBWd2TP1F-a-Kw",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.northgard&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.gundamucengage_ww",
+      "title": "MOBILE SUIT GUNDAM U.C. ENGAGE",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/_oMwneG8w4bNsPZjQYk1j1yDcVh5jQLin2gYrYIf7cC9Tl9xLzUj5AUjAGYFjv1CA_OnWW2cPjVbslViBPK9bGc",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gundamucengage_ww&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
     {
       "appId": "com.arumgames.solitareword",
       "title": "King of Solitaire: Word Puzzle",
@@ -4821,60 +4881,6 @@
       "developer": "RiverGame",
       "icon": "https://play-lh.googleusercontent.com/fOjnoESqo-wJBALK_Kv3c8ly6p2Ta5ijmEaB8DvLZuXNwiJ2U2uBEJ3bcoYKA9IRrvAj",
       "url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.playrion.airportmanager",
-      "title": "Airport Simulator: Plane City",
-      "developer": "Playrion",
-      "icon": "https://play-lh.googleusercontent.com/qMUliIp0psJRpzVmKcyifkDW3qEKRxIGhA-AQlj5ucqVALKOKaMIsWimEo0AAsDN_g",
-      "url": "https://play.google.com/store/apps/details?id=com.playrion.airportmanager&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.monstronauts.potionpunch2",
-      "title": "포션 펀치 2: 판타지 쿠킹 어드벤처",
-      "developer": "Monstronauts Inc.",
-      "icon": "https://play-lh.googleusercontent.com/8NBNGfX3EahQZm9CA7ai0-BnwwBv5OcglpfDVFN3x18OJZe-AbWQorxpUuQs9v8QL8tnOyIQimgJZ3ABRZ0emMo",
-      "url": "https://play.google.com/store/apps/details?id=com.monstronauts.potionpunch2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.lockwoodpublishing.avakinlife",
-      "title": "Avakin Life - 3차원 가상 세계",
-      "developer": "Lockwood Publishing Ltd",
-      "icon": "https://play-lh.googleusercontent.com/UBpCn5aNhexoCFyR4nnmhpWPrt6D68FtjQHVdtuaYX3n-jor9vAiHqD0RstOMBcTqQ",
-      "url": "https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games",
-      "title": "어린이를 위한 아이스크림 가게 게임",
-      "developer": "IDZ Digital Private Limited",
-      "icon": "https://play-lh.googleusercontent.com/7ddLlPdbdd44blqhZpoJP4ku-jETd01BXVccSdIJher1zOO3bQYi000hC8MXd5ihPBG1",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.ice.cream.shop.strawberry.popsicle.maker.truck.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.my.tizi.town.grandparents.home.family.house",
-      "title": "나의 티지 타운 조부모님 집",
-      "developer": "Tizi Town Games",
-      "icon": "https://play-lh.googleusercontent.com/UDVUKAFU7r56LXT3JGiaABuRA8epyl96eVaVssrJyYry9kFGbJemQkYRNe3hUJmjiMU",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.my.tizi.town.grandparents.home.family.house&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.kingdomrushorigins",
-      "title": "Kingdom Rush Origins - 타워 디펜스",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/2hNzc7d58P7N47mBn_eQ1MhgmCx-M6da60mtANe_XV21V8uq83ib02Fp21lHou-T_Wk",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushorigins&hl=ko&gl=KR",
       "discoveredDate": "2026-04-09",
       "isGame": true
     },
