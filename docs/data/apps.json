@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T15:16:07.582Z",
+  "updatedAt": "2026-05-22T18:00:04.227Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1232,7 +1232,8 @@
     "com.wemade.nightcrows",
     "com.sports.real.golf.rival.online",
     "com.heatherglade.idleguy",
-    "com.DoorTeam.BagMaster"
+    "com.DoorTeam.BagMaster",
+    "com.halfbrick.fruitninjax"
   ],
   "items": [
     {
@@ -1241,6 +1242,15 @@
       "developer": "SayGames Ltd",
       "icon": "https://play-lh.googleusercontent.com/kGmUB8gwkJIjfQHF-G3TFtyZG_JWJT2dgpVBXdBuoPZkYMS5PS4ZTAWMmpxn3Fzgew",
       "url": "https://play.google.com/store/apps/details?id=com.DoorTeam.BagMaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.halfbrick.fruitninjax",
+      "title": "Fruit Ninja 2 - 재밌는 액션 게임",
+      "developer": "Halfbrick Studios",
+      "icon": "https://play-lh.googleusercontent.com/_w8JmeRf8R4UxCUVxWp_RFx4XkV3mREEu9NUdrx5BZa3t1B8WsctgTw33RPnSAAiJA",
+      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjax&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
       "isGame": true
     },
@@ -4787,15 +4797,6 @@
       "developer": "DiGiMi Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
       "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg",
-      "title": "더 디비전 리서전스",
-      "developer": "Ubisoft Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/5N8G-P7HYt3S8tkLWG0KX4GyV4L9uPEsZ5_d4vvpGuZPszEQMVUlu1rTbL81s1ZQoQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
