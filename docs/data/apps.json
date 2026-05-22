@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T20:02:44.090Z",
+  "updatedAt": "2026-05-22T21:21:06.703Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1233,7 +1233,8 @@
     "com.sports.real.golf.rival.online",
     "com.heatherglade.idleguy",
     "com.DoorTeam.BagMaster",
-    "com.halfbrick.fruitninjax"
+    "com.halfbrick.fruitninjax",
+    "net.wargaming.wows.blitz"
   ],
   "items": [
     {
@@ -1251,6 +1252,15 @@
       "developer": "Halfbrick Studios",
       "icon": "https://play-lh.googleusercontent.com/_w8JmeRf8R4UxCUVxWp_RFx4XkV3mREEu9NUdrx5BZa3t1B8WsctgTw33RPnSAAiJA",
       "url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjax&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
+    {
+      "appId": "net.wargaming.wows.blitz",
+      "title": "월드 오브 워쉽 블리츠",
+      "developer": "Wargaming Group",
+      "icon": "https://play-lh.googleusercontent.com/NghP0EeXNyIYWaZhommMKRdL9Liba7sxqGgG7tZC3-DPIlwb9VUKMjbKzdCZyFuHMxl_",
+      "url": "https://play.google.com/store/apps/details?id=net.wargaming.wows.blitz&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
       "isGame": true
     },
@@ -4797,15 +4807,6 @@
       "developer": "DiGiMi Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
       "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.scopely.yux",
-      "title": "Yahtzee® With Buddies Dice Fun",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/NekSJag3GNUdq5sDuP3ex91yTrTrF5mhhpQ29zSN8mpeWoTZX6zTKqRnpRRaNhOHL2Nc",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.yux&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
