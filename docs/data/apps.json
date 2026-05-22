@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T23:13:13.049Z",
+  "updatedAt": "2026-05-22T04:23:43.467Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1230,7 +1230,8 @@
     "com.bandainamcoent.gundamucengage_ww",
     "com.vitastudio.solitaire",
     "com.wemade.nightcrows",
-    "com.sports.real.golf.rival.online"
+    "com.sports.real.golf.rival.online",
+    "com.heatherglade.idleguy"
   ],
   "items": [
     {
@@ -1311,6 +1312,15 @@
       "developer": "Zynga",
       "icon": "https://play-lh.googleusercontent.com/WWz5qGVgkSI0inGsVG0n0zTa-DKh8s-sA0fZAGCDl9i7cbKm0SslseUxIuEPRA0Yvuhptn5jxiXk3hjAKdNk",
       "url": "https://play.google.com/store/apps/details?id=com.sports.real.golf.rival.online&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.heatherglade.idleguy",
+      "title": "Idle Guy: 방치형 타이쿤 시뮬레이션 게임",
+      "developer": "Heatherglade Publishing",
+      "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
+      "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
       "isGame": true
     },
@@ -4767,15 +4777,6 @@
       "developer": "DiGiMi Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
       "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.googleplay.HotWheelsUnlimited",
-      "title": "Hot Wheels Unlimited",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/OUJIeWLhJxmUGRK-TFbPl6GuuPU-0cMp-La08QfSEnaM-0UEvMOpB4qywJv5NRKnvqQ-c1FkJ2eT2CDrrnLj2A",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.HotWheelsUnlimited&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
