@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T11:52:23.427Z",
+  "updatedAt": "2026-05-22T15:16:07.582Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1231,9 +1231,19 @@
     "com.vitastudio.solitaire",
     "com.wemade.nightcrows",
     "com.sports.real.golf.rival.online",
-    "com.heatherglade.idleguy"
+    "com.heatherglade.idleguy",
+    "com.DoorTeam.BagMaster"
   ],
   "items": [
+    {
+      "appId": "com.DoorTeam.BagMaster",
+      "title": "이세계 백마스터 (BagMaster Isekai)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/kGmUB8gwkJIjfQHF-G3TFtyZG_JWJT2dgpVBXdBuoPZkYMS5PS4ZTAWMmpxn3Fzgew",
+      "url": "https://play.google.com/store/apps/details?id=com.DoorTeam.BagMaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
     {
       "appId": "com.zepetto.theoutlaw",
       "title": "Outlaw-Real Time Shooting Game",
@@ -4777,15 +4787,6 @@
       "developer": "DiGiMi Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
       "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixio.google.mtd",
-      "title": "Summoners Greed: Idle TD Hero",
-      "developer": "PIXIO",
-      "icon": "https://play-lh.googleusercontent.com/H9vUKoDQk6myoo09zRDUM6_vAAidPEbKlhxPSKxZXsXfbjTSNw6VOb8QBuI1Cx7el4mMCfgQNpZ5lUBsZedKsw",
-      "url": "https://play.google.com/store/apps/details?id=com.pixio.google.mtd&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
