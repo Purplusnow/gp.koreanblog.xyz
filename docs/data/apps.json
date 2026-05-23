@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T09:08:46.253Z",
+  "updatedAt": "2026-05-23T11:21:40.853Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1234,7 +1234,8 @@
     "com.heatherglade.idleguy",
     "com.DoorTeam.BagMaster",
     "com.halfbrick.fruitninjax",
-    "net.wargaming.wows.blitz"
+    "net.wargaming.wows.blitz",
+    "com.sinyee.babybus.meet"
   ],
   "items": [
     {
@@ -1261,6 +1262,15 @@
       "developer": "Wargaming Group",
       "icon": "https://play-lh.googleusercontent.com/NghP0EeXNyIYWaZhommMKRdL9Liba7sxqGgG7tZC3-DPIlwb9VUKMjbKzdCZyFuHMxl_",
       "url": "https://play.google.com/store/apps/details?id=net.wargaming.wows.blitz&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.meet",
+      "title": "아기팬더의 키즈파티",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/8rclYcnt_7edCdJKjKByT5wEtPtN0D0L_plh8oPZPj686iU40IhS-wVUa_avYGIk6Js7",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.meet&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
       "isGame": true
     },
@@ -4807,15 +4817,6 @@
       "developer": "DiGiMi Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
       "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "pocket.tales",
-      "title": "Pocket Tales: 서바이벌 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/mv_oOKrg7q2bqUT3PX_cq85FrN-OiRGNtKDpHL1DIfFFRWFyfETB73nYdvF_3gM15bBK",
-      "url": "https://play.google.com/store/apps/details?id=pocket.tales&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
