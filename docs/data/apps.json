@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T11:21:40.853Z",
+  "updatedAt": "2026-05-23T13:58:27.808Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1235,7 +1235,10 @@
     "com.DoorTeam.BagMaster",
     "com.halfbrick.fruitninjax",
     "net.wargaming.wows.blitz",
-    "com.sinyee.babybus.meet"
+    "com.sinyee.babybus.meet",
+    "com.mobirix.projectdf1",
+    "com.wildsky.wildcastle",
+    "com.gear2.growslayer"
   ],
   "items": [
     {
@@ -1271,6 +1274,33 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/8rclYcnt_7edCdJKjKByT5wEtPtN0D0L_plh8oPZPj686iU40IhS-wVUa_avYGIk6Js7",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.meet&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.projectdf1",
+      "title": "슉슉 용병단",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/Wqs8nKKJXUU5BOkGy89KApsHhHYYwb5cy_xGk4h3Zp1LU3NtfVl45YSPKWGEYRbDSB0",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.projectdf1&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.wildsky.wildcastle",
+      "title": "와일드 캐슬 TD - 왕국 건설 타워 디펜스",
+      "developer": "Funovus",
+      "icon": "https://play-lh.googleusercontent.com/wL8Nfir9O9LehuGb76AQtV7AlKZgK-khe3UwccW0EzsWO0cSLZqNurmBfnQC5pSNBcOw",
+      "url": "https://play.google.com/store/apps/details?id=com.wildsky.wildcastle&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.gear2.growslayer",
+      "title": "슬레이어 키우기",
+      "developer": "GEAR2",
+      "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
+      "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
       "isGame": true
     },
@@ -4817,33 +4847,6 @@
       "developer": "DiGiMi Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CVTfiNOynXKggRnFMFSAE5ak6Z20kj0kaT_9y5zGODMm6ZLb1tzERLB9guVpTgtTzg4",
       "url": "https://play.google.com/store/apps/details?id=io.playville&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.everywear.game5",
-      "title": "머지 맨션: 퍼즐과 스토리",
-      "developer": "Metacore Games Oy",
-      "icon": "https://play-lh.googleusercontent.com/-h5raJwvlwUJO5AeAW6uEwlsu53q19Njzg5d24StRCZCFVnRy-8gbQgUQWNEQQk6qOiA",
-      "url": "https://play.google.com/store/apps/details?id=com.everywear.game5&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.game.btjkr.and",
-      "title": "영혼 인도자：신의 이름으로",
-      "developer": "PLAY CAT NETWORK TECHNOLOGY CO., LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/bqkLzXeH27p4NRhCedB1qaNbHPB4CrLcn-T3MHeB2xDSN-gG5LNT_oWIvqO3HgDJhyiKGQItus-8jV6NM_vciw",
-      "url": "https://play.google.com/store/apps/details?id=com.game.btjkr.and&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.stickman.fight.shadow.knights",
-      "title": "쉐도우 나이트: 닌자 격투 액션 게임",
-      "developer": "Fansipan Limited",
-      "icon": "https://play-lh.googleusercontent.com/k_MbxGGlQ2QNMJPILEgKzXgA-mxUDbjj_rVVO46eByhnK9FGN3segMRnc0m96j2oOw",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.fight.shadow.knights&hl=ko&gl=KR",
       "discoveredDate": "2026-04-10",
       "isGame": true
     },
