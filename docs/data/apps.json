@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T21:07:54.584Z",
+  "updatedAt": "2026-05-24T23:07:28.647Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1246,7 +1246,8 @@
     "com.goh.daya.ydonline",
     "com.bilibilihk.jujutsuphanparagp",
     "com.feralinteractive.hitmanabsolution_android",
-    "zombie.survival.dead.shooting"
+    "zombie.survival.dead.shooting",
+    "com.budgestudios.HelloKittyLunchBox"
   ],
   "items": [
     {
@@ -1264,6 +1265,15 @@
       "developer": "VNGGames Studios",
       "icon": "https://play-lh.googleusercontent.com/5gq8zhR_WBiZ_HIoE86uH3Dt8h6ZOsU7StqvuDqequL59wGVo-_LdziYYyuksr2BWge2",
       "url": "https://play.google.com/store/apps/details?id=zombie.survival.dead.shooting&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.budgestudios.HelloKittyLunchBox",
+      "title": "Hello Kitty 런치박스",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/vcByLHYmerL9zAh1TjhUMVRT9QyOeeqleaH4tXJL7n9Uyii8kloc9_Eq8CpAh19lZMtFM8I7NYIxZCMcd24RZw",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyLunchBox&hl=ko&gl=KR",
       "discoveredDate": "2026-05-25",
       "isGame": true
     },
@@ -4819,15 +4829,6 @@
       "developer": "NC Corporation",
       "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
       "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.game.starwarscapital_row",
-      "title": "스타워즈: 갤럭시 오브 히어로즈",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/Mj31-e7c_aHY96p2t-v-iFji7bPuecSsmDZgO5_5vGq-vvJO_uaB__Nm5j8kylJVfbiXi9rAifJtPbpd7j6P9qo",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
