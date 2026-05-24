@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T10:03:06.700Z",
+  "updatedAt": "2026-05-24T11:38:04.668Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1240,7 +1240,8 @@
     "com.wildsky.wildcastle",
     "com.gear2.growslayer",
     "com.hollywood.merge",
-    "com.higgs.cubemaster3d"
+    "com.higgs.cubemaster3d",
+    "com.gamehivecorp.taptitans2"
   ],
   "items": [
     {
@@ -1258,6 +1259,15 @@
       "developer": "Higgs Studio",
       "icon": "https://play-lh.googleusercontent.com/oh1JXLgbmN4YBEydVaArkN_R4655taBAxASFBjxoThwF0hACqkVbyNviZ1o3yYpCm3ic",
       "url": "https://play.google.com/store/apps/details?id=com.higgs.cubemaster3d&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamehivecorp.taptitans2",
+      "title": "Tap Titans 2 탭타이탄: 방치형 클리커 게임",
+      "developer": "Game Hive Corporation",
+      "icon": "https://play-lh.googleusercontent.com/tCcGJq0I0UlcTx7vUgjEb6DYl5-107PkIIe7lJy0edUqwWnayoqmtmNMaHOx5djvWg",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-24",
       "isGame": true
     },
@@ -4759,15 +4769,6 @@
       "developer": "NC Corporation",
       "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
       "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "merge.clash",
-      "title": "Merge Clash - 타워 디펜스 TD",
-      "developer": "Puzzle Cats",
-      "icon": "https://play-lh.googleusercontent.com/I1XPRtItHeG3uSW4NnWCCed0zC7sjKIFF_6MBdxJQvevbtk_xfIqY0rrjMc2Jz8C2kc",
-      "url": "https://play.google.com/store/apps/details?id=merge.clash&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
