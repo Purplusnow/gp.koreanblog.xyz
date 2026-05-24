@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T15:15:56.771Z",
+  "updatedAt": "2026-05-24T17:13:53.441Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1244,9 +1244,29 @@
     "com.gamehivecorp.taptitans2",
     "com.EightStudio.SpiritKing",
     "com.goh.daya.ydonline",
-    "com.bilibilihk.jujutsuphanparagp"
+    "com.bilibilihk.jujutsuphanparagp",
+    "com.feralinteractive.hitmanabsolution_android",
+    "zombie.survival.dead.shooting"
   ],
   "items": [
+    {
+      "appId": "com.feralinteractive.hitmanabsolution_android",
+      "title": "Hitman: Absolution",
+      "developer": "Feral Interactive",
+      "icon": "https://play-lh.googleusercontent.com/sZ2vcnPx2dGILYDxX4e6VIFZq1lWdBvekVFSGphJa2Lnreo7ghXsaP11nIKq77Rl775JN6zgf7v9whOmKwpWMoY",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanabsolution_android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-25",
+      "isGame": true
+    },
+    {
+      "appId": "zombie.survival.dead.shooting",
+      "title": "Zombie Hunter - 좀비헌터: 오프라인 게임",
+      "developer": "VNGGames Studios",
+      "icon": "https://play-lh.googleusercontent.com/5gq8zhR_WBiZ_HIoE86uH3Dt8h6ZOsU7StqvuDqequL59wGVo-_LdziYYyuksr2BWge2",
+      "url": "https://play.google.com/store/apps/details?id=zombie.survival.dead.shooting&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-25",
+      "isGame": true
+    },
     {
       "appId": "com.hollywood.merge",
       "title": "할리우드 머지",
@@ -4799,24 +4819,6 @@
       "developer": "NC Corporation",
       "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
       "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.tp.pmu3d",
-      "title": "Pick Me Up 3D : 택시 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/_wQVvw-2L_OTMbNyGrQAbanl04c0h_4_pf28kpiQftG-0BJUDGNycQa3yknYToVAyRo",
-      "url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.sherlock.android",
-      "title": "셜록 (Sherlock) - 숨겨진 매치-3 사건록",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/62t4FrK65nCA6xZ-3S8iUklhsiLRkMeDUJJEtkCClvlkrEfKWQq-QpCr4_AXES2zCw",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.sherlock.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
