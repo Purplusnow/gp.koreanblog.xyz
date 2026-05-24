@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T04:23:53.214Z",
+  "updatedAt": "2026-05-24T07:53:19.364Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1239,7 +1239,8 @@
     "com.mobirix.projectdf1",
     "com.wildsky.wildcastle",
     "com.gear2.growslayer",
-    "com.hollywood.merge"
+    "com.hollywood.merge",
+    "com.higgs.cubemaster3d"
   ],
   "items": [
     {
@@ -1248,6 +1249,15 @@
       "developer": "VoyagerOne IE",
       "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
       "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.higgs.cubemaster3d",
+      "title": "큐브 마스터 3D - 매치 3 및 퍼즐 게임",
+      "developer": "Higgs Studio",
+      "icon": "https://play-lh.googleusercontent.com/oh1JXLgbmN4YBEydVaArkN_R4655taBAxASFBjxoThwF0hACqkVbyNviZ1o3yYpCm3ic",
+      "url": "https://play.google.com/store/apps/details?id=com.higgs.cubemaster3d&hl=ko&gl=KR",
       "discoveredDate": "2026-05-24",
       "isGame": true
     },
@@ -4749,15 +4759,6 @@
       "developer": "NC Corporation",
       "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
       "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.smokingguninc.phobies",
-      "title": "포비즈: PVP 카드 배틀",
-      "developer": "Phobies Holdings Inc.",
-      "icon": "https://play-lh.googleusercontent.com/gs-CzRJfXg-k1kHTrcg9euEXgfI3XcyVqu_rV9hzzsJiecx6ZqkEMZzRVsrrzBIAXuw",
-      "url": "https://play.google.com/store/apps/details?id=com.smokingguninc.phobies&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
