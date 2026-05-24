@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T11:38:04.668Z",
+  "updatedAt": "2026-05-24T13:54:32.647Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1241,7 +1241,10 @@
     "com.gear2.growslayer",
     "com.hollywood.merge",
     "com.higgs.cubemaster3d",
-    "com.gamehivecorp.taptitans2"
+    "com.gamehivecorp.taptitans2",
+    "com.EightStudio.SpiritKing",
+    "com.goh.daya.ydonline",
+    "com.bilibilihk.jujutsuphanparagp"
   ],
   "items": [
     {
@@ -1268,6 +1271,33 @@
       "developer": "Game Hive Corporation",
       "icon": "https://play-lh.googleusercontent.com/tCcGJq0I0UlcTx7vUgjEb6DYl5-107PkIIe7lJy0edUqwWnayoqmtmNMaHOx5djvWg",
       "url": "https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.EightStudio.SpiritKing",
+      "title": "멀티 키우기 : 정령킹 키우기",
+      "developer": "Eight Studio",
+      "icon": "https://play-lh.googleusercontent.com/wNJRJyfopmFF6qLqzzuLC5Nbi2KZ4NNH2P4rN2NNE5z42KvpW6ybQtFbrQZPa6-BF4aR",
+      "url": "https://play.google.com/store/apps/details?id=com.EightStudio.SpiritKing&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.goh.daya.ydonline",
+      "title": "갓오브하이스쿨 - 11주년",
+      "developer": "WONCOMZ.INC",
+      "icon": "https://play-lh.googleusercontent.com/ahsfn8yud3XiO6r16hSNy-HILl4t5LYZZCnP9FV3r-7kaK6JD22UNIeQdKjjX7mq949Mr4u3W5GSXdHELgl4",
+      "url": "https://play.google.com/store/apps/details?id=com.goh.daya.ydonline&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.bilibilihk.jujutsuphanparagp",
+      "title": "주술회전 팬텀 퍼레이드",
+      "developer": "BILIBILI",
+      "icon": "https://play-lh.googleusercontent.com/TzQIQ1BlBWMe1kwISA0WyGN1rm59tszIDY5pMnsOw2ztsb3BHj0yIfEQfxrMz9LkFbKS5Bf6fzN8_Y9-HFNd",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibilihk.jujutsuphanparagp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-24",
       "isGame": true
     },
@@ -4769,33 +4799,6 @@
       "developer": "NC Corporation",
       "icon": "https://play-lh.googleusercontent.com/TSJx_-ml28RDZAN1popUnr2G0AKJS8xeoCh975QKOeF21FQl5J5lNCuJmaOi_7ufCYI",
       "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.grand.launcher",
-      "title": "Grand Mobile - 자동차 레이싱 및 오픈 월드",
-      "developer": "Dynamic Technologies TOO",
-      "icon": "https://play-lh.googleusercontent.com/EBfB-66PKQDaQvrq_cpFp1evl3pyqmKx1z0arqV8vaoRwMLZa4pgXfv9qHF9LOEp4niU6t1paRySkGkETvGd8A",
-      "url": "https://play.google.com/store/apps/details?id=com.grand.launcher&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.gp.maddennfl21mobile",
-      "title": "Madden NFL 26 Mobile Football",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/UbORhduMQUweKzNrrhPiw12fyVAAK2__t0aeoVr1wlxkM389duuyo9Gss4GK_kwK9epB-ZxEZUr5L-5cLBtPtuw",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.maddennfl21mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.beauty.tiles.story.makeover.puzzle.match",
-      "title": "Beauty Tiles: Story&Makeover",
-      "developer": "Pexix Inc.",
-      "icon": "https://play-lh.googleusercontent.com/3R411OCCepUzd30OBcvcxt_mHl9O7JgOn4Eg-NJ0mhvt-UPeKhvCvWOwC_-8Eo1x1E_4",
-      "url": "https://play.google.com/store/apps/details?id=com.beauty.tiles.story.makeover.puzzle.match&hl=ko&gl=KR",
       "discoveredDate": "2026-04-11",
       "isGame": true
     },
