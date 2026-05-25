@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T12:42:49.364Z",
+  "updatedAt": "2026-05-25T15:56:28.825Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1248,9 +1248,29 @@
     "com.feralinteractive.hitmanabsolution_android",
     "zombie.survival.dead.shooting",
     "com.budgestudios.HelloKittyLunchBox",
-    "com.machinezone.gow"
+    "com.machinezone.gow",
+    "com.halfbrick.dantheman",
+    "com.madfingergames.legends"
   ],
   "items": [
+    {
+      "appId": "com.halfbrick.dantheman",
+      "title": "Dan the Man: Action Platformer",
+      "developer": "Halfbrick Studios",
+      "icon": "https://play-lh.googleusercontent.com/gdgGr11L1EQ1OnxfTUioG_YDQrNY7a8cTu4sn6a25qYO1EH9tnImT0W72V99Q6pbFuFQ",
+      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.dantheman&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.madfingergames.legends",
+      "title": "섀도우건 레전드 ( Shadowgun Legends)",
+      "developer": "Deca_Games",
+      "icon": "https://play-lh.googleusercontent.com/X5SLlIIihZfy6hcIsY8970M8QE40-3aQ6bVSgYYO52LdBQJOIGvRgsUVEkBGhB2cYGID",
+      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.legends&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-26",
+      "isGame": true
+    },
     {
       "appId": "com.feralinteractive.hitmanabsolution_android",
       "title": "Hitman: Absolution",
@@ -4722,24 +4742,6 @@
       "developer": "Perfeggs",
       "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
       "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.playsome.friendsanddragons",
-      "title": "프랜즈 & 드래곤즈 (Friends & Dragons)",
-      "developer": "Playsome Ltd",
-      "icon": "https://play-lh.googleusercontent.com/ghBozLQrinE8Q3LlioJDqepGt1h3kLWA3p9YBq6VoQS-ds-9ZeOUyCtm-O9o3E7iVF6CXO1aSKmkhNUjpGWjVu4",
-      "url": "https://play.google.com/store/apps/details?id=com.playsome.friendsanddragons&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.monster.slayer.idle.rpg.legends.war.games",
-      "title": "Monster Slayer : 유휴 RPG 게임",
-      "developer": "Fansipan Limited",
-      "icon": "https://play-lh.googleusercontent.com/N-312eR6cQduHMW3IE3jUq2AseVSAQbIoYLAnptktggoqwXPgJfHlHTAczUgqBla9Iw",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.monster.slayer.idle.rpg.legends.war.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-12",
       "isGame": true
     },
