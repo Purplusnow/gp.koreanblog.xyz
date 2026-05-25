@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T23:07:28.647Z",
+  "updatedAt": "2026-05-25T04:46:09.380Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1247,7 +1247,8 @@
     "com.bilibilihk.jujutsuphanparagp",
     "com.feralinteractive.hitmanabsolution_android",
     "zombie.survival.dead.shooting",
-    "com.budgestudios.HelloKittyLunchBox"
+    "com.budgestudios.HelloKittyLunchBox",
+    "com.machinezone.gow"
   ],
   "items": [
     {
@@ -1274,6 +1275,15 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/vcByLHYmerL9zAh1TjhUMVRT9QyOeeqleaH4tXJL7n9Uyii8kloc9_Eq8CpAh19lZMtFM8I7NYIxZCMcd24RZw",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyLunchBox&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.machinezone.gow",
+      "title": "Game of War - Fire Age",
+      "developer": "Epic War",
+      "icon": "https://play-lh.googleusercontent.com/-E0EGITAL2dTH_4WQQiGyXz4uNnC8UrGKn-kbUOVwQ_CYl9Ekr3YajZryo1GgLIzoRZ4",
+      "url": "https://play.google.com/store/apps/details?id=com.machinezone.gow&hl=ko&gl=KR",
       "discoveredDate": "2026-05-25",
       "isGame": true
     },
@@ -4712,15 +4722,6 @@
       "developer": "Perfeggs",
       "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
       "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.gokids.tbdoll",
-      "title": "패션 여자를위한 게임을 드레스. 봉제 의류",
-      "developer": "GoKids! publishing",
-      "icon": "https://play-lh.googleusercontent.com/DOPmVLITNdcRB9-AjR4MrkGhGVtMaKEfl9jHSYYNADxilPqu5ZrB5m47QYAw1poxN5w",
-      "url": "https://play.google.com/store/apps/details?id=com.gokids.tbdoll&hl=ko&gl=KR",
       "discoveredDate": "2026-04-12",
       "isGame": true
     },
