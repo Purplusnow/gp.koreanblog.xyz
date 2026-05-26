@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T23:17:08.504Z",
+  "updatedAt": "2026-05-26T04:20:40.766Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1252,7 +1252,9 @@
     "com.halfbrick.dantheman",
     "com.madfingergames.legends",
     "sniper.gun.zombie.shooting",
-    "com.mgs.sniper1"
+    "com.mgs.sniper1",
+    "com.more.dayzsurvival.gp",
+    "ghost.shooting.sniper.real3d.action.free.android"
   ],
   "items": [
     {
@@ -1288,6 +1290,24 @@
       "developer": "Mobile Gaming Studios Ltd.",
       "icon": "https://play-lh.googleusercontent.com/fY35ZTFl-EboVMxqkzhetdt0_YOnWWXy1H8vrK4tE1GMqgaPqFVUxoM8fXIp9P2FSqo",
       "url": "https://play.google.com/store/apps/details?id=com.mgs.sniper1&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.more.dayzsurvival.gp",
+      "title": "라스트 쉘터: 서바이벌",
+      "developer": "Long Tech Network Limited",
+      "icon": "https://play-lh.googleusercontent.com/-FZNLuhzOh0qYp6cbB588KMGm9P8_z0YArJ3KMW7aT2EbYrmGPlVYNFaqIPzQQnRFEJo",
+      "url": "https://play.google.com/store/apps/details?id=com.more.dayzsurvival.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-26",
+      "isGame": true
+    },
+    {
+      "appId": "ghost.shooting.sniper.real3d.action.free.android",
+      "title": "Ghost Shooting: hunting games",
+      "developer": "BitStrong Games",
+      "icon": "https://play-lh.googleusercontent.com/kdDze2Bd36XpG_REyE7SUQ2mc40f8GvL-6BF4nQLOYH-60JvTSzJMJmP0SHvCMp3K613",
+      "url": "https://play.google.com/store/apps/details?id=ghost.shooting.sniper.real3d.action.free.android&hl=ko&gl=KR",
       "discoveredDate": "2026-05-26",
       "isGame": true
     },
@@ -4762,24 +4782,6 @@
       "developer": "Perfeggs",
       "icon": "https://play-lh.googleusercontent.com/NFOdDrr0nwvkbl9vtD-GKPVOXBHpzGFmXp6qD6sPv_QjjxrgmQmf1vZfVm7GW71Dlw",
       "url": "https://play.google.com/store/apps/details?id=com.hero.may.cry.adventure.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.garden",
-      "title": "아기 팬더의 농장",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/I54loSTc2nDdKIut8_fpI6emBtLdZLWx9KTC65CBAbMXpul_hxuEvLZFr53MbCoGAb0",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.garden&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.merge.hometown",
-      "title": "HomeTown: 병합 퍼즐 게임",
-      "developer": "GamesTown",
-      "icon": "https://play-lh.googleusercontent.com/BTxW1F_ZMAgKN47e2wTZW--h6_OwgiVNS0yKP2N3oRWSu-fvzUQozidaI2Z7gAOcxfdFgF0WRNQevFEIyVhHqw",
-      "url": "https://play.google.com/store/apps/details?id=com.merge.hometown&hl=ko&gl=KR",
       "discoveredDate": "2026-04-12",
       "isGame": true
     },
