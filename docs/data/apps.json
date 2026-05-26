@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T04:20:40.766Z",
+  "updatedAt": "2026-05-26T08:40:01.990Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1254,7 +1254,8 @@
     "sniper.gun.zombie.shooting",
     "com.mgs.sniper1",
     "com.more.dayzsurvival.gp",
-    "ghost.shooting.sniper.real3d.action.free.android"
+    "ghost.shooting.sniper.real3d.action.free.android",
+    "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp"
   ],
   "items": [
     {
@@ -1308,6 +1309,15 @@
       "developer": "BitStrong Games",
       "icon": "https://play-lh.googleusercontent.com/kdDze2Bd36XpG_REyE7SUQ2mc40f8GvL-6BF4nQLOYH-60JvTSzJMJmP0SHvCMp3K613",
       "url": "https://play.google.com/store/apps/details?id=ghost.shooting.sniper.real3d.action.free.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-26",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
+      "title": "Brawlhalla",
+      "developer": "Ubisoft Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t",
+      "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-26",
       "isGame": true
     },
@@ -4729,15 +4739,6 @@
       "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
       "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamevil.kritikamobile.android.google.global.normal",
-      "title": "크리티카: 천상의 기사단 - 액션 RPG",
-      "developer": "Com2uS Holdings",
-      "icon": "https://play-lh.googleusercontent.com/bufPUrVaUBZKAkr8NviR9_e4mxdpTwFB5DULuvN2-LLq8_z-wd6nMzIcLigeaAeUMJ68",
-      "url": "https://play.google.com/store/apps/details?id=com.gamevil.kritikamobile.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-13",
       "isGame": true
     },
     {
