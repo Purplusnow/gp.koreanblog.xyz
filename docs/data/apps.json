@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T19:31:32.329Z",
+  "updatedAt": "2026-05-27T22:06:50.777Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1260,7 +1260,11 @@
     "com.fansipan.idle.summoners.era.heroes.afk",
     "com.bw.ud.googleplay",
     "com.kingsgroup.sos",
-    "com.Wispwood.ArrowQuest"
+    "com.Wispwood.ArrowQuest",
+    "com.allstarunion.cdw",
+    "com.more.lastfortress.gp",
+    "com.kingsgroup.ss.kr",
+    "com.netmarble.gotasia"
   ],
   "items": [
     {
@@ -1269,6 +1273,42 @@
       "developer": "Wispwood Games",
       "icon": "https://play-lh.googleusercontent.com/bd_9QWiC9g58mfO2EIcgrBAE2-6GF0EF3ah0-sb7zQ4mIr5Cwfby34BVamvvJouFaWuR",
       "url": "https://play.google.com/store/apps/details?id=com.Wispwood.ArrowQuest&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.allstarunion.cdw",
+      "title": "CatDog World: After Humans",
+      "developer": "StarFortune",
+      "icon": "https://play-lh.googleusercontent.com/diPHztqICkd4EQZb5waN2bmgJ90FIefp2Bt60IIoBKBvgiKb3DxCxMgsUkYwnSyBI0bcMgulMMGlObT3lnEsJA",
+      "url": "https://play.google.com/store/apps/details?id=com.allstarunion.cdw&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.more.lastfortress.gp",
+      "title": "라스트 포트리스 : 언더그라운드",
+      "developer": "LIFE GAME PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/2QzHW0r7FDEn27OxQLD4izNtVqUzMKcK5AUEUSqM1nNNJUT8vDvrgapEDLeIr5Jzd_Q",
+      "url": "https://play.google.com/store/apps/details?id=com.more.lastfortress.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.kingsgroup.ss.kr",
+      "title": "S.O.S: 스테이트 오브 서바이벌",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/hZdanx-2MfGgagNtfr24s9G_C693o64OUuR4kORnqaq7diruIijfPH7mbKaAKv68o6yu",
+      "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.ss.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.gotasia",
+      "title": "왕좌의 게임: 킹스로드",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/j7o9-bE6N0s71hZvO5qbYqG9V0kvbiMHsPNCjQoKD4kR0OiD5wK3NZKY2eCV1VNStH9pX8BTlxsn_5qhxC3G",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.gotasia&hl=ko&gl=KR",
       "discoveredDate": "2026-05-28",
       "isGame": true
     },
@@ -4671,42 +4711,6 @@
       "developer": "FlowMotion Entertainment",
       "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
       "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games",
-      "title": "Tizi 타운 병원 - 아이들을위한 의사 게임",
-      "developer": "Tizi Town Games",
-      "icon": "https://play-lh.googleusercontent.com/dvnaXFFAh3sFGj5CMpmcG9giN6Wano1pfnpyVORz0aiGNyS7sz8muUV00xm4LswRa_0",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.herocraft.game.free.jollydaysfarm",
-      "title": "행복 목장: 즐거운 시간 관리 아케이드",
-      "developer": "HeroCraft Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/2ps8Tw8n26Tp1stAC_J2PMwnNmyij4HKQzt9v7ruRVEqHQbnBPZJj5k81O17HUvZJYbz",
-      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.jollydaysfarm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.casualjoygames.happymergehome",
-      "title": "Happy Merge Home: ASMR",
-      "developer": "Casual Joy Games",
-      "icon": "https://play-lh.googleusercontent.com/MMahjhkPlR4swyqhNzwhCTmFrZVo1kC51LsMeKasfgzw_6Y1XY_OflYhsEMfy2FSwz-e",
-      "url": "https://play.google.com/store/apps/details?id=com.casualjoygames.happymergehome&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.ripostegames.shopr",
-      "title": "Shop Titans: 제작하고 디자인해요",
-      "developer": "Kabam Games, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/sJhkhJxRHK4mASNN12GyDZK2BzUC_ZioCPQFBHp6Qu37dnux28qkddbcyopoXu7hehXdJqv-LXWZ8aKztHDnEQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ripostegames.shopr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
