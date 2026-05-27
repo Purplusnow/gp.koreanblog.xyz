@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T12:29:14.520Z",
+  "updatedAt": "2026-05-27T13:06:22.442Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1256,7 +1256,8 @@
     "com.more.dayzsurvival.gp",
     "ghost.shooting.sniper.real3d.action.free.android",
     "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
-    "com.zillionwhales.mushroomwars2"
+    "com.zillionwhales.mushroomwars2",
+    "com.fansipan.idle.summoners.era.heroes.afk"
   ],
   "items": [
     {
@@ -1265,6 +1266,15 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/0ULcae3wzWD4fh7VoEvHo1qjJd4bRYwrrY-4vnGAD8nXg20MrFJCu6Hx1SRyIdiR1TI",
       "url": "https://play.google.com/store/apps/details?id=com.zillionwhales.mushroomwars2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.fansipan.idle.summoners.era.heroes.afk",
+      "title": "Summoners Era: 방치 전략",
+      "developer": "Fansipan Limited",
+      "icon": "https://play-lh.googleusercontent.com/kynz9TPqb2KOw4qoMiRDx5ZSRXIG9gkDlVDctYQve3ZrcVk_4FXCvanS5ij5mhdqxIs",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk&hl=ko&gl=KR",
       "discoveredDate": "2026-05-27",
       "isGame": true
     },
@@ -4749,15 +4759,6 @@
       "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
       "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.geeker.gok",
-      "title": "게임 오브 킹즈 : 피의 왕관",
-      "developer": "LIGHTNING STUDIOS",
-      "icon": "https://play-lh.googleusercontent.com/jq4IlMIdkmvpiqZ2QevPwMpvMtnwli5M4xvXbuBk5YKkHNN2Xbo9cJ5gK5fl9_8UarK_xhFrL9_aAmRYv2MS",
-      "url": "https://play.google.com/store/apps/details?id=com.geeker.gok&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-13",
       "isGame": true
     },
     {
