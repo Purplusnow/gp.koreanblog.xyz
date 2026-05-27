@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T23:18:24.673Z",
+  "updatedAt": "2026-05-27T04:43:45.758Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1255,9 +1255,19 @@
     "com.mgs.sniper1",
     "com.more.dayzsurvival.gp",
     "ghost.shooting.sniper.real3d.action.free.android",
-    "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp"
+    "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
+    "com.zillionwhales.mushroomwars2"
   ],
   "items": [
+    {
+      "appId": "com.zillionwhales.mushroomwars2",
+      "title": "Mushroom Wars 2: 전략 게임 및 타워 방어",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/0ULcae3wzWD4fh7VoEvHo1qjJd4bRYwrrY-4vnGAD8nXg20MrFJCu6Hx1SRyIdiR1TI",
+      "url": "https://play.google.com/store/apps/details?id=com.zillionwhales.mushroomwars2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-27",
+      "isGame": true
+    },
     {
       "appId": "com.halfbrick.dantheman",
       "title": "Dan the Man: Action Platformer",
@@ -4739,15 +4749,6 @@
       "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
       "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobirix.mbbi",
-      "title": "블레이드 키우기",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/Y7R7jNJq6JyNHSFiJ8weuJSVKcMaMZVNvDa9VsO6hLXAQEfafCIA8zCixEO-g_rmZeGL2lv8JFqYLk85Jc2Gwg",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mbbi&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-13",
       "isGame": true
     },
     {
