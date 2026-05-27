@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T13:06:22.442Z",
+  "updatedAt": "2026-05-27T13:07:05.119Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1257,7 +1257,9 @@
     "ghost.shooting.sniper.real3d.action.free.android",
     "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
     "com.zillionwhales.mushroomwars2",
-    "com.fansipan.idle.summoners.era.heroes.afk"
+    "com.fansipan.idle.summoners.era.heroes.afk",
+    "com.bw.ud.googleplay",
+    "com.kingsgroup.sos"
   ],
   "items": [
     {
@@ -1275,6 +1277,24 @@
       "developer": "Fansipan Limited",
       "icon": "https://play-lh.googleusercontent.com/kynz9TPqb2KOw4qoMiRDx5ZSRXIG9gkDlVDctYQve3ZrcVk_4FXCvanS5ij5mhdqxIs",
       "url": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.bw.ud.googleplay",
+      "title": "유보트",
+      "developer": "Tap4fun Trident Limited",
+      "icon": "https://play-lh.googleusercontent.com/aXBE7Zx7I47PEld1KlUp_betQa6L4lGtKofWtfdlFDiiFiYu8kLMmKqzOuPaeFjmHxA",
+      "url": "https://play.google.com/store/apps/details?id=com.bw.ud.googleplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.kingsgroup.sos",
+      "title": "S.O.S: 스테이트 오브 서바이벌",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/g7IlaVOg6pqpCJVu5oHyOUNFq4mDpNcfkIRU1yiiGxjE4GF2nCrkJ5gf76mLRYsmcQ",
+      "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=ko&gl=KR",
       "discoveredDate": "2026-05-27",
       "isGame": true
     },
@@ -4759,24 +4779,6 @@
       "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
       "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.tombminer.idle.merge",
-      "title": "Tomb Miner - Idle Merge",
-      "developer": "AKPublish pty ltd",
-      "icon": "https://play-lh.googleusercontent.com/G9CXAF_jY4KAGAb9b73oDUIdmVXBYTm-ClgLNEWNSUYeXLfv2pHmBBbZBZSb1g3BaWkWWDup0h4a3yJSJ8Kvi1Y",
-      "url": "https://play.google.com/store/apps/details?id=com.tombminer.idle.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.hospital.doctor.game.kids.girls.baby",
-      "title": "어린이를 위한 병원 의사 게임",
-      "developer": "Timpy Games For Kids, Toddlers & Baby",
-      "icon": "https://play-lh.googleusercontent.com/bYu46utm5nrI_50qEay-osIPWI6ngSV-qhQ97031P7CkKSVKQ1BBozrNugCRUd8nAn9b",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.hospital.doctor.game.kids.girls.baby&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-13",
       "isGame": true
     },
     {
