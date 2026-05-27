@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T16:43:53.812Z",
+  "updatedAt": "2026-05-27T19:31:32.329Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1259,9 +1259,19 @@
     "com.zillionwhales.mushroomwars2",
     "com.fansipan.idle.summoners.era.heroes.afk",
     "com.bw.ud.googleplay",
-    "com.kingsgroup.sos"
+    "com.kingsgroup.sos",
+    "com.Wispwood.ArrowQuest"
   ],
   "items": [
+    {
+      "appId": "com.Wispwood.ArrowQuest",
+      "title": "Arrow Quest: 방치형 디펜스 RPG",
+      "developer": "Wispwood Games",
+      "icon": "https://play-lh.googleusercontent.com/bd_9QWiC9g58mfO2EIcgrBAE2-6GF0EF3ah0-sb7zQ4mIr5Cwfby34BVamvvJouFaWuR",
+      "url": "https://play.google.com/store/apps/details?id=com.Wispwood.ArrowQuest&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
     {
       "appId": "com.zillionwhales.mushroomwars2",
       "title": "Mushroom Wars 2: 전략 게임 및 타워 방어",
@@ -4661,15 +4671,6 @@
       "developer": "FlowMotion Entertainment",
       "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
       "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.marketV",
-      "title": "Baby Panda's Town: 휴가",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/wMJf9NokZ3-NJpC4huhp_LLtVyQ1Bld5LZSSb1oIhE_c_FxKMXS5Qr6XKwYtxTqVAkcB",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketV&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
