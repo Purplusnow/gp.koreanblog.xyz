@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T22:03:16.612Z",
+  "updatedAt": "2026-05-28T23:40:34.141Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1271,9 +1271,29 @@
     "com.ObliqueGames.GodGodGod",
     "com.BillionaireGames.TicketHero",
     "com.bscotch.hmd",
-    "com.cookapps.catsurvivor"
+    "com.cookapps.catsurvivor",
+    "com.battlecreek.nolimit2",
+    "com.topgamesinc.rg"
   ],
   "items": [
+    {
+      "appId": "com.battlecreek.nolimit2",
+      "title": "No Limit Drag Racing 2",
+      "developer": "Battle Creek Games, LLC",
+      "icon": "https://play-lh.googleusercontent.com/iO0umwRfq4QpRsDIO2GpwWm-HJaMykk-oyNBQ9ccQ8Djo64GZIQiWQQaGaG06iKCj-joIGihqPZTiVvJt80EOdY",
+      "url": "https://play.google.com/store/apps/details?id=com.battlecreek.nolimit2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.topgamesinc.rg",
+      "title": "달려! 여신",
+      "developer": "TG Inc.",
+      "icon": "https://play-lh.googleusercontent.com/w_heeYWYsJ6FzMCmEalHqmR0B73vsNDg9eL1YrePYROjB5L9x7EyDspA1PEhKA1JA3E",
+      "url": "https://play.google.com/store/apps/details?id=com.topgamesinc.rg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
     {
       "appId": "com.Wispwood.ArrowQuest",
       "title": "Arrow Quest: 방치형 디펜스 RPG",
@@ -4704,15 +4724,6 @@
       "isGame": true
     },
     {
-      "appId": "com.orcas.panthia.island.fairyscapes",
-      "title": "판시아: 매직 머지게임",
-      "developer": "Playorcas",
-      "icon": "https://play-lh.googleusercontent.com/NlwtcvjhRtOLR3XcAxpQQNpHPcwQyaYC6rJbjrw03LRbUCr_mv_dg-_Ee0U7b1y7a5Of8q7Y9xGHxB8ZGNUS",
-      "url": "https://play.google.com/store/apps/details?id=com.orcas.panthia.island.fairyscapes&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
       "appId": "com.bimiboo.kids.cooking.games",
       "title": "키즈 요리 게임: 피자게임, 베이킹 그리고 음식 만들기",
       "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
@@ -4781,15 +4792,6 @@
       "developer": "FlowMotion Entertainment",
       "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
       "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.crowdstar.covetHome",
-      "title": "Design Home™: 집꾸미기 게임",
-      "developer": "Crowdstar Inc",
-      "icon": "https://play-lh.googleusercontent.com/8rnlM0dkg0zMwdo9ByqEitjnbA9Yy96jfD1oiAM4TewIq0XkOdgHYo5z3PV2ufghRRI",
-      "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
