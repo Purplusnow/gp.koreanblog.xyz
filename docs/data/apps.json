@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T23:36:58.583Z",
+  "updatedAt": "2026-05-28T04:23:51.426Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1264,7 +1264,8 @@
     "com.allstarunion.cdw",
     "com.more.lastfortress.gp",
     "com.kingsgroup.ss.kr",
-    "com.netmarble.gotasia"
+    "com.netmarble.gotasia",
+    "com.gtarcade.ioe.global"
   ],
   "items": [
     {
@@ -1309,6 +1310,15 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/j7o9-bE6N0s71hZvO5qbYqG9V0kvbiMHsPNCjQoKD4kR0OiD5wK3NZKY2eCV1VNStH9pX8BTlxsn_5qhxC3G",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.gotasia&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.gtarcade.ioe.global",
+      "title": "Infinity Kingdom",
+      "developer": "Yoozoo (Singapore) Pte. Ltd",
+      "icon": "https://play-lh.googleusercontent.com/CwJIBPWghsBgSaNvbdomABMhrKYsXzInF6DkZDVY_vOjLPG1or6XvtVy8ww8fT5UwPAn",
+      "url": "https://play.google.com/store/apps/details?id=com.gtarcade.ioe.global&hl=ko&gl=KR",
       "discoveredDate": "2026-05-28",
       "isGame": true
     },
@@ -4711,15 +4721,6 @@
       "developer": "FlowMotion Entertainment",
       "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
       "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.polygon.arena",
-      "title": "Polygun Arena: Online Shooter",
-      "developer": "Sirius Games Yazılım Anonim Şirketi",
-      "icon": "https://play-lh.googleusercontent.com/_KedaMQ4Pwjg9DpINQAKzq-pf793KJ5CZSsXJwOL01XdXOp5QzS36CYlmjT3I9TaxhE",
-      "url": "https://play.google.com/store/apps/details?id=com.polygon.arena&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
