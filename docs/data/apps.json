@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T08:51:01.941Z",
+  "updatedAt": "2026-05-28T12:39:57.966Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1265,7 +1265,13 @@
     "com.more.lastfortress.gp",
     "com.kingsgroup.ss.kr",
     "com.netmarble.gotasia",
-    "com.gtarcade.ioe.global"
+    "com.gtarcade.ioe.global",
+    "com.netease.dunkcdjp",
+    "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
+    "com.ObliqueGames.GodGodGod",
+    "com.BillionaireGames.TicketHero",
+    "com.bscotch.hmd",
+    "com.cookapps.catsurvivor"
   ],
   "items": [
     {
@@ -1319,6 +1325,60 @@
       "developer": "Yoozoo (Singapore) Pte. Ltd",
       "icon": "https://play-lh.googleusercontent.com/CwJIBPWghsBgSaNvbdomABMhrKYsXzInF6DkZDVY_vOjLPG1or6XvtVy8ww8fT5UwPAn",
       "url": "https://play.google.com/store/apps/details?id=com.gtarcade.ioe.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.netease.dunkcdjp",
+      "title": "NBA 덩크 시티",
+      "developer": "Exptional Global",
+      "icon": "https://play-lh.googleusercontent.com/5YBer2TCaAxpRZTcWV-F0JulQjpmuEsy5TehNNK2Wr_SGQXBDavzjkzYVdn_jCrZdC7yiriOP4RXQgmM09WY2zo",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.dunkcdjp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
+      "title": "퀸즈레터 : 합성 & 스토리",
+      "developer": "PLAYHARD STUDIO",
+      "icon": "https://play-lh.googleusercontent.com/31LyCNMnFqSfHu__QDlZVhaZpc5NjS-FJiaQnj4FCi1CS1qdwM6ATBE-k3t9E1n6KKJYYs3yzmh2s2LEVG0Cd-U",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.ObliqueGames.GodGodGod",
+      "title": "갓갓갓 : 로그라이크 디펜스",
+      "developer": "OBLIQUE GAMES",
+      "icon": "https://play-lh.googleusercontent.com/Tll0djbuLn3Pk98T4nSjg1ytnyfDDm4kRDdsrBDDO0OCjK1CA_3g-PIbH1UfrFnEAko",
+      "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.GodGodGod&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.BillionaireGames.TicketHero",
+      "title": "사신소년 키우기",
+      "developer": "BillionaireGames",
+      "icon": "https://play-lh.googleusercontent.com/-cya2aw0g811BXjXedyeVh-4jtRsrJaC1OnociY5swJHq6xU25-kL0RLgMNGaFbBbCTOPRd0khwy5EnmybU2Ews",
+      "url": "https://play.google.com/store/apps/details?id=com.BillionaireGames.TicketHero&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.bscotch.hmd",
+      "title": "How Many Dudes: 몇 놈 필요함?",
+      "developer": "Butterscotch Shenanigans",
+      "icon": "https://play-lh.googleusercontent.com/2wHXIQ0iFHmkai6kyACtq0tNLR-crzn9_lTSqFrWMg5f7o-V3iZUARSWbqslVZs4vLZBCQyDNjiWHDT8oRL7Bdc",
+      "url": "https://play.google.com/store/apps/details?id=com.bscotch.hmd&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.catsurvivor",
+      "title": "쾅냥 서바이버 : 좀비 쓸어버리기",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/8T7C2fD0W1zN3yDeFxp06-kg_LEHL-couoCPcndKn1C9LVHMGRhgT0CRpH-ZU-4e4iD5RTiiYubw__9nAXMyHw",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko&gl=KR",
       "discoveredDate": "2026-05-28",
       "isGame": true
     },
@@ -4721,60 +4781,6 @@
       "developer": "FlowMotion Entertainment",
       "icon": "https://play-lh.googleusercontent.com/XVMM8r6c55HB41RHS_39AOueXXi95OA2WVbdSuCAHoeUBHW26TIfJ13I6-U0otlj1QU",
       "url": "https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.beresnevgames.gallerycoloringbook",
-      "title": "Gallery: 숫자 및 가정 장식으로 색칠하기 책",
-      "developer": "Beresnev Games",
-      "icon": "https://play-lh.googleusercontent.com/UzCXuN_jgqOPabpDZOCaDJPSKxgs9SKYqTh9c2Sw7ZbZ3URKNjumtd1NtSoCtaBbB3eo",
-      "url": "https://play.google.com/store/apps/details?id=com.beresnevgames.gallerycoloringbook&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.kindergarten",
-      "title": "귀염이 어린이집-유아교육 유치원 체험놀이",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/NmKFLP-SI-Q9-YNXaDNTo1fX2mW1mtolUKEB8vxgqZ8510hXDkDd2HBqIe3yIypYcS4",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.kindergarten&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.drg.woolpuzzle3d",
-      "title": "Wool Escape 3D: ASMR",
-      "developer": "DRAGON RISING PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/RAfleP77cpj0P86YHiV_9yqeezwnl1yOlL2NefSbFz1W3wIn7__F9jGqeVmI6bOFQMfMPwnvtMY-pKVdoN9L1zg",
-      "url": "https://play.google.com/store/apps/details?id=com.drg.woolpuzzle3d&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.rbx.steamcity.android",
-      "title": "Steam City: 도시 건설 게임",
-      "developer": "RED BRIX COMPUTER SYSTEMS",
-      "icon": "https://play-lh.googleusercontent.com/DoSLW_GouehaDhhbJHgNJq8Y_izzOjnJikjEACAFlMiaOvlhjzSK7skAfRlcRgLmO3Y",
-      "url": "https://play.google.com/store/apps/details?id=com.rbx.steamcity.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftDYHM",
-      "title": "디즈니 매직 킹덤-마법 공원 건설",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/ni0xOvxUHLeABib3ouxpLyW4tt8Gsup7M_LwGJPsf19iAMKcKseOhz9UrOfPxO01AF4",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDYHM&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.linegames.pak",
-      "title": "애니멀 버스터즈 : 방치형RPG",
-      "developer": "LINE Games",
-      "icon": "https://play-lh.googleusercontent.com/yhTVQcdVCvj5Ii2cbJekRqiet2SrBvEe7QA6yAR0O_oRb4KRI20Rtz2d7D9Xwq_MI3o",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.pak&hl=ko&gl=KR",
       "discoveredDate": "2026-04-14",
       "isGame": true
     },
