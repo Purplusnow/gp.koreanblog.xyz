@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T08:49:22.362Z",
+  "updatedAt": "2026-05-29T12:25:04.559Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1275,7 +1275,10 @@
     "com.battlecreek.nolimit2",
     "com.topgamesinc.rg",
     "com.snapbreak.terrarium",
-    "ru.skillcap.dominoes"
+    "ru.skillcap.dominoes",
+    "com.rebirthkr.gp",
+    "com.joynexgames.btaste.google",
+    "com.rome.caesar.war.strategy.conqueror.games"
   ],
   "items": [
     {
@@ -1311,6 +1314,33 @@
       "developer": "ZiMAD",
       "icon": "https://play-lh.googleusercontent.com/SqyCJuE9Nmv912xNbd6xUD74GYCX_EhAdniBpvkuYow_mtjYBTiEzMgh1UQBgcR_YPI",
       "url": "https://play.google.com/store/apps/details?id=ru.skillcap.dominoes&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.rebirthkr.gp",
+      "title": "밤탈출 - 49일",
+      "developer": "MOREFUN（H.K.) LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/260G3AHHQJIap86kBpE4Z5OOWTqS0_Jy5dM0QTId6HK4h3_NXkeKNQ4A3jMfDqO0i3HD6kMPN1v-fF5edeGpIQ",
+      "url": "https://play.google.com/store/apps/details?id=com.rebirthkr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.joynexgames.btaste.google",
+      "title": "요괴잡이소대 X 대환장 MMORPG",
+      "developer": "JOYNEX GAMES",
+      "icon": "https://play-lh.googleusercontent.com/1ofJcFK0H4D5NKStquS_vOnEvsW1VJt2Z08H2VhXVoC_LPMIhDFGsleoZFaXNjf5P2dOezXSiillV78sKzxe",
+      "url": "https://play.google.com/store/apps/details?id=com.joynexgames.btaste.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.rome.caesar.war.strategy.conqueror.games",
+      "title": "Grand War: 로마 전략",
+      "developer": "Joynow Studio",
+      "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
+      "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
       "isGame": true
     },
@@ -4740,33 +4770,6 @@
       "developer": "Com2uS",
       "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.melesta.coffeeshop",
-      "title": "마이카페 — 식당게임",
-      "developer": "Melsoft Games Ltd",
-      "icon": "https://play-lh.googleusercontent.com/CpMKi6rpV629F8QjkD2N62HtMf4BEWYdTvgzaQJkD1SS2WfY0fug5gCQvaF8t1LZpkKz",
-      "url": "https://play.google.com/store/apps/details?id=com.melesta.coffeeshop&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.sandboxol.indiegame.bedwar",
-      "title": "Bed Wars",
-      "developer": "Blockman GO studio",
-      "icon": "https://play-lh.googleusercontent.com/Rf2Tl6OBOhh-phuWcdQUdOFGZBNZf8ElcbTg9XNkt-Tv4YpnDMn7EGTk5QEeYTrlKJ3srZTiI4myG_NuS8sID-I",
-      "url": "https://play.google.com/store/apps/details?id=com.sandboxol.indiegame.bedwar&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.sagosago.World.googleplay",
-      "title": "Sago Mini World: Kids Games",
-      "developer": "Play Piknik",
-      "icon": "https://play-lh.googleusercontent.com/YgW_5YFqPe8cu7DcxQyuovZ26iL9JS_7bnqM0RaqQp9_xTxJd6yAthfnKVgDXZNJ3qaBDTSmWhSVWv-74qpaiQ",
-      "url": "https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
