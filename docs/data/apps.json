@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T04:37:05.252Z",
+  "updatedAt": "2026-05-29T08:49:22.362Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1274,7 +1274,8 @@
     "com.cookapps.catsurvivor",
     "com.battlecreek.nolimit2",
     "com.topgamesinc.rg",
-    "com.snapbreak.terrarium"
+    "com.snapbreak.terrarium",
+    "ru.skillcap.dominoes"
   ],
   "items": [
     {
@@ -1301,6 +1302,15 @@
       "developer": "Snapbreak",
       "icon": "https://play-lh.googleusercontent.com/BzGkHcgo0ujx85NeyHifZlpiUzwcL2147TGv6HlN2BULd8WjxC9OZAwS5DxlKmyx2e0",
       "url": "https://play.google.com/store/apps/details?id=com.snapbreak.terrarium&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
+    {
+      "appId": "ru.skillcap.dominoes",
+      "title": "Domino - 도미노 게임",
+      "developer": "ZiMAD",
+      "icon": "https://play-lh.googleusercontent.com/SqyCJuE9Nmv912xNbd6xUD74GYCX_EhAdniBpvkuYow_mtjYBTiEzMgh1UQBgcR_YPI",
+      "url": "https://play.google.com/store/apps/details?id=ru.skillcap.dominoes&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
       "isGame": true
     },
@@ -4730,15 +4740,6 @@
       "developer": "Com2uS",
       "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.cyberjoy.r1",
-      "title": "Car Fix Inc - Mechanic Garage",
-      "developer": "CyberJoy Games",
-      "icon": "https://play-lh.googleusercontent.com/qSKrhJPZ5ywMh0LpBv9cu19UMlhksM9MfJiTDwloF0I-ZkH5m1O7MGPnBjwIB0PwOw",
-      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.r1&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
