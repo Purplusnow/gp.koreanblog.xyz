@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T23:40:34.141Z",
+  "updatedAt": "2026-05-29T04:37:05.252Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1273,7 +1273,8 @@
     "com.bscotch.hmd",
     "com.cookapps.catsurvivor",
     "com.battlecreek.nolimit2",
-    "com.topgamesinc.rg"
+    "com.topgamesinc.rg",
+    "com.snapbreak.terrarium"
   ],
   "items": [
     {
@@ -1291,6 +1292,15 @@
       "developer": "TG Inc.",
       "icon": "https://play-lh.googleusercontent.com/w_heeYWYsJ6FzMCmEalHqmR0B73vsNDg9eL1YrePYROjB5L9x7EyDspA1PEhKA1JA3E",
       "url": "https://play.google.com/store/apps/details?id=com.topgamesinc.rg&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.terrarium",
+      "title": "Project Terrarium",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/BzGkHcgo0ujx85NeyHifZlpiUzwcL2147TGv6HlN2BULd8WjxC9OZAwS5DxlKmyx2e0",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.terrarium&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
       "isGame": true
     },
@@ -4720,15 +4730,6 @@
       "developer": "Com2uS",
       "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.bimiboo.kids.cooking.games",
-      "title": "키즈 요리 게임: 피자게임, 베이킹 그리고 음식 만들기",
-      "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
-      "icon": "https://play-lh.googleusercontent.com/eQ9oBWHBYVf1B0TcthW_5enwic2pEgScohELBgemqu_b62cpmFbWNbu1AXI2gd4K8sj_JLgYIV2rA3HhKg27tA",
-      "url": "https://play.google.com/store/apps/details?id=com.bimiboo.kids.cooking.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
