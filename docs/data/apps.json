@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T12:25:04.559Z",
+  "updatedAt": "2026-05-29T16:51:39.004Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1278,9 +1278,19 @@
     "ru.skillcap.dominoes",
     "com.rebirthkr.gp",
     "com.joynexgames.btaste.google",
-    "com.rome.caesar.war.strategy.conqueror.games"
+    "com.rome.caesar.war.strategy.conqueror.games",
+    "com.loadcomplete.minitales"
   ],
   "items": [
+    {
+      "appId": "com.loadcomplete.minitales",
+      "title": "미니테일즈",
+      "developer": "LoadComplete",
+      "icon": "https://play-lh.googleusercontent.com/RTZztNzUEAARL_g_RzPAkw7M3200xXB4Tw9WJEl1U_XwfgPmCmv1qJ0BejxleREgax0",
+      "url": "https://play.google.com/store/apps/details?id=com.loadcomplete.minitales&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-30",
+      "isGame": true
+    },
     {
       "appId": "com.battlecreek.nolimit2",
       "title": "No Limit Drag Racing 2",
@@ -4770,15 +4780,6 @@
       "developer": "Com2uS",
       "icon": "https://play-lh.googleusercontent.com/LMJL0IMrhYP60U4HdAocK8PiSgeeDo6hd12XWZpWqXy0JIfBKKfs9LmyeJ6VTrqqGIrOr2YvLhc-5Id7J4KZYQ",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.luma.IdleFarm",
-      "title": "방치형 농장",
-      "developer": "BoomBit Games",
-      "icon": "https://play-lh.googleusercontent.com/YB_Auw6hyntBAcoxXUUAFsEnk7xpaf8cngEwT9ZmCIII_uheKia76BBb8Qqm4O1P_Q",
-      "url": "https://play.google.com/store/apps/details?id=com.luma.IdleFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-04-15",
       "isGame": true
     },
