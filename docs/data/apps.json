@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T14:45:28.885Z",
+  "updatedAt": "2026-05-30T16:11:56.503Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1283,9 +1283,29 @@
     "air.com.aceviral.motox3m",
     "com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world",
     "com.budgestudios.googleplay.FrozenFRZ",
-    "com.rbx.antique.android"
+    "com.rbx.antique.android",
+    "com.redcellgames.animalvalley",
+    "dk.xombat.airlinemanager4"
   ],
   "items": [
+    {
+      "appId": "com.redcellgames.animalvalley",
+      "title": "애니멀 밸리: 방치 머지 마을 시뮬레이션",
+      "developer": "AppQuantum",
+      "icon": "https://play-lh.googleusercontent.com/8hwRTFqlFstEqe1gt0WJTLS-5MghKNyAc39RKIrpUo5uJ5EZ6WDWoMeJc9HpZimrZwu6IYZNA5azxEjSnumS6g",
+      "url": "https://play.google.com/store/apps/details?id=com.redcellgames.animalvalley&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "dk.xombat.airlinemanager4",
+      "title": "항공사 관리자 2026 - 비행기 타이쿤",
+      "developer": "Xombat Development - Airline manager games",
+      "icon": "https://play-lh.googleusercontent.com/GbwqsLrryUIyjixY1X4_WH5GtX-soP1i8YkzISPmupoU9qvKrn1KSP8Hvchd2BgZooLuOmpgiki9WQDrbVci",
+      "url": "https://play.google.com/store/apps/details?id=dk.xombat.airlinemanager4&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
     {
       "appId": "com.loadcomplete.minitales",
       "title": "미니테일즈",
@@ -4739,24 +4759,6 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.cybird.appli.android.vil.en",
-      "title": "Ikemen Villains Otome Game",
-      "developer": "CYBIRD",
-      "icon": "https://play-lh.googleusercontent.com/WyAYNq2bsBtUmEalXdfuoGiSiQQef1EluVt3SuywkJYK3kuu_ubrMKVYlte9Udb50Q",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.vil.en&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigfishgames.mergetalesgoog",
-      "title": "에버머지: 퍼즐3 병합",
-      "developer": "JetSynthesys PVT LTD",
-      "icon": "https://play-lh.googleusercontent.com/rmQDvSm19hAroSzoNwBYANnTuaODVK-wZONLok0b_NV9llUed4Ow5ph25MpPSXwoiz0",
-      "url": "https://play.google.com/store/apps/details?id=com.bigfishgames.mergetalesgoog&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
