@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T07:47:23.906Z",
+  "updatedAt": "2026-05-30T10:09:13.412Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1280,7 +1280,8 @@
     "com.joynexgames.btaste.google",
     "com.rome.caesar.war.strategy.conqueror.games",
     "com.loadcomplete.minitales",
-    "air.com.aceviral.motox3m"
+    "air.com.aceviral.motox3m",
+    "com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world"
   ],
   "items": [
     {
@@ -1298,6 +1299,15 @@
       "developer": "Ace Viral",
       "icon": "https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo",
       "url": "https://play.google.com/store/apps/details?id=air.com.aceviral.motox3m&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world",
+      "title": "Tizi 타운: 인형 옷 입히기 게임",
+      "developer": "Tizi Town Games",
+      "icon": "https://play-lh.googleusercontent.com/Slr2-uvl85m8FFj3aISVq9tmzRgXLQaHY_cvgzPHi1pCvthquBYGAWpEqLzLjcm95qA",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world&hl=ko&gl=KR",
       "discoveredDate": "2026-05-30",
       "isGame": true
     },
@@ -4709,15 +4719,6 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "merge.blocks.drop.number.puzzle.games",
-      "title": "2048 블록합치기 퍼즐게임",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/8z3JuQy1T9BDOK4nFs9TVtCiho2ttTTMktNh35MutFnmCbXdLpAHJVAOdp25SVrJwww",
-      "url": "https://play.google.com/store/apps/details?id=merge.blocks.drop.number.puzzle.games&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
