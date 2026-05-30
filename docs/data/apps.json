@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T20:14:41.828Z",
+  "updatedAt": "2026-05-30T22:09:33.191Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1286,7 +1286,9 @@
     "com.rbx.antique.android",
     "com.redcellgames.animalvalley",
     "dk.xombat.airlinemanager4",
-    "com.highbrow.games.dvo"
+    "com.highbrow.games.dvo",
+    "com.mattel163.uno2",
+    "block.puzzle.sudoku.free.game.classic.offline"
   ],
   "items": [
     {
@@ -1313,6 +1315,24 @@
       "developer": "highbrow",
       "icon": "https://play-lh.googleusercontent.com/xkwb3p2V6SkaxRq3uC_NM3n_tkw_UOcfe6uw75plux3o-e_XiY5Ixis8HTfjjix0U14HMqIbVNICs8IoVRFs",
       "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.mattel163.uno2",
+      "title": "UNO Wonder",
+      "developer": "Mattel163 Limited",
+      "icon": "https://play-lh.googleusercontent.com/x9pKmjPeMQkDeCccZY64IAWnErQBeGAuw9S3lnxNGg8ZK4nYVCvn6XOEZHmkkKR8uQ",
+      "url": "https://play.google.com/store/apps/details?id=com.mattel163.uno2&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "block.puzzle.sudoku.free.game.classic.offline",
+      "title": "나무 블록 스도쿠 게임 - 클래식 브레인 퍼즐",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/apO5jX9E5gR2k0CliQ2RPA6J4fSMigRl2Pd8xTUYvrlnt3azdno2XaQihdJLxewvAFAC",
+      "url": "https://play.google.com/store/apps/details?id=block.puzzle.sudoku.free.game.classic.offline&hl=ko&gl=KR",
       "discoveredDate": "2026-05-31",
       "isGame": true
     },
@@ -4679,24 +4699,6 @@
       "developer": "CookApps",
       "icon": "https://play-lh.googleusercontent.com/sfSq57rTzPj9Ub6QTVAH7MRjbJCDdR0a9UqrH0hI6s4AwSMEwpF-qcTBRjsjotEXlguN",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.berserkidle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.chess",
-      "title": "Chess Clash: Online & Offline",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/bpdkCCI8e5IbAkLgRwI3e5dJDSR_kFe1Ioh7f7_AxxaR_Jn9VHF1Hx56DEAqGnHPynmd",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.chess&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.fingersoft.hcr2",
-      "title": "Hill Climb Racing 2",
-      "developer": "Fingersoft",
-      "icon": "https://play-lh.googleusercontent.com/UGKh6u0gA0GLh39qG4kXKK3Vu3FEAUEdXWAK55pjLTGiJI2vLQVHzIPP6CVo_ZP0dw",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
