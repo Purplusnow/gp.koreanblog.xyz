@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T04:11:55.164Z",
+  "updatedAt": "2026-05-30T07:47:23.906Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1279,7 +1279,8 @@
     "com.rebirthkr.gp",
     "com.joynexgames.btaste.google",
     "com.rome.caesar.war.strategy.conqueror.games",
-    "com.loadcomplete.minitales"
+    "com.loadcomplete.minitales",
+    "air.com.aceviral.motox3m"
   ],
   "items": [
     {
@@ -1288,6 +1289,15 @@
       "developer": "LoadComplete",
       "icon": "https://play-lh.googleusercontent.com/RTZztNzUEAARL_g_RzPAkw7M3200xXB4Tw9WJEl1U_XwfgPmCmv1qJ0BejxleREgax0",
       "url": "https://play.google.com/store/apps/details?id=com.loadcomplete.minitales&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-30",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.aceviral.motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "developer": "Ace Viral",
+      "icon": "https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo",
+      "url": "https://play.google.com/store/apps/details?id=air.com.aceviral.motox3m&hl=ko&gl=KR",
       "discoveredDate": "2026-05-30",
       "isGame": true
     },
@@ -4699,15 +4709,6 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.ultimatefishing",
-      "title": "Fishing Blitz!",
-      "developer": "HypGames.",
-      "icon": "https://play-lh.googleusercontent.com/80bJ-E6QlXS3qk_epkcVBvytRLer_n7T8-HcvpduXW7Ade-mB05AUhS3mR15CmhMdm7c",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.ultimatefishing&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
