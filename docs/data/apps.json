@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T10:09:13.412Z",
+  "updatedAt": "2026-05-30T12:10:48.253Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1281,7 +1281,9 @@
     "com.rome.caesar.war.strategy.conqueror.games",
     "com.loadcomplete.minitales",
     "air.com.aceviral.motox3m",
-    "com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world"
+    "com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world",
+    "com.budgestudios.googleplay.FrozenFRZ",
+    "com.rbx.antique.android"
   ],
   "items": [
     {
@@ -1308,6 +1310,24 @@
       "developer": "Tizi Town Games",
       "icon": "https://play-lh.googleusercontent.com/Slr2-uvl85m8FFj3aISVq9tmzRgXLQaHY_cvgzPHi1pCvthquBYGAWpEqLzLjcm95qA",
       "url": "https://play.google.com/store/apps/details?id=com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.budgestudios.googleplay.FrozenFRZ",
+      "title": "Disney Frozen Royal Castle",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/6xayMOXHlhFnRjLmDFJt4Cyn2zD3j41uauDhP3_HH74kVd8XoiQge8WaPwoBTWR5P-a_UapC9uuzAjp_Wm2eAQ",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.FrozenFRZ&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.antique.android",
+      "title": "엠파이어 시티: 건축하고 정복하라!",
+      "developer": "RED BRIX COMPUTER SYSTEMS",
+      "icon": "https://play-lh.googleusercontent.com/luuXLlHj4AHbKgKtCmMQZJgetVqEuX5ZpzDy9JBx7q6_DMyoWMwiGbxNmOw0_nWfOdkM",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.antique.android&hl=ko&gl=KR",
       "discoveredDate": "2026-05-30",
       "isGame": true
     },
@@ -4719,24 +4739,6 @@
       "developer": "Budge Studios",
       "icon": "https://play-lh.googleusercontent.com/Jzpbo7E7kah2h5uymr4j_7gsSI_O9yPPRVDMngbNtfRz3ZJMsGoGvo9oM1RCzE62G1wXxldu4chv6IIw6O-T",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.BarbieMagicalFashion&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.FoxieGames.WildWolfAnimalSim",
-      "title": "울프 테일즈 - 홈 앤 하트",
-      "developer": "Foxie Ventures",
-      "icon": "https://play-lh.googleusercontent.com/DhePZ0RUjm19apW6XQ1AWmTDLHI5Xx5BHMbDhanaktTOYqrxridqdjysQYsDcE_1XuI",
-      "url": "https://play.google.com/store/apps/details?id=com.FoxieGames.WildWolfAnimalSim&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.olzhas.carparking.multyplayer",
-      "title": "Car Parking Multiplayer",
-      "developer": "olzhass",
-      "icon": "https://play-lh.googleusercontent.com/86cQqI_vflAIckhMPWltYthLFh4YnemCi5hXm0VCQe4Lbj346-jH3r6uy3lsQtpO9A",
-      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer&hl=ko&gl=KR",
       "discoveredDate": "2026-04-16",
       "isGame": true
     },
