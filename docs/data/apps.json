@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T18:11:57.482Z",
+  "updatedAt": "2026-05-31T20:19:07.971Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1296,7 +1296,9 @@
     "com.linecorp.LGTMTMG",
     "com.snapbreak.doors",
     "jp.co.capcom.android.mhpuzzle",
-    "linkdesks.pop.bubblegames.bubbleshooter"
+    "linkdesks.pop.bubblegames.bubbleshooter",
+    "com.epicage.android",
+    "com.tinytitanstudios.TrainChu"
   ],
   "items": [
     {
@@ -1323,6 +1325,24 @@
       "developer": "LinkDesks - Jewel Games Star",
       "icon": "https://play-lh.googleusercontent.com/7u3ufAtKREs2jzABD8J0edmeQXcRANlFxNmUi-cZMKRciBup09t4e1s0fG-18nxffLA",
       "url": "https://play.google.com/store/apps/details?id=linkdesks.pop.bubblegames.bubbleshooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.epicage.android",
+      "title": "에픽 에이지",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
+      "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.tinytitanstudios.TrainChu",
+      "title": "Tiny Rails - 철도 타이쿤",
+      "developer": "Trophy Games - Tiny Rails Train Cargo Simulator",
+      "icon": "https://play-lh.googleusercontent.com/3rtO2id6lOA94jYMb_DN8pOuRpnElT3D4b_X5R2np4pPRFbd3QErDFhDwH6TBadLt4I",
+      "url": "https://play.google.com/store/apps/details?id=com.tinytitanstudios.TrainChu&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
@@ -4698,24 +4718,6 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/fjTZkP0J5ildhwGEIKmGNJTNopTKWxzTYUqR3ymo6vDAsNoRSt1JHsREkpQ5UMMai5A",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.airport&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.tastydiary.cooking.diner.home.restaurant",
-      "title": "맛있는 일기: 요리사 요리 게임",
-      "developer": "gameone",
-      "icon": "https://play-lh.googleusercontent.com/W1ATyp8IcyMVN2uQmkl-zDm4BRb0o5_cEYtE5ewxQXIR-mppWI7ytgoe7AbsHkI9oA",
-      "url": "https://play.google.com/store/apps/details?id=com.tastydiary.cooking.diner.home.restaurant&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "ship.simulator.river.climb",
-      "title": "선박 시뮬레이터: 보트 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/OV_YyEDCdVT8qqAM_ta5XPXu0i6yXkXZCHgYo5CNEbgtWWMbtrRkp1pWxuAv6MoWvBs",
-      "url": "https://play.google.com/store/apps/details?id=ship.simulator.river.climb&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
