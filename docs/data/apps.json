@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T20:19:07.971Z",
+  "updatedAt": "2026-05-31T22:09:42.911Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1298,7 +1298,9 @@
     "jp.co.capcom.android.mhpuzzle",
     "linkdesks.pop.bubblegames.bubbleshooter",
     "com.epicage.android",
-    "com.tinytitanstudios.TrainChu"
+    "com.tinytitanstudios.TrainChu",
+    "com.lyoomatch.jewelscrush.princessadventure",
+    "com.snapbreak.doors3"
   ],
   "items": [
     {
@@ -1343,6 +1345,24 @@
       "developer": "Trophy Games - Tiny Rails Train Cargo Simulator",
       "icon": "https://play-lh.googleusercontent.com/3rtO2id6lOA94jYMb_DN8pOuRpnElT3D4b_X5R2np4pPRFbd3QErDFhDwH6TBadLt4I",
       "url": "https://play.google.com/store/apps/details?id=com.tinytitanstudios.TrainChu&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.lyoomatch.jewelscrush.princessadventure",
+      "title": "Jewels Crush - Match 3 퍼즐 어드벤처",
+      "developer": "IVYGAMES",
+      "icon": "https://play-lh.googleusercontent.com/m0r4E33ZW1pQucSwiBDcGZLKSqB2qZjX6_m6AID2D_s438yw6OSwOyfCjdNuelXWd7M",
+      "url": "https://play.google.com/store/apps/details?id=com.lyoomatch.jewelscrush.princessadventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.doors3",
+      "title": "Doors: Paradox",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/zmdZgG2JV5bZp_m7XacWhwtDhWcBZwz9ln-BHeZwQc6obCPKS8oq_T5lGFbmLmbcKuK5",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.doors3&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
@@ -4718,24 +4738,6 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/fjTZkP0J5ildhwGEIKmGNJTNopTKWxzTYUqR3ymo6vDAsNoRSt1JHsREkpQ5UMMai5A",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.airport&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.socialquantum.west3dint",
-      "title": "Wild West: 농장을 건설하세요",
-      "developer": "Social Quantum Ltd",
-      "icon": "https://play-lh.googleusercontent.com/jMr0gG5nzfYDniiU0wMESUvMv71WgYs5OKHMJA6QMUUBcawmLMnxPgNwQXZaFtZiEg",
-      "url": "https://play.google.com/store/apps/details?id=com.socialquantum.west3dint&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.mamara.bakery",
-      "title": "아기 팬더: 달콤한 베이커리",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/8VgxPanOLFnzLAnI_6w_FCNwZy6QKSdSJUOJfheey81QxubzHJzcC2xBhpdghDCc45M",
-      "url": "https://play.google.com/store/apps/details?id=com.mamara.bakery&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
