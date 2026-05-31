@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T22:09:33.191Z",
+  "updatedAt": "2026-05-31T00:11:10.653Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1288,7 +1288,8 @@
     "dk.xombat.airlinemanager4",
     "com.highbrow.games.dvo",
     "com.mattel163.uno2",
-    "block.puzzle.sudoku.free.game.classic.offline"
+    "block.puzzle.sudoku.free.game.classic.offline",
+    "com.StonehollowWorkshop.Eterspire"
   ],
   "items": [
     {
@@ -1333,6 +1334,15 @@
       "developer": "Oakever Games",
       "icon": "https://play-lh.googleusercontent.com/apO5jX9E5gR2k0CliQ2RPA6J4fSMigRl2Pd8xTUYvrlnt3azdno2XaQihdJLxewvAFAC",
       "url": "https://play.google.com/store/apps/details?id=block.puzzle.sudoku.free.game.classic.offline&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.StonehollowWorkshop.Eterspire",
+      "title": "Eterspire - 정통 판타지 MMORPG",
+      "developer": "Stonehollow Workshop",
+      "icon": "https://play-lh.googleusercontent.com/zd7AtJlXCZGU5PeKbjN3WEOy7SrLMIuGp8cG4Jnkx8OX5XVyXlf6d9xTlekdOxOyCgBtrbKH7SuIcg7SB0BiCA",
+      "url": "https://play.google.com/store/apps/details?id=com.StonehollowWorkshop.Eterspire&hl=ko&gl=KR",
       "discoveredDate": "2026-05-31",
       "isGame": true
     },
@@ -4699,15 +4709,6 @@
       "developer": "CookApps",
       "icon": "https://play-lh.googleusercontent.com/sfSq57rTzPj9Ub6QTVAH7MRjbJCDdR0a9UqrH0hI6s4AwSMEwpF-qcTBRjsjotEXlguN",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.berserkidle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.factory",
-      "title": "아기 팬더의 달콤한 상점",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/cfUfgtX40yyY0-ob-goErFHXgyt_4GHkmsEBW0KNyXNtsB-nU-6KtAWcB5oHv2uJsvs",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.factory&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
