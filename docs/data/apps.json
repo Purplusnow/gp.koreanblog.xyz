@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T14:06:20.249Z",
+  "updatedAt": "2026-05-31T16:20:14.614Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1293,9 +1293,39 @@
     "com.gamegos.adventure.bay.paradise.farm",
     "com.sinyee.babybus.village",
     "com.bitmango.go.bubblepop",
-    "com.linecorp.LGTMTMG"
+    "com.linecorp.LGTMTMG",
+    "com.snapbreak.doors",
+    "jp.co.capcom.android.mhpuzzle",
+    "linkdesks.pop.bubblegames.bubbleshooter"
   ],
   "items": [
+    {
+      "appId": "com.snapbreak.doors",
+      "title": "도어스: 어웨이크닝",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/PEo96I0U3b0VMonhjwGaqQ9N27G2E4fr09PELAKFcWfhOWmrCxfo28VLsvWWDJJ72Q",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.doors&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "jp.co.capcom.android.mhpuzzle",
+      "title": "Monster Hunter Puzzles",
+      "developer": "CAPCOM CO., LTD.",
+      "icon": "https://play-lh.googleusercontent.com/mS2ir1oPNF2Mp7TywJacDVRmSQdOn6lXQ4wSMWJGHmvISlTTw5QA_9do6o5486qqdEyJ3n20oBp2wngxHVdf",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.capcom.android.mhpuzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.pop.bubblegames.bubbleshooter",
+      "title": "버블 슈터 - 바이킹 팝 오락실 게임",
+      "developer": "LinkDesks - Jewel Games Star",
+      "icon": "https://play-lh.googleusercontent.com/7u3ufAtKREs2jzABD8J0edmeQXcRANlFxNmUi-cZMKRciBup09t4e1s0fG-18nxffLA",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.pop.bubblegames.bubbleshooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
     {
       "appId": "com.redcellgames.animalvalley",
       "title": "애니멀 밸리: 방치 머지 마을 시뮬레이션",
@@ -4668,33 +4698,6 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/fjTZkP0J5ildhwGEIKmGNJTNopTKWxzTYUqR3ymo6vDAsNoRSt1JHsREkpQ5UMMai5A",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.airport&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.cyberjoy.fishing",
-      "title": "Fishing Frenzy:Idle Hooked Inc",
-      "developer": "CyberJoy Games",
-      "icon": "https://play-lh.googleusercontent.com/rd4Pk1nWDI871l77UGBEwdoselg-vt0Am312B-dBOgwfljoCNlsVia0K3EbyOcW2nJI",
-      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.fishing&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.foodstreetII",
-      "title": "아기 팬더의 음식 요리",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/V20HkyaPL-6X2gMS8614ZfSBHF1pXy2vft5Dq7PnX5CiDTBGKvE0UcsfvkpE93zqpiM",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.foodstreetII&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.featherweightgames.fx",
-      "title": "봇월드 어드벤처",
-      "developer": "Featherweight",
-      "icon": "https://play-lh.googleusercontent.com/Ow49SushZUuIXCEEFvBGI_GXYVML9igkNFY3_bI-p07n5OppCC8rejYOvr9na--uWA",
-      "url": "https://play.google.com/store/apps/details?id=com.featherweightgames.fx&hl=ko&gl=KR",
       "discoveredDate": "2026-04-18",
       "isGame": true
     },
