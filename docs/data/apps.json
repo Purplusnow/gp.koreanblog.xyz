@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T05:42:20.686Z",
+  "updatedAt": "2026-05-31T09:18:02.966Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1289,7 +1289,11 @@
     "com.highbrow.games.dvo",
     "com.mattel163.uno2",
     "block.puzzle.sudoku.free.game.classic.offline",
-    "com.StonehollowWorkshop.Eterspire"
+    "com.StonehollowWorkshop.Eterspire",
+    "com.gamegos.adventure.bay.paradise.farm",
+    "com.sinyee.babybus.village",
+    "com.bitmango.go.bubblepop",
+    "com.linecorp.LGTMTMG"
   ],
   "items": [
     {
@@ -1343,6 +1347,42 @@
       "developer": "Stonehollow Workshop",
       "icon": "https://play-lh.googleusercontent.com/zd7AtJlXCZGU5PeKbjN3WEOy7SrLMIuGp8cG4Jnkx8OX5XVyXlf6d9xTlekdOxOyCgBtrbKH7SuIcg7SB0BiCA",
       "url": "https://play.google.com/store/apps/details?id=com.StonehollowWorkshop.Eterspire&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamegos.adventure.bay.paradise.farm",
+      "title": "어드벤처 베이: 팜 게임",
+      "developer": "GAMEGOS",
+      "icon": "https://play-lh.googleusercontent.com/IwON07dG7ZaBWSwK0koQ7cJ3s1zNgpLYVyZh84SVwUnUp30jVveywLM2wQGb5LLGnLs",
+      "url": "https://play.google.com/store/apps/details?id=com.gamegos.adventure.bay.paradise.farm&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.village",
+      "title": "베이비버스 마을",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/zZ3uHs4-9sIul_7fLLa0ShQZZRhzat4Sq6pel7M3xMMmBOTGTjRB_O-ZJJjaY2GG848",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.village&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.bitmango.go.bubblepop",
+      "title": "버블팝! 클래식 퍼즐 게임",
+      "developer": "BitMango",
+      "icon": "https://play-lh.googleusercontent.com/KVtDCuaNqlZ8mT78eEqSPIQEMvjXw0RKRC7atxpPHN6-PPs4ZwvDRjtf_LOfymBApQ",
+      "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.bubblepop&hl=ko&gl=KR",
+      "discoveredDate": "2026-05-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.linecorp.LGTMTMG",
+      "title": "라인 디즈니 썸썸",
+      "developer": "LINE (LY Corporation)",
+      "icon": "https://play-lh.googleusercontent.com/FoMcn4l25vD95pjTxbvZ65mK-ITkSVbjczLQ2QdWHOyDtapq0XkHu4rSVX6ZdeKCvQ9sDQ3u40So1MbeNxU6",
+      "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTMG&hl=ko&gl=KR",
       "discoveredDate": "2026-05-31",
       "isGame": true
     },
@@ -4709,42 +4749,6 @@
       "developer": "CookApps",
       "icon": "https://play-lh.googleusercontent.com/sfSq57rTzPj9Ub6QTVAH7MRjbJCDdR0a9UqrH0hI6s4AwSMEwpF-qcTBRjsjotEXlguN",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.berserkidle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.mytona.cheftales",
-      "title": "Chef & Friends: 요리 게임",
-      "developer": "Mytona",
-      "icon": "https://play-lh.googleusercontent.com/z-E9vzhgkMEUTALcZ7a80LzW74rmFV99HP-xI7sgy-MNOOLrdykBeedMvprmOgHfpf4DtLVZjiAOi8dGDDeCWw",
-      "url": "https://play.google.com/store/apps/details?id=com.mytona.cheftales&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "train.railroad.climb.simulator",
-      "title": "트레인 시뮬레이터 - 2D 레일로드 기차게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/A_Nc9PbOS0PRU6VR-xrF7WM2NGHXz1g_1NXLX3hsmkDrQ9co0dUCzVCcJpquuNTYzw",
-      "url": "https://play.google.com/store/apps/details?id=train.railroad.climb.simulator&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.cba",
-      "title": "쿠키런: 모험의 탑",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/2rUa7BlTumKdfztTJhHvy0XzheDbbf3RCGMmtt118S1HPsLxFywrtory1FTJ-qaBrGM",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cba&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparklingsociety.cityisland6",
-      "title": "시티 아일랜드 6: 빌딩 라이프",
-      "developer": "Sparkling Society - Build Town City Building Games",
-      "icon": "https://play-lh.googleusercontent.com/KFefbDd-4kM5hRrSMUQDv_fF6oRtecQy_fPHJ4UkBvNwZ-jMGIlzyuz8a3YFwSW4TPs",
-      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland6&hl=ko&gl=KR",
       "discoveredDate": "2026-04-17",
       "isGame": true
     },
