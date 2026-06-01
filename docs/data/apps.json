@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T06:14:29.283Z",
+  "updatedAt": "2026-06-01T07:57:24.078Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1305,6 +1305,15 @@
   ],
   "items": [
     {
+      "appId": "com.epicage.android",
+      "title": "에픽 에이지",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
+      "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
       "appId": "com.snapbreak.doors",
       "title": "도어스: 어웨이크닝",
       "developer": "Snapbreak",
@@ -1328,15 +1337,6 @@
       "developer": "LinkDesks - Jewel Games Star",
       "icon": "https://play-lh.googleusercontent.com/7u3ufAtKREs2jzABD8J0edmeQXcRANlFxNmUi-cZMKRciBup09t4e1s0fG-18nxffLA",
       "url": "https://play.google.com/store/apps/details?id=linkdesks.pop.bubblegames.bubbleshooter&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.epicage.android",
-      "title": "에픽 에이지",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
-      "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
