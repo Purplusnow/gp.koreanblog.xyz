@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T12:46:21.467Z",
+  "updatedAt": "2026-06-01T18:45:48.506Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1301,9 +1301,19 @@
     "com.tinytitanstudios.TrainChu",
     "com.lyoomatch.jewelscrush.princessadventure",
     "com.snapbreak.doors3",
-    "com.cookapps.redesignstar.homemakeover"
+    "com.cookapps.redesignstar.homemakeover",
+    "com.zynga.ozmatch"
   ],
   "items": [
+    {
+      "appId": "com.zynga.ozmatch",
+      "title": "The Wizard of Oz Magic Match 3",
+      "developer": "Zynga",
+      "icon": "https://play-lh.googleusercontent.com/Ub4PTn9oOgJWbcHvLgwZ5IpogZ-UzlVXGLXKJF3LKrl_vsU9y-3Ezk67WgzTP0o-XdWZXt6vTzmBp-6EtzzXit0",
+      "url": "https://play.google.com/store/apps/details?id=com.zynga.ozmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
     {
       "appId": "com.epicage.android",
       "title": "에픽 에이지",
@@ -4577,15 +4587,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftFWHM",
-      "title": "스나이퍼 퓨리: 슈팅 게임",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/CBtwVl2C6y9yGH3wVBDegm5u26YYLHhvl9P1mDXQSUxX3pMuHfhkCI5aUJOdX8wO05s",
-      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftFWHM&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
