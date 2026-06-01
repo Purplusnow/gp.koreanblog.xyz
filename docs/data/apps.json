@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T18:45:48.506Z",
+  "updatedAt": "2026-06-01T22:14:55.948Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1302,7 +1302,10 @@
     "com.lyoomatch.jewelscrush.princessadventure",
     "com.snapbreak.doors3",
     "com.cookapps.redesignstar.homemakeover",
-    "com.zynga.ozmatch"
+    "com.zynga.ozmatch",
+    "com.bigc.tile.match.triple",
+    "com.match3d.triple.match.legend.gp",
+    "com.xyrality.lkclient"
   ],
   "items": [
     {
@@ -1311,6 +1314,33 @@
       "developer": "Zynga",
       "icon": "https://play-lh.googleusercontent.com/Ub4PTn9oOgJWbcHvLgwZ5IpogZ-UzlVXGLXKJF3LKrl_vsU9y-3Ezk67WgzTP0o-XdWZXt6vTzmBp-6EtzzXit0",
       "url": "https://play.google.com/store/apps/details?id=com.zynga.ozmatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigc.tile.match.triple",
+      "title": "타일 매치: 트리플 퍼즐 게임",
+      "developer": "Big Cake Apps",
+      "icon": "https://play-lh.googleusercontent.com/ZtNznxLFRhEjYhGW6zmDor_u1tudzHwAc8ZRhF-eedZM1fJ-GYUEJvULZoVyyleaYLnOeXrmObJvF0cbP2ZIAQ",
+      "url": "https://play.google.com/store/apps/details?id=com.bigc.tile.match.triple&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.match3d.triple.match.legend.gp",
+      "title": "Match 3D - Triple Tile Match",
+      "developer": "Jewel Loft",
+      "icon": "https://play-lh.googleusercontent.com/m5J38vxjM4hBRGAwqYQ6POjvkBEcxoFKhONCCq41zmWQwjmBHs2olWBM23vqGLgn4jV1WXmsWX6YcYFO98Yf6_M",
+      "url": "https://play.google.com/store/apps/details?id=com.match3d.triple.match.legend.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.xyrality.lkclient",
+      "title": "영주와 기사 - Lords & Knights 건물 게임",
+      "developer": "XYRALITY GmbH",
+      "icon": "https://play-lh.googleusercontent.com/kiR3VWmTbBjwQSueOCBsiHyd-PqAtWbWAMxQtw8kpwZyDWaCYZLUe9ta0ci7mwCyvdI",
+      "url": "https://play.google.com/store/apps/details?id=com.xyrality.lkclient&hl=ko&gl=KR",
       "discoveredDate": "2026-06-02",
       "isGame": true
     },
@@ -4587,33 +4617,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.square_enix.android_googleplay.DD",
-      "title": "DISSIDIA DUELLUM FINAL FANTASY",
-      "developer": "SQUARE ENIX Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/c_iqU8Mjx8kog9fsBZoUAu_YKCem8VJR_hCF6u3Sc7PloZjSx1kBdBeYWghONQKck2wXj0B0NlgbSc7T8OUBnw",
-      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.kanoapps.bz",
-      "title": "Idle Distiller Tycoon",
-      "developer": "Kano Games",
-      "icon": "https://play-lh.googleusercontent.com/m6p223BmwOBi15fHsQicV1XbA6llS4xmf8ZYtFMUgb59dL5Z0jZAUdKdn4DxmVfGBg",
-      "url": "https://play.google.com/store/apps/details?id=com.kanoapps.bz&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcake.android.bubbledaily",
-      "title": "데일리 버블",
-      "developer": "Big Cake",
-      "icon": "https://play-lh.googleusercontent.com/nVMUMdxmiEFenCnvHRsfmNar_23tCrERLAlrB18tMOSYcRMM1LvlsvT34LIAObxnliUL",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcake.android.bubbledaily&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
