@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T00:13:30.453Z",
+  "updatedAt": "2026-06-01T06:14:29.283Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1300,7 +1300,8 @@
     "com.epicage.android",
     "com.tinytitanstudios.TrainChu",
     "com.lyoomatch.jewelscrush.princessadventure",
-    "com.snapbreak.doors3"
+    "com.snapbreak.doors3",
+    "com.cookapps.redesignstar.homemakeover"
   ],
   "items": [
     {
@@ -1363,6 +1364,15 @@
       "developer": "Snapbreak",
       "icon": "https://play-lh.googleusercontent.com/zmdZgG2JV5bZp_m7XacWhwtDhWcBZwz9ln-BHeZwQc6obCPKS8oq_T5lGFbmLmbcKuK5",
       "url": "https://play.google.com/store/apps/details?id=com.snapbreak.doors3&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.redesignstar.homemakeover",
+      "title": "디자인 스타 : 집꾸미기 게임",
+      "developer": "NSTAGE",
+      "icon": "https://play-lh.googleusercontent.com/irP0bu8dvhc9nDnGaAp6fbFZfMR98NxNWnyX7JigPw6F8WTFrnkjfzBeiBq55TVAg04",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.redesignstar.homemakeover&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
@@ -4567,15 +4577,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.WalkTalk.FlightMaster",
-      "title": "Epic Plane Evolution",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/9X0U2_jdvROxslyUAHSVzvrleTgfh2E73Ir3ErAJfsJJ6jr82UMVVjw40CcuTBEbPr56nO0VY7AZmEjy7JtMVXQ",
-      "url": "https://play.google.com/store/apps/details?id=com.WalkTalk.FlightMaster&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
