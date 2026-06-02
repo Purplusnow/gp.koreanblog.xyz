@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T05:58:40.034Z",
+  "updatedAt": "2026-06-02T10:52:32.947Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1307,7 +1307,9 @@
     "com.match3d.triple.match.legend.gp",
     "com.xyrality.lkclient",
     "com.eastsidegames.squishmallows",
-    "com.zitga.ninja.stickman.legends"
+    "com.zitga.ninja.stickman.legends",
+    "linkdesks.bubblegames.bubbleshooter.ocean.pop",
+    "com.nianticlabs.pikmin"
   ],
   "items": [
     {
@@ -1361,6 +1363,24 @@
       "developer": "Putaleng",
       "icon": "https://play-lh.googleusercontent.com/bvu4-ZwZbQdEcS2Xy7CumbUrEDVstovljg6jv3Ja8YQl0jkMxBwfryfs6CJoIH9Pcw",
       "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.bubblegames.bubbleshooter.ocean.pop",
+      "title": "버블슈터 - 아쿠아리움",
+      "developer": "LinkDesks Classic Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/Pbf8lJwgFqHj-f-xycuJoVd3fkX65JTJgqowHksvMy1K3IpE-G4DFHwfkRKTVn4d-Q",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.bubblegames.bubbleshooter.ocean.pop&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.nianticlabs.pikmin",
+      "title": "Pikmin Bloom",
+      "developer": "Niantic, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/lZhO5dn3aCCBkqfFBMCFQeTsCaCfKA_wdmXsco4HtZoy970MSPnXTSbm5Ub-Z3glHA",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=ko&gl=KR",
       "discoveredDate": "2026-06-02",
       "isGame": true
     },
@@ -4637,24 +4657,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.panzerdog.tacticool",
-      "title": "TPS 슈팅게임 Tacticool: PVP 멀티게임",
-      "developer": "Panzerdog",
-      "icon": "https://play-lh.googleusercontent.com/v7kjas2c_Rud-RX4wQF3dXE4E_O33RICzd1o5EpTnxJSiIo4AVIaVKCMJcQWSnNUQsg2hY0qrKCtHAnssIvriw",
-      "url": "https://play.google.com/store/apps/details?id=com.panzerdog.tacticool&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.runninggames.catrunners.runningpet",
-      "title": "Running Pet: Dec Rooms",
-      "developer": "IVYGAMES",
-      "icon": "https://play-lh.googleusercontent.com/HBdivPMsFopQdBR7Fpvw13UrwJuEu0xd97scm5cXBGMJN5DwfI_Jm-7xq5PB18RcLsiR",
-      "url": "https://play.google.com/store/apps/details?id=com.runninggames.catrunners.runningpet&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
