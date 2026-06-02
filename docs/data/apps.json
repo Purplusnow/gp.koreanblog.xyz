@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T00:22:43.307Z",
+  "updatedAt": "2026-06-02T05:58:40.034Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1306,7 +1306,8 @@
     "com.bigc.tile.match.triple",
     "com.match3d.triple.match.legend.gp",
     "com.xyrality.lkclient",
-    "com.eastsidegames.squishmallows"
+    "com.eastsidegames.squishmallows",
+    "com.zitga.ninja.stickman.legends"
   ],
   "items": [
     {
@@ -1351,6 +1352,15 @@
       "developer": "East Side Games Studio",
       "icon": "https://play-lh.googleusercontent.com/gsVuhlJq3qhPWw-E6VmgkaYuvdpO_uQ9NNVUF30DJ2OVEyFtBxCT_362C8AEUrn423jtUagY8n4jVra5B3AP",
       "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.squishmallows&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.zitga.ninja.stickman.legends",
+      "title": "Stickman Legends: 생존 RPG",
+      "developer": "Putaleng",
+      "icon": "https://play-lh.googleusercontent.com/bvu4-ZwZbQdEcS2Xy7CumbUrEDVstovljg6jv3Ja8YQl0jkMxBwfryfs6CJoIH9Pcw",
+      "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends&hl=ko&gl=KR",
       "discoveredDate": "2026-06-02",
       "isGame": true
     },
@@ -4627,15 +4637,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.quantumgames.skyscraper",
-      "title": "타워 크래프트 3D - 방치형 건축 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/PWOfU0mXdJYzlkVkTbCElOtGdZtqFpb-T0BQa9Jz-GSvaco4-O0f83baHMS23mCTFniC",
-      "url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
