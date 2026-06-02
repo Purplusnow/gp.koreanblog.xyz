@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T15:02:36.886Z",
+  "updatedAt": "2026-06-02T18:51:17.014Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1309,9 +1309,19 @@
     "com.eastsidegames.squishmallows",
     "com.zitga.ninja.stickman.legends",
     "linkdesks.bubblegames.bubbleshooter.ocean.pop",
-    "com.nianticlabs.pikmin"
+    "com.nianticlabs.pikmin",
+    "com.kongregate.mobile.throwdown.google"
   ],
   "items": [
+    {
+      "appId": "com.kongregate.mobile.throwdown.google",
+      "title": "Animation Throwdown: Epic CCG",
+      "developer": "Kongregate",
+      "icon": "https://play-lh.googleusercontent.com/dyQqDH8FkM53lkEFhtw_Ef_nQeTCJ4ye3RiPHK-6bNe7MDxIeHXUm1C2Uu_8MKLOyVdl",
+      "url": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.throwdown.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-03",
+      "isGame": true
+    },
     {
       "appId": "com.zynga.ozmatch",
       "title": "The Wizard of Oz Magic Match 3",
@@ -4657,15 +4667,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.phonemaster.jewelhunter",
-      "title": "Jewel Hunter - 보석 퍼즐 폭발",
-      "developer": "LinkDesks Classic Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/XKTIRSL_9rZsq22k9u3jTAjEKNZBzqS-jCTyrSPu8aO9PT44dwTL4KodFcGgB0ul480zY8CWmmknpute0umr",
-      "url": "https://play.google.com/store/apps/details?id=com.phonemaster.jewelhunter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
