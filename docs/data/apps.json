@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T22:14:55.948Z",
+  "updatedAt": "2026-06-02T00:22:43.307Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1305,7 +1305,8 @@
     "com.zynga.ozmatch",
     "com.bigc.tile.match.triple",
     "com.match3d.triple.match.legend.gp",
-    "com.xyrality.lkclient"
+    "com.xyrality.lkclient",
+    "com.eastsidegames.squishmallows"
   ],
   "items": [
     {
@@ -1341,6 +1342,15 @@
       "developer": "XYRALITY GmbH",
       "icon": "https://play-lh.googleusercontent.com/kiR3VWmTbBjwQSueOCBsiHyd-PqAtWbWAMxQtw8kpwZyDWaCYZLUe9ta0ci7mwCyvdI",
       "url": "https://play.google.com/store/apps/details?id=com.xyrality.lkclient&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.eastsidegames.squishmallows",
+      "title": "Squishmallows Match",
+      "developer": "East Side Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/gsVuhlJq3qhPWw-E6VmgkaYuvdpO_uQ9NNVUF30DJ2OVEyFtBxCT_362C8AEUrn423jtUagY8n4jVra5B3AP",
+      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.squishmallows&hl=ko&gl=KR",
       "discoveredDate": "2026-06-02",
       "isGame": true
     },
@@ -4617,15 +4627,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.nekki.vector",
-      "title": "Vector",
-      "developer": "NEKKI",
-      "icon": "https://play-lh.googleusercontent.com/q6SVJK33B3Yi34l2XXaufD27XL4CCcmsXuwHuG2LLpGIntIwZZzBYtgs57ImBlX7QqU",
-      "url": "https://play.google.com/store/apps/details?id=com.nekki.vector&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
