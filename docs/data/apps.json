@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T17:08:00.838Z",
+  "updatedAt": "2026-06-03T21:27:07.320Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1312,9 +1312,19 @@
     "com.nianticlabs.pikmin",
     "com.kongregate.mobile.throwdown.google",
     "com.kongorange.felixthereaper",
-    "com.rikudogames.maze"
+    "com.rikudogames.maze",
+    "com.plarium.throne"
   ],
   "items": [
+    {
+      "appId": "com.plarium.throne",
+      "title": "Throne: Kingdom at War",
+      "developer": "Plarium  LLC",
+      "icon": "https://play-lh.googleusercontent.com/HfL_vloGVeD0igXuFWQYAvAzZ1rYKOJIzpE2gSMRuoJoKzqgQ3ZWi7YSNDe3OiK1Sg",
+      "url": "https://play.google.com/store/apps/details?id=com.plarium.throne&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-04",
+      "isGame": true
+    },
     {
       "appId": "com.kongregate.mobile.throwdown.google",
       "title": "Animation Throwdown: Epic CCG",
@@ -4687,15 +4697,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.rbx.m3.android",
-      "title": "Park Town: 3매치 퍼즐을 해결하며 공원을 철",
-      "developer": "RED BRIX WALL",
-      "icon": "https://play-lh.googleusercontent.com/V1icef6FNHTFNKsBo2vMbEZ9wMaCk7qGfMHDFqKRL0rgefQjCbv_g2_IP9I_L4wuS4I",
-      "url": "https://play.google.com/store/apps/details?id=com.rbx.m3.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
