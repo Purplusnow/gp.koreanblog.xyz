@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T05:05:39.284Z",
+  "updatedAt": "2026-06-03T11:20:15.224Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1310,7 +1310,9 @@
     "com.zitga.ninja.stickman.legends",
     "linkdesks.bubblegames.bubbleshooter.ocean.pop",
     "com.nianticlabs.pikmin",
-    "com.kongregate.mobile.throwdown.google"
+    "com.kongregate.mobile.throwdown.google",
+    "com.kongorange.felixthereaper",
+    "com.rikudogames.maze"
   ],
   "items": [
     {
@@ -1319,6 +1321,24 @@
       "developer": "Kongregate",
       "icon": "https://play-lh.googleusercontent.com/dyQqDH8FkM53lkEFhtw_Ef_nQeTCJ4ye3RiPHK-6bNe7MDxIeHXUm1C2Uu_8MKLOyVdl",
       "url": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.throwdown.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.kongorange.felixthereaper",
+      "title": "Felix the Reaper",
+      "developer": "Daedalic Entertainment GmbH",
+      "icon": "https://play-lh.googleusercontent.com/yCoFS6lUKsLKAYo3nLoYArj9OnKtyBiChV8lg_QmeWvxDxo9rMHYwGzdt9wYAk8LavmTbiZBFEVVF97px-JoR20",
+      "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.rikudogames.maze",
+      "title": "미로: 끝없는 간단함",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
+      "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
       "discoveredDate": "2026-06-03",
       "isGame": true
     },
@@ -4667,24 +4687,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.marketII",
-      "title": "Baby Panda's Town: 쇼핑몰",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/WZmgVmMRkk_9Q19uTIz2UQqIkx3LvQU1RjTfHmjqTAn9gjp-Qne-0cy2Kwsr0bvLeA",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketII&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.jewelsofmahjong.android",
-      "title": "Emperor of Mahjong 타일 짝 맞추기",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/OkGilsjadUhH0gM1w30nmBoHMYoxuO30me0XEOgkByqRnHFKNe3YkZ0P0VNaMm5scg",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.jewelsofmahjong.android&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
