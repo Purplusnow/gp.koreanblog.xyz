@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T21:27:07.320Z",
+  "updatedAt": "2026-06-03T23:55:14.159Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1313,7 +1313,8 @@
     "com.kongregate.mobile.throwdown.google",
     "com.kongorange.felixthereaper",
     "com.rikudogames.maze",
-    "com.plarium.throne"
+    "com.plarium.throne",
+    "com.robtopx.geometrydashworld"
   ],
   "items": [
     {
@@ -1322,6 +1323,15 @@
       "developer": "Plarium  LLC",
       "icon": "https://play-lh.googleusercontent.com/HfL_vloGVeD0igXuFWQYAvAzZ1rYKOJIzpE2gSMRuoJoKzqgQ3ZWi7YSNDe3OiK1Sg",
       "url": "https://play.google.com/store/apps/details?id=com.plarium.throne&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.robtopx.geometrydashworld",
+      "title": "Geometry Dash World",
+      "developer": "RobTop Games",
+      "icon": "https://play-lh.googleusercontent.com/eu0Lv1QtDbCdVvuphJh84zxKNURIEcXjmZPhAv4NM4Xacfjum9TspfYkzRcBKv4zpDk",
+      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometrydashworld&hl=ko&gl=KR",
       "discoveredDate": "2026-06-04",
       "isGame": true
     },
@@ -4697,15 +4707,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.rovio.ABstellapop",
-      "title": "Angry Birds POP Bubble Shooter",
-      "developer": "Rovio Entertainment Oy",
-      "icon": "https://play-lh.googleusercontent.com/0rvxtHiJ3UwaCxBHGZrNd8CvShlClMaas7-_oh1nc5LEjvM0hDuo4jiMQpuzc6CE6jvRF4-4xXUQazZKmAV5zw",
-      "url": "https://play.google.com/store/apps/details?id=com.rovio.ABstellapop&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
