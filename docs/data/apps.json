@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T23:18:44.281Z",
+  "updatedAt": "2026-06-05T04:41:32.320Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1314,9 +1314,19 @@
     "com.kongorange.felixthereaper",
     "com.rikudogames.maze",
     "com.plarium.throne",
-    "com.robtopx.geometrydashworld"
+    "com.robtopx.geometrydashworld",
+    "com.wb.goog.hotd.socialstrategy"
   ],
   "items": [
+    {
+      "appId": "com.wb.goog.hotd.socialstrategy",
+      "title": "Game of Thrones: Dragonfire",
+      "developer": "Warner Bros. International Enterprises",
+      "icon": "https://play-lh.googleusercontent.com/2y_h7WQuNqcoxOKRLDUmNsEgRBKhTSFyM-EWG6rguQrDqWkHUB_oUXXWQ_p5RnLaKepvs8pNbj-xaPecEH11uw",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.hotd.socialstrategy&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-05",
+      "isGame": true
+    },
     {
       "appId": "com.plarium.throne",
       "title": "Throne: Kingdom at War",
@@ -4707,15 +4717,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "fi.reworks.redecor",
-      "title": "Redecor - Home Design Game",
-      "developer": "Reworks Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/ueNWeXQoJyF_aC13vtoEFzyQXM81twZFc2fTKOjGIX9uRGbim5vqaxZgDypGzD1WTw",
-      "url": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
