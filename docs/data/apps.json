@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T12:13:05.956Z",
+  "updatedAt": "2026-06-06T14:50:37.824Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1318,7 +1318,16 @@
     "com.wb.goog.hotd.socialstrategy",
     "com.neowizgames.game.browndust2",
     "com.nexon.bluearchive",
-    "aliens.zombies.invasion"
+    "aliens.zombies.invasion",
+    "com.proofofplay.shibastorygo",
+    "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
+    "com.mobirix.mgct",
+    "com.bigcool.puzzle.merge.valley",
+    "com.jinlinetwork.match.pair",
+    "com.pantheraplay.soulhuntresspremium",
+    "com.playdigious.slimerancher",
+    "com.snapbreak.amongthesleep",
+    "com.wgame.codeg"
   ],
   "items": [
     {
@@ -1345,6 +1354,87 @@
       "developer": "GAMEGEARS LTD",
       "icon": "https://play-lh.googleusercontent.com/ijB2fkmqoA7ya60_Ik5tzg1aJ-3WwAQI8mj2geA_ko__mlLGjt_DR9c2pjcnG_Uz06E1gpKxf0ztKolRjBpjQnU",
       "url": "https://play.google.com/store/apps/details?id=aliens.zombies.invasion&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.proofofplay.shibastorygo",
+      "title": "시바 스토리 고! RPG 방치형 게임",
+      "developer": "Proof of Play",
+      "icon": "https://play-lh.googleusercontent.com/KxYfhFMg8RPrAzh6vcSZcGeV2EZFz0GvZgMOwMpj6OUtdYh5BnwpXHr1A-X9Ejl71hT-Mq822hoI9nTRMaeD",
+      "url": "https://play.google.com/store/apps/details?id=com.proofofplay.shibastorygo&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
+      "title": "몬몬 마스터즈",
+      "developer": "PLAYHARD STUDIO",
+      "icon": "https://play-lh.googleusercontent.com/kPBvsEcDpcKZQb901kvSicdpFzH7ThjAeTyRNGQSTi8HybWzry5OwqDEVOLZPtXPnxM-bVNgAhR9Gn29XHIqGw",
+      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.mgct",
+      "title": "머지 캣 타운",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/f53hNpL2GxVNTzkVUuFBpXPP-c6eFNqnwgwJMFnTrL1-FVB_vpYWR-WKDInrseDmy_-WqUcULzLcKos66pWb",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgct&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.puzzle.merge.valley",
+      "title": "머지 밸리: 데이터 필요없는 힐링 퍼즐 게임",
+      "developer": "Bigcool Games",
+      "icon": "https://play-lh.googleusercontent.com/0a3y5hrKDzMAE0B1MKoWF9bs9JX86-MMywIgCab2R4-Rzo9SWPPSO9uXKmCt1jZl7yVG",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.valley&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.jinlinetwork.match.pair",
+      "title": "Pair Match Solitaire",
+      "developer": "Jinli Network",
+      "icon": "https://play-lh.googleusercontent.com/nQmeAkioxv0wDT48djc5tBsKFEtWCABUbwsVXqNA5-s6lKYrz08gbeS-w-bsIstBFIQA",
+      "url": "https://play.google.com/store/apps/details?id=com.jinlinetwork.match.pair&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.pantheraplay.soulhuntresspremium",
+      "title": "소울 헌트리스: RPG 프리미엄",
+      "developer": "PANTHERA GLOBAL",
+      "icon": "https://play-lh.googleusercontent.com/r9URIoNDSKRRNT4HtZ7fHoJ9_A8sbxohEsAzQTBEybNv7WnbIaA_MBdRoEbrKMz0Joao_S8-Az6YjyBCeohfmQ",
+      "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.playdigious.slimerancher",
+      "title": "Slime Rancher",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/y0a-3TmdIBjFlUxTGLcdVLYxuw1k5wV4sdUdxouNNRIkbrUN2my2d0psghze5bseoNvVSZIMGCAg4TIf6etCTw",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.slimerancher&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.amongthesleep",
+      "title": "Among the Sleep",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/cBmkf-VToJITpnuhRQ7C6eDk6tXy5tJDc-moQhVM9xx122-nDgyy7krG8slQ6UHXXKBXRZndLlVLz5XrYLfv",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.amongthesleep&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.wgame.codeg",
+      "title": "Grand Gangster War",
+      "developer": "WGAME TECHNOLOGY",
+      "icon": "https://play-lh.googleusercontent.com/OK2BF0-MXlZ3kah3Nah4Rme5YqWVG0tpc2em9JtULXSKdf1IPkefCTYUAD5J_epbow4",
+      "url": "https://play.google.com/store/apps/details?id=com.wgame.codeg&hl=ko&gl=KR",
       "discoveredDate": "2026-06-06",
       "isGame": true
     },
@@ -4621,87 +4711,6 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/jIU8Ky1KlDOHH4Hfp-S_QjPATGtp8M2ddYccWMGFVPXl6Umqy3k5hK9_0jayltJ1UPw",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.agar.io&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "bubble.pop.games.shooter.ball.game",
-      "title": "버블슈터 게임：버블팝 슈팅게임",
-      "developer": "HDuo Fun Games",
-      "icon": "https://play-lh.googleusercontent.com/QO92vVkOjCXBbu7cYRe6QERWcDSTGuo_XTafFVt17_jThpOgon5WKY0aWhFcOPf6robX",
-      "url": "https://play.google.com/store/apps/details?id=bubble.pop.games.shooter.ball.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "art.master.puzzle",
-      "title": "아트 마스터: 직소 퍼즐",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/3IOTt4bqghQ9NcgjTnmvyWZmsZF2MKL-FZz2TZR5J_of2ey5Vzwi8zxXu1wo0rkhQQ",
-      "url": "https://play.google.com/store/apps/details?id=art.master.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.joyjourney.PianoWhiteGo",
-      "title": "Piano Music Go-EDM Piano Games",
-      "developer": "Joy Journey Music Games",
-      "icon": "https://play-lh.googleusercontent.com/X6rA5UkHhIkvpiuCqwMCPjcwNqtvT9yVw2wn_ZzV75Xlk_apsis3Nz6FJ6kIcp2Fw4Q",
-      "url": "https://play.google.com/store/apps/details?id=com.joyjourney.PianoWhiteGo&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.princessII",
-      "title": "공주 메이크업 - 베이비버스",
-      "developer": "FUZHOU JOLTRIX CO., LTD.",
-      "icon": "https://play-lh.googleusercontent.com/HnsvComDzsRWaDlGUddK3o10pWGnyuHZU-Be-iQmqKrBSH_djGrwiQ8lWpCOwO-GDPh-Nx4Z9TJNIwBhVCbdiig",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.princessII&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixelbite.ga2",
-      "title": "Reckless Getaway 2",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/3aHL3xbbQBkiz2z3bf7EidcRxvWFTBPbEtBRLGHlrha4Z3UsTDM850RdK14HAAMaS-QjcxCVa9jOcTNbuGGDeQ",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelbite.ga2&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.supersolid.snake",
-      "title": "Snake Rivals",
-      "developer": "Supersolid",
-      "icon": "https://play-lh.googleusercontent.com/uOBOlK2RN--P0YKTn64Th7O1i4U1qTfTY6lSOfp0Ey2dTg6ZeLM6mBj_5GtCNzlMnTo",
-      "url": "https://play.google.com/store/apps/details?id=com.supersolid.snake&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "mad.royale.tanks",
-      "title": "매드 로얄 io - 탱크 배틀",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/j3gUvDKbAvnK4rvyFuTxzmQOEUV41R5QwFHA66PORIHuZeb2fyirIGrjA79npAD3ZGna",
-      "url": "https://play.google.com/store/apps/details?id=mad.royale.tanks&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "and.lihuhu.machingtriple",
-      "title": "Match Triple 3D: Matching tile",
-      "developer": "LIHUHU PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/Fyj84R_cBe1AVt7Er17nVGyWe1z_S4xsTIQjNTHOV2lJV4YH8MD1ZIEBB-oeLhmDGg",
-      "url": "https://play.google.com/store/apps/details?id=and.lihuhu.machingtriple&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.foxnextgames.m3",
-      "title": "MARVEL 스트라이크 포스: 스쿼드 RPG",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/AI9bcRd6c_QXUriLEr-z03oqA72psQqGkUbYj7xVae8fh3V7u9dxd5u7oQFoSMwlZWQar3p0T3qmpoQIbHhhbQ8",
-      "url": "https://play.google.com/store/apps/details?id=com.foxnextgames.m3&hl=ko&gl=KR",
       "discoveredDate": "2026-04-20",
       "isGame": true
     },
