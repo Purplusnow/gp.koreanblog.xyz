@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T10:15:26.564Z",
+  "updatedAt": "2026-06-06T12:13:05.956Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1317,7 +1317,8 @@
     "com.robtopx.geometrydashworld",
     "com.wb.goog.hotd.socialstrategy",
     "com.neowizgames.game.browndust2",
-    "com.nexon.bluearchive"
+    "com.nexon.bluearchive",
+    "aliens.zombies.invasion"
   ],
   "items": [
     {
@@ -1335,6 +1336,15 @@
       "developer": "NEXON Company",
       "icon": "https://play-lh.googleusercontent.com/lrERcCoTm7m8XStnhTHZDVfemQc_vTzCRl4CCBKhvQoBXo-WvmrwiGqONB7daFIJJkT0znGB5EOfgbaNRgiTyQ",
       "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "aliens.zombies.invasion",
+      "title": "Aliens vs Zombies: 침공",
+      "developer": "GAMEGEARS LTD",
+      "icon": "https://play-lh.googleusercontent.com/ijB2fkmqoA7ya60_Ik5tzg1aJ-3WwAQI8mj2geA_ko__mlLGjt_DR9c2pjcnG_Uz06E1gpKxf0ztKolRjBpjQnU",
+      "url": "https://play.google.com/store/apps/details?id=aliens.zombies.invasion&hl=ko&gl=KR",
       "discoveredDate": "2026-06-06",
       "isGame": true
     },
@@ -4737,15 +4747,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexters.herowars",
-      "title": "Hero Wars: Alliance",
-      "developer": "NEXTERS GLOBAL LTD",
-      "icon": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
-      "url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
