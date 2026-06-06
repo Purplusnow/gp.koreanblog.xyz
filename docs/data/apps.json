@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T20:17:59.021Z",
+  "updatedAt": "2026-06-06T22:13:03.713Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1327,9 +1327,39 @@
     "com.pantheraplay.soulhuntresspremium",
     "com.playdigious.slimerancher",
     "com.snapbreak.amongthesleep",
-    "com.wgame.codeg"
+    "com.wgame.codeg",
+    "jp.pokemon.pokemonchampions",
+    "com.TeamSparta.brd",
+    "com.bigcool.puzzle.merge.kitchen"
   ],
   "items": [
+    {
+      "appId": "jp.pokemon.pokemonchampions",
+      "title": "Pokémon Champions",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/CpBUPy9eZPB-lVJzVtVtwE6IPvNbr6hvxwcLDkcw4_LXJd6HYh0nBl37AwjZOWB4IecEM3PcPoYcvd-T6JYldz4",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonchampions&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.TeamSparta.brd",
+      "title": "벙커 딸깍 디펜스: 랜덤TD",
+      "developer": "Teamsparta Inc.",
+      "icon": "https://play-lh.googleusercontent.com/0DDzk4evRfO0Kmt2jPEXOQKDrAZMyZR2VtOiv33dIKQnCLFiQgy6O4253g4PII_W3EAYq8g5cvHz1Jw49ju_sA",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.puzzle.merge.kitchen",
+      "title": "머지 키친: 힐링 요리 & 오프라인 퍼즐 게임",
+      "developer": "Bigcool Games",
+      "icon": "https://play-lh.googleusercontent.com/NueXxQe00ROCCLuC1ux19gog09BeAABQV8IbxtYj7t0ZnlYeUgpXBoZ1EUsnOHjcKmNJ836XG8xFTPhDcRAxFA8",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.kitchen&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-07",
+      "isGame": true
+    },
     {
       "appId": "com.neowizgames.game.browndust2",
       "title": "브라운더스트2 - 가슴 벅찬 RPG",
@@ -4612,33 +4642,6 @@
       "developer": "Gameloft SE",
       "icon": "https://play-lh.googleusercontent.com/0hOgbmWCJfW_E51xQpn5-kiilbwxNzDEhtwpCqZePClM1fKh66yX7-IuWS1q0m5e6D_F6BglIMNI2Ih-Zq2X",
       "url": "https://play.google.com/store/apps/details?id=com.gameloft.anmp.disney.speedstorm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
-      "title": "2, 3, 4 세 아동용 게임",
-      "developer": "IDZ Digital Private Limited",
-      "icon": "https://play-lh.googleusercontent.com/5sayIhFt99chiUNvWAc1LXGtTkf82FsyXjfvNsIg1Ovgo3N6VxHuATLfoneCamC5ow",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.games.kids.toddler.learning.shark.puzzle.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
-      "title": "2세 이상 유아용 아기 게임 - 어린이 교육용 게임",
-      "developer": "Timpy Games For Kids, Toddlers & Baby",
-      "icon": "https://play-lh.googleusercontent.com/DN25XtKEeXaeEjXm0uceG_Fs9yKVxpE9taJz2gM_sxHJUntvAw_QfLNGS7PkJQZxBQ",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.world.kids.learning.games.balloon.popping.educational&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.internetdesignzone.nurseryrhymes",
-      "title": "KidloLand (키들로랜드) 어린이 게임, 유아게임",
-      "developer": "IDZ Digital Private Limited",
-      "icon": "https://play-lh.googleusercontent.com/BMTcJHqAaFGCHKq-F99xZSbyVp2yfx5mP8cL6Hgms5Y8gnzd9XtRHHrifop_08SM2g",
-      "url": "https://play.google.com/store/apps/details?id=com.internetdesignzone.nurseryrhymes&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
