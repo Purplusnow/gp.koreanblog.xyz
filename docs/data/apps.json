@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T00:16:34.013Z",
+  "updatedAt": "2026-06-06T05:01:57.180Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1315,9 +1315,29 @@
     "com.rikudogames.maze",
     "com.plarium.throne",
     "com.robtopx.geometrydashworld",
-    "com.wb.goog.hotd.socialstrategy"
+    "com.wb.goog.hotd.socialstrategy",
+    "com.neowizgames.game.browndust2",
+    "com.nexon.bluearchive"
   ],
   "items": [
+    {
+      "appId": "com.neowizgames.game.browndust2",
+      "title": "브라운더스트2 - 가슴 벅찬 RPG",
+      "developer": "NEOWIZ",
+      "icon": "https://play-lh.googleusercontent.com/EU57oDE8N2ZfMo3ina1NN37ZKhrG5_OJ7a7a2R_DsLLRUHFQJI6vM3e780DCIJ43DpEeUi_r8c82bs7G-a7j",
+      "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.bluearchive",
+      "title": "블루 아카이브",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/lrERcCoTm7m8XStnhTHZDVfemQc_vTzCRl4CCBKhvQoBXo-WvmrwiGqONB7daFIJJkT0znGB5EOfgbaNRgiTyQ",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
     {
       "appId": "com.wb.goog.hotd.socialstrategy",
       "title": "Game of Thrones: Dragonfire",
@@ -4717,24 +4737,6 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/GFAJbUZ_2CB6wo2VU1c_YOcHotUjt5DdwsGSSaZqbreKZTxlwHTRaNNXsUqURdcsX54",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.zombiefire&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.soul.zhongjianshang",
-      "title": "중고차 핫딜러 - 중고차 시장 키우기",
-      "developer": "supermt",
-      "icon": "https://play-lh.googleusercontent.com/DK8UIJkiuoFL9wZBv_XRE3izmGdKiH7uPiyLp66syGy5haGt0gmSYf9G1ypAvtsv7Q",
-      "url": "https://play.google.com/store/apps/details?id=com.soul.zhongjianshang&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.aim.racing",
-      "title": "Extreme Car Driving Simulator",
-      "developer": "AxesInMotion Racing",
-      "icon": "https://play-lh.googleusercontent.com/mZpszArgpl3nw2-hRkmnR7jJXFeniXhNQWgCefrFSnoKwMwdJ1CGr2FLi7zdsar0aw",
-      "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=ko&gl=KR",
       "discoveredDate": "2026-04-19",
       "isGame": true
     },
