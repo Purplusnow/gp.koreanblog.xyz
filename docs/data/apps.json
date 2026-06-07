@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T11:58:35.188Z",
+  "updatedAt": "2026-06-07T14:14:26.427Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1330,7 +1330,9 @@
     "com.wgame.codeg",
     "jp.pokemon.pokemonchampions",
     "com.TeamSparta.brd",
-    "com.bigcool.puzzle.merge.kitchen"
+    "com.bigcool.puzzle.merge.kitchen",
+    "cats.goods.sort.sorting.games",
+    "com.merge.match3mystery"
   ],
   "items": [
     {
@@ -1357,6 +1359,24 @@
       "developer": "Bigcool Games",
       "icon": "https://play-lh.googleusercontent.com/NueXxQe00ROCCLuC1ux19gog09BeAABQV8IbxtYj7t0ZnlYeUgpXBoZ1EUsnOHjcKmNJ836XG8xFTPhDcRAxFA8",
       "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.kitchen&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-07",
+      "isGame": true
+    },
+    {
+      "appId": "cats.goods.sort.sorting.games",
+      "title": "Goods Triple - 트리플매치",
+      "developer": "Shinrays Games",
+      "icon": "https://play-lh.googleusercontent.com/uAqVKlUIn308wSfj9UhyAM5EPGqj7oNlDBKjGTMta6eqN0NDn_uF5EgK8WxsY8QAlw",
+      "url": "https://play.google.com/store/apps/details?id=cats.goods.sort.sorting.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.merge.match3mystery",
+      "title": "미스트폴 매치: 디자인 & 블래스트",
+      "developer": "Flyyes, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/g8z1-NZNcXr1XDSVbMgJGoi5gEwUX6DNWfHUiWjF1grEEd1U2dZJla_UINWmLvwxxQrW0F0AO1PJN5LcDnA-kUg",
+      "url": "https://play.google.com/store/apps/details?id=com.merge.match3mystery&hl=ko&gl=KR",
       "discoveredDate": "2026-06-07",
       "isGame": true
     },
@@ -4642,24 +4662,6 @@
       "developer": "Gameloft SE",
       "icon": "https://play-lh.googleusercontent.com/0hOgbmWCJfW_E51xQpn5-kiilbwxNzDEhtwpCqZePClM1fKh66yX7-IuWS1q0m5e6D_F6BglIMNI2Ih-Zq2X",
       "url": "https://play.google.com/store/apps/details?id=com.gameloft.anmp.disney.speedstorm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.drivezone.car.race.game",
-      "title": "Drive Zone Online: 자동차와 드리프트",
-      "developer": "Jet Games FZ-LLC",
-      "icon": "https://play-lh.googleusercontent.com/6XtTMwY47KMK-dqMxAkhmSzVy3PSVZLnolmecn6PlhSU8bK6ZDLx4bg2zyxKWB8lmFPNtaDgJTWKqLt0UMk_UQ",
-      "url": "https://play.google.com/store/apps/details?id=com.drivezone.car.race.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.chillingo.robberybob2.android.gplay",
-      "title": "Robbery Bob 2: 이중 문제",
-      "developer": "Deca_Games",
-      "icon": "https://play-lh.googleusercontent.com/SjoUsj06xcSRIz8rWzFUDV2VawAgnRJXebJhcr4UhPUl-ds_C9kTYzxMoadbUgxbUq8",
-      "url": "https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
