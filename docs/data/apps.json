@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T11:17:56.747Z",
+  "updatedAt": "2026-06-08T16:12:47.203Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1335,9 +1335,39 @@
     "com.merge.match3mystery",
     "com.strategy.war.ww2.glory.tactics",
     "com.gamesntpte.xp0",
-    "com.tapblaze.pizzabusiness"
+    "com.tapblaze.pizzabusiness",
+    "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
+    "com.kids.preschool.learning.games",
+    "com.rvappstudios.abc_kids_toddler_tracing_phonics"
   ],
   "items": [
+    {
+      "appId": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
+      "title": "20 Minutes Till Dawn",
+      "developer": "Erabit Studios",
+      "icon": "https://play-lh.googleusercontent.com/8GaMFhrdW8ic2uMIWk4-gJQv9vFIphglgl2jE1j18IMMHlTq4v0CY8fhLSaq9oHBFeW6O9kKb1BbUbEU7Dqg",
+      "url": "https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.roguelike.shooting.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.kids.preschool.learning.games",
+      "title": "Kids Preschool Learning Games",
+      "developer": "GunjanApps Studios",
+      "icon": "https://play-lh.googleusercontent.com/7RdFOhN7q7E10-3VNMNGi1BdM_Jk7753c6QKWgOoHEhBZs_mCl-8W2mpBixwW2jE4dE",
+      "url": "https://play.google.com/store/apps/details?id=com.kids.preschool.learning.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.rvappstudios.abc_kids_toddler_tracing_phonics",
+      "title": "ABC Kids - Tracing & Phonics",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/dubBqdZfWh4LPRnwhf6c0zTtYscOykYvjE7PK91aJ8K6RHwUjQYhQ42rkO3fVF5X4gYO",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.abc_kids_toddler_tracing_phonics&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-09",
+      "isGame": true
+    },
     {
       "appId": "com.strategy.war.ww2.glory.tactics",
       "title": "제 2 차 세계 대전 : 전쟁 전략 게임",
@@ -4566,33 +4596,6 @@
       "developer": "VFive Games Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
       "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildspike.wormhunt",
-      "title": "사냥꾼 지렁이 • 뱀 게임 병합 .iO",
-      "developer": "Peaky Muzzle",
-      "icon": "https://play-lh.googleusercontent.com/YgPTsFz6uwFWlweSNtcVfvrap-mqp--EAY44533uKahsAwtVgEwQdY3LcVOmQu1lwwKH",
-      "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormhunt&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "happy.pixel.coloring.art.color.games",
-      "title": "픽셀 아트 색칠 - Pixel Art Coloring",
-      "developer": "HDuo Fun Games",
-      "icon": "https://play-lh.googleusercontent.com/54DpSUbNF2WKuGT5RaRnBcQ8TmHPJazlXs1-NtGuNT4TZqnDGwd3uaIkmpY3Tv24cg",
-      "url": "https://play.google.com/store/apps/details?id=happy.pixel.coloring.art.color.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.empire.grow.rome",
-      "title": "발전하는 제국: 로마",
-      "developer": "Games Station Studio",
-      "icon": "https://play-lh.googleusercontent.com/Pow90vZowVaFqub46S40DMRSFPL8v_Roem-hRAxTP10Dt6P855o3RhUpMlh11BWC_da8",
-      "url": "https://play.google.com/store/apps/details?id=com.empire.grow.rome&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
