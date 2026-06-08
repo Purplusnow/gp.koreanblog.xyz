@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:13:53.756Z",
+  "updatedAt": "2026-06-08T00:19:27.829Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1332,9 +1332,29 @@
     "com.TeamSparta.brd",
     "com.bigcool.puzzle.merge.kitchen",
     "cats.goods.sort.sorting.games",
-    "com.merge.match3mystery"
+    "com.merge.match3mystery",
+    "com.strategy.war.ww2.glory.tactics",
+    "com.gamesntpte.xp0"
   ],
   "items": [
+    {
+      "appId": "com.strategy.war.ww2.glory.tactics",
+      "title": "제 2 차 세계 대전 : 전쟁 전략 게임",
+      "developer": "Joynow Studio",
+      "icon": "https://play-lh.googleusercontent.com/dzlMrpP9ZTuxCf1mHR8Lb_NfcADTmWM9jOHI4MsCKeeSZYgYfodaQVs0nFQwmrj7OQ",
+      "url": "https://play.google.com/store/apps/details?id=com.strategy.war.ww2.glory.tactics&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamesntpte.xp0",
+      "title": "라스트 벙커: 타워 디펜스",
+      "developer": "HK TAIHE INTERACTIVE LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/FcTTQjuHoGdXwxLx4EDmWIYh_LznQ8sYj24A5qgzFs1soP2f1XBkbe_10kOZT2BZ2Os",
+      "url": "https://play.google.com/store/apps/details?id=com.gamesntpte.xp0&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-08",
+      "isGame": true
+    },
     {
       "appId": "jp.pokemon.pokemonchampions",
       "title": "Pokémon Champions",
@@ -4662,24 +4682,6 @@
       "developer": "Gameloft SE",
       "icon": "https://play-lh.googleusercontent.com/0hOgbmWCJfW_E51xQpn5-kiilbwxNzDEhtwpCqZePClM1fKh66yX7-IuWS1q0m5e6D_F6BglIMNI2Ih-Zq2X",
       "url": "https://play.google.com/store/apps/details?id=com.gameloft.anmp.disney.speedstorm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "onetap.game.tictactoe",
-      "title": "Tic Tac Toe - XO: 둘이서 하는 게임",
-      "developer": "Onetap Global",
-      "icon": "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8",
-      "url": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.ninjakiwi.bloonstd6",
-      "title": "Bloons TD 6",
-      "developer": "ninja kiwi",
-      "icon": "https://play-lh.googleusercontent.com/4te8y2It_nyY4yX5jcSEFaTDro98302l9EnSbkJyCobGUo8GWxteV_8kJ8nlXyStxw",
-      "url": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=ko&gl=KR",
       "discoveredDate": "2026-04-21",
       "isGame": true
     },
