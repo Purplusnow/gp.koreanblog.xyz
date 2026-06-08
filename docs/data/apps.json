@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T06:02:30.118Z",
+  "updatedAt": "2026-06-08T11:17:56.747Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1334,7 +1334,8 @@
     "cats.goods.sort.sorting.games",
     "com.merge.match3mystery",
     "com.strategy.war.ww2.glory.tactics",
-    "com.gamesntpte.xp0"
+    "com.gamesntpte.xp0",
+    "com.tapblaze.pizzabusiness"
   ],
   "items": [
     {
@@ -1352,6 +1353,15 @@
       "developer": "HK TAIHE INTERACTIVE LIMITED",
       "icon": "https://play-lh.googleusercontent.com/FcTTQjuHoGdXwxLx4EDmWIYh_LznQ8sYj24A5qgzFs1soP2f1XBkbe_10kOZT2BZ2Os",
       "url": "https://play.google.com/store/apps/details?id=com.gamesntpte.xp0&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapblaze.pizzabusiness",
+      "title": "좋은 피자, 위대한 피자: 힐링 피자가게 게임",
+      "developer": "TapBlaze",
+      "icon": "https://play-lh.googleusercontent.com/GCpf36a9Ls_IEw9mPbh_e7TDU4SrYNqpWqQ_5LBatXV_gH0X3gOK7PGGxbd0df-YZ4Pge3I17rfRuev2t-DSnlU",
+      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=ko&gl=KR",
       "discoveredDate": "2026-06-08",
       "isGame": true
     },
@@ -4556,15 +4566,6 @@
       "developer": "VFive Games Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
       "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "fall.stars.race",
-      "title": "STAR: 슈퍼 트리키 어메이징 런",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/Ej8keTyhWN2DaWsbdkGoW0n-5HiXG7Ls2TxBmu7PC_VylHHWQko28incFXYPGt_9BdpG",
-      "url": "https://play.google.com/store/apps/details?id=fall.stars.race&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
