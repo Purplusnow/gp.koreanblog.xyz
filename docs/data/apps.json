@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T19:25:38.165Z",
+  "updatedAt": "2026-06-09T21:56:51.655Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1339,9 +1339,39 @@
     "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
     "com.kids.preschool.learning.games",
     "com.rvappstudios.abc_kids_toddler_tracing_phonics",
-    "com.budgestudios.HelloKittyNailSalon"
+    "com.budgestudios.HelloKittyNailSalon",
+    "com.logicappkids",
+    "com.zeptolab.ctr.ads",
+    "com.TreetopCrew.EarthInc"
   ],
   "items": [
+    {
+      "appId": "com.logicappkids",
+      "title": "LogicLike: ABC & Math for kids",
+      "developer": "Massiana - Educational Games",
+      "icon": "https://play-lh.googleusercontent.com/O2aKzUu_wJShCE0fGJeWaaQd_Xp4-Vhf6YCL3slbz0UrSXeZktaEBf_-HY5BoK019HuQDpNNbLCOoQs6w0_YVA",
+      "url": "https://play.google.com/store/apps/details?id=com.logicappkids&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.zeptolab.ctr.ads",
+      "title": "Cut the Rope",
+      "developer": "ZeptoLab",
+      "icon": "https://play-lh.googleusercontent.com/Y5T271UOBkc52lUDHwiw0ECoAg3o-rOdmp8fCQqZqhX9tj5DKl5xeTollbj_nPcpSCgx",
+      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.TreetopCrew.EarthInc",
+      "title": "Earth Inc. Tycoon Idle Miner",
+      "developer": "Treetop Crew",
+      "icon": "https://play-lh.googleusercontent.com/Hd3FVg7w214wNa_42EyWFD-u2cjjyfyRXIVsUE6nT_-otayp1RqovJ3k3wLNwjFz9w2T",
+      "url": "https://play.google.com/store/apps/details?id=com.TreetopCrew.EarthInc&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-10",
+      "isGame": true
+    },
     {
       "appId": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
       "title": "20 Minutes Till Dawn",
@@ -4606,33 +4636,6 @@
       "developer": "VFive Games Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
       "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.tutotoons.app.lolsurprisediscohouse",
-      "title": "L.O.L. Surprise! 디스코 하우스",
-      "developer": "TutoTOONS",
-      "icon": "https://play-lh.googleusercontent.com/6RVtcn1F_rp9-zFqlt122d718OE9FNskt3IkAu2gf8BUSt7CvhQ3CLkdPAXRInYobGs",
-      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.lolsurprisediscohouse&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "and.matchgames.zenblossom",
-      "title": "Zen Blossom: Flower Tile Match",
-      "developer": "BRAINWORKS PUBLISHING PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/K8jdNjA-wdsPE5a2UYmWObyzp8Pe4QjJpBZE8-yQZ5TA5fzRyQZJ1nKE6lDZ8iDJGpo",
-      "url": "https://play.google.com/store/apps/details?id=and.matchgames.zenblossom&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.kooapps.stackybirdandroid",
-      "title": "Stacky Bird: 하이퍼 캐주얼 플라잉 버디 게임",
-      "developer": "Kooapps Games | Fun Arcade and Casual Action Games",
-      "icon": "https://play-lh.googleusercontent.com/j7Sz-Dgj6xFeOPxjs666Rf6kUmFhxoD2AvhRKNOO7Sd45XrkiuraHAM1k5XxyKAx6n7b",
-      "url": "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
