@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T04:19:36.059Z",
+  "updatedAt": "2026-06-09T08:38:09.680Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1338,7 +1338,8 @@
     "com.tapblaze.pizzabusiness",
     "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
     "com.kids.preschool.learning.games",
-    "com.rvappstudios.abc_kids_toddler_tracing_phonics"
+    "com.rvappstudios.abc_kids_toddler_tracing_phonics",
+    "com.budgestudios.HelloKittyNailSalon"
   ],
   "items": [
     {
@@ -1365,6 +1366,15 @@
       "developer": "RV AppStudios",
       "icon": "https://play-lh.googleusercontent.com/dubBqdZfWh4LPRnwhf6c0zTtYscOykYvjE7PK91aJ8K6RHwUjQYhQ42rkO3fVF5X4gYO",
       "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.abc_kids_toddler_tracing_phonics&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.budgestudios.HelloKittyNailSalon",
+      "title": "Hello Kitty 네일 살롱",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/h6Fer19ruK7pQFwnwkjvRfzrNGWwLwLQZbyuv8kyNrJUkRUgjW6r6GyEQ2tiNzyp-TiTiWDh1PRItP3H3pmjq20",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon&hl=ko&gl=KR",
       "discoveredDate": "2026-06-09",
       "isGame": true
     },
@@ -4596,15 +4606,6 @@
       "developer": "VFive Games Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
       "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "truck.simulator.climb.frontline",
-      "title": "Truck Simulator: Frontline WW2",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/RpcFa5Qu0BNg1vR1D-5r85ctjvt-1HPeUtoOmWYbPFcuXdxxbNx442lVSAPWPrqjEjA",
-      "url": "https://play.google.com/store/apps/details?id=truck.simulator.climb.frontline&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
