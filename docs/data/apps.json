@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T23:25:15.773Z",
+  "updatedAt": "2026-06-10T04:40:10.964Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1342,7 +1342,9 @@
     "com.budgestudios.HelloKittyNailSalon",
     "com.logicappkids",
     "com.zeptolab.ctr.ads",
-    "com.TreetopCrew.EarthInc"
+    "com.TreetopCrew.EarthInc",
+    "com.vm3.global",
+    "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay"
   ],
   "items": [
     {
@@ -1369,6 +1371,24 @@
       "developer": "Treetop Crew",
       "icon": "https://play-lh.googleusercontent.com/Hd3FVg7w214wNa_42EyWFD-u2cjjyfyRXIVsUE6nT_-otayp1RqovJ3k3wLNwjFz9w2T",
       "url": "https://play.google.com/store/apps/details?id=com.TreetopCrew.EarthInc&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.vm3.global",
+      "title": "트럭 스타 매치",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/bcvxHCVs5go0uzGohpwDu-Zid76pUDAlLY-XwbXtlGjrsv9wj2KWoW4kCWfMevxtfCbIMUQqqgZv-n8F-YD2SF0",
+      "url": "https://play.google.com/store/apps/details?id=com.vm3.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay",
+      "title": "LEGO® DUPLO® 월드",
+      "developer": "StoryToys",
+      "icon": "https://play-lh.googleusercontent.com/Kgfa0LTFST8T3tweXHQ1v_VrpDmwSMhB55FfW8VFeMLTyMcBY6YGvdqunXLlHMkq_HG9BwUXytJczWWb2e0Y",
+      "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-06-10",
       "isGame": true
     },
@@ -4636,24 +4656,6 @@
       "developer": "VFive Games Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
       "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.jumkaash.impossibleisland.andr",
-      "title": "Cradle of Maya: Match 3 Puzzle",
-      "developer": "Awem Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/reJs9MLh_PcC5kV8fgHd0TIvBv101fDEBlzg41NleRoNe2vZcLXBw59DzdeI7WJ9ziI",
-      "url": "https://play.google.com/store/apps/details?id=com.jumkaash.impossibleisland.andr&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.jszc.gpkr",
-      "title": "비스트 클래시: 라스트 프런트",
-      "developer": "Kingnet Technology Limited",
-      "icon": "https://play-lh.googleusercontent.com/TF-WQXh0yvZdUcaEQ_bVDBuF0ue79wg7MwXgxb9iZ8RvvT5-rklAAM77T6UNmGTHGdBqC5QEeYkw8er0NT_sTA",
-      "url": "https://play.google.com/store/apps/details?id=com.jszc.gpkr&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
