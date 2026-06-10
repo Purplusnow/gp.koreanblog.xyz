@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T12:33:39.155Z",
+  "updatedAt": "2026-06-10T16:41:53.854Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1344,9 +1344,39 @@
     "com.zeptolab.ctr.ads",
     "com.TreetopCrew.EarthInc",
     "com.vm3.global",
-    "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay"
+    "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay",
+    "air.com.and.games505.gemsofwar",
+    "com.klab.captain283.global",
+    "com.dhxmedia.slugitout2"
   ],
   "items": [
+    {
+      "appId": "air.com.and.games505.gemsofwar",
+      "title": "Gems of War - Match 3 RPG",
+      "developer": "505 Games Srl",
+      "icon": "https://play-lh.googleusercontent.com/BUtuYM7g8AVcjtrLdlRq7xGxijhkl_U1mNNSPmZNZGSsdiC0W-6HnwcLxNj7Vj-sC8udxGwEQA91-yK5eqDGIAI",
+      "url": "https://play.google.com/store/apps/details?id=air.com.and.games505.gemsofwar&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.klab.captain283.global",
+      "title": "Captain Tsubasa: Dream Team",
+      "developer": "KLab",
+      "icon": "https://play-lh.googleusercontent.com/kkVtcJxYpr8IQghyTq7OmHEa-ZYEi2vbsuHq9jw0D1pLt3smpLcMjPabiqoYzEy09Bhy2p7dlSQvIADcrG2btNk",
+      "url": "https://play.google.com/store/apps/details?id=com.klab.captain283.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.dhxmedia.slugitout2",
+      "title": "Slugterra: Slug it Out 2",
+      "developer": "Nightmarket Games",
+      "icon": "https://play-lh.googleusercontent.com/W2ZCJxbKMeMv8tMyF3zzBiV75cHeMgmbKWj0FX27VeKAMxPr4aDoha6LeVKc7WqCq_nERoc4rLKQ99iiVMSn3w",
+      "url": "https://play.google.com/store/apps/details?id=com.dhxmedia.slugitout2&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-11",
+      "isGame": true
+    },
     {
       "appId": "com.logicappkids",
       "title": "LogicLike: ABC & Math for kids",
@@ -4525,24 +4555,6 @@
       "isGame": true
     },
     {
-      "appId": "com.solitaire.klondike.my.magic.dragon.friends.cardgames",
-      "title": "솔리테어 드래곤",
-      "developer": "Playdayy",
-      "icon": "https://play-lh.googleusercontent.com/kxeIFc_fDy_kV_Uzhj9HShoRgAyxIBHHu8VKHbOIQ7NhWRPH40u98K-n1gujjJOnlvw",
-      "url": "https://play.google.com/store/apps/details?id=com.solitaire.klondike.my.magic.dragon.friends.cardgames&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "games.my.zombie.shooter",
-      "title": "좀비 스테이트(Zombie State) FPS 좀비게임",
-      "developer": "KEYSTORM HOLDINGS LTD",
-      "icon": "https://play-lh.googleusercontent.com/FKdcKzyQ85lp_7fHOLMULFNzJMCNGWWBziwJ2JsPkNvTSXrQ_s1IIqFAY2VwCCWLRpc",
-      "url": "https://play.google.com/store/apps/details?id=games.my.zombie.shooter&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
       "appId": "com.playgendary.tom",
       "title": "Tomb of the Mask: 픽셀 미로",
       "developer": "Playgendary Limited",
@@ -4656,15 +4668,6 @@
       "developer": "VFive Games Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/B0dVHZq2qaGFuDY49UGP_F8B-wneBqGJszvjFNl8tB-DO47R_zc49Rpry8MAz5WvxgoeGk8fiQZlFzZ-3_7aWA",
       "url": "https://play.google.com/store/apps/details?id=com.vfg.silkroad.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.FishEatFish.FeedGrow",
-      "title": "뻐끔뻐끔 배틀-Fish Eat Fish.io",
-      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/6dxSHa7jrOk4hVYKYhs7ZJHa9-cbjxJPb9pAxQCG8QQIAUtu06PbfRz-RGamYH4IYA",
-      "url": "https://play.google.com/store/apps/details?id=com.FishEatFish.FeedGrow&hl=ko&gl=KR",
       "discoveredDate": "2026-04-22",
       "isGame": true
     },
