@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T22:15:55.521Z",
+  "updatedAt": "2026-06-11T00:25:23.053Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1347,7 +1347,8 @@
     "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay",
     "air.com.and.games505.gemsofwar",
     "com.klab.captain283.global",
-    "com.dhxmedia.slugitout2"
+    "com.dhxmedia.slugitout2",
+    "com.trivia.star.android"
   ],
   "items": [
     {
@@ -1374,6 +1375,15 @@
       "developer": "Nightmarket Games",
       "icon": "https://play-lh.googleusercontent.com/W2ZCJxbKMeMv8tMyF3zzBiV75cHeMgmbKWj0FX27VeKAMxPr4aDoha6LeVKc7WqCq_nERoc4rLKQ99iiVMSn3w",
       "url": "https://play.google.com/store/apps/details?id=com.dhxmedia.slugitout2&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.trivia.star.android",
+      "title": "TRIVIA STAR Quiz Games Offline",
+      "developer": "Super Free",
+      "icon": "https://play-lh.googleusercontent.com/F87q19pE0fWjghkmIHees5ckJb4M_6nrp_GUz6jXqI1P1jgUiB0pL0T-rDeKSA-prCU",
+      "url": "https://play.google.com/store/apps/details?id=com.trivia.star.android&hl=ko&gl=KR",
       "discoveredDate": "2026-06-11",
       "isGame": true
     },
@@ -4551,15 +4561,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.playgendary.tom",
-      "title": "Tomb of the Mask: 픽셀 미로",
-      "developer": "Playgendary Limited",
-      "icon": "https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.tom&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
