@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:57:02.439Z",
+  "updatedAt": "2026-06-12T09:08:13.662Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1348,9 +1348,29 @@
     "air.com.and.games505.gemsofwar",
     "com.klab.captain283.global",
     "com.dhxmedia.slugitout2",
-    "com.trivia.star.android"
+    "com.trivia.star.android",
+    "jp.co.imagineer.sumikkogurashi.sumisumi",
+    "com.wemadeconnect.aos.makedrama.google"
   ],
   "items": [
+    {
+      "appId": "jp.co.imagineer.sumikkogurashi.sumisumi",
+      "title": "SUMI SUMI : Matching Puzzle",
+      "developer": "Imagineer Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/cu66q7JA5LLkwb3DxFsTQG1yh0GrCBq65sMu65psSyO3IOpddihjKtsmXJzcjxJDzf-k",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.sumikkogurashi.sumisumi&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.wemadeconnect.aos.makedrama.google",
+      "title": "메이크 드라마 : MAD",
+      "developer": "Wemade Connect",
+      "icon": "https://play-lh.googleusercontent.com/u574SJ5fOmikWAC7rVtFRKNFdP6vp29dyl-OFKDBW0hnOvlj5r-gKTrEGD57yDjqhCf8exL0zjCEki-Wdjyq_g",
+      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-12",
+      "isGame": true
+    },
     {
       "appId": "air.com.and.games505.gemsofwar",
       "title": "Gems of War - Match 3 RPG",
@@ -4561,24 +4581,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.robtopx.geometrydashsubzero",
-      "title": "Geometry Dash SubZero",
-      "developer": "RobTop Games",
-      "icon": "https://play-lh.googleusercontent.com/QtW5CVMDs9zzbRW5L2QNMqcapOXCMsUiRxPe-eKwiR04L-DQf3gcW21GOglufcRj8A",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometrydashsubzero&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.madfingergames.deadtrigger",
-      "title": "Dead Trigger: Survival Shooter",
-      "developer": "Deca_Games",
-      "icon": "https://play-lh.googleusercontent.com/dXNRVSz6qFGfv5Z4a_uu_4H4vFgVLRjipF7uCnzQgnSj_gR7y_WdwfIrCF13sng_gwpZ",
-      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
