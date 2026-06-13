@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T14:20:29.035Z",
+  "updatedAt": "2026-06-13T16:25:14.513Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1351,9 +1351,19 @@
     "com.trivia.star.android",
     "jp.co.imagineer.sumikkogurashi.sumisumi",
     "com.wemadeconnect.aos.makedrama.google",
-    "com.g5e.hiddencity.android"
+    "com.g5e.hiddencity.android",
+    "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy"
   ],
   "items": [
+    {
+      "appId": "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
+      "title": "Keep the Crown: 타워 디펜스 TD",
+      "developer": "Deviloper Limited",
+      "icon": "https://play-lh.googleusercontent.com/wwvhK3PrrthIzfOWY-ww8VkPqfp2ZRGeYQ2NKnIUYeLb0dG3V2lx6yfzxkkM78iBunc4344BiGVGoHeBxW9v",
+      "url": "https://play.google.com/store/apps/details?id=com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-14",
+      "isGame": true
+    },
     {
       "appId": "com.g5e.hiddencity.android",
       "title": "Hidden City: 숨은물건찾기 모험",
@@ -4591,15 +4601,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.onicore.torch",
-      "title": "Coco Valley: Farm Adventure",
-      "developer": "BitStrong Games",
-      "icon": "https://play-lh.googleusercontent.com/9mbBm8tH9NJ5wsSdnk3uU7-IIpyp9RnCA37RtznhCDW2WMX9eyiZ0Tg2Vf3nufEvrag",
-      "url": "https://play.google.com/store/apps/details?id=com.onicore.torch&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
