@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T08:29:54.576Z",
+  "updatedAt": "2026-06-13T11:23:12.974Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1350,9 +1350,19 @@
     "com.dhxmedia.slugitout2",
     "com.trivia.star.android",
     "jp.co.imagineer.sumikkogurashi.sumisumi",
-    "com.wemadeconnect.aos.makedrama.google"
+    "com.wemadeconnect.aos.makedrama.google",
+    "com.g5e.hiddencity.android"
   ],
   "items": [
+    {
+      "appId": "com.g5e.hiddencity.android",
+      "title": "Hidden City: 숨은물건찾기 모험",
+      "developer": "G5 Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/oekwZn3-GBFC2vNtZ8kzOBP4kv851RggAIypnlTSP8p9h3Sxq7p_fzdBsAWori8SNDy5PBdRP8aU0fiPAxHXgdI",
+      "url": "https://play.google.com/store/apps/details?id=com.g5e.hiddencity.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-13",
+      "isGame": true
+    },
     {
       "appId": "jp.co.imagineer.sumikkogurashi.sumisumi",
       "title": "SUMI SUMI : Matching Puzzle",
@@ -4581,15 +4591,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.playrix.manormatters",
-      "title": "숨겨진 유산",
-      "developer": "Playrix",
-      "icon": "https://play-lh.googleusercontent.com/pAwC6_PwTAWxLChp6qTLJnA8_jVtXpDmqBL9ro61b6YfH6wH3xnA4-uMUoXU-r_kLed9SO92GW1j2O0nZlIa94Y",
-      "url": "https://play.google.com/store/apps/details?id=com.playrix.manormatters&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
