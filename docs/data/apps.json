@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T19:50:53.933Z",
+  "updatedAt": "2026-06-14T21:24:07.063Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1355,9 +1355,19 @@
     "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
     "com.unicostudio.blastfriends",
     "com.herocraft.game.free.spaceshipbattles",
-    "com.panstudio.gplay.duetnightabyss.arpg.global"
+    "com.panstudio.gplay.duetnightabyss.arpg.global",
+    "com.gamebasics.osm"
   ],
   "items": [
+    {
+      "appId": "com.gamebasics.osm",
+      "title": "OSM 26 - Football Manager game",
+      "developer": "Gamebasics BV",
+      "icon": "https://play-lh.googleusercontent.com/YOI9UnkGQTu77FS-iaHL2mz3j9oCw7p3eqthBWiGVVEb5NkEuwgpGCx3gXEeK5BerdN1uRAGQXsKKUDWm-2GUA",
+      "url": "https://play.google.com/store/apps/details?id=com.gamebasics.osm&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-15",
+      "isGame": true
+    },
     {
       "appId": "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
       "title": "Keep the Crown: 타워 디펜스 TD",
@@ -4631,15 +4641,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "dragon.virtual.pet.game",
-      "title": "My Dragon - 가상 애완동물 게임",
-      "developer": "Appsyoulove",
-      "icon": "https://play-lh.googleusercontent.com/JJ-409dZZf-No_RfVfZwmHTOkNRXKIQX60uU9iwgtZtzi1_GVnhBpA4kJ-DW8T0H7vw",
-      "url": "https://play.google.com/store/apps/details?id=dragon.virtual.pet.game&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
