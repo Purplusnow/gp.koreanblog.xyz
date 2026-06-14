@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T09:53:10.833Z",
+  "updatedAt": "2026-06-14T12:07:52.483Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1354,7 +1354,8 @@
     "com.g5e.hiddencity.android",
     "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
     "com.unicostudio.blastfriends",
-    "com.herocraft.game.free.spaceshipbattles"
+    "com.herocraft.game.free.spaceshipbattles",
+    "com.panstudio.gplay.duetnightabyss.arpg.global"
   ],
   "items": [
     {
@@ -1381,6 +1382,15 @@
       "developer": "HC GLOBAL DISTRIBUTION LIMITED",
       "icon": "https://play-lh.googleusercontent.com/DZr4bDU1QKcbHGtcCKazcJURbXb4Ca7DcGU77APRr3ks4AnXyahk6z3883jvRuabfa0",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.spaceshipbattles&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.panstudio.gplay.duetnightabyss.arpg.global",
+      "title": "듀엣 나이트 어비스",
+      "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+      "icon": "https://play-lh.googleusercontent.com/wNyltcXoUMKz7txb1KGz0MN4-B-HXv6-iVC6n39cry5FNukJxtoJyQ-sC-KMrg-CNO1a_Ed3r8AaUJNuHWGsjA",
+      "url": "https://play.google.com/store/apps/details?id=com.panstudio.gplay.duetnightabyss.arpg.global&hl=ko&gl=KR",
       "discoveredDate": "2026-06-14",
       "isGame": true
     },
@@ -4621,15 +4631,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
-      "title": "원더 머지(Wonder Merge) - 콜렉팅 게임",
-      "developer": "CookApps",
-      "icon": "https://play-lh.googleusercontent.com/_RBo5nDo3_NMC08twy9BZAhStqh2JFtmw4rq3hxiOaRF4MQcA1ZClMgM1Khfgrwj7j2lLDaGaBo7rUVgfJAEoA",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
