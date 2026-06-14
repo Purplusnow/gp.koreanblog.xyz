@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T06:01:08.535Z",
+  "updatedAt": "2026-06-14T06:19:20.431Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1591,20 +1591,20 @@
       "isGame": true
     },
     {
-      "appId": "com.neowizgames.game.browndust2",
-      "title": "브라운더스트2 - 가슴 벅찬 RPG",
-      "developer": "NEOWIZ",
-      "icon": "https://play-lh.googleusercontent.com/EU57oDE8N2ZfMo3ina1NN37ZKhrG5_OJ7a7a2R_DsLLRUHFQJI6vM3e780DCIJ43DpEeUi_r8c82bs7G-a7j",
-      "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
       "appId": "com.nexon.bluearchive",
       "title": "블루 아카이브",
       "developer": "NEXON Company",
       "icon": "https://play-lh.googleusercontent.com/lrERcCoTm7m8XStnhTHZDVfemQc_vTzCRl4CCBKhvQoBXo-WvmrwiGqONB7daFIJJkT0znGB5EOfgbaNRgiTyQ",
       "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.neowizgames.game.browndust2",
+      "title": "브라운더스트2 - 가슴 벅찬 RPG",
+      "developer": "NEOWIZ",
+      "icon": "https://play-lh.googleusercontent.com/EU57oDE8N2ZfMo3ina1NN37ZKhrG5_OJ7a7a2R_DsLLRUHFQJI6vM3e780DCIJ43DpEeUi_r8c82bs7G-a7j",
+      "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2&hl=ko&gl=KR",
       "discoveredDate": "2026-06-06",
       "isGame": true
     },
