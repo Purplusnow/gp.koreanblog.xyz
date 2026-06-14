@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T00:18:24.716Z",
+  "updatedAt": "2026-06-14T06:01:08.535Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1352,7 +1352,8 @@
     "jp.co.imagineer.sumikkogurashi.sumisumi",
     "com.wemadeconnect.aos.makedrama.google",
     "com.g5e.hiddencity.android",
-    "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy"
+    "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
+    "com.unicostudio.blastfriends"
   ],
   "items": [
     {
@@ -1361,6 +1362,15 @@
       "developer": "Deviloper Limited",
       "icon": "https://play-lh.googleusercontent.com/wwvhK3PrrthIzfOWY-ww8VkPqfp2ZRGeYQ2NKnIUYeLb0dG3V2lx6yfzxkkM78iBunc4344BiGVGoHeBxW9v",
       "url": "https://play.google.com/store/apps/details?id=com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.unicostudio.blastfriends",
+      "title": "폭발 친구들: 매치 3 퍼즐",
+      "developer": "Unico Studio",
+      "icon": "https://play-lh.googleusercontent.com/siP4iyCVYRxtMgklID2E7RJ7hrfwP6C4Mxg0fALDLo4twClPSekEcaYuQZCHvbTW0il3a5QIakDhRyhYLCOZKA",
+      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.blastfriends&hl=ko&gl=KR",
       "discoveredDate": "2026-06-14",
       "isGame": true
     },
@@ -4601,15 +4611,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.storm8.propertybrothers",
-      "title": "프라퍼티 브러더스 홈 디자인",
-      "developer": "Storm8 Studios",
-      "icon": "https://play-lh.googleusercontent.com/ey_Zy9RxCyv5gd7V5hTr5Di0BT_yj7olvDpqvPeCQQK54mvLllvCvDh_-qNKPFLUep4",
-      "url": "https://play.google.com/store/apps/details?id=com.storm8.propertybrothers&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
