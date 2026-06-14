@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T06:19:20.431Z",
+  "updatedAt": "2026-06-14T09:53:10.833Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1353,7 +1353,8 @@
     "com.wemadeconnect.aos.makedrama.google",
     "com.g5e.hiddencity.android",
     "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
-    "com.unicostudio.blastfriends"
+    "com.unicostudio.blastfriends",
+    "com.herocraft.game.free.spaceshipbattles"
   ],
   "items": [
     {
@@ -1371,6 +1372,15 @@
       "developer": "Unico Studio",
       "icon": "https://play-lh.googleusercontent.com/siP4iyCVYRxtMgklID2E7RJ7hrfwP6C4Mxg0fALDLo4twClPSekEcaYuQZCHvbTW0il3a5QIakDhRyhYLCOZKA",
       "url": "https://play.google.com/store/apps/details?id=com.unicostudio.blastfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.free.spaceshipbattles",
+      "title": "스페이스 아레나: 우주 전함 전략 게임",
+      "developer": "HC GLOBAL DISTRIBUTION LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/DZr4bDU1QKcbHGtcCKazcJURbXb4Ca7DcGU77APRr3ks4AnXyahk6z3883jvRuabfa0",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.spaceshipbattles&hl=ko&gl=KR",
       "discoveredDate": "2026-06-14",
       "isGame": true
     },
@@ -4611,15 +4621,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.puzzlegames.puzzlebrickslegend",
-      "title": "컬러블록: 콤보 블라스트(Color Block)",
-      "developer": "Ivy",
-      "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
