@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T12:37:40.500Z",
+  "updatedAt": "2026-06-15T18:01:43.933Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1356,9 +1356,29 @@
     "com.unicostudio.blastfriends",
     "com.herocraft.game.free.spaceshipbattles",
     "com.panstudio.gplay.duetnightabyss.arpg.global",
-    "com.gamebasics.osm"
+    "com.gamebasics.osm",
+    "com.bibiboom.settlementheroes",
+    "com.sivona.stormshot.e"
   ],
   "items": [
+    {
+      "appId": "com.bibiboom.settlementheroes",
+      "title": "생존자의 도시",
+      "developer": "Bibiboom",
+      "icon": "https://play-lh.googleusercontent.com/TifaQ3cmuhrOfEJXNORhWe5j397lzmCT9C6rc9wV436IdGLRhuhYaGnSUxuB6BaWH9YM",
+      "url": "https://play.google.com/store/apps/details?id=com.bibiboom.settlementheroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.sivona.stormshot.e",
+      "title": "총탄 사격: 보물섬의 비밀",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/apU8Kna4Az1nXODmT6RDYVkBFOkUSVrRQNd8JRPLy7JH-tc55ROzA1st1mKKBXf9OM0",
+      "url": "https://play.google.com/store/apps/details?id=com.sivona.stormshot.e&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-16",
+      "isGame": true
+    },
     {
       "appId": "com.gamebasics.osm",
       "title": "OSM 26 - Football Manager game",
@@ -4641,24 +4661,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.frostpunk.android.google.global.normal",
-      "title": "프로스트펑크: 비욘드더아이스",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/C5k8Thw-uZ1T_9AzyYIOJ3RanlgTqP331aBI3Mweogi44Odr03Anp2MFwUgsB1FjQeg",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.frostpunk.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.pandadagames.ninja.global",
-      "title": "닌자 머스트 다이",
-      "developer": "Pandada Games",
-      "icon": "https://play-lh.googleusercontent.com/6kbTvUdMo5IgbhYsVAEMwoklhMoHSTgQnOTbWeTnzhtSscg66wkvgavuGnJsajL82TWb7WG_VylwyeZ6R-ktqBU",
-      "url": "https://play.google.com/store/apps/details?id=com.pandadagames.ninja.global&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
