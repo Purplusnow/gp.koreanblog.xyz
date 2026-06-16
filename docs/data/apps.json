@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T23:56:30.650Z",
+  "updatedAt": "2026-06-16T05:25:26.430Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1358,7 +1358,8 @@
     "com.panstudio.gplay.duetnightabyss.arpg.global",
     "com.gamebasics.osm",
     "com.bibiboom.settlementheroes",
-    "com.sivona.stormshot.e"
+    "com.sivona.stormshot.e",
+    "com.dreamotion.ronin"
   ],
   "items": [
     {
@@ -1376,6 +1377,15 @@
       "developer": "FunPlus International AG",
       "icon": "https://play-lh.googleusercontent.com/apU8Kna4Az1nXODmT6RDYVkBFOkUSVrRQNd8JRPLy7JH-tc55ROzA1st1mKKBXf9OM0",
       "url": "https://play.google.com/store/apps/details?id=com.sivona.stormshot.e&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.dreamotion.ronin",
+      "title": "로닌: 더 라스트 사무라이",
+      "developer": "Dreamotion Inc.",
+      "icon": "https://play-lh.googleusercontent.com/9xzFnDp8AoEWPCC2b4WwGPiaH_vtalPlcG0ownJED7vwWc4dTzrL2f14GauigsAuwbA",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamotion.ronin&hl=ko&gl=KR",
       "discoveredDate": "2026-06-16",
       "isGame": true
     },
@@ -4661,15 +4671,6 @@
       "developer": "Infinity Games, Lda",
       "icon": "https://play-lh.googleusercontent.com/K8kpyM8DUpF1OQjcRjkxdrc5ie2DUpCDpeW_4zPc6bPSlv9kDUpbVDY5x64OdHCpC3E",
       "url": "https://play.google.com/store/apps/details?id=com.infinity.railways&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.azurgames.dinosaurs",
-      "title": "쥬라기몬스터월드: 공룡전쟁 3D FPS",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/Tv2iQT8F7GGKrVkiM4h-agI-j4ecorQ93i_ABAO0uit3bcmXeOajrKlvsZ6jxBfdw3c",
-      "url": "https://play.google.com/store/apps/details?id=com.azurgames.dinosaurs&hl=ko&gl=KR",
       "discoveredDate": "2026-04-23",
       "isGame": true
     },
