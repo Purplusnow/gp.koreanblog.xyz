@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T21:14:59.206Z",
+  "updatedAt": "2026-06-16T23:43:32.259Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1359,9 +1359,19 @@
     "com.gamebasics.osm",
     "com.bibiboom.settlementheroes",
     "com.sivona.stormshot.e",
-    "com.dreamotion.ronin"
+    "com.dreamotion.ronin",
+    "com.leme.coe"
   ],
   "items": [
+    {
+      "appId": "com.leme.coe",
+      "title": "라스트랜드: 중세 제국 전쟁",
+      "developer": "LEME GAMES",
+      "icon": "https://play-lh.googleusercontent.com/0Kn_y9dvZ8OmFUjefO4FwFFkT6C-yvZAqoZdrOTs3w54aImd2o3oIpiVzYZvk-7kE9768_SH2mxqTqXTiK1nHqM",
+      "url": "https://play.google.com/store/apps/details?id=com.leme.coe&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-17",
+      "isGame": true
+    },
     {
       "appId": "com.bibiboom.settlementheroes",
       "title": "생존자의 도시",
@@ -4536,15 +4546,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparkler.los",
-      "title": "Lord of Seas: Survival & War",
-      "developer": "Atlas Studio Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/fJUzx3upmfvrUBpm_slmAZ1fE5MVURSFaqtfXn26S3jXW_4eNdJy8Jl4L1vB80m0DYk",
-      "url": "https://play.google.com/store/apps/details?id=com.sparkler.los&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
