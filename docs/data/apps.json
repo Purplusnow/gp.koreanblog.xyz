@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T21:26:37.498Z",
+  "updatedAt": "2026-06-18T23:55:49.896Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1360,9 +1360,69 @@
     "com.bibiboom.settlementheroes",
     "com.sivona.stormshot.e",
     "com.dreamotion.ronin",
-    "com.leme.coe"
+    "com.leme.coe",
+    "com.liteorange.hometopia",
+    "com.taprun.fruitmanialine",
+    "com.hanbitsoft.gem.google",
+    "com.vectorunit.purple.googleplay",
+    "net.supercat.stone",
+    "com.forgemastergames.arenaofeternals"
   ],
   "items": [
+    {
+      "appId": "com.liteorange.hometopia",
+      "title": "Frost Valley™: Merge & Story",
+      "developer": "LITEORANGE CREATION PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/DNlTlOWp5zc9Xe77eizL8vU7aT72_SwVwSHcz0NtSlMz6Dmosk8BM_PDv3h2Zd661HVX9gK2klsySgKmaGoiUJk",
+      "url": "https://play.google.com/store/apps/details?id=com.liteorange.hometopia&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.taprun.fruitmanialine",
+      "title": "Fruit Fancy",
+      "developer": "Tap Run",
+      "icon": "https://play-lh.googleusercontent.com/RvwETxq6kFCALhr7-WNTiyndMG9D6OIZ-GNmmYZ19HqNOEd8EJBk0VOu85B4UmITIjHU3gX97_RpKmI_uSF3IA",
+      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.hanbitsoft.gem.google",
+      "title": "그라나도 에스파다M",
+      "developer": "HanbitSoft Inc",
+      "icon": "https://play-lh.googleusercontent.com/3qeoJaniP3tSGUnyRwk2ty5ZKGfIFidRoh7TsT1CrqQtUTKNo18yrkAjG28cavlqUNeF-l2CMC6mX0W1yaUKmA",
+      "url": "https://play.google.com/store/apps/details?id=com.hanbitsoft.gem.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.vectorunit.purple.googleplay",
+      "title": "Beach Buggy Racing",
+      "developer": "Vector Unit",
+      "icon": "https://play-lh.googleusercontent.com/SEYvChlcEIii7XknQ7bZOoznL0HL1WKYCxMDlCs88mhraX1aHMmIrytCcadg8gPGv9Lw5gMc3821KUxFUpFwkQ",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "net.supercat.stone",
+      "title": "돌 키우기 온라인 : 방치형 2D MMORPG, RPG",
+      "developer": "SUPERCAT",
+      "icon": "https://play-lh.googleusercontent.com/QhAoxWMdezmruLHjs_Up-RyGp74rq8419vT2Xh36ed73cjdNuEgBj0Z7YrdPfaAaL7LxU0rvvwcA9EkdyY-C",
+      "url": "https://play.google.com/store/apps/details?id=net.supercat.stone&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.forgemastergames.arenaofeternals",
+      "title": "Blitz of Battle: Online PvP",
+      "developer": "Sanam Games",
+      "icon": "https://play-lh.googleusercontent.com/baiU6LQZAm7Q0Mse2JR5FYauXZ44BQuDsyVe19dM8oQ5dvp9JoYXEgFcDc8vPPX4Ncr1ZpB-vpi4imtLx6Nc",
+      "url": "https://play.google.com/store/apps/details?id=com.forgemastergames.arenaofeternals&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
     {
       "appId": "com.leme.coe",
       "title": "라스트랜드: 중세 제국 전쟁",
@@ -4546,60 +4606,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "playorna.com.orna",
-      "title": "Orna: 판타지 RPG & GPS MMO",
-      "developer": "Northern Forge",
-      "icon": "https://play-lh.googleusercontent.com/lahVHSlMNgsEefAV1xN-cgx6RbwGGnTlwzJ6cwqPjXeom2tOAgRAL12ChdtgCG8OPfE",
-      "url": "https://play.google.com/store/apps/details?id=playorna.com.orna&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.bighelmets.destiny",
-      "title": "Big Helmets: Heroes of Destiny",
-      "developer": "BoomBit Games",
-      "icon": "https://play-lh.googleusercontent.com/6dpQ0G87X63S7Z82EMMoBI07pcgDhR4mszTdGnUWY1YVYxHf1H8lcu9UZtTQa3daq6Vj",
-      "url": "https://play.google.com/store/apps/details?id=com.bighelmets.destiny&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.tree.idle.cat.school",
-      "title": "고양이 학교 : 귀여운 방치형 타이쿤 게임",
-      "developer": "TREEPLLA",
-      "icon": "https://play-lh.googleusercontent.com/klRIHUOegTLLQKb3hrgNuH5nm-qHUlLJDCbLT5GvBrx7uvYRnqi4rkpoVhlORvfw_lrMgAcirtCBYN3lOfxLbg",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.school&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.picorea.estherbunny",
-      "title": "에스더버니 팝걸",
-      "developer": "Picorea, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/JJeRDqHeHFRWOn3PMOLy3n7dQ-jPO6kS7Ot6SCxUZy8G2YuBDpgBcsUL_OBVBWsAUzG4nxQDZPEiZFVcauPCFg",
-      "url": "https://play.google.com/store/apps/details?id=com.picorea.estherbunny&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.YSK.SF",
-      "title": "Sea Fantasy",
-      "developer": "YoshiyukiNakashima",
-      "icon": "https://play-lh.googleusercontent.com/ouIvwra-9S202ScpFpBc7HHEB2rhjI6CSX-28F3-moR6vUNyU03qmSEiI6FdWp7xMibgYfrNPQez_1v8UW1lBA",
-      "url": "https://play.google.com/store/apps/details?id=com.YSK.SF&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.elephantgames.icebound.secrets.endless.night.mystery.googf2p",
-      "title": "얼음 속에 갇힌 비밀 3: 탐정 숨겨진 물건 찾기 게임",
-      "developer": "Crooto Software",
-      "icon": "https://play-lh.googleusercontent.com/lEknjaexxslYyI8xVLQh_aXWrTiew1RDGEMtE4zYY-DLzavfAWlkuMwPglTRqkg68TB3otKHVZKBhFPmJAjp4Q",
-      "url": "https://play.google.com/store/apps/details?id=com.elephantgames.icebound.secrets.endless.night.mystery.googf2p&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
