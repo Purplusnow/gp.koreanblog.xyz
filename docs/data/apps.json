@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:17:38.763Z",
+  "updatedAt": "2026-06-19T23:09:59.760Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1370,7 +1370,8 @@
     "com.haoplay.game.gp.duck",
     "com.zzsjkr.google",
     "com.hypervation.goodssort",
-    "com.pantheraplay.boxheadpremium"
+    "com.pantheraplay.boxheadpremium",
+    "heroes.battle.strategy.card.game"
   ],
   "items": [
     {
@@ -1388,6 +1389,15 @@
       "developer": "PANTHERA GLOBAL",
       "icon": "https://play-lh.googleusercontent.com/EjC2papobMpHz7XoO6FetRTCWcsMcmVisUjfd7EsnRtpTR6l_PHVS72oRD03xhyJP9nxoy7sDO7ua92IqXFvBFM",
       "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-20",
+      "isGame": true
+    },
+    {
+      "appId": "heroes.battle.strategy.card.game",
+      "title": "Magic War Legends: 턴제 전략",
+      "developer": "TINYSOFT - slots, slot machines & casino games",
+      "icon": "https://play-lh.googleusercontent.com/PJvvRhEOuJBhZpvVV_LSC4vMvTMA43RwQHcrytKSd6wJ4Eg074qUkBViC0y5ol4IMjImrL6M0gDsY1Ml0u7_",
+      "url": "https://play.google.com/store/apps/details?id=heroes.battle.strategy.card.game&hl=ko&gl=KR",
       "discoveredDate": "2026-06-20",
       "isGame": true
     },
@@ -4646,15 +4656,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.doghowlgames.EasyDeliveryCo",
-      "title": "Easy Delivery Co.",
-      "developer": "Doghowl Games Ltd",
-      "icon": "https://play-lh.googleusercontent.com/f-bhGYDTDTXmEfjLZg-TbPZhYQzFJMxNA_FUgDmmohQv8W6PsqeyxpkPZIRYbw_ZWVMO",
-      "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.EasyDeliveryCo&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
