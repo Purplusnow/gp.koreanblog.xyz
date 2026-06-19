@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T05:18:24.459Z",
+  "updatedAt": "2026-06-19T10:54:14.453Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1366,7 +1366,9 @@
     "com.hanbitsoft.gem.google",
     "com.vectorunit.purple.googleplay",
     "net.supercat.stone",
-    "com.forgemastergames.arenaofeternals"
+    "com.forgemastergames.arenaofeternals",
+    "com.haoplay.game.gp.duck",
+    "com.zzsjkr.google"
   ],
   "items": [
     {
@@ -1420,6 +1422,24 @@
       "developer": "Sanam Games",
       "icon": "https://play-lh.googleusercontent.com/baiU6LQZAm7Q0Mse2JR5FYauXZ44BQuDsyVe19dM8oQ5dvp9JoYXEgFcDc8vPPX4Ncr1ZpB-vpi4imtLx6Nc",
       "url": "https://play.google.com/store/apps/details?id=com.forgemastergames.arenaofeternals&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.haoplay.game.gp.duck",
+      "title": "꽥꽥 구조대 - 알 폭격 디펜스",
+      "developer": "HaoPlay Limited",
+      "icon": "https://play-lh.googleusercontent.com/UrRdM3Vtb_3XwJXdYE_qfyrvUatzcZxFgniiz-1xyEfVI201BAtmwWIpAQsZgQc9Rq8Uzs9OaWfiwSQvJDGr",
+      "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.gp.duck&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.zzsjkr.google",
+      "title": "갓깨비 키우기-999뽑기 증정",
+      "developer": "Joy Nice Games",
+      "icon": "https://play-lh.googleusercontent.com/vre365L9Y_XIpaTg56Mqa3Oraobas7RMsHl52ZJuyyShZNWdPg8fbkQjWCHu1hTJ0TE4DaY_vbuDUkUi9u8P",
+      "url": "https://play.google.com/store/apps/details?id=com.zzsjkr.google&hl=ko&gl=KR",
       "discoveredDate": "2026-06-19",
       "isGame": true
     },
@@ -4606,24 +4626,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.lunosoft.jewelrelics",
-      "title": "2026 쥬얼 매치 아일랜드",
-      "developer": "LUNOSOFT INC",
-      "icon": "https://play-lh.googleusercontent.com/Fd8BEpPoCtTH0ihvCkFmOio4-ZnOjsD__-t1pRUGhTXTj-QQKyOpdcvYgCRnn--UUL3R",
-      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelrelics&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.playdigious.seaofstars",
-      "title": "Sea of Stars",
-      "developer": "Playdigious",
-      "icon": "https://play-lh.googleusercontent.com/uNNNzA46WAZOup2z6tvt35a47Hx-qDEy34mDmrIZFP-W9qEjnKyAwHOKZVkSVOv8XIDKjjMPZtD-cguDjZrz2NI",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
