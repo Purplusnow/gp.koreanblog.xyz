@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:00:48.062Z",
+  "updatedAt": "2026-06-19T21:17:38.763Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1368,9 +1368,29 @@
     "net.supercat.stone",
     "com.forgemastergames.arenaofeternals",
     "com.haoplay.game.gp.duck",
-    "com.zzsjkr.google"
+    "com.zzsjkr.google",
+    "com.hypervation.goodssort",
+    "com.pantheraplay.boxheadpremium"
   ],
   "items": [
+    {
+      "appId": "com.hypervation.goodssort",
+      "title": "Goods Sort Match - 퍼즐",
+      "developer": "GamoVation",
+      "icon": "https://play-lh.googleusercontent.com/NM6Qe70dq3dh1A7L5gpI2Ne_h3tvJ51qM7qKocBpRB5n9m7R1iYf0nm2h_NRjpP5yPvx7aKw6aZGujk0VvE-iQ",
+      "url": "https://play.google.com/store/apps/details?id=com.hypervation.goodssort&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.pantheraplay.boxheadpremium",
+      "title": "Box Head: 로그라이크 프리미엄",
+      "developer": "PANTHERA GLOBAL",
+      "icon": "https://play-lh.googleusercontent.com/EjC2papobMpHz7XoO6FetRTCWcsMcmVisUjfd7EsnRtpTR6l_PHVS72oRD03xhyJP9nxoy7sDO7ua92IqXFvBFM",
+      "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-20",
+      "isGame": true
+    },
     {
       "appId": "com.liteorange.hometopia",
       "title": "Frost Valley™: Merge & Story",
@@ -4626,24 +4646,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.snowgames.darktapdice",
-      "title": "다크탭 다이스",
-      "developer": "Snow_Games",
-      "icon": "https://play-lh.googleusercontent.com/e3LSvec2ZYW-shAlvyXD1MuDM07gJIAQTZ63F6fByssMfR_xRDoQizwmpn9meDBv3TVyO05Lh1QZLLEOiZNnvw",
-      "url": "https://play.google.com/store/apps/details?id=com.snowgames.darktapdice&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.bailing.lark.roll.dev",
-      "title": "딸깍 다이스",
-      "developer": "Habby",
-      "icon": "https://play-lh.googleusercontent.com/v3pbvtq0opWpTG4tMimTP5ydpn42Bi-eN_8pFvNGkD-npdPj5u7kzctiuqR9AZohYIo",
-      "url": "https://play.google.com/store/apps/details?id=com.bailing.lark.roll.dev&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
