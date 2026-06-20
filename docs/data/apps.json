@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T14:25:19.836Z",
+  "updatedAt": "2026-06-20T16:42:46.857Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1372,9 +1372,69 @@
     "com.hypervation.goodssort",
     "com.pantheraplay.boxheadpremium",
     "heroes.battle.strategy.card.game",
-    "com.chaos.drink.sort"
+    "com.chaos.drink.sort",
+    "com.gravity.romkrzeny.aos",
+    "com.TeamSparta.CSD",
+    "com.antistress.coloring.cross.stitch",
+    "com.bigcool.puzzle.merge.tasty",
+    "com.bilibili.lumi.kr",
+    "com.blackhammer.kingdomsiege"
   ],
   "items": [
+    {
+      "appId": "com.gravity.romkrzeny.aos",
+      "title": "라그나로크M: Classic",
+      "developer": "GRAVITY Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.romkrzeny.aos&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.TeamSparta.CSD",
+      "title": "협동마법디펜스: 마법사 키우기",
+      "developer": "Teamsparta Inc.",
+      "icon": "https://play-lh.googleusercontent.com/OUKiwSEdbcpDi5aVggEdAa5n-7eJVpVlPuG67bFV47TVgOjPIu4fJ__nwfsLBhKqU0lv-vuiWe9-1WXNU18MJCY",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.CSD&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.antistress.coloring.cross.stitch",
+      "title": "Cross Stitch: Antistress",
+      "developer": "Crimson Pine Games",
+      "icon": "https://play-lh.googleusercontent.com/fhbLgvGKbxOud5L_Rdc88AC10srW1CaozSIN8F9dNipvgVCkrfwgvjlVGgubSqjNMreRiRE6cXdKeZEzUIfafA",
+      "url": "https://play.google.com/store/apps/details?id=com.antistress.coloring.cross.stitch&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.puzzle.merge.tasty",
+      "title": "머지 테이스티: 데이터 필요없는 힐링 요리 퍼즐 게임",
+      "developer": "Bigcool Limited",
+      "icon": "https://play-lh.googleusercontent.com/a9bLu7U6mOvz6HMnwE6mwOEmsqAWN9Yo4CYnjvusTYbQjkUiYXSOnXVYAyE-xXkIJvwPzSwVOlJHR9CGP42SYeo",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.tasty&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.bilibili.lumi.kr",
+      "title": "루미마스터",
+      "developer": "BILIBILI",
+      "icon": "https://play-lh.googleusercontent.com/0Ut8o7nest3uKxkovBhGDfjcPE4kHXHv2gCWZGGAah3J3fHhVB1rizvnnOOs7D0t_1IAiyX8j07D-K_N308Rdw",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.blackhammer.kingdomsiege",
+      "title": "킹덤시즈",
+      "developer": "Black Hammer",
+      "icon": "https://play-lh.googleusercontent.com/n8Sx0l6yLJ8kXN6Ca-wJIAzbYMBZe1ltObZGNmNpSC7QzA9i7bd8EyBGom07sqD5QA2V0Badd3UgDwEGYmhI7A",
+      "url": "https://play.google.com/store/apps/details?id=com.blackhammer.kingdomsiege&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-21",
+      "isGame": true
+    },
     {
       "appId": "com.hypervation.goodssort",
       "title": "Goods Sort Match - 퍼즐",
@@ -4598,51 +4658,6 @@
       "isGame": true
     },
     {
-      "appId": "com.daerisoft.thespikerm",
-      "title": "더 스파이크 크로스",
-      "developer": "SUNCYAN",
-      "icon": "https://play-lh.googleusercontent.com/4PJBK5kE84iwgnbwF0WZp4qibNaiG9ChHCm9CJd6rkk4uTf_OjnNDt-RpvcrI_X0doc",
-      "url": "https://play.google.com/store/apps/details?id=com.daerisoft.thespikerm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.playgendary.creamaster",
-      "title": "퍼펙트 크림: 크림",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/EGoZod6tDrBOCoZA26emNbmrfLMo2IY-r2x8SEHBukTjoD1elgUd7patG_LzFk4ALA",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.creamaster&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.infinitygames.loopenergy",
-      "title": "에너지: 스트레스 격파 루프",
-      "developer": "Infinity Games, Lda",
-      "icon": "https://play-lh.googleusercontent.com/_n0EFiM3WoNI1Ui9debHzAsnd011gJm0BiJsS2LVEaygrUjwsXcsyyF5C_jC67hQavkJ",
-      "url": "https://play.google.com/store/apps/details?id=com.infinitygames.loopenergy&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.gaijingames.wtm",
-      "title": "War Thunder Mobile",
-      "developer": "GAIJIN NETWORK LTD",
-      "icon": "https://play-lh.googleusercontent.com/CH9aIFwltZvzGIcURz1c-DpeQm7hwgKxTJjzpHH3U8IEAC0UV0Ky8xS4liq3A1nysw",
-      "url": "https://play.google.com/store/apps/details?id=com.gaijingames.wtm&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.elex.twdsaw.gp",
-      "title": "더 워킹데드: 서바이버즈",
-      "developer": "Galaxy Play Technology Limited",
-      "icon": "https://play-lh.googleusercontent.com/8uil9TpDVE3f4Irnong8_VyrXSQtXJVb36ZVDd93qdHGEWqT0f-0wjYRTdioH--GVxM3dE1Hv0sUvbezfMOjAg",
-      "url": "https://play.google.com/store/apps/details?id=com.elex.twdsaw.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-25",
-      "isGame": true
-    },
-    {
       "appId": "games.onebutton.golfbattle",
       "title": "Golf Battle",
       "developer": "Miniclip.com",
@@ -4666,15 +4681,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.square_enix.android_googleplay.dqsgw",
-      "title": "드래곤 퀘스트 스매시 그로우 드퀘 로그라이트 RPG",
-      "developer": "SQUARE ENIX Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/6bzUcvt69zrgmreeiQcXikKrKhQIIvXhumgdjauiryHkr47MzqIuZ2csYXZbXULsaZSHjX3Nf8g_ZED_1YX_Tw",
-      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dqsgw&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
