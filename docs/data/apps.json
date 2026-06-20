@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T11:24:42.073Z",
+  "updatedAt": "2026-06-20T14:25:19.836Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1371,7 +1371,8 @@
     "com.zzsjkr.google",
     "com.hypervation.goodssort",
     "com.pantheraplay.boxheadpremium",
-    "heroes.battle.strategy.card.game"
+    "heroes.battle.strategy.card.game",
+    "com.chaos.drink.sort"
   ],
   "items": [
     {
@@ -1398,6 +1399,15 @@
       "developer": "TINYSOFT - slots, slot machines & casino games",
       "icon": "https://play-lh.googleusercontent.com/PJvvRhEOuJBhZpvVV_LSC4vMvTMA43RwQHcrytKSd6wJ4Eg074qUkBViC0y5ol4IMjImrL6M0gDsY1Ml0u7_",
       "url": "https://play.google.com/store/apps/details?id=heroes.battle.strategy.card.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.chaos.drink.sort",
+      "title": "Chaos Drink Sort: Water Puzzle",
+      "developer": "IEC Holding L.L.C-FZ",
+      "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
+      "url": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort&hl=ko&gl=KR",
       "discoveredDate": "2026-06-20",
       "isGame": true
     },
@@ -4656,15 +4666,6 @@
       "developer": "LINE Games",
       "icon": "https://play-lh.googleusercontent.com/sZ2y4x9T_66nzREtKnN7CiFKdqQ0ODiVv4_qqw7sEke5xA3gERlStSpK_t1lwcx0HAnW",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.nextinitiatives.minigames.mpp",
-      "title": "Sola Mahjong",
-      "developer": "NEXT INITIATIVES LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/30EU_4gF0zOuYPcXZQEsPv_Ihu6GSPt-tHbmqFvGKHmPcGhWnbW7G_hIJBLzKTC0B2P88F_mAXxk2CEQTjFT",
-      "url": "https://play.google.com/store/apps/details?id=com.nextinitiatives.minigames.mpp&hl=ko&gl=KR",
       "discoveredDate": "2026-04-24",
       "isGame": true
     },
