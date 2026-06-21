@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T13:16:10.202Z",
+  "updatedAt": "2026-06-21T16:03:54.808Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1378,9 +1378,19 @@
     "com.antistress.coloring.cross.stitch",
     "com.bigcool.puzzle.merge.tasty",
     "com.bilibili.lumi.kr",
-    "com.blackhammer.kingdomsiege"
+    "com.blackhammer.kingdomsiege",
+    "rail.road.tycoon"
   ],
   "items": [
+    {
+      "appId": "rail.road.tycoon",
+      "title": "레일로드 엠파이어: 3D 기차 게임",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/hGpmpTQYa0oaCRAA8CVWXBpL3PoBFvqaindjtSaZpaZCvUDhXLum6qadU8S6NNIzb6QOfn4r051ctZ8Ss1zSJw",
+      "url": "https://play.google.com/store/apps/details?id=rail.road.tycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-22",
+      "isGame": true
+    },
     {
       "appId": "com.gravity.romkrzeny.aos",
       "title": "라그나로크M: Classic",
@@ -4655,15 +4665,6 @@
       "icon": "https://play-lh.googleusercontent.com/Alyo44PjkqpBIPyR-V22RVPh9UcZGgNtNEDLkVaBd4UELrB_1bXkvGy_-bHUEaZtqw",
       "url": "https://play.google.com/store/apps/details?id=com.gravity.rom.aos&hl=ko&gl=KR",
       "discoveredDate": "2026-04-26",
-      "isGame": true
-    },
-    {
-      "appId": "games.onebutton.golfbattle",
-      "title": "Golf Battle",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/esbN_3G8c1xSX2B3O5vQ1CMhYoLrRJyj4iZqH4fGqOof5YTpx0sv7WzhsHwZBgmgsfY",
-      "url": "https://play.google.com/store/apps/details?id=games.onebutton.golfbattle&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-25",
       "isGame": true
     },
     {
