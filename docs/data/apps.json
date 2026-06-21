@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:49:22.451Z",
+  "updatedAt": "2026-06-21T19:57:30.424Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1379,7 +1379,8 @@
     "com.bigcool.puzzle.merge.tasty",
     "com.bilibili.lumi.kr",
     "com.blackhammer.kingdomsiege",
-    "rail.road.tycoon"
+    "rail.road.tycoon",
+    "com.generagames.deathtycoon"
   ],
   "items": [
     {
@@ -1388,6 +1389,15 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/hGpmpTQYa0oaCRAA8CVWXBpL3PoBFvqaindjtSaZpaZCvUDhXLum6qadU8S6NNIzb6QOfn4r051ctZ8Ss1zSJw",
       "url": "https://play.google.com/store/apps/details?id=rail.road.tycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.generagames.deathtycoon",
+      "title": "Idle Death Tycoon: Money Inc.",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/TRs8XiSU-DIKmY6ziEizqd-JAlSrtoZRWxXIxhSvmAnNQH-CoWV5Jc6dEStW9qXBzRgWiN6pSAkQs406lAe5sg",
+      "url": "https://play.google.com/store/apps/details?id=com.generagames.deathtycoon&hl=ko&gl=KR",
       "discoveredDate": "2026-06-22",
       "isGame": true
     },
@@ -4629,15 +4639,6 @@
       "icon": "https://play-lh.googleusercontent.com/zLCtdOT-jJap2RchrrkRI1eIx-JOBANKc1udCpD8EmYw5AwTf_6eB-ylbMY0yhPVvOI",
       "url": "https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=ko&gl=KR",
       "discoveredDate": "2026-04-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.TravelMergeFamily",
-      "title": "Travel Merge Family: 게임 병합",
-      "developer": "ArruGa Corp.",
-      "icon": "https://play-lh.googleusercontent.com/9T0NAFH5KTWPwzh50Djhu-eL9raOg0gMBKdrJ49jbIZOwV-lv-7pECifteLW_vDBOmg",
-      "url": "https://play.google.com/store/apps/details?id=com.TravelMergeFamily&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-26",
       "isGame": true
     },
     {
