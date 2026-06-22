@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T12:22:19.594Z",
+  "updatedAt": "2026-06-22T17:46:03.574Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1381,9 +1381,19 @@
     "com.blackhammer.kingdomsiege",
     "rail.road.tycoon",
     "com.generagames.deathtycoon",
-    "com.netmarble.sol"
+    "com.netmarble.sol",
+    "com.ahaworld.ahaworld"
   ],
   "items": [
+    {
+      "appId": "com.ahaworld.ahaworld",
+      "title": "Aha World: Doll World Games",
+      "developer": "IHUMAN (SG) PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/gUi6HZcJWwdgw_Nb2cmZP4CHr4773wanX77QwZ1GX6ZsZsS-zkLUzjsctQdv64lVCZ-ERn1wMa_aLoMqaR-T",
+      "url": "https://play.google.com/store/apps/details?id=com.ahaworld.ahaworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-23",
+      "isGame": true
+    },
     {
       "appId": "rail.road.tycoon",
       "title": "레일로드 엠파이어: 3D 기차 게임",
@@ -4649,15 +4659,6 @@
       "icon": "https://play-lh.googleusercontent.com/zLCtdOT-jJap2RchrrkRI1eIx-JOBANKc1udCpD8EmYw5AwTf_6eB-ylbMY0yhPVvOI",
       "url": "https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=ko&gl=KR",
       "discoveredDate": "2026-04-27",
-      "isGame": true
-    },
-    {
-      "appId": "and.lhhpub.goodshunt",
-      "title": "굿즈 헌트: 슈퍼마켓 속 쇼핑 구멍 Goods Hunt",
-      "developer": "LIHUHU PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/yowUuoBFBxlUYU3VCew-b5fAlixjfpecos46ql8D-5_NaLIynw_VSBDGx99QYfPx7Vi_",
-      "url": "https://play.google.com/store/apps/details?id=and.lhhpub.goodshunt&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-26",
       "isGame": true
     },
     {
