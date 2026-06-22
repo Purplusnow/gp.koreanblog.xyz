@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T05:23:17.274Z",
+  "updatedAt": "2026-06-22T12:22:19.594Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1380,7 +1380,8 @@
     "com.bilibili.lumi.kr",
     "com.blackhammer.kingdomsiege",
     "rail.road.tycoon",
-    "com.generagames.deathtycoon"
+    "com.generagames.deathtycoon",
+    "com.netmarble.sol"
   ],
   "items": [
     {
@@ -1398,6 +1399,15 @@
       "developer": "Viva Games Studios",
       "icon": "https://play-lh.googleusercontent.com/TRs8XiSU-DIKmY6ziEizqd-JAlSrtoZRWxXIxhSvmAnNQH-CoWV5Jc6dEStW9qXBzRgWiN6pSAkQs406lAe5sg",
       "url": "https://play.google.com/store/apps/details?id=com.generagames.deathtycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.sol",
+      "title": "SOL: enchant",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=KR",
       "discoveredDate": "2026-06-22",
       "isGame": true
     },
@@ -4639,15 +4649,6 @@
       "icon": "https://play-lh.googleusercontent.com/zLCtdOT-jJap2RchrrkRI1eIx-JOBANKc1udCpD8EmYw5AwTf_6eB-ylbMY0yhPVvOI",
       "url": "https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=ko&gl=KR",
       "discoveredDate": "2026-04-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.racinggames_city.car.racing_Free",
-      "title": "자동차 주차 운전 학교 (멀티플레이어)",
-      "developer": "Racing Games Android - Appsoleut Games",
-      "icon": "https://play-lh.googleusercontent.com/cp8M1KTyXg8rZGxdhfEYE1YgduTk9rGod8kIlxJmpkU9K3JAthr6E0iKiKVqYoZMC2k",
-      "url": "https://play.google.com/store/apps/details?id=com.racinggames_city.car.racing_Free&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-26",
       "isGame": true
     },
     {
