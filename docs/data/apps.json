@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T17:46:03.574Z",
+  "updatedAt": "2026-06-22T21:10:29.137Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1382,7 +1382,8 @@
     "rail.road.tycoon",
     "com.generagames.deathtycoon",
     "com.netmarble.sol",
-    "com.ahaworld.ahaworld"
+    "com.ahaworld.ahaworld",
+    "com.rarebyte.emop"
   ],
   "items": [
     {
@@ -1391,6 +1392,15 @@
       "developer": "IHUMAN (SG) PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/gUi6HZcJWwdgw_Nb2cmZP4CHr4773wanX77QwZ1GX6ZsZsS-zkLUzjsctQdv64lVCZ-ERn1wMa_aLoMqaR-T",
       "url": "https://play.google.com/store/apps/details?id=com.ahaworld.ahaworld&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.rarebyte.emop",
+      "title": "EMERGENCY Operator - Call 911",
+      "developer": "16tons entertainment",
+      "icon": "https://play-lh.googleusercontent.com/2Z2yaz1S9XAfG7svHx2hNiOR2vo6rj8j4-pqdR7LMES6fvOSAv5WbORajJWg5h3imR47zkq-HpFgfvCiNQOcEA",
+      "url": "https://play.google.com/store/apps/details?id=com.rarebyte.emop&hl=ko&gl=KR",
       "discoveredDate": "2026-06-23",
       "isGame": true
     },
@@ -4659,15 +4669,6 @@
       "icon": "https://play-lh.googleusercontent.com/zLCtdOT-jJap2RchrrkRI1eIx-JOBANKc1udCpD8EmYw5AwTf_6eB-ylbMY0yhPVvOI",
       "url": "https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=ko&gl=KR",
       "discoveredDate": "2026-04-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.gravity.rom.aos",
-      "title": "라그나로크M: ETERNAL LOVE",
-      "developer": "GRAVITY Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/Alyo44PjkqpBIPyR-V22RVPh9UcZGgNtNEDLkVaBd4UELrB_1bXkvGy_-bHUEaZtqw",
-      "url": "https://play.google.com/store/apps/details?id=com.gravity.rom.aos&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-26",
       "isGame": true
     },
     {
