@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:40:10.886Z",
+  "updatedAt": "2026-06-23T04:16:01.566Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1383,7 +1383,8 @@
     "com.generagames.deathtycoon",
     "com.netmarble.sol",
     "com.ahaworld.ahaworld",
-    "com.rarebyte.emop"
+    "com.rarebyte.emop",
+    "com.innogames.foeandroid"
   ],
   "items": [
     {
@@ -1401,6 +1402,15 @@
       "developer": "16tons entertainment",
       "icon": "https://play-lh.googleusercontent.com/2Z2yaz1S9XAfG7svHx2hNiOR2vo6rj8j4-pqdR7LMES6fvOSAv5WbORajJWg5h3imR47zkq-HpFgfvCiNQOcEA",
       "url": "https://play.google.com/store/apps/details?id=com.rarebyte.emop&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.innogames.foeandroid",
+      "title": "Forge of Empires: Build a City",
+      "developer": "InnoGames GmbH",
+      "icon": "https://play-lh.googleusercontent.com/ZQbqCKdWg86k3HmeD3sZ2OiVoeaHhaqntQxBK8iE2x4seuZgyMZm8FGmZQZRfdzr7bdYpmyxDvGSNZItmu-p",
+      "url": "https://play.google.com/store/apps/details?id=com.innogames.foeandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-06-23",
       "isGame": true
     },
@@ -4660,15 +4670,6 @@
       "icon": "https://play-lh.googleusercontent.com/kdedc3TKMjQHM4KKobreMyvHCVVT59eaJRl4dlVZUrI1a0dRrB90zAVSzcWRoyhVE_w6",
       "url": "https://play.google.com/store/apps/details?id=org.herozero&hl=ko&gl=KR",
       "discoveredDate": "2026-04-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.igg.android.mobileroyale",
-      "title": "모바일 로얄 - Mobile Royale",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/zLCtdOT-jJap2RchrrkRI1eIx-JOBANKc1udCpD8EmYw5AwTf_6eB-ylbMY0yhPVvOI",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-27",
       "isGame": true
     },
     {
