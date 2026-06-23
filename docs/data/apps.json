@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T21:04:30.247Z",
+  "updatedAt": "2026-06-23T22:21:42.091Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1384,9 +1384,19 @@
     "com.netmarble.sol",
     "com.ahaworld.ahaworld",
     "com.rarebyte.emop",
-    "com.innogames.foeandroid"
+    "com.innogames.foeandroid",
+    "com.ludia.dragons"
   ],
   "items": [
+    {
+      "appId": "com.ludia.dragons",
+      "title": "Dragons: 라이즈 오브 버크",
+      "developer": "Ludia Games Inc.",
+      "icon": "https://play-lh.googleusercontent.com/q68KIZzWv5b35GUhmdquXOjpi4rau1qfvN9ee9qlru-mDCVz_UWp8SI-ieK-CjYGr811LIqJmjFx7eR-XBKg6v8",
+      "url": "https://play.google.com/store/apps/details?id=com.ludia.dragons&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-24",
+      "isGame": true
+    },
     {
       "appId": "com.ahaworld.ahaworld",
       "title": "Aha World: Doll World Games",
@@ -4607,15 +4617,6 @@
       "icon": "https://play-lh.googleusercontent.com/B_HXB7yUI5D8l47gwEoyAm9LAyCEuaGCVT1Dwvi3KaMn00b_iv101uHTWE7XD_vMv3g",
       "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "net.skillcap.domino",
-      "title": "Dominoes online - play Domino!",
-      "developer": "AppForge Interactive Entertainment FZ-LLC",
-      "icon": "https://play-lh.googleusercontent.com/3rJTBsiiRRkhXwwoCVLElKDx10B1sAaY-dVRRU0-MCVF5fnzi47ryRFXYY-5_oHhfpJP",
-      "url": "https://play.google.com/store/apps/details?id=net.skillcap.domino&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-28",
       "isGame": true
     },
     {
