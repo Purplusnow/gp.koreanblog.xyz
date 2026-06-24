@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T12:25:47.601Z",
+  "updatedAt": "2026-06-24T15:36:17.919Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1388,9 +1388,19 @@
     "com.ludia.dragons",
     "com.denachina.g33002013.android",
     "com.iterationone.nightclubtycoon",
-    "com.sparklingsociety.cityisland5"
+    "com.sparklingsociety.cityisland5",
+    "com.smartfunapps.crazyhospital"
   ],
   "items": [
+    {
+      "appId": "com.smartfunapps.crazyhospital",
+      "title": "Crazy Hospital®️",
+      "developer": "Smart Fun Casual Games",
+      "icon": "https://play-lh.googleusercontent.com/SNI7Xob9oYicmf7UXvxt2hvHHM4nxAKZcmBFF2PqBpxbGP8ED1hUbYlYaramIti9gNQVOVtrbIltyyBef2u6W8Q",
+      "url": "https://play.google.com/store/apps/details?id=com.smartfunapps.crazyhospital&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-25",
+      "isGame": true
+    },
     {
       "appId": "com.ludia.dragons",
       "title": "Dragons: 라이즈 오브 버크",
@@ -4647,15 +4657,6 @@
       "icon": "https://play-lh.googleusercontent.com/B_HXB7yUI5D8l47gwEoyAm9LAyCEuaGCVT1Dwvi3KaMn00b_iv101uHTWE7XD_vMv3g",
       "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.combineinc.streetracing.driftthreeD",
-      "title": "스트리트 레이싱 3D",
-      "developer": "Ivy",
-      "icon": "https://play-lh.googleusercontent.com/nM3nHVAK1oJIcU5BpjQMowaOuru_RNXwAb1y-BP6BGEwWTiAZvWrwPzMhrSfKzaGAHAf",
-      "url": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-28",
       "isGame": true
     },
     {
