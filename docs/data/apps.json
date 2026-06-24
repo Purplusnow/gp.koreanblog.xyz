@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T18:03:27.980Z",
+  "updatedAt": "2026-06-24T20:02:13.027Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1389,7 +1389,8 @@
     "com.denachina.g33002013.android",
     "com.iterationone.nightclubtycoon",
     "com.sparklingsociety.cityisland5",
-    "com.smartfunapps.crazyhospital"
+    "com.smartfunapps.crazyhospital",
+    "com.netmarble.raven2"
   ],
   "items": [
     {
@@ -1398,6 +1399,15 @@
       "developer": "Smart Fun Casual Games",
       "icon": "https://play-lh.googleusercontent.com/SNI7Xob9oYicmf7UXvxt2hvHHM4nxAKZcmBFF2PqBpxbGP8ED1hUbYlYaramIti9gNQVOVtrbIltyyBef2u6W8Q",
       "url": "https://play.google.com/store/apps/details?id=com.smartfunapps.crazyhospital&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.raven2",
+      "title": "레이븐2",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/hEsBJTaH7At6ftH03ozxXvBxaeIVN_lAdlBIFGZJj-Yhozr7lDJtw4CAPvckCrw1elZZ3dVxx3mVpc7L7uy5_XY",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.raven2&hl=ko&gl=KR",
       "discoveredDate": "2026-06-25",
       "isGame": true
     },
@@ -4657,15 +4667,6 @@
       "icon": "https://play-lh.googleusercontent.com/B_HXB7yUI5D8l47gwEoyAm9LAyCEuaGCVT1Dwvi3KaMn00b_iv101uHTWE7XD_vMv3g",
       "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.gravity.roidle.google",
-      "title": "라그나로크 아이들 어드벤처 PLUS",
-      "developer": "GRAVITY Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/mJ41Z2ua9gDzxrQbR-McavEe2QlkVETJBKPHY1NGN92b5g0gI35WO2pzI_Mbp7i47Mbl",
-      "url": "https://play.google.com/store/apps/details?id=com.gravity.roidle.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-28",
       "isGame": true
     },
     {
