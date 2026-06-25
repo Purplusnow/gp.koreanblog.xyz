@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T08:29:28.261Z",
+  "updatedAt": "2026-06-25T11:47:15.950Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1392,7 +1392,9 @@
     "com.smartfunapps.crazyhospital",
     "com.netmarble.raven2",
     "com.tfgco.apps.coloring.free.color.by.number",
-    "com.innogames.sunrisevillage"
+    "com.innogames.sunrisevillage",
+    "com.noxgames.hex.polis.civilization.empire",
+    "com.netmarble.bnsmkr"
   ],
   "items": [
     {
@@ -1428,6 +1430,24 @@
       "developer": "InnoGames GmbH",
       "icon": "https://play-lh.googleusercontent.com/6i4ATWSidBT833v25CtavQ7JQT3UIqMm3N_yDjNpOVRFmZU6fAuK36I22MbClEV6opPiQNFm9uHXe0yjxypf",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.sunrisevillage&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.noxgames.hex.polis.civilization.empire",
+      "title": "Hexapolis: 중세 문명",
+      "developer": "NOXGAMES",
+      "icon": "https://play-lh.googleusercontent.com/FzYa4-RDCOoD8hPBa4sbi8ERfvKM4pbU1Ex_YDWO3T3viXmdZcqj_QzvRZ0w4b61r6EP3f5T5PkuJVjn7hZLp3I",
+      "url": "https://play.google.com/store/apps/details?id=com.noxgames.hex.polis.civilization.empire&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.bnsmkr",
+      "title": "블레이드&소울 레볼루션",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/Hsa5Laxf7iXxPeMsjKEPt1KCMzCdnvq-jOP6Rk5Cb_NrNx4td_pGgYPVlfVMaE8atp5rtHDZTUAxHfxyJ0MMIA",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.bnsmkr&hl=ko&gl=KR",
       "discoveredDate": "2026-06-25",
       "isGame": true
     },
@@ -4650,24 +4670,6 @@
       "developer": "SOFTNYX",
       "icon": "https://play-lh.googleusercontent.com/_YLfFI5QlkQV5upgDUQrNCOGKAkoP4j6L9zB7dddVHLiNXUjUx9kuu_vGwkgy7hwrrruBEiceop5y0zs0ZO2NQ",
       "url": "https://play.google.com/store/apps/details?id=com.nhnent.SK10392&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.supercharge.bikerush.moto.traffic.rider",
-      "title": "Bike Rider",
-      "developer": "Supercharge Mobile",
-      "icon": "https://play-lh.googleusercontent.com/MdjYe_y4YF3W_7tXfcupgTPKXFDUFtCDnvN2o0HYfn1Q6NbOFLNoBPPNxtnOv6ryhwHY",
-      "url": "https://play.google.com/store/apps/details?id=com.supercharge.bikerush.moto.traffic.rider&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.nianticlabs.monsterhunter",
-      "title": "Monster Hunter Now",
-      "developer": "Niantic, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/mxHo1WUdHe_zsc9lC5PDS5hJE_didRFaIQ13g57n9LMHo6d3vE-nzFNhqhUV0f-2mw",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.monsterhunter&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
       "isGame": true
     },
