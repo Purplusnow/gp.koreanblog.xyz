@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T17:20:41.814Z",
+  "updatedAt": "2026-06-25T20:18:32.372Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1394,9 +1394,19 @@
     "com.tfgco.apps.coloring.free.color.by.number",
     "com.innogames.sunrisevillage",
     "com.noxgames.hex.polis.civilization.empire",
-    "com.netmarble.bnsmkr"
+    "com.netmarble.bnsmkr",
+    "com.panteon.arcanearena"
   ],
   "items": [
+    {
+      "appId": "com.panteon.arcanearena",
+      "title": "아케인 아레나: 타워 디펜스",
+      "developer": "Panteon",
+      "icon": "https://play-lh.googleusercontent.com/MDhjuPeguw-_GAZCRYObZ5eMx8JSjEIJ_iX0tyUwXcGOQaWgF8nMbtfQttSv_1L3Uvd3iWjTcqliUBpj7S3WQzY",
+      "url": "https://play.google.com/store/apps/details?id=com.panteon.arcanearena&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-26",
+      "isGame": true
+    },
     {
       "appId": "com.smartfunapps.crazyhospital",
       "title": "Crazy Hospital®️",
@@ -4670,15 +4680,6 @@
       "developer": "SOFTNYX",
       "icon": "https://play-lh.googleusercontent.com/_YLfFI5QlkQV5upgDUQrNCOGKAkoP4j6L9zB7dddVHLiNXUjUx9kuu_vGwkgy7hwrrruBEiceop5y0zs0ZO2NQ",
       "url": "https://play.google.com/store/apps/details?id=com.nhnent.SK10392&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.madfingergames.deadtrigger2",
-      "title": "DEAD TRIGGER 2 온라인 좀비 슈팅 게임",
-      "developer": "Deca_Games",
-      "icon": "https://play-lh.googleusercontent.com/B_HXB7yUI5D8l47gwEoyAm9LAyCEuaGCVT1Dwvi3KaMn00b_iv101uHTWE7XD_vMv3g",
-      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
       "isGame": true
     },
