@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:16:49.749Z",
+  "updatedAt": "2026-06-25T04:18:51.043Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1390,7 +1390,8 @@
     "com.iterationone.nightclubtycoon",
     "com.sparklingsociety.cityisland5",
     "com.smartfunapps.crazyhospital",
-    "com.netmarble.raven2"
+    "com.netmarble.raven2",
+    "com.tfgco.apps.coloring.free.color.by.number"
   ],
   "items": [
     {
@@ -1408,6 +1409,15 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/hEsBJTaH7At6ftH03ozxXvBxaeIVN_lAdlBIFGZJj-Yhozr7lDJtw4CAPvckCrw1elZZ3dVxx3mVpc7L7uy5_XY",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.raven2&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.tfgco.apps.coloring.free.color.by.number",
+      "title": "숫자별로 색칠하기: 픽셀 색칠 게임",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/LEpaZUt5zwmzZnIy5PG8x_-pygwO-B8g2E7EYIcQBs9bkVoLVRyCDuts_VVy-BxiULLL-6BPn5pOgZ_9RWE7",
+      "url": "https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number&hl=ko&gl=KR",
       "discoveredDate": "2026-06-25",
       "isGame": true
     },
@@ -4667,15 +4677,6 @@
       "icon": "https://play-lh.googleusercontent.com/B_HXB7yUI5D8l47gwEoyAm9LAyCEuaGCVT1Dwvi3KaMn00b_iv101uHTWE7XD_vMv3g",
       "url": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "org.herozero",
-      "title": "Hero Zero Multiplayer RPG",
-      "developer": "Playata GmbH",
-      "icon": "https://play-lh.googleusercontent.com/kdedc3TKMjQHM4KKobreMyvHCVVT59eaJRl4dlVZUrI1a0dRrB90zAVSzcWRoyhVE_w6",
-      "url": "https://play.google.com/store/apps/details?id=org.herozero&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-28",
       "isGame": true
     },
     {
