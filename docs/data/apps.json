@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T04:18:51.043Z",
+  "updatedAt": "2026-06-25T08:29:28.261Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1391,7 +1391,8 @@
     "com.sparklingsociety.cityisland5",
     "com.smartfunapps.crazyhospital",
     "com.netmarble.raven2",
-    "com.tfgco.apps.coloring.free.color.by.number"
+    "com.tfgco.apps.coloring.free.color.by.number",
+    "com.innogames.sunrisevillage"
   ],
   "items": [
     {
@@ -1418,6 +1419,15 @@
       "developer": "Wildlife Studios",
       "icon": "https://play-lh.googleusercontent.com/LEpaZUt5zwmzZnIy5PG8x_-pygwO-B8g2E7EYIcQBs9bkVoLVRyCDuts_VVy-BxiULLL-6BPn5pOgZ_9RWE7",
       "url": "https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.innogames.sunrisevillage",
+      "title": "Sunrise Village",
+      "developer": "InnoGames GmbH",
+      "icon": "https://play-lh.googleusercontent.com/6i4ATWSidBT833v25CtavQ7JQT3UIqMm3N_yDjNpOVRFmZU6fAuK36I22MbClEV6opPiQNFm9uHXe0yjxypf",
+      "url": "https://play.google.com/store/apps/details?id=com.innogames.sunrisevillage&hl=ko&gl=KR",
       "discoveredDate": "2026-06-25",
       "isGame": true
     },
@@ -4640,15 +4650,6 @@
       "developer": "SOFTNYX",
       "icon": "https://play-lh.googleusercontent.com/_YLfFI5QlkQV5upgDUQrNCOGKAkoP4j6L9zB7dddVHLiNXUjUx9kuu_vGwkgy7hwrrruBEiceop5y0zs0ZO2NQ",
       "url": "https://play.google.com/store/apps/details?id=com.nhnent.SK10392&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.infinity.traffix",
-      "title": "Traffix: 교통 관리 시뮬레이터",
-      "developer": "Infinity Games, Lda",
-      "icon": "https://play-lh.googleusercontent.com/hCvyzYt7xPW6T0eF5VQH-b8SBxU_wSm41q88icU3lI1Jkd-fSazFgFR_Cdi_g3acjeI",
-      "url": "https://play.google.com/store/apps/details?id=com.infinity.traffix&hl=ko&gl=KR",
       "discoveredDate": "2026-04-29",
       "isGame": true
     },
