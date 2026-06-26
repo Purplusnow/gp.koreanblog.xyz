@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T15:29:24.702Z",
+  "updatedAt": "2026-06-26T18:00:19.168Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1398,7 +1398,8 @@
     "com.panteon.arcanearena",
     "com.hybeim.puzzle17",
     "com.bandainamcoent.saoifww",
-    "com.dopuz.klotski.riddle"
+    "com.dopuz.klotski.riddle",
+    "com.bilibili.sirius"
   ],
   "items": [
     {
@@ -1407,6 +1408,15 @@
       "developer": "HDuo Fun Games",
       "icon": "https://play-lh.googleusercontent.com/XH2x16mxQvGMrkj32Aik9ikQLwUcWdQ6qD2xqDjXVg4Bt7hb8U2jBo_39Ul3J1vOQzaOJfoppOdGH3HgwP7K",
       "url": "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.bilibili.sirius",
+      "title": "뱅드림! 아워 노트",
+      "developer": "BILIBILI",
+      "icon": "https://play-lh.googleusercontent.com/x5UGYtRnHIaRUXNmuE-lhqNmtCRPgZSjrfnwOVoZY8nU9K_WXnUnax1qCyGxuXyKKvn5liEM1wJ5rvZAhXDbSQ",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=ko&gl=KR",
       "discoveredDate": "2026-06-27",
       "isGame": true
     },
@@ -4630,15 +4640,6 @@
       "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "ata.squid.pimd",
-      "title": "Party in my Dorm: Campus Life",
-      "developer": "A Thinking Ape Entertainment Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/yg2phIBrYRyo9S0sKsTC2VMgVk10AX_Q5gReZ6azQdxgJFSW5ZspjJroGkQL40A_gA",
-      "url": "https://play.google.com/store/apps/details?id=ata.squid.pimd&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-30",
       "isGame": true
     },
     {
