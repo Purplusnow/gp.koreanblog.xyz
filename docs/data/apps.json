@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T18:00:19.168Z",
+  "updatedAt": "2026-06-26T20:03:27.565Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1399,7 +1399,8 @@
     "com.hybeim.puzzle17",
     "com.bandainamcoent.saoifww",
     "com.dopuz.klotski.riddle",
-    "com.bilibili.sirius"
+    "com.bilibili.sirius",
+    "com.erepubliklabs.warandpeace"
   ],
   "items": [
     {
@@ -1417,6 +1418,15 @@
       "developer": "BILIBILI",
       "icon": "https://play-lh.googleusercontent.com/x5UGYtRnHIaRUXNmuE-lhqNmtCRPgZSjrfnwOVoZY8nU9K_WXnUnax1qCyGxuXyKKvn5liEM1wJ5rvZAhXDbSQ",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.erepubliklabs.warandpeace",
+      "title": "전쟁과 평화 : 에픽 남북 전쟁에서 군대 건설",
+      "developer": "Erepublik Labs",
+      "icon": "https://play-lh.googleusercontent.com/IkLKrHCA4z_3lYS6Sc_Qb31ti1_dS4z2OJFszYzjnG4K6IGlELTE_x3NDQ0mwKKn14yStbSrqJkHOfsJZCo2",
+      "url": "https://play.google.com/store/apps/details?id=com.erepubliklabs.warandpeace&hl=ko&gl=KR",
       "discoveredDate": "2026-06-27",
       "isGame": true
     },
@@ -4640,15 +4650,6 @@
       "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.airplanecooking.chef.kitchen.restaurant.diner",
-      "title": "Cooking Go® 비행기 & 기차 요리사",
-      "developer": "RedFish Games",
-      "icon": "https://play-lh.googleusercontent.com/R5XG1-UN7yVA7YVlEYKDjem8mY0bhiggde27A8q7tnJtS3PRtbHg5HnJEy3yoMwcfJ0",
-      "url": "https://play.google.com/store/apps/details?id=com.airplanecooking.chef.kitchen.restaurant.diner&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-30",
       "isGame": true
     },
     {
