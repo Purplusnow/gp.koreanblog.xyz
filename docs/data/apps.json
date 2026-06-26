@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T12:22:06.956Z",
+  "updatedAt": "2026-06-26T15:29:24.702Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1397,9 +1397,19 @@
     "com.netmarble.bnsmkr",
     "com.panteon.arcanearena",
     "com.hybeim.puzzle17",
-    "com.bandainamcoent.saoifww"
+    "com.bandainamcoent.saoifww",
+    "com.dopuz.klotski.riddle"
   ],
   "items": [
+    {
+      "appId": "com.dopuz.klotski.riddle",
+      "title": "Numpuz: 클래식 넘버 게임, 넘버 리들 퍼즐",
+      "developer": "HDuo Fun Games",
+      "icon": "https://play-lh.googleusercontent.com/XH2x16mxQvGMrkj32Aik9ikQLwUcWdQ6qD2xqDjXVg4Bt7hb8U2jBo_39Ul3J1vOQzaOJfoppOdGH3HgwP7K",
+      "url": "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-27",
+      "isGame": true
+    },
     {
       "appId": "com.panteon.arcanearena",
       "title": "아케인 아레나: 타워 디펜스",
@@ -4620,15 +4630,6 @@
       "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.beingame.zc.zombie.shelter.survival",
-      "title": "Zero city: 좀비게임 & 생존 아포칼립스",
-      "developer": "MYGAMES MENA FZ LLC",
-      "icon": "https://play-lh.googleusercontent.com/uLsdkgyvpVmQCQUhgQc-6hijnmNDdD8kpKhrvDXaOAdPWX-fQIrtwy-zMsnPIcx0XwFz",
-      "url": "https://play.google.com/store/apps/details?id=com.beingame.zc.zombie.shelter.survival&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-30",
       "isGame": true
     },
     {
