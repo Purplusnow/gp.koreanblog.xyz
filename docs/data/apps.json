@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T20:16:25.140Z",
+  "updatedAt": "2026-06-27T22:12:22.016Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1401,7 +1401,8 @@
     "com.dopuz.klotski.riddle",
     "com.bilibili.sirius",
     "com.erepubliklabs.warandpeace",
-    "com.tortuga.ava.sim.avaland.tale"
+    "com.tortuga.ava.sim.avaland.tale",
+    "com.unept.leveldevil"
   ],
   "items": [
     {
@@ -1410,6 +1411,15 @@
       "developer": "LeadApp",
       "icon": "https://play-lh.googleusercontent.com/pJ0t4rRdkotuDmkaVc8ThR52_CmiY5GW8gm343HB6DxLwW4_-4DQUX3QXl0izJNevgw-EhNmLtuMeoJAvT61",
       "url": "https://play.google.com/store/apps/details?id=com.tortuga.ava.sim.avaland.tale&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.unept.leveldevil",
+      "title": "Level Devil - NOT A Troll Game",
+      "developer": "Poki.com",
+      "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
+      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ko&gl=KR",
       "discoveredDate": "2026-06-28",
       "isGame": true
     },
@@ -4660,15 +4670,6 @@
       "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.wsy.google.wansuiye.en",
-      "title": "Call Me Emperor",
-      "developer": "Clicktouch Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/tx85s1DcAHZ0YhuhWBhFe0f6uNwCnmZRmP9juX5mUPk8gjje4r3JzaXX84i9csTvxbEYkEpG-kgNHDewqUiTJA",
-      "url": "https://play.google.com/store/apps/details?id=com.wsy.google.wansuiye.en&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-30",
       "isGame": true
     },
     {
