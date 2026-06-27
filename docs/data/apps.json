@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T16:16:00.346Z",
+  "updatedAt": "2026-06-27T18:13:28.738Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1400,9 +1400,19 @@
     "com.bandainamcoent.saoifww",
     "com.dopuz.klotski.riddle",
     "com.bilibili.sirius",
-    "com.erepubliklabs.warandpeace"
+    "com.erepubliklabs.warandpeace",
+    "com.tortuga.ava.sim.avaland.tale"
   ],
   "items": [
+    {
+      "appId": "com.tortuga.ava.sim.avaland.tale",
+      "title": "Avaland: Metaverse Life Sim 3D",
+      "developer": "LeadApp",
+      "icon": "https://play-lh.googleusercontent.com/pJ0t4rRdkotuDmkaVc8ThR52_CmiY5GW8gm343HB6DxLwW4_-4DQUX3QXl0izJNevgw-EhNmLtuMeoJAvT61",
+      "url": "https://play.google.com/store/apps/details?id=com.tortuga.ava.sim.avaland.tale&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-28",
+      "isGame": true
+    },
     {
       "appId": "com.dopuz.klotski.riddle",
       "title": "Numpuz: 클래식 넘버 게임, 넘버 리들 퍼즐",
@@ -4650,15 +4660,6 @@
       "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.my.daycare.baby.sitter.kids.family.town.twins.games",
-      "title": "마이 티지 베이비 데이케어 - 아이들 게임 재생",
-      "developer": "Tizi Town Games",
-      "icon": "https://play-lh.googleusercontent.com/88mvT-BiahrXL-17WP_I_mHLvB2CrMU6SBlbEjQWjBDvNTVg6ZTl-bs5U7E1xXPQCzXe",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.my.daycare.baby.sitter.kids.family.town.twins.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-04-30",
       "isGame": true
     },
     {
