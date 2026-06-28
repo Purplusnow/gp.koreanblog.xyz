@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T14:08:36.284Z",
+  "updatedAt": "2026-06-28T16:21:22.449Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1402,9 +1402,29 @@
     "com.bilibili.sirius",
     "com.erepubliklabs.warandpeace",
     "com.tortuga.ava.sim.avaland.tale",
-    "com.unept.leveldevil"
+    "com.unept.leveldevil",
+    "com.mgame.ghostsoulm",
+    "com.runawayplay.splash"
   ],
   "items": [
+    {
+      "appId": "com.mgame.ghostsoulm",
+      "title": "귀혼M",
+      "developer": "Mgame",
+      "icon": "https://play-lh.googleusercontent.com/Y3oWMbesCHYkD-pftlE_kLsUYWSjCV9ZourEC9vFquDjETKb3QXXnmvFNgIBrzurHqOnb7fEOIHwFI0MSwFrzKA",
+      "url": "https://play.google.com/store/apps/details?id=com.mgame.ghostsoulm&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.runawayplay.splash",
+      "title": "Splash — Fish Aquarium",
+      "developer": "Runaway Play",
+      "icon": "https://play-lh.googleusercontent.com/sa4wpERjLgVzyd_p6iXWclFyKqMXrUQ_siyRZ8VKVmySYWRsehabhQ8AP6RGXPqEzNpNLujER9eHVgIMwPXmFCc",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.splash&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-29",
+      "isGame": true
+    },
     {
       "appId": "com.tortuga.ava.sim.avaland.tale",
       "title": "Avaland: Metaverse Life Sim 3D",
@@ -4642,24 +4662,6 @@
       "developer": "Yostar Limited.",
       "icon": "https://play-lh.googleusercontent.com/CV04ek0EGV3IGD9iZDPcMEIKlYKW30p7Gia4qIjdiXk8_XkzmKUvgjznxZ0WneN6dNg",
       "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.popve.dicevmonster",
-      "title": "Dice vs Monsters: 타워 디펜스 로그라이크",
-      "developer": "Homa",
-      "icon": "https://play-lh.googleusercontent.com/-J2Vb9jNFL0GlW2gf_uLPVDfAL9OVaM1WuP3oex7brIznE9Z3K3pbMXW3wz8KSblcVD5",
-      "url": "https://play.google.com/store/apps/details?id=com.popve.dicevmonster&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.cat",
-      "title": "아기팬더의 고양이 게임",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/7CPc7mkxYnrfUzjEWQT6C5b-us5pTScDdO6ao20VuMfNoU-ELhZsrQRiA9KUVnUQxSI2",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
       "isGame": true
     },
