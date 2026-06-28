@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:13:46.263Z",
+  "updatedAt": "2026-06-28T20:20:10.493Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1404,7 +1404,8 @@
     "com.tortuga.ava.sim.avaland.tale",
     "com.unept.leveldevil",
     "com.mgame.ghostsoulm",
-    "com.runawayplay.splash"
+    "com.runawayplay.splash",
+    "com.chillgaming.combatquest"
   ],
   "items": [
     {
@@ -1422,6 +1423,15 @@
       "developer": "Runaway Play",
       "icon": "https://play-lh.googleusercontent.com/sa4wpERjLgVzyd_p6iXWclFyKqMXrUQ_siyRZ8VKVmySYWRsehabhQ8AP6RGXPqEzNpNLujER9eHVgIMwPXmFCc",
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.splash&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.chillgaming.combatquest",
+      "title": "컴뱃 퀘스트 - 궁수의 전설! 로그라이크 롤플레잉 게임",
+      "developer": "ChillBase",
+      "icon": "https://play-lh.googleusercontent.com/4iRGXynb21wzdRKtqV6zk0kzNYwHY5r6D62CU9teXAcvYlkFRxiZTd4cZhZAUxaG7NIUg4hY44gX_Ys67kUlaA",
+      "url": "https://play.google.com/store/apps/details?id=com.chillgaming.combatquest&hl=ko&gl=KR",
       "discoveredDate": "2026-06-29",
       "isGame": true
     },
@@ -4662,15 +4672,6 @@
       "developer": "Yostar Limited.",
       "icon": "https://play-lh.googleusercontent.com/CV04ek0EGV3IGD9iZDPcMEIKlYKW30p7Gia4qIjdiXk8_XkzmKUvgjznxZ0WneN6dNg",
       "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.care",
-      "title": "아기 팬더  돌보기",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/IHr3OZ_z7Si2YVu5rXIV9ZyzK7GHRpDV3uKDboAxauBGYENMQLs3JCM8LfIRRGHF_yw",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.care&hl=ko&gl=KR",
       "discoveredDate": "2026-05-01",
       "isGame": true
     },
