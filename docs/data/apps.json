@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T16:05:01.968Z",
+  "updatedAt": "2026-06-29T18:19:50.133Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1409,7 +1409,9 @@
     "com.hygame.ssfh.kr.gp",
     "com.fourdollars.dng",
     "com.notdoppler.earntodierogue",
-    "castle.heroes.tower.defense.kingdom.magic.battle.archer"
+    "castle.heroes.tower.defense.kingdom.magic.battle.archer",
+    "com.kabam.marvelbattle",
+    "com.superplusgames.hosandroid"
   ],
   "items": [
     {
@@ -1418,6 +1420,24 @@
       "developer": "TERAHYPE - AR, GPS & Fantasy RPG + Casual Games",
       "icon": "https://play-lh.googleusercontent.com/lxXrRjpJdD3BlbLL0HByKs_g0UnIRta5B3fxT7-R5mRqc1K5MnucJGtM1cNmnep9MosTBJIXNW1J3B_eRcxCnw",
       "url": "https://play.google.com/store/apps/details?id=castle.heroes.tower.defense.kingdom.magic.battle.archer&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.kabam.marvelbattle",
+      "title": "Marvel 올스타 배틀",
+      "developer": "Kabam Games, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/Qu9lyWmuzXotmEhWMckhfk4gUamTPNSjbcZGfrwE0N_qzltBKTyHdDqbcD9-HgRPD9vJCPrTQNOdAjKXZmZxKSY",
+      "url": "https://play.google.com/store/apps/details?id=com.kabam.marvelbattle&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.superplusgames.hosandroid",
+      "title": "힐즈 오브 스틸",
+      "developer": "Supercharge Mobile",
+      "icon": "https://play-lh.googleusercontent.com/9ASYwsEtTdsuK_-HIh3Z4QwznxHYHnxDqKHnLSfiWdeLq58pvxHuTWhzFt2FTabBeoxziMqv1hySJLzecpVt",
+      "url": "https://play.google.com/store/apps/details?id=com.superplusgames.hosandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
       "isGame": true
     },
@@ -4631,24 +4651,6 @@
       "developer": "Playdigious",
       "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.renderedideas.fruitcutter",
-      "title": "Fruit Cutter - Watch Game",
-      "developer": "RI Casual Offline Games",
-      "icon": "https://play-lh.googleusercontent.com/sCuzFejEAzhOHMhM3mxjtyolNedSQxr5i2X_XUJuwnDXa_yYFrFBBpbQVDZIAVdMKg",
-      "url": "https://play.google.com/store/apps/details?id=com.renderedideas.fruitcutter&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.deemedyainc.duels",
-      "title": "듀얼즈: 에픽 PVP 전투 게임 <Duels>",
-      "developer": "Gameplay Galaxy",
-      "icon": "https://play-lh.googleusercontent.com/VrPiDKzA1wJt-F2zMx-TTuWrpwPUtRXXyUoExd_G3urisdeTsWOHpPbSeFmd6MXf100L",
-      "url": "https://play.google.com/store/apps/details?id=com.deemedyainc.duels&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
