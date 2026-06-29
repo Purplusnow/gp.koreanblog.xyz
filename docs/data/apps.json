@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T00:17:25.196Z",
+  "updatedAt": "2026-06-29T06:00:54.079Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1405,7 +1405,9 @@
     "com.unept.leveldevil",
     "com.mgame.ghostsoulm",
     "com.runawayplay.splash",
-    "com.chillgaming.combatquest"
+    "com.chillgaming.combatquest",
+    "com.hygame.ssfh.kr.gp",
+    "com.fourdollars.dng"
   ],
   "items": [
     {
@@ -1432,6 +1434,24 @@
       "developer": "ChillBase",
       "icon": "https://play-lh.googleusercontent.com/4iRGXynb21wzdRKtqV6zk0kzNYwHY5r6D62CU9teXAcvYlkFRxiZTd4cZhZAUxaG7NIUg4hY44gX_Ys67kUlaA",
       "url": "https://play.google.com/store/apps/details?id=com.chillgaming.combatquest&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.hygame.ssfh.kr.gp",
+      "title": "여왕의 복수",
+      "developer": "SkyHorse",
+      "icon": "https://play-lh.googleusercontent.com/u01bN6Mgfm1kHDa_KzfJPuKH54G9WrEdth2x4I1YjNZLs66AkjEsAnxpfUvuL110MNH45YIUr4FAMsSQNJ_0l2Q",
+      "url": "https://play.google.com/store/apps/details?id=com.hygame.ssfh.kr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.fourdollars.dng",
+      "title": "GunzTower",
+      "developer": "Wemade Play Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/ZLA8pxJ9DeOWUCqsPoMuH8DzYyCe_FE7AeUsXDO0sYbc1q-rNAO07D_U5V1JDnUCTeUnXswyNoTng8yTFI2-",
+      "url": "https://play.google.com/store/apps/details?id=com.fourdollars.dng&hl=ko&gl=KR",
       "discoveredDate": "2026-06-29",
       "isGame": true
     },
@@ -4591,24 +4611,6 @@
       "developer": "Playdigious",
       "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.MustBeFun.GamesInOneWatchGames",
-      "title": "Games In One - Watch Games",
-      "developer": "Must Be Fun",
-      "icon": "https://play-lh.googleusercontent.com/TvIbWZcJKZK5O6jEwngHk2UaBP2THo-ZRwqdRakmHxKX01aZG2Uc1hp3vVWRH4avUc7E",
-      "url": "https://play.google.com/store/apps/details?id=com.MustBeFun.GamesInOneWatchGames&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.aigrind.warspear",
-      "title": "Warspear Online (MMORPG, RPG)",
-      "developer": "TITULUM",
-      "icon": "https://play-lh.googleusercontent.com/tF4783h8pjNbfIynuEDhYIs-ZqSzu50W-VTl3GCSbvwiJb5hEWcjB-Skq27OWzDPU98",
-      "url": "https://play.google.com/store/apps/details?id=com.aigrind.warspear&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
