@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T20:54:10.804Z",
+  "updatedAt": "2026-06-29T22:16:26.736Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1411,7 +1411,9 @@
     "com.notdoppler.earntodierogue",
     "castle.heroes.tower.defense.kingdom.magic.battle.archer",
     "com.kabam.marvelbattle",
-    "com.superplusgames.hosandroid"
+    "com.superplusgames.hosandroid",
+    "com.kingsgroup.dcdly",
+    "com.survival.last"
   ],
   "items": [
     {
@@ -1438,6 +1440,24 @@
       "developer": "Supercharge Mobile",
       "icon": "https://play-lh.googleusercontent.com/9ASYwsEtTdsuK_-HIh3Z4QwznxHYHnxDqKHnLSfiWdeLq58pvxHuTWhzFt2FTabBeoxziMqv1hySJLzecpVt",
       "url": "https://play.google.com/store/apps/details?id=com.superplusgames.hosandroid&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.kingsgroup.dcdly",
+      "title": "DC: Dark Legion™",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/PBvv9tkq2TsdEslx_tsnZxC_iP0QvmwZSMxvO5Bitho8JlFOpSCAWzWAkIBYMTUoTDGb629QBayzQBurfXGI",
+      "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.dcdly&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.survival.last",
+      "title": "Dawn of Zombies: 좀비 생존게임",
+      "developer": "Royal Ark",
+      "icon": "https://play-lh.googleusercontent.com/pFJCQ6npukgGv07bY1zXd9KvBiSAVOTi1Mokk-arstaZ69hvP5SZq9GGmJTY5CgpC2NMe7YQdAo2w5GqHqdeOg",
+      "url": "https://play.google.com/store/apps/details?id=com.survival.last&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
       "isGame": true
     },
@@ -4651,24 +4671,6 @@
       "developer": "Playdigious",
       "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.microdose.balljam",
-      "title": "Marble Sort!",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/QvaEFQhS4SCDQmI941wYCTg83AoQkZt4WN-fZRyhh2XW2tcxjT0pQKXLm1Be7K0XdC4",
-      "url": "https://play.google.com/store/apps/details?id=com.microdose.balljam&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.edkongames.ww2",
-      "title": "2차 세계대전 WW2 FPS 전술 슈팅 게임 군인 게임",
-      "developer": "Edkon Games GmbH",
-      "icon": "https://play-lh.googleusercontent.com/H2gkyEii_ozUzpqGxd6HgXBN1H1DIn4yelbKN0-uMHVRgBFTG7JApEzuGyTXUs1ilDXSxP8BTkpV-v0yvA3LWg",
-      "url": "https://play.google.com/store/apps/details?id=com.edkongames.ww2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
