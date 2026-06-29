@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T11:20:47.990Z",
+  "updatedAt": "2026-06-29T16:05:01.968Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1408,9 +1408,19 @@
     "com.chillgaming.combatquest",
     "com.hygame.ssfh.kr.gp",
     "com.fourdollars.dng",
-    "com.notdoppler.earntodierogue"
+    "com.notdoppler.earntodierogue",
+    "castle.heroes.tower.defense.kingdom.magic.battle.archer"
   ],
   "items": [
+    {
+      "appId": "castle.heroes.tower.defense.kingdom.magic.battle.archer",
+      "title": "붐 캐슬: 생존형 마법 타워 디펜스",
+      "developer": "TERAHYPE - AR, GPS & Fantasy RPG + Casual Games",
+      "icon": "https://play-lh.googleusercontent.com/lxXrRjpJdD3BlbLL0HByKs_g0UnIRta5B3fxT7-R5mRqc1K5MnucJGtM1cNmnep9MosTBJIXNW1J3B_eRcxCnw",
+      "url": "https://play.google.com/store/apps/details?id=castle.heroes.tower.defense.kingdom.magic.battle.archer&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
     {
       "appId": "com.mgame.ghostsoulm",
       "title": "귀혼M",
@@ -4621,15 +4631,6 @@
       "developer": "Playdigious",
       "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.rsg.heroesevolved",
-      "title": "Heroes Evolved",
-      "developer": "Netdragon Websoft Inc,",
-      "icon": "https://play-lh.googleusercontent.com/81YUvchemU95D-H6ZPZLigGRk0B4tZL-L-Q3IBGV6ocoTjJzjj2jhqgyc4UDWLAxSugs",
-      "url": "https://play.google.com/store/apps/details?id=com.rsg.heroesevolved&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
