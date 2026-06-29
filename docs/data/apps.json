@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T06:00:54.079Z",
+  "updatedAt": "2026-06-29T11:20:47.990Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1407,7 +1407,8 @@
     "com.runawayplay.splash",
     "com.chillgaming.combatquest",
     "com.hygame.ssfh.kr.gp",
-    "com.fourdollars.dng"
+    "com.fourdollars.dng",
+    "com.notdoppler.earntodierogue"
   ],
   "items": [
     {
@@ -1452,6 +1453,15 @@
       "developer": "Wemade Play Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/ZLA8pxJ9DeOWUCqsPoMuH8DzYyCe_FE7AeUsXDO0sYbc1q-rNAO07D_U5V1JDnUCTeUnXswyNoTng8yTFI2-",
       "url": "https://play.google.com/store/apps/details?id=com.fourdollars.dng&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.notdoppler.earntodierogue",
+      "title": "Earn to Die Rogue",
+      "developer": "Not Doppler",
+      "icon": "https://play-lh.googleusercontent.com/e6iawDzUYDp2qmFkjRZ7zHuy2GIiiqn8A2nKC_fiGXMfqMtsysiP3j23y3RjzLyem-FHiCW-oi5nzqm7lT3u",
+      "url": "https://play.google.com/store/apps/details?id=com.notdoppler.earntodierogue&hl=ko&gl=KR",
       "discoveredDate": "2026-06-29",
       "isGame": true
     },
@@ -4611,15 +4621,6 @@
       "developer": "Playdigious",
       "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.dirtybit.fra",
-      "title": "FR3 - 온라인 멀티플레이어 러닝 게임",
-      "developer": "Dirtybit",
-      "icon": "https://play-lh.googleusercontent.com/NgOATHjl2gP57ouPj9Jnan4uIRNFBmI3k_tcpW__-9wsFT9k2c-HQvlIirnZd802fw",
-      "url": "https://play.google.com/store/apps/details?id=com.dirtybit.fra&hl=ko&gl=KR",
       "discoveredDate": "2026-05-02",
       "isGame": true
     },
