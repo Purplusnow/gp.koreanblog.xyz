@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T15:38:49.565Z",
+  "updatedAt": "2026-06-30T18:07:01.673Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1417,9 +1417,39 @@
     "com.puzzlegames.merge.traveltown",
     "com.ujoygp.flower",
     "com.tocaboca.tocahairsalon4",
-    "com.tapanywhere.lootheroes"
+    "com.tapanywhere.lootheroes",
+    "com.netmarble.lineageII",
+    "kr.neogames.realfarm",
+    "jp.konami.masterduel"
   ],
   "items": [
+    {
+      "appId": "com.netmarble.lineageII",
+      "title": "리니지2 레볼루션",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/RN9j8xmlp4mgSqYYJ9ZV2Tjm07kxwxOFlgm7o4FICph-7o_-Bt8yTxNV8TvadY9iUEZ4JXNN08AEGML9XEjdpQ",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.lineageII&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "kr.neogames.realfarm",
+      "title": "레알팜 : 진짜 농부를 만나는 게임",
+      "developer": "NEOGAMES",
+      "icon": "https://play-lh.googleusercontent.com/Qg3wLp9LscJKzIVISOuhzRVS80w1dzmFsHO0GNq4rwxho_8kK8ypT2Ud3sKNebt_-9fx1Fr35idp5T1kDO7i",
+      "url": "https://play.google.com/store/apps/details?id=kr.neogames.realfarm&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "jp.konami.masterduel",
+      "title": "Yu-Gi-Oh! Master Duel",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/iYQctyzpwypOLNSxK3WgXB2gsOoQ1diMU9SmOnoxrJHW2_ArYVPb-luoT_ZgWfBgT9SduxAf1rZmTACl71LYOg",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.masterduel&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
     {
       "appId": "castle.heroes.tower.defense.kingdom.magic.battle.archer",
       "title": "붐 캐슬: 생존형 마법 타워 디펜스",
@@ -4603,33 +4633,6 @@
       "developer": "By4m Studio",
       "icon": "https://play-lh.googleusercontent.com/MX01MfLpfnJ2ksPgARtQQQNv3N0EjGOzNxGWR752IqrqA6reZ3hpFKzVRzUWqIRXGd0qCGOixDic3IU_ZLoq",
       "url": "https://play.google.com/store/apps/details?id=com.DetailGames.HungryAliens&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.integragames.openhouse.android",
-      "title": "오픈 하우스",
-      "developer": "RED BRIX COMPUTER SYSTEMS",
-      "icon": "https://play-lh.googleusercontent.com/1-7KNfnthSdHwhBVBg2fV0BF0ErlEy7EtizfUSR4_KbIeT6T_ZiD2J0R2WrAkNvRXHU",
-      "url": "https://play.google.com/store/apps/details?id=com.integragames.openhouse.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes",
-      "title": "재미있는 수학: 아이들을 위한 암산",
-      "developer": "Speedymind LLC",
-      "icon": "https://play-lh.googleusercontent.com/rL1QrkLaAMltwcKTUKC6VSRQZ7oRceUw_6OTS4Vey4nxNvBj02-xdyPsUyMtV1J1DWQ",
-      "url": "https://play.google.com/store/apps/details?id=net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.joycity.im",
-      "title": "임진왜란: 조선의 반격",
-      "developer": "JOYCITY Corp.",
-      "icon": "https://play-lh.googleusercontent.com/lCe1gmPZFYWVAC9SART7Bm4AFDPNRmxteII5Qa417kZVxBgpKdbXbgDaGLLpRevIPyPcQj7W-dLvDdBMmm_ceA",
-      "url": "https://play.google.com/store/apps/details?id=com.joycity.im&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
