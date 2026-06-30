@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T00:15:23.088Z",
+  "updatedAt": "2026-06-30T05:14:29.638Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1414,7 +1414,9 @@
     "com.superplusgames.hosandroid",
     "com.kingsgroup.dcdly",
     "com.survival.last",
-    "com.puzzlegames.merge.traveltown"
+    "com.puzzlegames.merge.traveltown",
+    "com.ujoygp.flower",
+    "com.tocaboca.tocahairsalon4"
   ],
   "items": [
     {
@@ -1468,6 +1470,24 @@
       "developer": "C.C.T Games",
       "icon": "https://play-lh.googleusercontent.com/QYdyWfTJTz7P6qRy08ZMHL-mVG9cTIQ2S_-ZAi65ioZ0tLZTU43S6f_2W6lYsrrmFjSdKflk6VWtJEiZZTaLcw8",
       "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.merge.traveltown&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.ujoygp.flower",
+      "title": "오늘의 꽃",
+      "developer": "Ujoy Games",
+      "icon": "https://play-lh.googleusercontent.com/cg1-R8XG0O9Ok4XFvhzNked6xAl63XQn4N4BLx1X685DD9JsmmYzfNDSn9p2pm9gDNZXdBErMPq05Z5IKXJDgg",
+      "url": "https://play.google.com/store/apps/details?id=com.ujoygp.flower&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.tocaboca.tocahairsalon4",
+      "title": "Toca Boca Hair Salon 4",
+      "developer": "Play Piknik",
+      "icon": "https://play-lh.googleusercontent.com/WiQJfzrET6r3U8SW-HAILIhTnTpDVH-zeN8IO2nf4n0nBYoJPqXQM-gFGDwHREkY_zqgj2VWnm6ZLFGFikBCRNk",
+      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahairsalon4&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
       "isGame": true
     },
@@ -4577,15 +4597,6 @@
       "isGame": true
     },
     {
-      "appId": "com.indusgame.play",
-      "title": "Prime Rush",
-      "developer": "SuperGaming SG",
-      "icon": "https://play-lh.googleusercontent.com/5GZdAI6Ke7o64k_xjnzIYbCiVUsY-09TcnVc5tgnNab5vjCyuAWscWxxzGK_laJTy4OnZ8Lq4vdKFOW-kRHG1w",
-      "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
       "appId": "com.my.warface.online.fps.pvp.action.shooter",
       "title": "Warface GO: PvP&FPS 총슈팅 온라인 게임",
       "developer": "Innova Solutions FZ-LLC",
@@ -4655,15 +4666,6 @@
       "icon": "https://play-lh.googleusercontent.com/Zn0e1ULoepwefhCTvz1z3QJMzEBvMxxZuZGALkPnkeNV99NcR62VrvkN3QOZ9XbtfA",
       "url": "https://play.google.com/store/apps/details?id=com.balysv.loop&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.farlightgames.igame.gp",
-      "title": "AFK: 새로운 여정",
-      "developer": "FARLIGHT",
-      "icon": "https://play-lh.googleusercontent.com/47mM_TAer7iZxVogCbwLCAqOF92LDRQU2PUcbZTFRsd-zmseWrL-4EiXbaPCuC9kWWIKA6YWU096xI9cDTmbPA",
-      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.igame.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-03",
       "isGame": true
     },
     {
