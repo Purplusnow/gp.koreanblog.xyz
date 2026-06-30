@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:16:26.736Z",
+  "updatedAt": "2026-06-30T00:15:23.088Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1413,7 +1413,8 @@
     "com.kabam.marvelbattle",
     "com.superplusgames.hosandroid",
     "com.kingsgroup.dcdly",
-    "com.survival.last"
+    "com.survival.last",
+    "com.puzzlegames.merge.traveltown"
   ],
   "items": [
     {
@@ -1458,6 +1459,15 @@
       "developer": "Royal Ark",
       "icon": "https://play-lh.googleusercontent.com/pFJCQ6npukgGv07bY1zXd9KvBiSAVOTi1Mokk-arstaZ69hvP5SZq9GGmJTY5CgpC2NMe7YQdAo2w5GqHqdeOg",
       "url": "https://play.google.com/store/apps/details?id=com.survival.last&hl=ko&gl=KR",
+      "discoveredDate": "2026-06-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzlegames.merge.traveltown",
+      "title": "머지사랑 2",
+      "developer": "C.C.T Games",
+      "icon": "https://play-lh.googleusercontent.com/QYdyWfTJTz7P6qRy08ZMHL-mVG9cTIQ2S_-ZAi65ioZ0tLZTU43S6f_2W6lYsrrmFjSdKflk6VWtJEiZZTaLcw8",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.merge.traveltown&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
       "isGame": true
     },
@@ -4645,15 +4655,6 @@
       "icon": "https://play-lh.googleusercontent.com/Zn0e1ULoepwefhCTvz1z3QJMzEBvMxxZuZGALkPnkeNV99NcR62VrvkN3QOZ9XbtfA",
       "url": "https://play.google.com/store/apps/details?id=com.balysv.loop&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.hyperbeard.pocketlove",
-      "title": "포켓 러브",
-      "developer": "HyperBeard",
-      "icon": "https://play-lh.googleusercontent.com/UdgUop5EY0WE8t4DXBKnS5U-RGkeESduiXWZ_BzRx-i04dsAWjU858KSqhIbuz7HvA",
-      "url": "https://play.google.com/store/apps/details?id=com.hyperbeard.pocketlove&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-03",
       "isGame": true
     },
     {
