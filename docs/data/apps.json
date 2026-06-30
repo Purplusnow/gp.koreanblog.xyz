@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:07:01.673Z",
+  "updatedAt": "2026-06-30T21:02:07.678Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1420,7 +1420,25 @@
     "com.tapanywhere.lootheroes",
     "com.netmarble.lineageII",
     "kr.neogames.realfarm",
-    "jp.konami.masterduel"
+    "jp.konami.masterduel",
+    "com.sofarsogood.incredibox",
+    "com.squareenixmontreal.hitmansniperandroid",
+    "com.hg.bfbb",
+    "com.strayfawnstudio.dungeonclawlermobile",
+    "com.trueaxis.trueskate",
+    "com.headupgames.bridgeconstructorportal",
+    "com.hg.wreckfest",
+    "com.squareenixmontreal.lcgo",
+    "com.dotemu.titanquest",
+    "com.notdoppler.earntodie",
+    "com.alien.shooter.galaxy.attack.premium",
+    "com.nekki.shadowfight2.paid",
+    "com.playdigious.evoland2",
+    "com.hg.townsmen7",
+    "com.playsportgames.mmm2023",
+    "pl.idreams.pottery",
+    "air.com.RustyLake.RustyLakeRoots",
+    "com.khg.doorkickers"
   ],
   "items": [
     {
@@ -1447,6 +1465,168 @@
       "developer": "KONAMI",
       "icon": "https://play-lh.googleusercontent.com/iYQctyzpwypOLNSxK3WgXB2gsOoQ1diMU9SmOnoxrJHW2_ArYVPb-luoT_ZgWfBgT9SduxAf1rZmTACl71LYOg",
       "url": "https://play.google.com/store/apps/details?id=jp.konami.masterduel&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.sofarsogood.incredibox",
+      "title": "Incredibox",
+      "developer": "SO FAR SO GOOD",
+      "icon": "https://play-lh.googleusercontent.com/QUvDb636ZBM6dL_VTyrr1eL6LG1QPKVkWzcRGeEBKdwyNwn9klz4wwIC3buFG6E-84V7K8CpeHGOnpgHWOEy",
+      "url": "https://play.google.com/store/apps/details?id=com.sofarsogood.incredibox&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.squareenixmontreal.hitmansniperandroid",
+      "title": "히트맨 스나이퍼 (Hitman Sniper)",
+      "developer": "Deca Games",
+      "icon": "https://play-lh.googleusercontent.com/Da0npzsFWR9qNNDn7eA9fKaDceFlR4HglEIqWwD2LC6KTX_Y7nkZ2IbHT-lsqxLXkVoYuXdAgvgG50-vLxWsiHQ",
+      "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmansniperandroid&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.hg.bfbb",
+      "title": "스폰지밥 네모바지: BfBB",
+      "developer": "HandyGames",
+      "icon": "https://play-lh.googleusercontent.com/PH3ZHCVPYmgju_MoF4BG1CBcv7beU8aBQAD09vy1H-LFW5AqEs1V7unlXJJXRBYiVMI0H_w9cKADG-4a6IG-",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.bfbb&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.strayfawnstudio.dungeonclawlermobile",
+      "title": "Dungeon Clawler",
+      "developer": "Stray Fawn Studio",
+      "icon": "https://play-lh.googleusercontent.com/ze0KEziHtJaENqPuR2-Y7pR10o3haQZ82gYirmLxxS6Wx-ozfrKMXjyP2y_UekeoiKZBLj_w1ZjiGk1BwiiT",
+      "url": "https://play.google.com/store/apps/details?id=com.strayfawnstudio.dungeonclawlermobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.trueaxis.trueskate",
+      "title": "True Skate",
+      "developer": "True Axis",
+      "icon": "https://play-lh.googleusercontent.com/LnxWViNjq9A22wRxrN2xa_B-I2b9tff49ssdk_7x91IGSp0kgvCaRBPByfdH0zYmDCYQn8uKn2fxCG2hD5wB",
+      "url": "https://play.google.com/store/apps/details?id=com.trueaxis.trueskate&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.headupgames.bridgeconstructorportal",
+      "title": "브릿지 컨스트럭터 포탈",
+      "developer": "Headup",
+      "icon": "https://play-lh.googleusercontent.com/ds_CCNzqbalDtDf7vSRPDq4odKILa6CPLY5ocpjjFtuvqQLvKlK4vTmfd0fQGsdhmvUb0aEL9rYmZ9Hc7u6a-Q",
+      "url": "https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorportal&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.hg.wreckfest",
+      "title": "Wreckfest - 파괴 레이싱",
+      "developer": "HandyGames",
+      "icon": "https://play-lh.googleusercontent.com/GZ50g_mIVRKi2QDknnQfh5rqt4SOM1-_eo_mlF2xu8dRL9-JszBvU8J1zVqYfmR_dSMUbbhqDsWHb_LFqcMPGw",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.wreckfest&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.squareenixmontreal.lcgo",
+      "title": "Lara Croft GO",
+      "developer": "Deca Games",
+      "icon": "https://play-lh.googleusercontent.com/8PJtZPZ1O78U5esIvQekgAfXrHr-JXAA_Dr7_OVJRkJyN3FdLDW2WehFik9wv2z6jtU3PIHpiHuZvQapEHtdr6A",
+      "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.lcgo&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.dotemu.titanquest",
+      "title": "Titan Quest",
+      "developer": "HandyGames",
+      "icon": "https://play-lh.googleusercontent.com/UHVS-jKtcPQDZWfSb4pv2nHzuhf-jgry57T2xKKiahcUMMqPAT2gDJJ1ioaC7_1poKCGaJT0v_yHIGNTW3DVITc",
+      "url": "https://play.google.com/store/apps/details?id=com.dotemu.titanquest&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.notdoppler.earntodie",
+      "title": "Earn to Die",
+      "developer": "Not Doppler",
+      "icon": "https://play-lh.googleusercontent.com/yQTUFh_hZu2W4D74Vj9GMxe2Lyvm9wzBccQA3d2e4GhfuTSsCL5N9j4kgrWUSQzfR9e-VIhYV7UJLuTTlwgBpAk",
+      "url": "https://play.google.com/store/apps/details?id=com.notdoppler.earntodie&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.alien.shooter.galaxy.attack.premium",
+      "title": "우주 전쟁: 외계인들의 공격 (프리미엄)",
+      "developer": "1SOFT",
+      "icon": "https://play-lh.googleusercontent.com/o9X64bukRFBRHw4AHvHLP9K8V-t4viExdx3EYWiTq1F3x6ja-JS5aLly7TprG84wIr6gGfCCzrLBDnPKMeudCg",
+      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack.premium&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.nekki.shadowfight2.paid",
+      "title": "섀도우 파이트 2 특별판",
+      "developer": "NEKKI",
+      "icon": "https://play-lh.googleusercontent.com/aqpemoEhFAIOypXNxwHCGQUfpEOkkwGduKTrJF-lZw9c6DlMCoTe9AXkVHjht6gzBmBU5S4vL5xlfdSJXlEhddU",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight2.paid&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.playdigious.evoland2",
+      "title": "Evoland 2",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/nD8rFvazCYDiGNKAi_Umc8HnKB1gQhDgW52_B94_9ae5fp9m_zraXYFJ_Uuj0UsCqVOsAE4X6QlPqG0OuRA8Mg",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.evoland2&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.hg.townsmen7",
+      "title": "Townsmen Premium",
+      "developer": "HandyGames",
+      "icon": "https://play-lh.googleusercontent.com/bgGfrJh26rK2aYfh6noZ72fjh66lVIyagmTc2NsDO4j9xt02jIwFYbQ1wiXkIUg4l643hWanOo36fTXJfMhh6w",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.townsmen7&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.playsportgames.mmm2023",
+      "title": "Motorsport Manager 4 Racing",
+      "developer": "Playsport Games",
+      "icon": "https://play-lh.googleusercontent.com/cmnpPESLOQYtF_1zV9TZ_ppMpApGMNOUJOQU4f3zZd8YT7IYomuLOEIuCVawlyWE0mNBVIdj9JpJcmos9nWZLw",
+      "url": "https://play.google.com/store/apps/details?id=com.playsportgames.mmm2023&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "pl.idreams.pottery",
+      "title": "Let's Create! Pottery",
+      "developer": "Infinite Dreams",
+      "icon": "https://play-lh.googleusercontent.com/whdLxN-YukuNaQqjxxEz-BMVhKd74S37fyjesI_-o2Y58vl3ie8-84u7WILm-ZqmexI2JM4KwK1G3aLOSvH_rOc",
+      "url": "https://play.google.com/store/apps/details?id=pl.idreams.pottery&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.RustyLake.RustyLakeRoots",
+      "title": "Rusty Lake: Roots",
+      "developer": "Rusty Lake",
+      "icon": "https://play-lh.googleusercontent.com/4tURtLSnhX6TzPCa5t4zD_8B2zFm2b63jQ_yPYMbXN_PTzpJoJdnOuIG3AAvamO_Vv6AjIMYtTR2ojb93cZR6g",
+      "url": "https://play.google.com/store/apps/details?id=air.com.RustyLake.RustyLakeRoots&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.khg.doorkickers",
+      "title": "Door Kickers",
+      "developer": "KillHouse Games",
+      "icon": "https://play-lh.googleusercontent.com/ZUtNzJdnkVvztVLIPTbKIdD7c1ZHC48medkiw-O6gVUbLHTP-ouV_V-1lq-ax9k9PmPqC1rBP_4EiXN2rrTtLco",
+      "url": "https://play.google.com/store/apps/details?id=com.khg.doorkickers&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
       "isGame": true
     },
@@ -4430,24 +4610,6 @@
       "isGame": true
     },
     {
-      "appId": "com.wood.bolt.wordle.screw.nuts.puzzle",
-      "title": "1 하트 윌 우들 스크류 온",
-      "developer": "LifePulse Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/3l5HiW1HL3MT86rgAJrCZ6SpuCOxm9I4gxKS8in8mAsz1RXr2AyRt63QaXQ57Kx6-DutV11MvDsEdX41MnzNb9A",
-      "url": "https://play.google.com/store/apps/details?id=com.wood.bolt.wordle.screw.nuts.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.madovergames.BubbleShooterClassic",
-      "title": "Bubble Shooter - 버블 슈터",
-      "developer": "Bubble Shooter @ MadOverGames",
-      "icon": "https://play-lh.googleusercontent.com/pg-ilXN-5stIKn0tyntMAisEIQM_WvY7gnfvfy1ibi6GrYSJhsPx_LILD1tA88fUfF0",
-      "url": "https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterClassic&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
-      "isGame": true
-    },
-    {
       "appId": "com.netease.vikingard",
       "title": "바이킹가드 Vikingard",
       "developer": "Orienjoy International Company Limited",
@@ -4511,114 +4673,6 @@
       "isGame": true
     },
     {
-      "appId": "com.arrows.escape",
-      "title": "화살표 미로 - 퍼즐 탈출",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/34ku9OikKH7qAIKiGp6vwCjmNWrbFhm-omrluJXbDxiMZ0wjMEExIM8cAY23Xu_wUebR6dofEDsA1rX8Xjku",
-      "url": "https://play.google.com/store/apps/details?id=com.arrows.escape&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.triple.match.goods.sort.puzzle.game",
-      "title": "상품 러시！3D 분류 퍼즐",
-      "developer": "Playdayy",
-      "icon": "https://play-lh.googleusercontent.com/H90MDDlGoJC6Rj4QPMb1HGjzHsWfH9Fv2CL6_BWLjdIVAUvxbNrx50hc3D22pmjetpEGqjljdVCIKPGugetxpQs",
-      "url": "https://play.google.com/store/apps/details?id=com.triple.match.goods.sort.puzzle.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.playwithfurcifer.bpb.android",
-      "title": "Backpack Battles",
-      "developer": "IndieArk",
-      "icon": "https://play-lh.googleusercontent.com/5MecEgjYvyg72mw7-Rm9ia2oys6i42Tj7E_J-l5-UgJZnK3GWF-NUuGkad0xEqV1uNIwqXVKIkkys8ajqLnz9A",
-      "url": "https://play.google.com/store/apps/details?id=com.playwithfurcifer.bpb.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.whoyaho.pendeco",
-      "title": "볼꾸의 달인 - 볼펜 꾸미기 ASMR 비즈 만들기",
-      "developer": "Whoyaho Corp.",
-      "icon": "https://play-lh.googleusercontent.com/4VG72Y8jbmaylwbF95A2dgaCU7Pl2wIL8TNq5tiUcoF1prMlzazw7bcZPDG8hjMpohmmYljYcup6SjIQ4urZag",
-      "url": "https://play.google.com/store/apps/details?id=com.whoyaho.pendeco&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.minitennis",
-      "title": "Mini Tennis",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/qXWycTStSa4IBiHnEdFKHSQNNUNTxr62PGGpXiELg2H-bL0-uXFOCsANOkGFbpOIyXNQ",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.minitennis&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.outplayentertainment.candywitch",
-      "title": "Crafty Candy - Match 3 Game",
-      "developer": "Outplay Entertainment Ltd",
-      "icon": "https://play-lh.googleusercontent.com/FFSOpOIPS9kS9zl0LBnQvJPNxERiIBOUO6CEPbspr513ZvGNP-PJsGogV5Jcw3xdbXW-gkDWEXRovM5uR6g1",
-      "url": "https://play.google.com/store/apps/details?id=com.outplayentertainment.candywitch&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.storytoys.lego.bluey.googleplay",
-      "title": "LEGO® 블루이",
-      "developer": "StoryToys",
-      "icon": "https://play-lh.googleusercontent.com/EnvbSf0eakme3iULCEJNhTZuXh7Uo7YxYPW90PTQ6-3F19BCDOfdH46FmK7inOfFSuBK",
-      "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.bluey.googleplay&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.glu.dashtown",
-      "title": "Diner DASH Adventures",
-      "developer": "Glu",
-      "icon": "https://play-lh.googleusercontent.com/0fO7MXkF1_TdcAEKTQBI36i4KIu5ldn53I8B7iPLhp84BHao6ocapXht8fWELfD-oBc",
-      "url": "https://play.google.com/store/apps/details?id=com.glu.dashtown&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.pop.bubbleshooter.gem.classic.games",
-      "title": "버블 슈터 보석 퍼즐 팝",
-      "developer": "Lynn Mobile Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/fKjVNP4xL4Wk77hUczfwEtJxWy_pIXzRu6QEJb5N3rj1J_XH21NAkp0cP7oYwFaAr3c",
-      "url": "https://play.google.com/store/apps/details?id=com.pop.bubbleshooter.gem.classic.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-07",
-      "isGame": true
-    },
-    {
-      "appId": "co.tamatem.fashionqueen",
-      "title": "ملكة الموضة | لعبة قصص و تمثيل",
-      "developer": "Tamatem Inc.",
-      "icon": "https://play-lh.googleusercontent.com/ppTGVK9wiouzKLnAwoX7GTcufm0PcEfXCpjz7AHFSpG8RH5dgfykK8X-Z0VTds2fNvvd",
-      "url": "https://play.google.com/store/apps/details?id=co.tamatem.fashionqueen&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.refuelgames.rally",
-      "title": "Rally Fury - 익스트림 레이싱",
-      "developer": "Refuel Games Pty Ltd",
-      "icon": "https://play-lh.googleusercontent.com/UVjsYY6tnVq2qqtuz0BexvhIA080C-pfWalPy3Py4GD4nE-dt_mAZxuAOVgEod3teLU",
-      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.Nobodyshot.kuboom",
-      "title": "쿠붐 3D: FPS 슈팅 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/YtiaoIxd_T6sfqTrFrO4YGhVcBxtotHyw2uasWu5VhTHvHhg3owG6SNdwuiNj7JUCIM",
-      "url": "https://play.google.com/store/apps/details?id=com.Nobodyshot.kuboom&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-05",
-      "isGame": true
-    },
-    {
       "appId": "com.dwjp.gp",
       "title": "애니멀 가든 - 진짜 꽃다발을 배달돼요!",
       "developer": "GARDA",
@@ -4633,42 +4687,6 @@
       "developer": "By4m Studio",
       "icon": "https://play-lh.googleusercontent.com/MX01MfLpfnJ2ksPgARtQQQNv3N0EjGOzNxGWR752IqrqA6reZ3hpFKzVRzUWqIRXGd0qCGOixDic3IU_ZLoq",
       "url": "https://play.google.com/store/apps/details?id=com.DetailGames.HungryAliens&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.daerigame.girladriftrm",
-      "title": "표류소녀: 다시 만난 세계",
-      "developer": "DAERI SOFT Inc",
-      "icon": "https://play-lh.googleusercontent.com/Y8SLjAdXCg_IRVcf8HJYxEKXfHtVRlx5bH5Cr8sgf3IApRr-x_ddIBl2ADp1mcgCMadcN5g9Gj01zvzxaewQ-Q",
-      "url": "https://play.google.com/store/apps/details?id=com.daerigame.girladriftrm&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "clear.tap.geometrydash.puzzle.away.clash.block.games",
-      "title": "Take Away - 3D 블록 제거",
-      "developer": "EasyFun Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/fWFpXkCTQZUoTTlmVu4VEzg5jQVfX7B7Yh_wFLw1u64CwvlJkZ9ViQd9eCDLs9fzYgqHwEijlVikoc2GNzNN1A",
-      "url": "https://play.google.com/store/apps/details?id=clear.tap.geometrydash.puzzle.away.clash.block.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.disney.emojimatch_goo",
-      "title": "디즈니 이모지 블리츠",
-      "developer": "Jam City, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/ttEp5YKjdiFEEIW1URHbDKps14TwoUgQthysnGxgVA_2c2eJe6UVcmh_uClq5CgkWJbEl9qhbrLT6hbqiymfyQ",
-      "url": "https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.balysv.loop",
-      "title": "무한 루프: 진정 및 휴식",
-      "developer": "Infinity Games, Lda",
-      "icon": "https://play-lh.googleusercontent.com/Zn0e1ULoepwefhCTvz1z3QJMzEBvMxxZuZGALkPnkeNV99NcR62VrvkN3QOZ9XbtfA",
-      "url": "https://play.google.com/store/apps/details?id=com.balysv.loop&hl=ko&gl=KR",
       "discoveredDate": "2026-05-04",
       "isGame": true
     },
