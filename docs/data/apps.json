@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T16:35:03.784Z",
+  "updatedAt": "2026-07-01T19:05:31.827Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1440,7 +1440,8 @@
     "air.com.RustyLake.RustyLakeRoots",
     "com.khg.doorkickers",
     "com.chillyroom.soulknightprequel",
-    "com.bigfishgames.gummydropgoogle"
+    "com.bigfishgames.gummydropgoogle",
+    "com.astragon.cs3"
   ],
   "items": [
     {
@@ -1449,6 +1450,15 @@
       "developer": "7 Hits Games",
       "icon": "https://play-lh.googleusercontent.com/fYGTaGeVj_-Z07XqEt2r2LhaB_2ONJ7DOleR9WAg3YUt0FsIhxfNkpinXYd8XTdNqH5LY-MBChE_PPGH-kSC4w",
       "url": "https://play.google.com/store/apps/details?id=com.bigfishgames.gummydropgoogle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.astragon.cs3",
+      "title": "Construction Simulator 3",
+      "developer": "astragon Entertainment GmbH",
+      "icon": "https://play-lh.googleusercontent.com/WIgG14he_ot61W-22GAfKrmGbOuoCXED-fRTOQlavqxWb6azuN6fy5t_N931sMAXUJfGm8IFjv0FgWxE0YcKjg",
+      "url": "https://play.google.com/store/apps/details?id=com.astragon.cs3&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
       "isGame": true
     },
@@ -4627,15 +4637,6 @@
       "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
       "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.neptune.anchorpanic",
-      "title": "앵커패닉 : 1주년 600뽑 대축제",
-      "developer": "Neptune Corp.",
-      "icon": "https://play-lh.googleusercontent.com/R4QmhBqfPmhnNASMg2F93UDjKyibPoGQol4y9K3afzZbc_gYextTP3mPEaxYzAW0Hy6ZarcJiJCIs7wsCyP7",
-      "url": "https://play.google.com/store/apps/details?id=com.neptune.anchorpanic&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
       "isGame": true
     },
     {
