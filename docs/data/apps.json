@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T13:38:36.726Z",
+  "updatedAt": "2026-07-01T16:35:03.784Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1439,9 +1439,19 @@
     "pl.idreams.pottery",
     "air.com.RustyLake.RustyLakeRoots",
     "com.khg.doorkickers",
-    "com.chillyroom.soulknightprequel"
+    "com.chillyroom.soulknightprequel",
+    "com.bigfishgames.gummydropgoogle"
   ],
   "items": [
+    {
+      "appId": "com.bigfishgames.gummydropgoogle",
+      "title": "젤리드롭! 건축하려면 3개 매치하기",
+      "developer": "7 Hits Games",
+      "icon": "https://play-lh.googleusercontent.com/fYGTaGeVj_-Z07XqEt2r2LhaB_2ONJ7DOleR9WAg3YUt0FsIhxfNkpinXYd8XTdNqH5LY-MBChE_PPGH-kSC4w",
+      "url": "https://play.google.com/store/apps/details?id=com.bigfishgames.gummydropgoogle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-02",
+      "isGame": true
+    },
     {
       "appId": "com.netmarble.lineageII",
       "title": "리니지2 레볼루션",
@@ -4617,15 +4627,6 @@
       "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
       "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.rvappstudios.jigsaw.puzzles.kids",
-      "title": "아이들을 위한 퍼즐 게임: 직소 퍼즐",
-      "developer": "RV AppStudios",
-      "icon": "https://play-lh.googleusercontent.com/R9iuUKPtxoGBTCE9L6ynvP4myQR02heaMYdO_wvpm3awQjNrpWrR5B4U3FafEQGOzkQHZHQ8HIf9s4fQNF-jvg",
-      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.jigsaw.puzzles.kids&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
       "isGame": true
     },
     {
