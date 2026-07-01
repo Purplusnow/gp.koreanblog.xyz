@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T05:49:17.437Z",
+  "updatedAt": "2026-07-01T10:07:04.061Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1438,7 +1438,8 @@
     "com.playsportgames.mmm2023",
     "pl.idreams.pottery",
     "air.com.RustyLake.RustyLakeRoots",
-    "com.khg.doorkickers"
+    "com.khg.doorkickers",
+    "com.chillyroom.soulknightprequel"
   ],
   "items": [
     {
@@ -1627,6 +1628,15 @@
       "developer": "KillHouse Games",
       "icon": "https://play-lh.googleusercontent.com/ZUtNzJdnkVvztVLIPTbKIdD7c1ZHC48medkiw-O6gVUbLHTP-ouV_V-1lq-ax9k9PmPqC1rBP_4EiXN2rrTtLco",
       "url": "https://play.google.com/store/apps/details?id=com.khg.doorkickers&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.chillyroom.soulknightprequel",
+      "title": "소울 나이트 프리퀄: 어드벤처 게임",
+      "developer": "ChillyRoom",
+      "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
+      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
       "isGame": true
     },
@@ -4607,15 +4617,6 @@
       "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
       "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.netease.vikingard",
-      "title": "바이킹가드 Vikingard",
-      "developer": "Orienjoy International Company Limited",
-      "icon": "https://play-lh.googleusercontent.com/5D1wyoBwpl49xUP7YWmzjsuogZoRMCVlvm7jYI95VCKzyrD-5fkBdRAzypvJOcl3TQ",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.vikingard&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
       "isGame": true
     },
     {
