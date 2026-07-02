@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T11:40:50.826Z",
+  "updatedAt": "2026-07-02T14:24:38.337Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1442,7 +1442,8 @@
     "com.chillyroom.soulknightprequel",
     "com.bigfishgames.gummydropgoogle",
     "com.astragon.cs3",
-    "com.sinyee.babybus.delicious"
+    "com.sinyee.babybus.delicious",
+    "com.su.kg3.gb"
   ],
   "items": [
     {
@@ -1469,6 +1470,15 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/60EBcxSmNFrui-48_eoOHFPRp0zfuoKeFc7dqNR3HsS1E-2Jr0bRQg66rdBVD-MEhi5zHIz47eylWmwlmM_Wyw",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.delicious&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.su.kg3.gb",
+      "title": "포춘 헌터: 골든 사가",
+      "developer": "StarFortune",
+      "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
+      "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
       "isGame": true
     },
@@ -4647,15 +4657,6 @@
       "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
       "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.linkdesks.iBubble",
-      "title": "버블 슈터 - 버블 히트",
-      "developer": "Bubble Joy",
-      "icon": "https://play-lh.googleusercontent.com/pqjLxXgTrZFNFuvgD5vCujkHhcVFH3bOPmc5i49htdoAmOsiBegwNmOnRhjUaT5jSw",
-      "url": "https://play.google.com/store/apps/details?id=com.linkdesks.iBubble&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
       "isGame": true
     },
     {
