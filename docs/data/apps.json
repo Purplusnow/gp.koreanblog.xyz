@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T23:25:10.738Z",
+  "updatedAt": "2026-07-02T04:15:20.283Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1441,7 +1441,8 @@
     "com.khg.doorkickers",
     "com.chillyroom.soulknightprequel",
     "com.bigfishgames.gummydropgoogle",
-    "com.astragon.cs3"
+    "com.astragon.cs3",
+    "com.sinyee.babybus.delicious"
   ],
   "items": [
     {
@@ -1459,6 +1460,15 @@
       "developer": "astragon Entertainment GmbH",
       "icon": "https://play-lh.googleusercontent.com/WIgG14he_ot61W-22GAfKrmGbOuoCXED-fRTOQlavqxWb6azuN6fy5t_N931sMAXUJfGm8IFjv0FgWxE0YcKjg",
       "url": "https://play.google.com/store/apps/details?id=com.astragon.cs3&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.delicious",
+      "title": "아기 팬더: 스타 레스토랑",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/60EBcxSmNFrui-48_eoOHFPRp0zfuoKeFc7dqNR3HsS1E-2Jr0bRQg66rdBVD-MEhi5zHIz47eylWmwlmM_Wyw",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.delicious&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
       "isGame": true
     },
@@ -4637,15 +4647,6 @@
       "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
       "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
       "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.mergeland.alices.wonder.adventure",
-      "title": "Alice's Dream: 합병 익지 게임",
-      "developer": "Gaming Laboratory",
-      "icon": "https://play-lh.googleusercontent.com/Ml2EyvFeklfKjDZAEktteqYDqsuFThU1IVu8GvDXKCJpi6p8SS_CwpqVPq7hfkrgSyFXHLvrBtHnc2_46Dq8IQ",
-      "url": "https://play.google.com/store/apps/details?id=com.mergeland.alices.wonder.adventure&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-09",
       "isGame": true
     },
     {
