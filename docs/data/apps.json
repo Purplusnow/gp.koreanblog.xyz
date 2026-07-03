@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T16:42:20.353Z",
+  "updatedAt": "2026-07-03T18:20:33.984Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1446,7 +1446,8 @@
     "com.su.kg3.gb",
     "com.fireflystudios.strongholdkingdoms",
     "com.farlightgames.pgame.gp",
-    "com.hg.deadlydesert"
+    "com.hg.deadlydesert",
+    "com.EightStudio.BlightWar"
   ],
   "items": [
     {
@@ -1455,6 +1456,15 @@
       "developer": "HandyGames",
       "icon": "https://play-lh.googleusercontent.com/PjryuZyvLvlF9ex08u1qZoOFNUC00hnwPYpxozvTJTjxUbEm6M2ojINsE_V5mSXJ6HYD6s_Vv1X3u7aFjID9",
       "url": "https://play.google.com/store/apps/details?id=com.hg.deadlydesert&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.EightStudio.BlightWar",
+      "title": "블라이트 워 : 사후 처리국",
+      "developer": "Eight Studio",
+      "icon": "https://play-lh.googleusercontent.com/qdfKJMCJ8ht76PeYaiGTExaGkVyEXMbNXcD1tHcmDXMl7B-CDwkDbhWO0wmCFWoMZ1fVmo2SH9dYp8mnWiIHDCg",
+      "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko&gl=KR",
       "discoveredDate": "2026-07-04",
       "isGame": true
     },
@@ -4552,15 +4562,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.QuestLab.DraftWar",
-      "title": "Draft Showdown",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/S7t9MlZ5Hh9WWtnABp7QWKwKPUBXag3GnFT7wNbVLPDT6pFDieC_4NGnmu6u0bnmGEx-bDrByMwNRYx1RlcisB8",
-      "url": "https://play.google.com/store/apps/details?id=com.QuestLab.DraftWar&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
