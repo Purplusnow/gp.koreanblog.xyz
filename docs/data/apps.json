@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T14:28:10.139Z",
+  "updatedAt": "2026-07-03T16:42:20.353Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1445,9 +1445,19 @@
     "com.sinyee.babybus.delicious",
     "com.su.kg3.gb",
     "com.fireflystudios.strongholdkingdoms",
-    "com.farlightgames.pgame.gp"
+    "com.farlightgames.pgame.gp",
+    "com.hg.deadlydesert"
   ],
   "items": [
+    {
+      "appId": "com.hg.deadlydesert",
+      "title": "1943 Deadly Desert Premium",
+      "developer": "HandyGames",
+      "icon": "https://play-lh.googleusercontent.com/PjryuZyvLvlF9ex08u1qZoOFNUC00hnwPYpxozvTJTjxUbEm6M2ojINsE_V5mSXJ6HYD6s_Vv1X3u7aFjID9",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.deadlydesert&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-04",
+      "isGame": true
+    },
     {
       "appId": "com.fireflystudios.strongholdkingdoms",
       "title": "Stronghold Kingdoms Castle Sim",
@@ -4542,15 +4552,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.sandstormi.bloodhonor",
-      "title": "전쟁 및 전략 게임 -  Wartime Glory",
-      "developer": "Buldogo Games",
-      "icon": "https://play-lh.googleusercontent.com/41ebp-YSJjlp1qYqg0JmWjARwED6yeoXNQ3BDw43JhBtbltiUnPX0rvEUFMZ4ksobDE",
-      "url": "https://play.google.com/store/apps/details?id=com.sandstormi.bloodhonor&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
