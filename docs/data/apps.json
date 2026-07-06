@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T17:10:20.604Z",
+  "updatedAt": "2026-07-06T20:09:22.277Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1447,9 +1447,39 @@
     "com.fireflystudios.strongholdkingdoms",
     "com.farlightgames.pgame.gp",
     "com.hg.deadlydesert",
-    "com.EightStudio.BlightWar"
+    "com.EightStudio.BlightWar",
+    "com.justgame.jails",
+    "com.mobirix.fishinghook",
+    "com.fansipan.stickman.shadow.knights.fightinggames"
   ],
   "items": [
+    {
+      "appId": "com.justgame.jails",
+      "title": "랜드 오브 제일",
+      "developer": "SINGAPORE JUST GAME TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/_H3Cwysz_2uY_ox5Eo5QIWIq_taHTMu5CbffNq29c2y-ZQpUZ8Yxzr8ePZD31SC1PGYwS31TOYYJr_FVxewG",
+      "url": "https://play.google.com/store/apps/details?id=com.justgame.jails&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.fishinghook",
+      "title": "피싱훅",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/i69j_K0qagVV6QZwLvw5gYuoxxbEVuxUi_eyCrDzVg5J1BNGhlCfyrl74cVODfrMt0cJBlqWPaCpa5u0_IrU4g",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.fishinghook&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.fansipan.stickman.shadow.knights.fightinggames",
+      "title": "쉐도우나이트: RPG 격투액션게임 - 오프라인",
+      "developer": "Fansipan Limited",
+      "icon": "https://play-lh.googleusercontent.com/164qqscEsxZaMmzCoPxqPzkUC5iZMblELtT4zxcmfwoLsAvKnscwjU4iSeYJYAq34XlWj76IRlHd4-YkweoBnA",
+      "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-07",
+      "isGame": true
+    },
     {
       "appId": "com.hg.deadlydesert",
       "title": "1943 Deadly Desert Premium",
@@ -4562,33 +4592,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.tiltingpoint.warhammer",
-      "title": "Warhammer: 카오스 & 컨퀘스트",
-      "developer": "Tilting Point",
-      "icon": "https://play-lh.googleusercontent.com/n4ka5WUwcRpceOOBpipJv7sM1wrdCyCNXKRto3jaKVicr0KuZXxjC4HI215UO7IFP2Ac",
-      "url": "https://play.google.com/store/apps/details?id=com.tiltingpoint.warhammer&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.tactilegames.simonscatmatch",
-      "title": "Simon's Cat Match!",
-      "developer": "Tactile Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/Vo5d_895fOQIz5JfZ32fXaIYfnZT85c2um-CHBxu1AHtLMoNZAoWkJEYqcONCCG7UEEkSoqYfE3aOKfSbOPImgk",
-      "url": "https://play.google.com/store/apps/details?id=com.tactilegames.simonscatmatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.HolydayStudios.Firestone",
-      "title": "화의석 - 방치 클릭커 온라인 RPG",
-      "developer": "Holyday Studios Ltd",
-      "icon": "https://play-lh.googleusercontent.com/991XYN5-W8tOuorLpLkv8-JQ1jm_1vjDQiUGVE4GDeu0quHltI7mahbtdISYqneyaAJzlrbtmZbxLhClU4V86Q",
-      "url": "https://play.google.com/store/apps/details?id=com.HolydayStudios.Firestone&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
