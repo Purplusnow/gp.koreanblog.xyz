@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T20:55:20.469Z",
+  "updatedAt": "2026-07-07T22:18:46.668Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1452,7 +1452,11 @@
     "com.mobirix.fishinghook",
     "com.fansipan.stickman.shadow.knights.fightinggames",
     "com.allstarunion.lastfurry",
-    "com.Pocketpair.NeverGrave"
+    "com.Pocketpair.NeverGrave",
+    "com.game.kingrush",
+    "com.kr.lfhsgp",
+    "com.wemade.golfsc",
+    "games.my.sniper.wild.hunting"
   ],
   "items": [
     {
@@ -1461,6 +1465,42 @@
       "developer": "Pocketpair Publishing",
       "icon": "https://play-lh.googleusercontent.com/NC1C79_fLC7WrYekJPh1JauBrdJUasGTarG-MeFks4DRY6IqDtDRuqKEW3_U9d2q43o9mFooJrvuz2c2focb",
       "url": "https://play.google.com/store/apps/details?id=com.Pocketpair.NeverGrave&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.kingrush",
+      "title": "콩콩던전",
+      "developer": "Habby",
+      "icon": "https://play-lh.googleusercontent.com/7mFryefjr3vrxE2olrIjIW2NqlE7OYB54cn7P47BZO4yOEbKUh_eKFt1p88tbBE62Yn986MfRgeSZ4zW4GSxcw",
+      "url": "https://play.google.com/store/apps/details?id=com.game.kingrush&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.kr.lfhsgp",
+      "title": "그레이 사가",
+      "developer": "Leniu Technology Co., Limited",
+      "icon": "https://play-lh.googleusercontent.com/2skPatgAZcP6J5WfOaE4VnLH9902Hh3HC15QfM1MCIt_Wt5s_5BPw5uFuxZHZKRTX96kOQMqxhW6Memi74UmYA",
+      "url": "https://play.google.com/store/apps/details?id=com.kr.lfhsgp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.wemade.golfsc",
+      "title": "골프 슈퍼 크루 : 실시간 골프 게임",
+      "developer": "Two Hands Games Inc.",
+      "icon": "https://play-lh.googleusercontent.com/gSGyblQ7xG3lGZlH-qTK64o9fUDSl8YFUOOLqU-Dx1X0oj3XbH_9ELEG5-oQIld0SClvJ36GNLKXAMxI86NdEpA",
+      "url": "https://play.google.com/store/apps/details?id=com.wemade.golfsc&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-08",
+      "isGame": true
+    },
+    {
+      "appId": "games.my.sniper.wild.hunting",
+      "title": "헌팅 라이벌즈: 사격게임과 동물사냥",
+      "developer": "KEYSTORM HOLDINGS LTD",
+      "icon": "https://play-lh.googleusercontent.com/CD1tSZVG1hd-uPxvjXgOpbfRBavQ7G3hZl0ea8PglloMj-QuRhzMJMQerxABjb_Ns3HzC2jGpVHRcxogFTUe",
+      "url": "https://play.google.com/store/apps/details?id=games.my.sniper.wild.hunting&hl=ko&gl=KR",
       "discoveredDate": "2026-07-08",
       "isGame": true
     },
@@ -4612,42 +4652,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.avalon.rpg",
-      "title": "Hero of Aethric | 클래식 RPG",
-      "developer": "Northern Forge",
-      "icon": "https://play-lh.googleusercontent.com/A7JhsA8uqA349N14s24ljzmFc9zV2jz_EwODDzBCvYJHSRNp71w-VcDDJvhmZmaIbtJ_w8_VMyGEOe-vPWnM5Q",
-      "url": "https://play.google.com/store/apps/details?id=com.avalon.rpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.eapublishing.dhsw.free",
-      "title": "데몬 헌터: 섀도우 월드",
-      "developer": "EA Publishing",
-      "icon": "https://play-lh.googleusercontent.com/sfC78Sx8irzXox1gd2DIInp14B1vMlOVOCs1EBeNNKPB4LhrnF8wskp-F5tIRfi1SZIb",
-      "url": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.arkgame.ft",
-      "title": "낚시여행",
-      "developer": "ARK GAME LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/t4Xoas7AH7ombMTINFCuskyACRSc5AjqjSy-uCA_9qMvR8eiWiMS6qebh4VsDztd2g",
-      "url": "https://play.google.com/store/apps/details?id=com.arkgame.ft&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.gryphongames.planetminer",
-      "title": "Planet Miner: Idle Action Game",
-      "developer": "Gryphon Games",
-      "icon": "https://play-lh.googleusercontent.com/rM960Q0c6lhX71ZTwzlVJ4yzVKWSRzYvaTzPfZ6Poj9o_Ptbc_WooyZKv8UmbeQ3Pzw",
-      "url": "https://play.google.com/store/apps/details?id=com.gryphongames.planetminer&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
