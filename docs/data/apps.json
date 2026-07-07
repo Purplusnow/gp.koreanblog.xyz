@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T18:09:56.327Z",
+  "updatedAt": "2026-07-07T20:55:20.469Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1451,9 +1451,19 @@
     "com.justgame.jails",
     "com.mobirix.fishinghook",
     "com.fansipan.stickman.shadow.knights.fightinggames",
-    "com.allstarunion.lastfurry"
+    "com.allstarunion.lastfurry",
+    "com.Pocketpair.NeverGrave"
   ],
   "items": [
+    {
+      "appId": "com.Pocketpair.NeverGrave",
+      "title": "Never Grave",
+      "developer": "Pocketpair Publishing",
+      "icon": "https://play-lh.googleusercontent.com/NC1C79_fLC7WrYekJPh1JauBrdJUasGTarG-MeFks4DRY6IqDtDRuqKEW3_U9d2q43o9mFooJrvuz2c2focb",
+      "url": "https://play.google.com/store/apps/details?id=com.Pocketpair.NeverGrave&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-08",
+      "isGame": true
+    },
     {
       "appId": "com.justgame.jails",
       "title": "랜드 오브 제일",
@@ -4602,15 +4612,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.special.thewolfgame.asia",
-      "title": "울프 게임: 더 와일드 킹덤",
-      "developer": "SPECIAL (HONG KONG) CO., LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/5pVcURsIgar-gAh5OA2PPNqNIms9ncvk4H4pB2Z1QUpTLDB2gTBhX75z_89FbzmNu4w",
-      "url": "https://play.google.com/store/apps/details?id=com.special.thewolfgame.asia&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
