@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T08:34:31.337Z",
+  "updatedAt": "2026-07-07T12:06:53.678Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1450,7 +1450,8 @@
     "com.EightStudio.BlightWar",
     "com.justgame.jails",
     "com.mobirix.fishinghook",
-    "com.fansipan.stickman.shadow.knights.fightinggames"
+    "com.fansipan.stickman.shadow.knights.fightinggames",
+    "com.allstarunion.lastfurry"
   ],
   "items": [
     {
@@ -1477,6 +1478,15 @@
       "developer": "Fansipan Limited",
       "icon": "https://play-lh.googleusercontent.com/164qqscEsxZaMmzCoPxqPzkUC5iZMblELtT4zxcmfwoLsAvKnscwjU4iSeYJYAq34XlWj76IRlHd4-YkweoBnA",
       "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.allstarunion.lastfurry",
+      "title": "라스트 퍼리: 서바이벌",
+      "developer": "StarUnion",
+      "icon": "https://play-lh.googleusercontent.com/gpC3-9pk1WvKnQJgZToRYQYu561aVBNbpNhy53zfNucHMLPUpLq2FUqMPNNvgTVyWMjyad_XmS26YocyevqzSQ",
+      "url": "https://play.google.com/store/apps/details?id=com.allstarunion.lastfurry&hl=ko&gl=KR",
       "discoveredDate": "2026-07-07",
       "isGame": true
     },
@@ -4592,15 +4602,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.heavenburnsred",
-      "title": "헤븐 번즈 레드",
-      "developer": "WFS, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/IzdBGRsLy5Cf9NCTd11VTBAGZX6RaOqUglTAgvl5pRRXTDjDxQc1YlWM4vykHwu2rnpOBTo-Pqh8lON2ko5aLQ",
-      "url": "https://play.google.com/store/apps/details?id=com.heavenburnsred&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
