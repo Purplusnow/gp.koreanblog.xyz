@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T19:48:15.933Z",
+  "updatedAt": "2026-07-08T21:19:20.197Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1456,9 +1456,19 @@
     "com.game.kingrush",
     "com.kr.lfhsgp",
     "com.wemade.golfsc",
-    "games.my.sniper.wild.hunting"
+    "games.my.sniper.wild.hunting",
+    "com.fingerfun.coc.gplay"
   ],
   "items": [
+    {
+      "appId": "com.fingerfun.coc.gplay",
+      "title": "범죄 도시:City of Crime",
+      "developer": "CrushGameTechnologyLimited",
+      "icon": "https://play-lh.googleusercontent.com/MYiX74lJeVUlwa4snNRVQMx9FAPscG6Hz5oywlRbvcEKTcm42l6a9KMQrBviHPncafaVEYmjdXDpgg-g0RLc83I",
+      "url": "https://play.google.com/store/apps/details?id=com.fingerfun.coc.gplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-09",
+      "isGame": true
+    },
     {
       "appId": "com.Pocketpair.NeverGrave",
       "title": "Never Grave",
@@ -4652,15 +4662,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.v2r.tower.google",
-      "title": "미친 타워가 되었다: 반주년 미친쿠폰 이벤트",
-      "developer": "V2R",
-      "icon": "https://play-lh.googleusercontent.com/IbSCM7XuoCbuz3eMzln_zwqTnkscYsd2xvOb4o5alzMxkdwCrjrr_oymWRgNaCyntnjGIaVZ7pan4UcZTVFN",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.tower.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
