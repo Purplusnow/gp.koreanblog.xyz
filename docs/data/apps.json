@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T20:53:33.757Z",
+  "updatedAt": "2026-07-09T22:40:18.153Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1458,7 +1458,8 @@
     "com.wemade.golfsc",
     "games.my.sniper.wild.hunting",
     "com.fingerfun.coc.gplay",
-    "com.playtstudio.abyssknight"
+    "com.playtstudio.abyssknight",
+    "com.blackdust.redblue"
   ],
   "items": [
     {
@@ -1467,6 +1468,15 @@
       "developer": "Playt Dev",
       "icon": "https://play-lh.googleusercontent.com/zbQzfGg2aNJp2j5tjGZPG4GGHC2FGTv3WzHPKnxgFGpOZBVDyVJiDM9S5wG6X3f49S4-ca3xA-mtWfukjJ6gKA",
       "url": "https://play.google.com/store/apps/details?id=com.playtstudio.abyssknight&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.blackdust.redblue",
+      "title": "냥찍 히어로즈 : 방치형 RPG",
+      "developer": "RIFF GAMES Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/Op0BKCLrMyRqYHjZ4DN7P0nPzyttQqShFKt6QmIvzseTymxPAOoCoInTRNWZI94JahqxJeprYOmtp-UpB4U-NA",
+      "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko&gl=KR",
       "discoveredDate": "2026-07-10",
       "isGame": true
     },
@@ -4672,15 +4682,6 @@
       "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
       "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
       "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.kurechii.postknight2",
-      "title": "Postknight 2",
-      "developer": "Kurechii",
-      "icon": "https://play-lh.googleusercontent.com/bdTPABTtD3DqbPEINAeXgdQ5-hbI1Cd3t1UZ7xA4aNTCSS2jvFtaDuO9jVHf2THCwn8",
-      "url": "https://play.google.com/store/apps/details?id=com.kurechii.postknight2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-10",
       "isGame": true
     },
     {
