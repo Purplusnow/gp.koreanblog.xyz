@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T17:55:22.214Z",
+  "updatedAt": "2026-07-10T19:46:39.365Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1461,7 +1461,8 @@
     "com.playtstudio.abyssknight",
     "com.blackdust.redblue",
     "com.netmarble.tog",
-    "com.innogames.riseofcultures"
+    "com.innogames.riseofcultures",
+    "com.innogames.heroesofhistory"
   ],
   "items": [
     {
@@ -1470,6 +1471,15 @@
       "developer": "InnoGames GmbH",
       "icon": "https://play-lh.googleusercontent.com/iTpaZfEmgvNTyQvW9rTFk0_rxiW-oWrFblq04SgyZLNJ3m2ngLjW_-o9XBs4OGTfCJes0AOyU44BrVyXOygVbA",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.riseofcultures&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.innogames.heroesofhistory",
+      "title": "Heroes of History: Epic Empire",
+      "developer": "InnoGames GmbH",
+      "icon": "https://play-lh.googleusercontent.com/DeOf_cyeJiD0E_i_1m-DKVLrdwhKjo7WiaHhQHajJmE3QHNWJuTz3ImXRYaNO7mKSUHrzm3zdFdgW4zX0930uw",
+      "url": "https://play.google.com/store/apps/details?id=com.innogames.heroesofhistory&hl=ko&gl=KR",
       "discoveredDate": "2026-07-11",
       "isGame": true
     },
@@ -4558,15 +4568,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.smileygamer.christmassweeper3",
-      "title": "크리스마스 스위퍼 3 - 크리스마스 매치-3 게임",
-      "developer": "CharStudio - Fun Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/C5EJ9Q0VtgLKkCeHIgjCZ_TBFWsPpUzPJHwx6bo6D9s1tS3Hqxp6dpL_IfSzFVo1dlnLfdf_kFZXLqiJZBJxaQ",
-      "url": "https://play.google.com/store/apps/details?id=air.com.smileygamer.christmassweeper3&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
