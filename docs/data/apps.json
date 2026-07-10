@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T15:37:59.404Z",
+  "updatedAt": "2026-07-10T17:55:22.214Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1460,9 +1460,19 @@
     "com.fingerfun.coc.gplay",
     "com.playtstudio.abyssknight",
     "com.blackdust.redblue",
-    "com.netmarble.tog"
+    "com.netmarble.tog",
+    "com.innogames.riseofcultures"
   ],
   "items": [
+    {
+      "appId": "com.innogames.riseofcultures",
+      "title": "Rise of Cultures - 왕국 게임",
+      "developer": "InnoGames GmbH",
+      "icon": "https://play-lh.googleusercontent.com/iTpaZfEmgvNTyQvW9rTFk0_rxiW-oWrFblq04SgyZLNJ3m2ngLjW_-o9XBs4OGTfCJes0AOyU44BrVyXOygVbA",
+      "url": "https://play.google.com/store/apps/details?id=com.innogames.riseofcultures&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-11",
+      "isGame": true
+    },
     {
       "appId": "com.playtstudio.abyssknight",
       "title": "심연의 기사 키우기",
@@ -4548,15 +4558,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.wb.goog.dc.dcwc",
-      "title": "DC Worlds Collide Strategy RPG",
-      "developer": "Warner Bros. International Enterprises",
-      "icon": "https://play-lh.googleusercontent.com/i9GnL5pFb47sdgMQqB-FNqB8EEPqiwLmtWDM5SDaynTNjmCYGu6Z8ldZIzKOxRyFPg",
-      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.dc.dcwc&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
