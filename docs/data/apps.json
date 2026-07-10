@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T05:02:06.025Z",
+  "updatedAt": "2026-07-10T08:32:25.994Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1459,7 +1459,8 @@
     "games.my.sniper.wild.hunting",
     "com.fingerfun.coc.gplay",
     "com.playtstudio.abyssknight",
-    "com.blackdust.redblue"
+    "com.blackdust.redblue",
+    "com.netmarble.tog"
   ],
   "items": [
     {
@@ -1477,6 +1478,15 @@
       "developer": "RIFF GAMES Co., Ltd.",
       "icon": "https://play-lh.googleusercontent.com/Op0BKCLrMyRqYHjZ4DN7P0nPzyttQqShFKt6QmIvzseTymxPAOoCoInTRNWZI94JahqxJeprYOmtp-UpB4U-NA",
       "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.tog",
+      "title": "신의 탑: 새로운 세계",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/0iNlsT9AMnxLalmfGIrDQor5kEkrG8NrY0lzxI-zLCOHRQdJkTUJXt3Ry4PudQxaRf6z4ofvw2AYPBuwyrkLMQ",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.tog&hl=ko&gl=KR",
       "discoveredDate": "2026-07-10",
       "isGame": true
     },
@@ -4538,15 +4548,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamevil.gvtwd.android.google.global.normal",
-      "title": "워킹데드: 올스타즈 - 수집형 RPG",
-      "developer": "Com2uS Holdings",
-      "icon": "https://play-lh.googleusercontent.com/YMGNYSExxfmz3Sw0dM5FoZM56_jXZjbnSJ1X4IZXizEzaCirGYTl49iPYsGVM3uZgvw4M0wYinXS2fR1TkdoDw",
-      "url": "https://play.google.com/store/apps/details?id=com.gamevil.gvtwd.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
