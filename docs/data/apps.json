@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:00:50.081Z",
+  "updatedAt": "2026-07-11T21:59:41.233Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1467,7 +1467,8 @@
     "com.Gameplete.CardFantasy",
     "com.fiveminlab.overgeared.hero.backpack.merge",
     "com.jsjskr.google",
-    "com.datealive.action.rpg"
+    "com.datealive.action.rpg",
+    "com.dlw.kr.google"
   ],
   "items": [
     {
@@ -1485,6 +1486,15 @@
       "developer": "HK Adma Tech Limited",
       "icon": "https://play-lh.googleusercontent.com/4k0RwMhSkDTUZMErRSH9eX36jD38-OupApcmGm1Eje_QQWwUuV5TuXP5Dt5CLVTJJDkuaJPakObrDLl0lWtz4x4",
       "url": "https://play.google.com/store/apps/details?id=com.datealive.action.rpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.dlw.kr.google",
+      "title": "시티 데몬헌터즈: 각성자들",
+      "developer": "Dawn Breaking Game",
+      "icon": "https://play-lh.googleusercontent.com/cBfuLqU7YLb6TpaIWuKwdC6GjYwShLN4tVnWEfvEXdgPiFYRNugzcQWC8Rzuh-zxw29vqb_fHdF7qjxm1GZQQw",
+      "url": "https://play.google.com/store/apps/details?id=com.dlw.kr.google&hl=ko&gl=KR",
       "discoveredDate": "2026-07-12",
       "isGame": true
     },
@@ -4618,15 +4628,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.haiku.adventure.escape.game.mystery.stories",
-      "title": "Adventure Escape Mysteries",
-      "developer": "Haiku Games",
-      "icon": "https://play-lh.googleusercontent.com/H-ZRylN8H71iTNmE5TgJwu4UJHlvwDEsW75B4SLSjWc4-VMTXVldhyqtjY2yNyUB27gd1Dw3CMQ5GNMIBmJp0wg",
-      "url": "https://play.google.com/store/apps/details?id=com.haiku.adventure.escape.game.mystery.stories&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
