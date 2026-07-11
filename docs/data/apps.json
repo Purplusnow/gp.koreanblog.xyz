@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T08:55:15.897Z",
+  "updatedAt": "2026-07-11T10:22:20.886Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1463,7 +1463,9 @@
     "com.netmarble.tog",
     "com.innogames.riseofcultures",
     "com.innogames.heroesofhistory",
-    "com.igg.castleclash"
+    "com.igg.castleclash",
+    "com.Gameplete.CardFantasy",
+    "com.fiveminlab.overgeared.hero.backpack.merge"
   ],
   "items": [
     {
@@ -1490,6 +1492,24 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/VLqAlm6kp0KDrVkTQOUU5kLkT8y8WeNZu3Jk5XQvLX3_ZfUyY0VM31SfQRHZ2yDPFKEBo7QCMIEPXkDUSCWScKY",
       "url": "https://play.google.com/store/apps/details?id=com.igg.castleclash&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.Gameplete.CardFantasy",
+      "title": "트리플 판타지 : 카드 전략 수집형 RPG",
+      "developer": "Gameplete",
+      "icon": "https://play-lh.googleusercontent.com/Sl-LYR2P5dYfO8rC3UEj-CV9UxYMcX6UjVqaURSwIUg5XOeUlYMTp6VQpQcqu_aKciHEKSdLi_uQ9yizZItUa5w",
+      "url": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasy&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.fiveminlab.overgeared.hero.backpack.merge",
+      "title": "템빨용사: 픽셀 아이템 머지 RPG",
+      "developer": "5minlab Corp.",
+      "icon": "https://play-lh.googleusercontent.com/pq6TmQHE1UkFrAMGPfgMupWLZy2BQeQ8B5fPAQzuP6l5fSOrqpOyxfCCQzT71nPWcGsEl8eKEna68UdQytpdQg",
+      "url": "https://play.google.com/store/apps/details?id=com.fiveminlab.overgeared.hero.backpack.merge&hl=ko&gl=KR",
       "discoveredDate": "2026-07-11",
       "isGame": true
     },
@@ -4578,24 +4598,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.pikpok.hrc.play",
-      "title": "라이벌 스타 경마",
-      "developer": "PIKPOK",
-      "icon": "https://play-lh.googleusercontent.com/M7FuJwbyp1shf_capbkNRW88puml--Ktev-SrtSEETSTfTng6tg8TNW7TKE5H4POnPNF",
-      "url": "https://play.google.com/store/apps/details?id=com.pikpok.hrc.play&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.tensuramrkww",
-      "title": "전생슬 - 마왕과 용의 건국담",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/9-Nf-i3DyZU5Ao_xFlsiwReFREu1X0Ly_xCr7ksKHkJOv0dfZIyjmByakDmVprI8BEI7R76LoEVpNFuyLfyiGw",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.tensuramrkww&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
