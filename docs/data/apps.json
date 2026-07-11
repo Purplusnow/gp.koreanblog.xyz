@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T13:46:42.655Z",
+  "updatedAt": "2026-07-11T15:06:39.721Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1465,9 +1465,19 @@
     "com.innogames.heroesofhistory",
     "com.igg.castleclash",
     "com.Gameplete.CardFantasy",
-    "com.fiveminlab.overgeared.hero.backpack.merge"
+    "com.fiveminlab.overgeared.hero.backpack.merge",
+    "com.jsjskr.google"
   ],
   "items": [
+    {
+      "appId": "com.jsjskr.google",
+      "title": "토이 삼국",
+      "developer": "Rhinos",
+      "icon": "https://play-lh.googleusercontent.com/9iZHvfP7PP6Hc8kfL0dNANHzjaRQQzzDAiTbpAALAfMNNp5ink50ex2MlamkJtkm9NnqCsJtffC57lpwU_Shmg",
+      "url": "https://play.google.com/store/apps/details?id=com.jsjskr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-12",
+      "isGame": true
+    },
     {
       "appId": "com.innogames.riseofcultures",
       "title": "Rise of Cultures - 왕국 게임",
@@ -4598,15 +4608,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamesture.team.guild.raids.pvp.multiplayer",
-      "title": "슬래시 & 롤: 라이브 길드 레이드",
-      "developer": "Gamesture sp. z o.o.",
-      "icon": "https://play-lh.googleusercontent.com/IbGYYdUM8o8ckZ_OL_sZoAzV7VnfIMXJTJLrCmBHxkTF4iHAFq-8l8SwzGp4KTco6Q",
-      "url": "https://play.google.com/store/apps/details?id=com.gamesture.team.guild.raids.pvp.multiplayer&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
