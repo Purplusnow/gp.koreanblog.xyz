@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T03:33:28.033Z",
+  "updatedAt": "2026-07-11T06:22:45.826Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1462,7 +1462,8 @@
     "com.blackdust.redblue",
     "com.netmarble.tog",
     "com.innogames.riseofcultures",
-    "com.innogames.heroesofhistory"
+    "com.innogames.heroesofhistory",
+    "com.igg.castleclash"
   ],
   "items": [
     {
@@ -1480,6 +1481,15 @@
       "developer": "InnoGames GmbH",
       "icon": "https://play-lh.googleusercontent.com/DeOf_cyeJiD0E_i_1m-DKVLrdwhKjo7WiaHhQHajJmE3QHNWJuTz3ImXRYaNO7mKSUHrzm3zdFdgW4zX0930uw",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.heroesofhistory&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.castleclash",
+      "title": "캐슬 크래시: 세계 지배자",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/VLqAlm6kp0KDrVkTQOUU5kLkT8y8WeNZu3Jk5XQvLX3_ZfUyY0VM31SfQRHZ2yDPFKEBo7QCMIEPXkDUSCWScKY",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.castleclash&hl=ko&gl=KR",
       "discoveredDate": "2026-07-11",
       "isGame": true
     },
@@ -4568,15 +4578,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.amanotes.pamadancingroad",
-      "title": "Dancing Road: Color Ball Run!",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/XUyRaUhW5nxaP07vkXhEYdUfAblcwqCdOI0bSOBmciyUReQLMF5A1nn0Y4Ac_6f1h6wd",
-      "url": "https://play.google.com/store/apps/details?id=com.amanotes.pamadancingroad&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
