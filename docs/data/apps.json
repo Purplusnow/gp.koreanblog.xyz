@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T11:19:54.554Z",
+  "updatedAt": "2026-07-12T13:48:19.366Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1468,7 +1468,9 @@
     "com.fiveminlab.overgeared.hero.backpack.merge",
     "com.jsjskr.google",
     "com.datealive.action.rpg",
-    "com.dlw.kr.google"
+    "com.dlw.kr.google",
+    "com.semruk.harvestking",
+    "com.redhedgies.colorsweeper"
   ],
   "items": [
     {
@@ -1495,6 +1497,24 @@
       "developer": "Dawn Breaking Game",
       "icon": "https://play-lh.googleusercontent.com/cBfuLqU7YLb6TpaIWuKwdC6GjYwShLN4tVnWEfvEXdgPiFYRNugzcQWC8Rzuh-zxw29vqb_fHdF7qjxm1GZQQw",
       "url": "https://play.google.com/store/apps/details?id=com.dlw.kr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.semruk.harvestking",
+      "title": "수확왕-농장 타워 디펜스 (Harvest King)",
+      "developer": "Homa",
+      "icon": "https://play-lh.googleusercontent.com/dqbESGVJ9DCMGf1uJ60IhOjLAUZPS8b7RpP7B4lq_aW8iWp0pMFcHyJ4K-zDQt5218xXU5njCcpuPrFXLFhoCg",
+      "url": "https://play.google.com/store/apps/details?id=com.semruk.harvestking&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.redhedgies.colorsweeper",
+      "title": "컬러스위퍼",
+      "developer": "RATEL",
+      "icon": "https://play-lh.googleusercontent.com/X_zndsaNlJG9ZM1B5_dddhEGUEh1QJqSgGhtn5cszLZRoP94G4moDnjn06cFOAxW4ghdQPmGxNxjV6lU2mrX6w",
+      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.colorsweeper&hl=ko&gl=KR",
       "discoveredDate": "2026-07-12",
       "isGame": true
     },
@@ -4628,24 +4648,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.riotgames.legendsofruneterra",
-      "title": "레전드 오브 룬테라",
-      "developer": "Riot Games, Inc",
-      "icon": "https://play-lh.googleusercontent.com/Wl6RZeACttfzYLZDQOL1EayB8ECjP_pLGnaDTbwKR4pBTVi1CtJzeIMdcmkT8TMATKQ",
-      "url": "https://play.google.com/store/apps/details?id=com.riotgames.legendsofruneterra&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.socialquantum.acityint",
-      "title": "Megapolis: 집짓기게임",
-      "developer": "Social Quantum Ltd",
-      "icon": "https://play-lh.googleusercontent.com/8qN_EFo4PROdxkS3tT-ZhkwycB_c7Y7i4gvpe9D6HtCGlWR7rdcrlI76IfCFXVJWzOE",
-      "url": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
