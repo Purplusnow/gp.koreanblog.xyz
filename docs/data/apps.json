@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T18:02:23.672Z",
+  "updatedAt": "2026-07-13T19:42:56.769Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1470,9 +1470,19 @@
     "com.datealive.action.rpg",
     "com.dlw.kr.google",
     "com.semruk.harvestking",
-    "com.redhedgies.colorsweeper"
+    "com.redhedgies.colorsweeper",
+    "jp.co.goodroid.hyper.busflow"
   ],
   "items": [
+    {
+      "appId": "jp.co.goodroid.hyper.busflow",
+      "title": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-14",
+      "isGame": true
+    },
     {
       "appId": "com.jsjskr.google",
       "title": "토이 삼국",
@@ -4648,15 +4658,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameinsight.airport",
-      "title": "Airport City",
-      "developer": "Game Insight",
-      "icon": "https://play-lh.googleusercontent.com/wQBiqTLhXSeZHN_66XINkWK-awnkl9sk-AdmY0qeYvULVz99yWh6FfO9o12CSrIxKPo",
-      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.airport&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
