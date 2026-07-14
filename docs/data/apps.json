@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T11:39:59.283Z",
+  "updatedAt": "2026-07-14T14:06:08.716Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1471,7 +1471,8 @@
     "com.dlw.kr.google",
     "com.semruk.harvestking",
     "com.redhedgies.colorsweeper",
-    "jp.co.goodroid.hyper.busflow"
+    "jp.co.goodroid.hyper.busflow",
+    "com.kingkodestudio.towerdefense.battlestrategy"
   ],
   "items": [
     {
@@ -1480,6 +1481,15 @@
       "developer": "GOODROID,Inc.",
       "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
       "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.kingkodestudio.towerdefense.battlestrategy",
+      "title": "전투 전략: 타워 디펜스 TD",
+      "developer": "Zygle Games",
+      "icon": "https://play-lh.googleusercontent.com/_wOF1rbYOqt7f6wsEwHZkVKEfU-UiR31HHJb340hCAgC7WAj5EfiXWKj0Ti_RZVI2AqErtiRSRTxKYbPWRX7GO0",
+      "url": "https://play.google.com/store/apps/details?id=com.kingkodestudio.towerdefense.battlestrategy&hl=ko&gl=KR",
       "discoveredDate": "2026-07-14",
       "isGame": true
     },
@@ -4658,15 +4668,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.kingdomrush.mp",
-      "title": "Kingdom Rush Battles: TD 게임",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/CsvCR_COicavGEzjiqhbqinqj60CSfjVqPNhyOJRQBOo9PI13vJTRbL7Nj5BM3vUcw",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.kingdomrush.mp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
