@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:12:26.329Z",
+  "updatedAt": "2026-07-14T20:19:12.430Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1472,9 +1472,19 @@
     "com.semruk.harvestking",
     "com.redhedgies.colorsweeper",
     "jp.co.goodroid.hyper.busflow",
-    "com.kingkodestudio.towerdefense.battlestrategy"
+    "com.kingkodestudio.towerdefense.battlestrategy",
+    "com.mobirix.tdwt"
   ],
   "items": [
+    {
+      "appId": "com.mobirix.tdwt",
+      "title": "터렛 디펜스 킹",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/SE8M7cSHdVCHxSwF53doi2c1fnM99tNMFEhKQHD06i_Encj-fRdYAcKLTR1AvtmZiGX1V0oyAxPFbwobuNtjAA",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.tdwt&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-15",
+      "isGame": true
+    },
     {
       "appId": "jp.co.goodroid.hyper.busflow",
       "title": "Bus Traffic Fever!",
@@ -4668,15 +4678,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.ObliqueGames.MagicTowerDefense100",
-      "title": "매직 디펜스 : 방치 디펜스",
-      "developer": "OBLIQUE GAMES",
-      "icon": "https://play-lh.googleusercontent.com/wqniCCLoQYB5VWw-tm9kcT3iM3fvxzktOAHRYK7JaoRpr7eNRqli8dvFvXezcNRQj8bZZeCfj0JAnr6-REELHA",
-      "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.MagicTowerDefense100&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
