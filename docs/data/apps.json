@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T15:43:50.546Z",
+  "updatedAt": "2026-07-15T17:33:22.763Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1474,9 +1474,29 @@
     "jp.co.goodroid.hyper.busflow",
     "com.kingkodestudio.towerdefense.battlestrategy",
     "com.mobirix.tdwt",
-    "com.zroute.global"
+    "com.zroute.global",
+    "net.kairosoft.android.school2_en",
+    "com.innogames.elvenar"
   ],
   "items": [
+    {
+      "appId": "net.kairosoft.android.school2_en",
+      "title": "아카데미 스토리2",
+      "developer": "Kairosoft",
+      "icon": "https://play-lh.googleusercontent.com/jI1sB9_XgE_R8ScMr7Hz186w4fIeaC4Cld2VCMGz3LBDyNz7sDjfq84ESYfyeTg-otMVWJUUQmc-BipbV_lOMA",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.school2_en&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.innogames.elvenar",
+      "title": "Elvenar - Fantasy Kingdom",
+      "developer": "InnoGames GmbH",
+      "icon": "https://play-lh.googleusercontent.com/vkqECdzvqQY1Sjrrk6CeZ-zxvG0-ZuiAOoSN_aZVXljQlMNidP--R7G0GnUuvoxs0cPdaynQCRGuuzcq34fKBA",
+      "url": "https://play.google.com/store/apps/details?id=com.innogames.elvenar&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-16",
+      "isGame": true
+    },
     {
       "appId": "com.mobirix.tdwt",
       "title": "터렛 디펜스 킹",
@@ -4628,15 +4648,6 @@
       "isGame": true
     },
     {
-      "appId": "com.zy.wqmt.global",
-      "title": "무기미도",
-      "developer": "AISNO Games",
-      "icon": "https://play-lh.googleusercontent.com/nqLue2Oepp7rR6Xz2ySQQhOnbXh4EjxFEms7rQkrRlS0xMvFcSojkpSTjCJIHDP7K7L2PqZAvbT4EmpWX_ciTg",
-      "url": "https://play.google.com/store/apps/details?id=com.zy.wqmt.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
       "appId": "com.g5e.thehiddentreasurespg.android",
       "title": "숨은 보물 - 숨은 그림 찾기 & 매치 게임",
       "developer": "G5 Entertainment",
@@ -4688,15 +4699,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.my.defense",
-      "title": "러쉬 로얄(Rush Royale) - 디펜스게임 PVP",
-      "developer": "MYGAMES MENA FZ LLC",
-      "icon": "https://play-lh.googleusercontent.com/PtVHqHQHjsj40KZbqV8zLT2CcQFgRb24hpadoa0RsGGTWqXQbapmmU9-SvCWhdPj4Es",
-      "url": "https://play.google.com/store/apps/details?id=com.my.defense&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
