@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T11:43:31.570Z",
+  "updatedAt": "2026-07-15T14:02:52.803Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1473,7 +1473,8 @@
     "com.redhedgies.colorsweeper",
     "jp.co.goodroid.hyper.busflow",
     "com.kingkodestudio.towerdefense.battlestrategy",
-    "com.mobirix.tdwt"
+    "com.mobirix.tdwt",
+    "com.zroute.global"
   ],
   "items": [
     {
@@ -1482,6 +1483,15 @@
       "developer": "mobirix",
       "icon": "https://play-lh.googleusercontent.com/SE8M7cSHdVCHxSwF53doi2c1fnM99tNMFEhKQHD06i_Encj-fRdYAcKLTR1AvtmZiGX1V0oyAxPFbwobuNtjAA",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.tdwt&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.zroute.global",
+      "title": "Z 루트: 리뎀션",
+      "developer": "37GAMES GLOBAL",
+      "icon": "https://play-lh.googleusercontent.com/TjTh8zzc8P1KTREfLDpNTHmpRnca_kedbb4eCT2p_T8XTP1x_fFtunw3q1L7slKv8dxleAfxVw245EeqhWcxCQ",
+      "url": "https://play.google.com/store/apps/details?id=com.zroute.global&hl=ko&gl=KR",
       "discoveredDate": "2026-07-15",
       "isGame": true
     },
@@ -4678,15 +4688,6 @@
       "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
       "discoveredDate": "2026-05-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.hts.ams",
-      "title": "아미 맨 스트라이크 - 전쟁 시뮬레이션 & 군대 모험",
-      "developer": "Volcano Force",
-      "icon": "https://play-lh.googleusercontent.com/yGkCI-1RKvTc_gnHE62mDHIU5StirB7dWXLpVi4fr6PUP7VzglttZyN-uT8UJ-wnGA",
-      "url": "https://play.google.com/store/apps/details?id=com.hts.ams&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-11",
       "isGame": true
     },
     {
