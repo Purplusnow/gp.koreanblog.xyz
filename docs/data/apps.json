@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T17:33:22.763Z",
+  "updatedAt": "2026-07-15T19:25:46.906Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1476,7 +1476,8 @@
     "com.mobirix.tdwt",
     "com.zroute.global",
     "net.kairosoft.android.school2_en",
-    "com.innogames.elvenar"
+    "com.innogames.elvenar",
+    "com.oakever.meowdoku"
   ],
   "items": [
     {
@@ -1494,6 +1495,15 @@
       "developer": "InnoGames GmbH",
       "icon": "https://play-lh.googleusercontent.com/vkqECdzvqQY1Sjrrk6CeZ-zxvG0-ZuiAOoSN_aZVXljQlMNidP--R7G0GnUuvoxs0cPdaynQCRGuuzcq34fKBA",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.elvenar&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.oakever.meowdoku",
+      "title": "Meowdoku: 두뇌 퍼즐 게임",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ko&gl=KR",
       "discoveredDate": "2026-07-16",
       "isGame": true
     },
@@ -4645,15 +4655,6 @@
       "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.thehiddentreasurespg.android",
-      "title": "숨은 보물 - 숨은 그림 찾기 & 매치 게임",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/7eG8wBS7Blrfzx6MlFgD2Y3QUGpEWFZ7k89zHbIwetJoiIWcdtTl5EmL_cBO-Tpxu1I6",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.thehiddentreasurespg.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
       "isGame": true
     },
     {
