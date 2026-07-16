@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T14:14:26.868Z",
+  "updatedAt": "2026-07-16T16:25:40.232Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1479,9 +1479,19 @@
     "com.innogames.elvenar",
     "com.oakever.meowdoku",
     "com.tree.idle.cat.academy",
-    "com.ares.twd"
+    "com.ares.twd",
+    "net.gameduo.anotherdungeon"
   ],
   "items": [
+    {
+      "appId": "net.gameduo.anotherdungeon",
+      "title": "어나더던전",
+      "developer": "Gameduo",
+      "icon": "https://play-lh.googleusercontent.com/uS6kFH1HP5fYz9J4bNAb5wOL1vcwZikRfUzSajYc36m2o3ONvHT1-ro2g2QkwsN7pOS73qBXR1G8YV1glkFkHw",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.anotherdungeon&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
     {
       "appId": "net.kairosoft.android.school2_en",
       "title": "아카데미 스토리2",
@@ -4675,15 +4685,6 @@
       "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.frojo.moy7",
-      "title": "Moy 7 - Virtual Pet Game",
-      "developer": "Frojo Apps",
-      "icon": "https://play-lh.googleusercontent.com/PZyAjd3dKbDeIh6j9PdeOFd6KC5wj4jKwy7qI1RvZ7ursD3fYPc-Kud7XKlHVECErz4",
-      "url": "https://play.google.com/store/apps/details?id=com.frojo.moy7&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
       "isGame": true
     },
     {
