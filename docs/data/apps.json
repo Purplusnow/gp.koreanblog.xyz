@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T20:08:07.652Z",
+  "updatedAt": "2026-07-16T22:11:40.671Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1480,7 +1480,8 @@
     "com.oakever.meowdoku",
     "com.tree.idle.cat.academy",
     "com.ares.twd",
-    "net.gameduo.anotherdungeon"
+    "net.gameduo.anotherdungeon",
+    "com.chirpysort.game.android"
   ],
   "items": [
     {
@@ -1489,6 +1490,15 @@
       "developer": "Gameduo",
       "icon": "https://play-lh.googleusercontent.com/uS6kFH1HP5fYz9J4bNAb5wOL1vcwZikRfUzSajYc36m2o3ONvHT1-ro2g2QkwsN7pOS73qBXR1G8YV1glkFkHw",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.anotherdungeon&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.chirpysort.game.android",
+      "title": "Chirpy Sort: Bird Color Puzzle",
+      "developer": "AIM TOP GAME TECHNOLOGY LIMITED - Bird",
+      "icon": "https://play-lh.googleusercontent.com/78pU3tsZotVxo0J4Z2pTm-sX_1uR8UYvi2JzAjfEmuZ-iw7WYc_MqEurpos6N_HeUVyMXg0nRUu0VCV5sPnP-w",
+      "url": "https://play.google.com/store/apps/details?id=com.chirpysort.game.android&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
       "isGame": true
     },
@@ -4685,15 +4695,6 @@
       "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamehouse.deliciousdinercooking",
-      "title": "딜리셔스 월드 - 요리 게임",
-      "developer": "GameHouse LLC",
-      "icon": "https://play-lh.googleusercontent.com/aY1GCsV2oTI2RQJaZKuO8U0VO5Y2cxdI4ySOZCX0vzcUogVTDGV5UELGNu4NFLZEwQ",
-      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.deliciousdinercooking&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
       "isGame": true
     },
     {
