@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T23:07:44.393Z",
+  "updatedAt": "2026-07-16T03:29:20.797Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1477,7 +1477,8 @@
     "com.zroute.global",
     "net.kairosoft.android.school2_en",
     "com.innogames.elvenar",
-    "com.oakever.meowdoku"
+    "com.oakever.meowdoku",
+    "com.tree.idle.cat.academy"
   ],
   "items": [
     {
@@ -1504,6 +1505,15 @@
       "developer": "Oakever Games",
       "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
       "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.tree.idle.cat.academy",
+      "title": "고양이 마법학교 : 신비하고 귀여운 타이쿤",
+      "developer": "TREEPLLA",
+      "icon": "https://play-lh.googleusercontent.com/pYT8LljiKCd7VrZPqeTJMljZVDOzd2vtBEi-WNoD8-BuIJPlmFhhAKlO62Gbthn7UpSRTNnkRLnnUTHOpr1o",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.academy&hl=ko&gl=KR",
       "discoveredDate": "2026-07-16",
       "isGame": true
     },
@@ -4655,15 +4665,6 @@
       "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.upjers.newzealandfarmer",
-      "title": "My Free Farm 2",
-      "developer": "upjers GmbH",
-      "icon": "https://play-lh.googleusercontent.com/IVKQZgpQquVo4hsYdrqN6bc59VTbhwrCzvHCoFdJhxSi6mPHCB90RXqnttw2llI9WQ",
-      "url": "https://play.google.com/store/apps/details?id=com.upjers.newzealandfarmer&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
       "isGame": true
     },
     {
