@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T09:22:07.867Z",
+  "updatedAt": "2026-07-16T11:48:31.371Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1478,7 +1478,8 @@
     "net.kairosoft.android.school2_en",
     "com.innogames.elvenar",
     "com.oakever.meowdoku",
-    "com.tree.idle.cat.academy"
+    "com.tree.idle.cat.academy",
+    "com.ares.twd"
   ],
   "items": [
     {
@@ -1514,6 +1515,15 @@
       "developer": "TREEPLLA",
       "icon": "https://play-lh.googleusercontent.com/pYT8LljiKCd7VrZPqeTJMljZVDOzd2vtBEi-WNoD8-BuIJPlmFhhAKlO62Gbthn7UpSRTNnkRLnnUTHOpr1o",
       "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.academy&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.ares.twd",
+      "title": "The Walking Dead: Aftermath",
+      "developer": "Ares Interactive, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/Ewffs__fx5b1Cd6H4kRJCR_EbNGbP9l2qoMTQvXJE_jM7IrjBnaVZJlQOAbnwSZL8AsvO6QoG3i2A-FgiS4z",
+      "url": "https://play.google.com/store/apps/details?id=com.ares.twd&hl=ko&gl=KR",
       "discoveredDate": "2026-07-16",
       "isGame": true
     },
@@ -4665,15 +4675,6 @@
       "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixelpie.bubblemasters",
-      "title": "Bubble Busters: Bubble Shooter",
-      "developer": "PixelPie Games",
-      "icon": "https://play-lh.googleusercontent.com/X0k9C7clOLbPH31ZOTxqN8p1HrMCMw3zs0gLQTNdOyOOD-LEWsvV88038X3y2P6tKz8",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelpie.bubblemasters&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
       "isGame": true
     },
     {
