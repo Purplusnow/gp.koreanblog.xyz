@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T22:01:27.105Z",
+  "updatedAt": "2026-07-17T23:00:07.642Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1488,9 +1488,19 @@
     "com.gravity.rqmm.aos",
     "vikings.strategy.rpg.tactics.card",
     "com.sparklingsociety.animalfarmlife",
-    "com.superbox.aos.magicSquad"
+    "com.superbox.aos.magicSquad",
+    "com.daerigame.rellion"
   ],
   "items": [
+    {
+      "appId": "com.daerigame.rellion",
+      "title": "렐리온: NPC들의 생존기",
+      "developer": "DAERI SOFT Inc",
+      "icon": "https://play-lh.googleusercontent.com/92xAwNIv7rMAmfvwTbAHKV3ZmP5MKMrIKjNC-NQHZM6She2mKJ3XTeqo-QJ42Ov93ses-TSUvid2cPmJ1CGO",
+      "url": "https://play.google.com/store/apps/details?id=com.daerigame.rellion&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-18",
+      "isGame": true
+    },
     {
       "appId": "net.gameduo.anotherdungeon",
       "title": "어나더던전",
@@ -4684,15 +4694,6 @@
       "icon": "https://play-lh.googleusercontent.com/sDRYkGg2SMMdCraedkAyaTStwvUDCEhspTi9ZGpoOrpNLEV9Bt-LBO9nwCeNW_jR",
       "url": "https://play.google.com/store/apps/details?id=air.net.ideasam.games.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-14",
-      "isGame": true
-    },
-    {
-      "appId": "net.gameduo.sg2",
-      "title": "삼국이분다2",
-      "developer": "kikike corp.",
-      "icon": "https://play-lh.googleusercontent.com/zkY8pPJH7ihgNfwQbuaQhMMX0q3Jzea2Tz3cGeb18TCNWE1C3E80jRBow5cWXXHzkA",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.sg2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
       "isGame": true
     },
     {
