@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T10:07:34.683Z",
+  "updatedAt": "2026-07-17T12:17:45.712Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1484,7 +1484,11 @@
     "com.chirpysort.game.android",
     "jp.pokemon.koiking",
     "com.game.tombbusters",
-    "com.carrom.board.friends.freeonline.live"
+    "com.carrom.board.friends.freeonline.live",
+    "com.gravity.rqmm.aos",
+    "vikings.strategy.rpg.tactics.card",
+    "com.sparklingsociety.animalfarmlife",
+    "com.superbox.aos.magicSquad"
   ],
   "items": [
     {
@@ -1529,6 +1533,42 @@
       "developer": "Blue Engine Games",
       "icon": "https://play-lh.googleusercontent.com/HUnKnU8kHmu5H9gkTYhFKpS5_Y4SU4rKRp7whalCXL3x_tkQLDeMX2SpHWrlyMcOdM2DVp54KCU4sp08DsmW",
       "url": "https://play.google.com/store/apps/details?id=com.carrom.board.friends.freeonline.live&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.gravity.rqmm.aos",
+      "title": "레퀴엠M",
+      "developer": "GRAVITY Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/oNXRcsQhSZWkkD_RZr1VzlFref4AtVicQE98Oj5EUjjhjmQ_qvamOdkC0K0EOnCChbTT6Ywyl4ctT8GwD0ijYw",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.rqmm.aos&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "vikings.strategy.rpg.tactics.card",
+      "title": "Viking Legends: 바이킹 게임",
+      "developer": "TINYSOFT - slots, slot machines & casino games",
+      "icon": "https://play-lh.googleusercontent.com/MwbSsO4knaYtpl-skO8ljeIRwncHzbspsfK8LdLYSYXuO7Kh1k4_yp4-oRfkZoxUwP8-JwHmQxb_tzc--fntUw",
+      "url": "https://play.google.com/store/apps/details?id=vikings.strategy.rpg.tactics.card&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.sparklingsociety.animalfarmlife",
+      "title": "Animal Farm Life: Town Farming",
+      "developer": "Sparkling Society - Build Town City Building Games",
+      "icon": "https://play-lh.googleusercontent.com/2tz5ei63DJVJICrGTzownnbVdNlMG3VffmjlY0-424BomtHyc7233Oh6Y0GlNq9ccnh3KCZ-xigIsWSNgl9lvq8",
+      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.animalfarmlife&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.superbox.aos.magicSquad",
+      "title": "뿅뿅마법단",
+      "developer": "SUPERBOX Inc",
+      "icon": "https://play-lh.googleusercontent.com/L4yqHl63yrsNUT14Zl-24hMVxqLmMgVaJBlsCviK7A9nm-7gstT5VIkeU7rDh0ysG9un_VlBcww9GX0u_-yTYg",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
       "isGame": true
     },
@@ -4644,42 +4684,6 @@
       "icon": "https://play-lh.googleusercontent.com/sDRYkGg2SMMdCraedkAyaTStwvUDCEhspTi9ZGpoOrpNLEV9Bt-LBO9nwCeNW_jR",
       "url": "https://play.google.com/store/apps/details?id=air.net.ideasam.games.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.akpublish.zombie",
-      "title": "Zombeast: Zombie  좀비 슈팅 게임",
-      "developer": "AKPublish pty ltd",
-      "icon": "https://play-lh.googleusercontent.com/RL_os67Fecps9mSWUv0_a4iDIvjvk2vWmvBqMsoKYQKCH60_2pqJAc3rwXE8mDohAg",
-      "url": "https://play.google.com/store/apps/details?id=com.akpublish.zombie&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "defense.roguelike.cell.shoot.survivor",
-      "title": "세포 특공대",
-      "developer": "Snap Brain Games",
-      "icon": "https://play-lh.googleusercontent.com/HIYto_vFjfydJoCs_xzzRFBbABliylxeFtui_B6lCpW9tuvNqn6WCrLTdzkZGzzad0o",
-      "url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.romepg.android",
-      "title": "Jewels of Rome 보석 짝을 맞추어 도시 재건",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/XHJbS2uEJTxLuCbTrdD_gFWAH7sS5GN6uoHJ3gsZ16kvRnsUhz3SGmmauMH3lQyNykN95DKu8PFlWPAUFMGJow",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.romepg.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "nature.magic.dash",
-      "title": "Sugar Rush - A Quick Adventure",
-      "developer": "Branching Factor",
-      "icon": "https://play-lh.googleusercontent.com/43KVp5xfqfM8gWL6tQEqGnl7z7vtdxgdaC7WMqwBn_poX9b3-5wpyfz1i49nRlmEBw",
-      "url": "https://play.google.com/store/apps/details?id=nature.magic.dash&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
       "isGame": true
     },
     {
