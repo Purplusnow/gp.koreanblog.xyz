@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T04:16:30.568Z",
+  "updatedAt": "2026-07-17T07:25:20.614Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1481,7 +1481,10 @@
     "com.tree.idle.cat.academy",
     "com.ares.twd",
     "net.gameduo.anotherdungeon",
-    "com.chirpysort.game.android"
+    "com.chirpysort.game.android",
+    "jp.pokemon.koiking",
+    "com.game.tombbusters",
+    "com.carrom.board.friends.freeonline.live"
   ],
   "items": [
     {
@@ -1499,6 +1502,33 @@
       "developer": "AIM TOP GAME TECHNOLOGY LIMITED - Bird",
       "icon": "https://play-lh.googleusercontent.com/78pU3tsZotVxo0J4Z2pTm-sX_1uR8UYvi2JzAjfEmuZ-iw7WYc_MqEurpos6N_HeUVyMXg0nRUu0VCV5sPnP-w",
       "url": "https://play.google.com/store/apps/details?id=com.chirpysort.game.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "jp.pokemon.koiking",
+      "title": "튀어올라라! 잉어킹",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/1Yk35iYoxz2UKVoxVl24JQg8TyDSNWfgS5oKcMzDfFQojUdnU4ezNnTMwc3gnaFq5OzxnpJFJWrxT6h7wtUsQw",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.koiking&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.tombbusters",
+      "title": "초자연 작전팀",
+      "developer": "Giant Game",
+      "icon": "https://play-lh.googleusercontent.com/fLZ9Tx97Yrd7_JK-uPrqRCy8sV_6vTa7_69N3aFUEJHjKebGwNXm99A9YVvnIwz9s5TJvsfi03-sHQIMSi7Vkg",
+      "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.carrom.board.friends.freeonline.live",
+      "title": "Carrom League: Friends Online",
+      "developer": "Blue Engine Games",
+      "icon": "https://play-lh.googleusercontent.com/HUnKnU8kHmu5H9gkTYhFKpS5_Y4SU4rKRp7whalCXL3x_tkQLDeMX2SpHWrlyMcOdM2DVp54KCU4sp08DsmW",
+      "url": "https://play.google.com/store/apps/details?id=com.carrom.board.friends.freeonline.live&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
       "isGame": true
     },
@@ -4617,24 +4647,6 @@
       "isGame": true
     },
     {
-      "appId": "games.extradimension.cafemerge",
-      "title": "Starbrew Cafe: Mystical Merge",
-      "developer": "Extra Dimension Games Inc.",
-      "icon": "https://play-lh.googleusercontent.com/6OAWteVRGj-hmuKyC28Oyv7X4A1YMhPelJ8Inc9lZPFkRDLEcYNtvExaBwqFif69MJQ",
-      "url": "https://play.google.com/store/apps/details?id=games.extradimension.cafemerge&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.alexanderwinn.TerraGenesis",
-      "title": "TerraGenesis - 우주 정착자",
-      "developer": "Tilting Point",
-      "icon": "https://play-lh.googleusercontent.com/7UacdSjhh-poOl876WIiI0KOHAiWgBNwCGmqgZ-BWPXLAm9Z3YKNNpJVnDS-LLiKg4c",
-      "url": "https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
       "appId": "com.akpublish.zombie",
       "title": "Zombeast: Zombie  좀비 슈팅 게임",
       "developer": "AKPublish pty ltd",
@@ -4695,15 +4707,6 @@
       "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
       "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
       "discoveredDate": "2026-05-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.sololv",
-      "title": "나 혼자만 레벨업:어라이즈 - 2주년 500뽑기 증정",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/TJISlkuWbSVoQWqKAhHZcwvjV5VC36X_xegat5icbFiuP8lwq2bftzTSgcpaGJTze4E3eq7Ky3JP30Vu-esegFw",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-12",
       "isGame": true
     },
     {
