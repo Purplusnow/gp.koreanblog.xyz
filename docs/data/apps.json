@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T03:21:27.656Z",
+  "updatedAt": "2026-07-18T06:13:22.599Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1490,7 +1490,8 @@
     "com.sparklingsociety.animalfarmlife",
     "com.superbox.aos.magicSquad",
     "com.daerigame.rellion",
-    "com.nexon.fo4m"
+    "com.nexon.fo4m",
+    "com.dodreams.driveahead"
   ],
   "items": [
     {
@@ -1508,6 +1509,15 @@
       "developer": "NEXON Company",
       "icon": "https://play-lh.googleusercontent.com/g-kNZiGFSEWFlbQWfctVwFDGTZldjOP6qVktI_PKMqS-I4SwaOWNBegr_wvf2YOpItsdVDrhICW1VWY5IGD1Jg",
       "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.dodreams.driveahead",
+      "title": "Drive Ahead! - 즐거운 자동차 전투",
+      "developer": "Dodreams Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/Vg9t7ZCHpB4lcxsBT7lOi5GTdJP2RyUBY3FU4Td33DhOaMJDCpY6QrLLIVDXuaFHG6G0vMq2MfccRx-fqpeJGQ",
+      "url": "https://play.google.com/store/apps/details?id=com.dodreams.driveahead&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
       "isGame": true
     },
@@ -4704,15 +4714,6 @@
       "icon": "https://play-lh.googleusercontent.com/sDRYkGg2SMMdCraedkAyaTStwvUDCEhspTi9ZGpoOrpNLEV9Bt-LBO9nwCeNW_jR",
       "url": "https://play.google.com/store/apps/details?id=air.net.ideasam.games.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.ea.gp.bejeweledskies",
-      "title": "Bejeweled Stars",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/zmtlPU0All7u6gYAdWJd9SMJoRat79ZWPqy6TAiyAMSKRcmiF8ZXj-iPUL0oLBqiWfQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
       "isGame": true
     },
     {
