@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T10:34:32.481Z",
+  "updatedAt": "2026-07-18T12:00:20.808Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1491,7 +1491,8 @@
     "com.superbox.aos.magicSquad",
     "com.daerigame.rellion",
     "com.nexon.fo4m",
-    "com.dodreams.driveahead"
+    "com.dodreams.driveahead",
+    "com.disney.frozensaga_goo"
   ],
   "items": [
     {
@@ -1518,6 +1519,15 @@
       "developer": "Dodreams Ltd.",
       "icon": "https://play-lh.googleusercontent.com/Vg9t7ZCHpB4lcxsBT7lOi5GTdJP2RyUBY3FU4Td33DhOaMJDCpY6QrLLIVDXuaFHG6G0vMq2MfccRx-fqpeJGQ",
       "url": "https://play.google.com/store/apps/details?id=com.dodreams.driveahead&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.disney.frozensaga_goo",
+      "title": "Disney 겨울왕국 프리폴",
+      "developer": "Jam City, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/5aDd-lwWuvK_ljQ9suzZP-OdTkGBQKN7l6hV9ydfKJrMrpIpPOp0GkwkVYXII0Myfx1yAFw4_E6kRTXdvppGbOs",
+      "url": "https://play.google.com/store/apps/details?id=com.disney.frozensaga_goo&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
       "isGame": true
     },
@@ -4678,15 +4688,6 @@
       "icon": "https://play-lh.googleusercontent.com/-K3GqQzWCjU-ejoqcXo-44_a_DHlV4LIv-iyvQDL5N0Yx9L_mA7OpNeY8UU-S56Zdw",
       "url": "https://play.google.com/store/apps/details?id=farm.parking.game&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.magnificgames.waralliance",
-      "title": "War Alliance - PvP Royale",
-      "developer": "MG Magnific Games GmbH",
-      "icon": "https://play-lh.googleusercontent.com/NfxMcAhlRqrWl5YseRtr95UhQWEdOLvNMclHLtE35RFt9livjykngunI5K72279uug",
-      "url": "https://play.google.com/store/apps/details?id=com.magnificgames.waralliance&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-14",
       "isGame": true
     },
     {
