@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T21:59:26.438Z",
+  "updatedAt": "2026-07-18T23:00:26.123Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1493,9 +1493,19 @@
     "com.nexon.fo4m",
     "com.dodreams.driveahead",
     "com.disney.frozensaga_goo",
-    "com.gm_shaber.dayrpremium"
+    "com.gm_shaber.dayrpremium",
+    "global.hotel.twgame"
   ],
   "items": [
+    {
+      "appId": "global.hotel.twgame",
+      "title": "하이 우동 호텔",
+      "developer": "DH-Publisher",
+      "icon": "https://play-lh.googleusercontent.com/_vQkbDAt-5gozJioWTjGnq_0GjWN0W81V0JG3vch5d1mmfT1ygx0L9WSuGIwPUfUskT_LLg93ltxNSqW9ZEP",
+      "url": "https://play.google.com/store/apps/details?id=global.hotel.twgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-19",
+      "isGame": true
+    },
     {
       "appId": "com.daerigame.rellion",
       "title": "렐리온: NPC들의 생존기",
@@ -4698,15 +4708,6 @@
       "icon": "https://play-lh.googleusercontent.com/-K3GqQzWCjU-ejoqcXo-44_a_DHlV4LIv-iyvQDL5N0Yx9L_mA7OpNeY8UU-S56Zdw",
       "url": "https://play.google.com/store/apps/details?id=farm.parking.game&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.vivastudios.tower.battle",
-      "title": "Tower Battle: 타워 연결하기",
-      "developer": "Viva Games Studios",
-      "icon": "https://play-lh.googleusercontent.com/8FcwMtlOhvdnKjuP8NegHyXTimD7x4SdBNIGqW_7VJ6cxdN1ueqfHL8lEVEEQN64yDOwyBoK5FYf0ZtGjXHR",
-      "url": "https://play.google.com/store/apps/details?id=com.vivastudios.tower.battle&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-14",
       "isGame": true
     },
     {
