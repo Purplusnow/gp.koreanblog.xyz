@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T23:00:07.642Z",
+  "updatedAt": "2026-07-18T00:00:43.305Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1489,7 +1489,8 @@
     "vikings.strategy.rpg.tactics.card",
     "com.sparklingsociety.animalfarmlife",
     "com.superbox.aos.magicSquad",
-    "com.daerigame.rellion"
+    "com.daerigame.rellion",
+    "com.nexon.fo4m"
   ],
   "items": [
     {
@@ -1498,6 +1499,15 @@
       "developer": "DAERI SOFT Inc",
       "icon": "https://play-lh.googleusercontent.com/92xAwNIv7rMAmfvwTbAHKV3ZmP5MKMrIKjNC-NQHZM6She2mKJ3XTeqo-QJ42Ov93ses-TSUvid2cPmJ1CGO",
       "url": "https://play.google.com/store/apps/details?id=com.daerigame.rellion&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.fo4m",
+      "title": "EA SPORTS FC Online M",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/g-kNZiGFSEWFlbQWfctVwFDGTZldjOP6qVktI_PKMqS-I4SwaOWNBegr_wvf2YOpItsdVDrhICW1VWY5IGD1Jg",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
       "isGame": true
     },
@@ -4694,15 +4704,6 @@
       "icon": "https://play-lh.googleusercontent.com/sDRYkGg2SMMdCraedkAyaTStwvUDCEhspTi9ZGpoOrpNLEV9Bt-LBO9nwCeNW_jR",
       "url": "https://play.google.com/store/apps/details?id=air.net.ideasam.games.cat&hl=ko&gl=KR",
       "discoveredDate": "2026-05-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.GnarlyGameStudio.FrontlineHeroes",
-      "title": "Frontline Heroes: 제2차 세계대전 전투",
-      "developer": "Homa",
-      "icon": "https://play-lh.googleusercontent.com/buwm23drLw1gh4vmJgNy57NJ7QMlQAYxQu8RXPOhfGrRxQKVO3PtXMuHIR-mEuqWn_4",
-      "url": "https://play.google.com/store/apps/details?id=com.GnarlyGameStudio.FrontlineHeroes&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-13",
       "isGame": true
     },
     {
