@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T12:00:20.808Z",
+  "updatedAt": "2026-07-18T13:41:14.708Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1492,7 +1492,8 @@
     "com.daerigame.rellion",
     "com.nexon.fo4m",
     "com.dodreams.driveahead",
-    "com.disney.frozensaga_goo"
+    "com.disney.frozensaga_goo",
+    "com.gm_shaber.dayrpremium"
   ],
   "items": [
     {
@@ -1528,6 +1529,15 @@
       "developer": "Jam City, Inc.",
       "icon": "https://play-lh.googleusercontent.com/5aDd-lwWuvK_ljQ9suzZP-OdTkGBQKN7l6hV9ydfKJrMrpIpPOp0GkwkVYXII0Myfx1yAFw4_E6kRTXdvppGbOs",
       "url": "https://play.google.com/store/apps/details?id=com.disney.frozensaga_goo&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.gm_shaber.dayrpremium",
+      "title": "Day R Premium",
+      "developer": "Rmind Games",
+      "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
+      "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
       "isGame": true
     },
@@ -4688,15 +4698,6 @@
       "icon": "https://play-lh.googleusercontent.com/-K3GqQzWCjU-ejoqcXo-44_a_DHlV4LIv-iyvQDL5N0Yx9L_mA7OpNeY8UU-S56Zdw",
       "url": "https://play.google.com/store/apps/details?id=farm.parking.game&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.my.ffs.simulator.americandad",
-      "title": "American Dad! Apocalypse Soon",
-      "developer": "Reliance Games",
-      "icon": "https://play-lh.googleusercontent.com/D444E_g4JX5ffbYvMO-AGbzdJYmtthCbCyLCFEtadZoT2rTd8WuWyBbRIqrYEOmW-bBfDbdc2HaLVvDSBjXSWA",
-      "url": "https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-14",
       "isGame": true
     },
     {
