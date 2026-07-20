@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T07:20:43.028Z",
+  "updatedAt": "2026-07-20T11:09:30.046Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1497,7 +1497,8 @@
     "global.hotel.twgame",
     "com.fatr.global",
     "com.standegg.mergecrime",
-    "com.whalejoy.horrorstory.gp"
+    "com.whalejoy.horrorstory.gp",
+    "com.JESoftware.LastHopeSniper3"
   ],
   "items": [
     {
@@ -1524,6 +1525,15 @@
       "developer": "WhaleJoy Game Limited",
       "icon": "https://play-lh.googleusercontent.com/bj-jc9ay6gZVvpMYA8cBVvY2Gt9056AAJrJORsfNz8zWRFOzUGU-_NuP3Z9MMHhe5xElvV3l1afYpq7VSnAsW2s",
       "url": "https://play.google.com/store/apps/details?id=com.whalejoy.horrorstory.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.JESoftware.LastHopeSniper3",
+      "title": "Zombie Sniper War 3 - Fire FPS",
+      "developer": "JE Software AB",
+      "icon": "https://play-lh.googleusercontent.com/y1boohdposY5P0SwcIJe7zSL4_rMsCFEdIhGwTzVUs7wT7LDRCxvmyflCaowz0v5pI_YEWzEL7Sgo2Z8qZ4Wg_A",
+      "url": "https://play.google.com/store/apps/details?id=com.JESoftware.LastHopeSniper3&hl=ko&gl=KR",
       "discoveredDate": "2026-07-20",
       "isGame": true
     },
@@ -4693,15 +4703,6 @@
       "icon": "https://play-lh.googleusercontent.com/4AKGTNsz-ll2vRCsmTtSwJfnXD59Rta1hCR8rL07Ot83Rwsg24zXHBsLTNnGk8s6TfrC",
       "url": "https://play.google.com/store/apps/details?id=air.com.kitchenscramble.goo&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.superbox.aos.catkitchen",
-      "title": "캣스토랑 : 고양이 셰프",
-      "developer": "SUPERBOX Inc",
-      "icon": "https://play-lh.googleusercontent.com/U13NvIWoTc1rS2-67blbtut0-sooRq3E08N5D_j1yU_5Z-Gx91vb-eyxy5uyMsFn_JuT",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.catkitchen&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-15",
       "isGame": true
     },
     {
