@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T14:27:43.390Z",
+  "updatedAt": "2026-07-20T16:40:41.312Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1498,9 +1498,19 @@
     "com.fatr.global",
     "com.standegg.mergecrime",
     "com.whalejoy.horrorstory.gp",
-    "com.JESoftware.LastHopeSniper3"
+    "com.JESoftware.LastHopeSniper3",
+    "com.warvow.omgoogle"
   ],
   "items": [
+    {
+      "appId": "com.warvow.omgoogle",
+      "title": "전선:WAR VOW",
+      "developer": "STARFOX GAME",
+      "icon": "https://play-lh.googleusercontent.com/x9rmOuX-VtylxqKcTfZsHzdZbL5wkszLQ5rSsa8fH9lYKpsAZM4mDlH3LQ3WVEnBTAwo_jKUc-xmzIPx13X9Tg",
+      "url": "https://play.google.com/store/apps/details?id=com.warvow.omgoogle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-21",
+      "isGame": true
+    },
     {
       "appId": "com.fatr.global",
       "title": "호텔 레거시: 합성&리모델링",
@@ -4703,15 +4713,6 @@
       "icon": "https://play-lh.googleusercontent.com/4AKGTNsz-ll2vRCsmTtSwJfnXD59Rta1hCR8rL07Ot83Rwsg24zXHBsLTNnGk8s6TfrC",
       "url": "https://play.google.com/store/apps/details?id=air.com.kitchenscramble.goo&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.adventure",
-      "title": "용감한 탐험놀이 - 베이비버스",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/Yi5G3Vx7kG9eketQVGSirhrY0cDNvQH_4BhVX-AmfDtmW1zG9E2jNO6qO0AJ28v9fBA",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.adventure&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-15",
       "isGame": true
     },
     {
