@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T23:06:08.520Z",
+  "updatedAt": "2026-07-20T03:55:26.497Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1494,9 +1494,39 @@
     "com.dodreams.driveahead",
     "com.disney.frozensaga_goo",
     "com.gm_shaber.dayrpremium",
-    "global.hotel.twgame"
+    "global.hotel.twgame",
+    "com.fatr.global",
+    "com.standegg.mergecrime",
+    "com.whalejoy.horrorstory.gp"
   ],
   "items": [
+    {
+      "appId": "com.fatr.global",
+      "title": "호텔 레거시: 합성&리모델링",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/BVGS_zzk-C0rld4GAjH2hmu-3kT6ymliYNyfU9d7nEbJklRLS0QS3vYM7RHJ5yLPN5FQFEqk2nOsAUpj7SyO",
+      "url": "https://play.google.com/store/apps/details?id=com.fatr.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.standegg.mergecrime",
+      "title": "머지 크라임: 추리&로맨스 서스펜스",
+      "developer": "StandEgg Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/3ww9mMROx24_bv9qQx90LAp-0m-R1Ey_cVTIXq8xbugTLYoMCRLm2iLznWYZK6EJVFUQIt2J1Qnmiw4zpq4gXic",
+      "url": "https://play.google.com/store/apps/details?id=com.standegg.mergecrime&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.whalejoy.horrorstory.gp",
+      "title": "헌티드 머지: 괴담",
+      "developer": "WhaleJoy Game Limited",
+      "icon": "https://play-lh.googleusercontent.com/bj-jc9ay6gZVvpMYA8cBVvY2Gt9056AAJrJORsfNz8zWRFOzUGU-_NuP3Z9MMHhe5xElvV3l1afYpq7VSnAsW2s",
+      "url": "https://play.google.com/store/apps/details?id=com.whalejoy.horrorstory.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-20",
+      "isGame": true
+    },
     {
       "appId": "global.hotel.twgame",
       "title": "하이 우동 호텔",
@@ -4666,24 +4696,6 @@
       "isGame": true
     },
     {
-      "appId": "com.mysterytag.cityrestart",
-      "title": "Diamond City: Idle Tycoon",
-      "developer": "MTAG PUBLISHING LTD",
-      "icon": "https://play-lh.googleusercontent.com/ua772Eqq9unIqoZ_RISA7jA53a5n8US1bGV_K2o7xdFGgw2ytPqADcA4hVlZ-vzriLc",
-      "url": "https://play.google.com/store/apps/details?id=com.mysterytag.cityrestart&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.funovus.wildcastle2",
-      "title": "키티 캐슬: 타워 디펜스",
-      "developer": "Funovus",
-      "icon": "https://play-lh.googleusercontent.com/HWfy_2pDUYBldXkAQEPHK6GHlscggYcI46rNDMtBOKT-lxAvy2mqm0D1Q-qrqmZ2Qd46",
-      "url": "https://play.google.com/store/apps/details?id=com.funovus.wildcastle2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-15",
-      "isGame": true
-    },
-    {
       "appId": "com.superbox.aos.catkitchen",
       "title": "캣스토랑 : 고양이 셰프",
       "developer": "SUPERBOX Inc",
@@ -4708,15 +4720,6 @@
       "icon": "https://play-lh.googleusercontent.com/-K3GqQzWCjU-ejoqcXo-44_a_DHlV4LIv-iyvQDL5N0Yx9L_mA7OpNeY8UU-S56Zdw",
       "url": "https://play.google.com/store/apps/details?id=farm.parking.game&hl=ko&gl=KR",
       "discoveredDate": "2026-05-15",
-      "isGame": true
-    },
-    {
-      "appId": "air.net.ideasam.games.cat",
-      "title": "고양이와 비밀의 숲",
-      "developer": "IDEASAM",
-      "icon": "https://play-lh.googleusercontent.com/sDRYkGg2SMMdCraedkAyaTStwvUDCEhspTi9ZGpoOrpNLEV9Bt-LBO9nwCeNW_jR",
-      "url": "https://play.google.com/store/apps/details?id=air.net.ideasam.games.cat&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-14",
       "isGame": true
     },
     {
