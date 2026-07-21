@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T00:05:10.430Z",
+  "updatedAt": "2026-07-21T03:39:16.921Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1499,7 +1499,8 @@
     "com.standegg.mergecrime",
     "com.whalejoy.horrorstory.gp",
     "com.JESoftware.LastHopeSniper3",
-    "com.warvow.omgoogle"
+    "com.warvow.omgoogle",
+    "com.TeamSparta.BunkerDefenseMVP"
   ],
   "items": [
     {
@@ -1508,6 +1509,15 @@
       "developer": "STARFOX GAME",
       "icon": "https://play-lh.googleusercontent.com/x9rmOuX-VtylxqKcTfZsHzdZbL5wkszLQ5rSsa8fH9lYKpsAZM4mDlH3LQ3WVEnBTAwo_jKUc-xmzIPx13X9Tg",
       "url": "https://play.google.com/store/apps/details?id=com.warvow.omgoogle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.TeamSparta.BunkerDefenseMVP",
+      "title": "벙커 디펜스: 빠른 무한 물량 막기",
+      "developer": "Teamsparta Inc.",
+      "icon": "https://play-lh.googleusercontent.com/-RAYJBejYwc3dCbuVIm6IvzcWpJprLOz2x3KEVyWZuadS_7_VMdrOPGJJf4kbCDIxGF5dOMK3qkK0udGSF4jjw",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.BunkerDefenseMVP&hl=ko&gl=KR",
       "discoveredDate": "2026-07-21",
       "isGame": true
     },
@@ -4713,15 +4723,6 @@
       "icon": "https://play-lh.googleusercontent.com/4AKGTNsz-ll2vRCsmTtSwJfnXD59Rta1hCR8rL07Ot83Rwsg24zXHBsLTNnGk8s6TfrC",
       "url": "https://play.google.com/store/apps/details?id=air.com.kitchenscramble.goo&hl=ko&gl=KR",
       "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "farm.parking.game",
-      "title": "Farm Jam: 주차게임 그리고 동물게임",
-      "developer": "Appsyoulove",
-      "icon": "https://play-lh.googleusercontent.com/-K3GqQzWCjU-ejoqcXo-44_a_DHlV4LIv-iyvQDL5N0Yx9L_mA7OpNeY8UU-S56Zdw",
-      "url": "https://play.google.com/store/apps/details?id=farm.parking.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-15",
       "isGame": true
     },
     {
