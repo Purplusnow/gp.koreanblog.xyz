@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T20:22:40.258Z",
+  "updatedAt": "2026-07-21T22:09:16.908Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1500,9 +1500,19 @@
     "com.whalejoy.horrorstory.gp",
     "com.JESoftware.LastHopeSniper3",
     "com.warvow.omgoogle",
-    "com.TeamSparta.BunkerDefenseMVP"
+    "com.TeamSparta.BunkerDefenseMVP",
+    "com.sinyee.babybus.marketIV"
   ],
   "items": [
+    {
+      "appId": "com.sinyee.babybus.marketIV",
+      "title": "Baby Panda's Town: 거리",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/TncpF4ku_jtTp-1WZAFBvU8XjmasMQrP_FpsS5-wrTor1PyJI8ggQNHDey7FianEUK8Khvaag5UlsPd7980RGA",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketIV&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-22",
+      "isGame": true
+    },
     {
       "appId": "com.warvow.omgoogle",
       "title": "전선:WAR VOW",
@@ -4552,15 +4562,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.ambulance",
-      "title": "아기 판다의 응급 처치 요령",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/W2FocgfAD9pvaptjrW9UtvX-AZXMAADkaSi0a9bpb7nrS8ydJtFWi2Ek3y33MxTM9bCi",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.ambulance&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
