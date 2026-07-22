@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T20:18:00.159Z",
+  "updatedAt": "2026-07-22T22:12:47.824Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1501,9 +1501,19 @@
     "com.JESoftware.LastHopeSniper3",
     "com.warvow.omgoogle",
     "com.TeamSparta.BunkerDefenseMVP",
-    "com.sinyee.babybus.marketIV"
+    "com.sinyee.babybus.marketIV",
+    "com.zitga.ninja.stickman.legends.shadow.wars"
   ],
   "items": [
+    {
+      "appId": "com.zitga.ninja.stickman.legends.shadow.wars",
+      "title": "스틱맨 레전드: 섀도우 워즈  - 오프라인 게임",
+      "developer": "Putaleng",
+      "icon": "https://play-lh.googleusercontent.com/SrcDt6s0YR1sBegEUtQN8lG-4vkZpgMQjgXMij3j6-eM-oNFgHrZZBjD5J1ptZdFnyRwhQB5mQ_kR2W_d3Trtkw",
+      "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-23",
+      "isGame": true
+    },
     {
       "appId": "com.sinyee.babybus.marketIV",
       "title": "Baby Panda's Town: 거리",
@@ -4562,15 +4572,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.Deliciousgames.ZWR",
-      "title": "좀왜진 : 방치된 좀비 잡기",
-      "developer": "Delicious Games Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/1S3rkoxCjnCFwiNCw2epTUXwH3RDuzyt725UYe04aBhzSIvV0BMTTDhaCQzuGFaJqWg-tc7ZrGtLAguJzlAt",
-      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.ZWR&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
