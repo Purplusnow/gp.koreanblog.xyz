@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T19:39:07.565Z",
+  "updatedAt": "2026-07-23T21:17:07.834Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1502,9 +1502,29 @@
     "com.warvow.omgoogle",
     "com.TeamSparta.BunkerDefenseMVP",
     "com.sinyee.babybus.marketIV",
-    "com.zitga.ninja.stickman.legends.shadow.wars"
+    "com.zitga.ninja.stickman.legends.shadow.wars",
+    "com.sinyee.babybus.kids",
+    "com.abi.colony.flow"
   ],
   "items": [
+    {
+      "appId": "com.sinyee.babybus.kids",
+      "title": "BabyBus Kids: 비디오 및 게임 세상",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/WYB9UhDPDbzvA7uH3zssnfuySNSbLaJQg8RUVwd34Glux5K0TUNTvqx3vcIwrNs9CR86f1ct3L6CkHF1Ne-0",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.kids&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.abi.colony.flow",
+      "title": "Colony Flow",
+      "developer": "ABI GAMES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/C4tx8KR7PGd4DaPJUJEjrUUSJaQlRaXCWdXv7KMZIkW0KjPD5asTITH9XjEaex0_dcQn6W0ZYiPWoqQa8oq7kA",
+      "url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-24",
+      "isGame": true
+    },
     {
       "appId": "com.zitga.ninja.stickman.legends.shadow.wars",
       "title": "스틱맨 레전드: 섀도우 워즈  - 오프라인 게임",
@@ -4572,24 +4592,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.MonsterPlanet.CatIdleRpg",
-      "title": "냥이 기사단 키우기: 방치형 RPG",
-      "developer": "MONSTER PLANET Corp.",
-      "icon": "https://play-lh.googleusercontent.com/9vCQv-lrMQJlol0I1SopaM8V3a4pLBPju_kGy7d8u5uUs2SCeQuVygJy4sm3C6YwJVnWeYiUpNKLxULLigwc9g",
-      "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.CatIdleRpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.RustyLake.ServantOfTheLake",
-      "title": "Servant of the Lake",
-      "developer": "Rusty Lake",
-      "icon": "https://play-lh.googleusercontent.com/rgEydSyELNBQ-_IdNRUyc8d3DaqEaGqJY92SBh7ncP4lEMjn98RNxe33EE120IBX-RPcRYx0PFp4SfhfQdsE",
-      "url": "https://play.google.com/store/apps/details?id=com.RustyLake.ServantOfTheLake&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
