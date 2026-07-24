@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T14:04:37.757Z",
+  "updatedAt": "2026-07-24T15:41:31.848Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1504,9 +1504,39 @@
     "com.sinyee.babybus.marketIV",
     "com.zitga.ninja.stickman.legends.shadow.wars",
     "com.sinyee.babybus.kids",
-    "com.abi.colony.flow"
+    "com.abi.colony.flow",
+    "com.kiwifun.game.android.ten.crush",
+    "jigsolitaire.jigsort.jigsaw.solitaire.puzzle",
+    "com.Chillgaming.oneState"
   ],
   "items": [
+    {
+      "appId": "com.kiwifun.game.android.ten.crush",
+      "title": "Ten Crush",
+      "developer": "Kiwi Fun",
+      "icon": "https://play-lh.googleusercontent.com/7Z3Bnq1EoA43Qa_uqWfurGFiV-RWvangiCx_qoqvB4pK3eXNiqkvBKUXUP_fjwIwXGwkXUEvj0bT40g6b3nV",
+      "url": "https://play.google.com/store/apps/details?id=com.kiwifun.game.android.ten.crush&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "jigsolitaire.jigsort.jigsaw.solitaire.puzzle",
+      "title": "Jigsort™ 퍼즐: 혼자 즐기는 재미",
+      "developer": "EasyFun Puzzle Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/GEhQMESP_f_M7MXeHAzwuAzvxxl3KSRQ50tCBR0169RuxHQP6v8aWZGTcIp5L4IAtN9P2HA4sGl04ymP4Sri",
+      "url": "https://play.google.com/store/apps/details?id=jigsolitaire.jigsort.jigsaw.solitaire.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.Chillgaming.oneState",
+      "title": "OneState RP: 온라인 롤플레잉",
+      "developer": "ChillBase",
+      "icon": "https://play-lh.googleusercontent.com/R2YbFZkxuNi_uUGP3ci6Yty958SQYnuLkV44SpqBHN7PnCBb9NQbpGzsSAvbEYKaGi9SeglmdkuOU3VrYszFhY8",
+      "url": "https://play.google.com/store/apps/details?id=com.Chillgaming.oneState&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
     {
       "appId": "com.sinyee.babybus.kids",
       "title": "BabyBus Kids: 비디오 및 게임 세상",
@@ -4592,33 +4622,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.TeamSparta.MadDefense",
-      "title": "매드 라쿤: 전략 타워 디펜스",
-      "developer": "RocketdanGames",
-      "icon": "https://play-lh.googleusercontent.com/ni8hQjbi-ZI5WJItYcyxgbD5sUcZVXv5sUQAWU0frYwsdsG9jySQsGg31MVUZWQ2Mv3lb0ipzA6zg6O5tpkx_w",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.actionfit.toy.defense.aos",
-      "title": "Toy Survivor - 장난감 서바이벌 전쟁",
-      "developer": "ACTIONFIT",
-      "icon": "https://play-lh.googleusercontent.com/HTeeEy1T_Whbkmcl2YN4YholLqLQ-nC5M9Kr9ATvZRYDA2vpHMhS15BAiSIwfms-Q-nXJIejWJv0PiiAyoIw",
-      "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.dgup_ww",
-      "title": "디지몬 UP",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/WC1AVEJf1u9_0WkRdzRHBaOcV9UOr4PpnWA5dWi5itaBn0oUz3MOXgXLgQ2f-2PuWrk27Wv5FmB0qaeIq_F8Xw",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_ww&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
