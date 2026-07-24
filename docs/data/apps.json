@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T15:41:31.848Z",
+  "updatedAt": "2026-07-24T17:46:07.785Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1507,7 +1507,8 @@
     "com.abi.colony.flow",
     "com.kiwifun.game.android.ten.crush",
     "jigsolitaire.jigsort.jigsaw.solitaire.puzzle",
-    "com.Chillgaming.oneState"
+    "com.Chillgaming.oneState",
+    "game.qualiarts.hololive.dreams.com"
   ],
   "items": [
     {
@@ -1534,6 +1535,15 @@
       "developer": "ChillBase",
       "icon": "https://play-lh.googleusercontent.com/R2YbFZkxuNi_uUGP3ci6Yty958SQYnuLkV44SpqBHN7PnCBb9NQbpGzsSAvbEYKaGi9SeglmdkuOU3VrYszFhY8",
       "url": "https://play.google.com/store/apps/details?id=com.Chillgaming.oneState&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "game.qualiarts.hololive.dreams.com",
+      "title": "hololive Dreams",
+      "developer": "QualiArts, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+      "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko&gl=KR",
       "discoveredDate": "2026-07-25",
       "isGame": true
     },
@@ -4622,15 +4632,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.buffstudio.holdonlord",
-      "title": "버텨라! 영주님!",
-      "developer": "Buff Studio Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/WIAWPltXaE_-F7nWr-DxBel4iQYkTHb601Rt11OHzxJYUcFqfGro-5ULCv8S3gH6PNeh2-2JETHHw8yfOVnNRA",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
