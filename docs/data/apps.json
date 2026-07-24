@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:41:55.313Z",
+  "updatedAt": "2026-07-24T21:15:15.945Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1508,7 +1508,11 @@
     "com.kiwifun.game.android.ten.crush",
     "jigsolitaire.jigsort.jigsaw.solitaire.puzzle",
     "com.Chillgaming.oneState",
-    "game.qualiarts.hololive.dreams.com"
+    "game.qualiarts.hololive.dreams.com",
+    "com.bubble.shooter.bear.puzzle",
+    "water.sort.color.puzzle.offline.games",
+    "it.rortos.realflightsimulator",
+    "com.tripledot.solitaire"
   ],
   "items": [
     {
@@ -1544,6 +1548,42 @@
       "developer": "QualiArts, Inc.",
       "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
       "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.bubble.shooter.bear.puzzle",
+      "title": "버블슈터 Bubble Shooter",
+      "developer": "Infno Games",
+      "icon": "https://play-lh.googleusercontent.com/1DAG6cXzua2zb3JihhCJBSjaM7GgNoM9Lp5oa7EWxgL3IPLWftwf3pz3_-rlZ2ymU0t_ZOxTDeqRv7Rp4F820L8",
+      "url": "https://play.google.com/store/apps/details?id=com.bubble.shooter.bear.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "water.sort.color.puzzle.offline.games",
+      "title": "Water Sort! 컬러 로직 퍼즐",
+      "developer": "Bobodoo Game",
+      "icon": "https://play-lh.googleusercontent.com/qzX2kRJ6HslOJkdrhg-RmRFvcGoMcV0kDVxLgsDOW1VO_vC7tLHQis9P2S8YP2OoFb8IJhvaXtGOrTQMV4aqQwo",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "it.rortos.realflightsimulator",
+      "title": "RFS - Real Flight Simulator",
+      "developer": "RORTOS",
+      "icon": "https://play-lh.googleusercontent.com/cjMQXsrPSPPpUO1X37rr6_vNWRTkMBWFoqlxqchrguLB019BVD6-COFFMgP9Y2EK4VzsdyHrUwbjFq_MXTA9DA",
+      "url": "https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.tripledot.solitaire",
+      "title": "솔리테어 - Solitaire.com",
+      "developer": "Tripledot Studios Limited",
+      "icon": "https://play-lh.googleusercontent.com/As55aUWr0UXd3LyJyjRACSuoOhjoD9Cf42X4vfrWN2A4zkDBen84nyuWHvAo0nZruFUJNYz4FeXl8OK1pNQ9Nw",
+      "url": "https://play.google.com/store/apps/details?id=com.tripledot.solitaire&hl=ko&gl=KR",
       "discoveredDate": "2026-07-25",
       "isGame": true
     },
@@ -4632,42 +4672,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.chillyroom.containerofsoul.gp",
-      "title": "Abyssal Soul - 로그라이크 카드 게임",
-      "developer": "ChillyRoom",
-      "icon": "https://play-lh.googleusercontent.com/HCBbJCfLUkLPWf8Y3WAypI27jXvQTiCtn7QShYOMQNeY5ntOrjNqB9meSyNWTt3CJRMhccxg3Ln_tUeEkW4kes0",
-      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.containerofsoul.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2usholdings.starsailors.android.google.global.normal",
-      "title": "스타 세일러",
-      "developer": "Com2uS Holdings",
-      "icon": "https://play-lh.googleusercontent.com/GLWsJ5lkUTceLOAH-iO33WuLE059TbNBqbTOx9BT2pby-ZNscv_CChRpeJF3aytuEBFiyv9EioPpL3EpW_3Y",
-      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.dwgames.chunorpg",
-      "title": "추노 키우기",
-      "developer": "DwG",
-      "icon": "https://play-lh.googleusercontent.com/dHI9gG1yYj37bfiRTuuhUYXatXosmp-NHlNe_5MzbLg4JWWDi-EnvO6iwru6O2n12KWd8q5oXe1Br5zKMVa9xKY",
-      "url": "https://play.google.com/store/apps/details?id=com.dwgames.chunorpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.en.chens.ete2024",
-      "title": "E.T.E Chronicle",
-      "developer": "CHENS GLOBAL LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/ors2lwO7M5bUL-RZZB31Bh9dSBG-ERblEE669zNYhxigLSXKUC_PJCG4VPkW8FpIcg",
-      "url": "https://play.google.com/store/apps/details?id=com.en.chens.ete2024&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
