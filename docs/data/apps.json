@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:05:11.737Z",
+  "updatedAt": "2026-07-25T23:08:08.364Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1515,7 +1515,8 @@
     "com.tripledot.solitaire",
     "com.sweetcandy.puzzle.blast.crush.free",
     "com.abi.cook.chill",
-    "com.geargames.warlegends.rts.strategy.game"
+    "com.geargames.warlegends.rts.strategy.game",
+    "com.mvgamesteam.minetap"
   ],
   "items": [
     {
@@ -1542,6 +1543,15 @@
       "developer": "SPIRE CRAFT GAMES",
       "icon": "https://play-lh.googleusercontent.com/qJaAncA9AN_Upc2TQQVG4iZpD77NmdJ8VvU3n2dZ2zubX5iNpKQdq15NxaxTenF_SW72YCtUclHiJzgRcfXhuA",
       "url": "https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.mvgamesteam.minetap",
+      "title": "Minetap – Merge rpg clicker",
+      "developer": "Geeky House",
+      "icon": "https://play-lh.googleusercontent.com/-KL65OvaN1iN9ocqXnvAjvM0BdxiEE6yoFP7_XQNHwWSWN6lKHHv7Xzw3FrLHqrkiC0cpPrIrfM0RVFxZw5CiV0",
+      "url": "https://play.google.com/store/apps/details?id=com.mvgamesteam.minetap&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
       "isGame": true
     },
@@ -4702,15 +4712,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.snake.io.slither.merge.fun.game",
-      "title": "Worms Merge: 유휴 및 io 게임",
-      "developer": "Hippo Lab",
-      "icon": "https://play-lh.googleusercontent.com/u4T9qZWg95KnmGashXs07_08JhHuo74snworPxDjpD_VLSINpO0I-MmltfREA7Fi_TjR",
-      "url": "https://play.google.com/store/apps/details?id=com.snake.io.slither.merge.fun.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
