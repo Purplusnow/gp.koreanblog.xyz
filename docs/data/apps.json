@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T17:10:24.260Z",
+  "updatedAt": "2026-07-25T19:21:50.278Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1513,7 +1513,8 @@
     "water.sort.color.puzzle.offline.games",
     "it.rortos.realflightsimulator",
     "com.tripledot.solitaire",
-    "com.sweetcandy.puzzle.blast.crush.free"
+    "com.sweetcandy.puzzle.blast.crush.free",
+    "com.abi.cook.chill"
   ],
   "items": [
     {
@@ -1522,6 +1523,15 @@
       "developer": "Jewel Loft",
       "icon": "https://play-lh.googleusercontent.com/Ta5VsXTxgVmWahAHwFCff1UXtsrcHptiqxFOt0QHXWv_7p5MyOM4FFsuyzSnL_D2g8KiLXLHC-XsZ-a2qYmzOo0",
       "url": "https://play.google.com/store/apps/details?id=com.sweetcandy.puzzle.blast.crush.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.abi.cook.chill",
+      "title": "Cookingdom - 요리의 나라",
+      "developer": "ABI GAMES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/Xk7ITaKDW8mcQy8iDmPTyj0XzF0P4c1wbBYE8a3fnzmaODlX4Am9fkM659_oLlsMfic4C9z1X_0MdbiimZON",
+      "url": "https://play.google.com/store/apps/details?id=com.abi.cook.chill&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
       "isGame": true
     },
@@ -4682,15 +4692,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.sandsoft.fingerwarriors",
-      "title": "요새전선 : 카드히어로 TD",
-      "developer": "Sunice Limited",
-      "icon": "https://play-lh.googleusercontent.com/10gHSafpY6e_4mF8hSNu9vPZloTnD6l9rYyxsLn5r_I6UW7W564ufCe0g51CD7wD93k",
-      "url": "https://play.google.com/store/apps/details?id=com.sandsoft.fingerwarriors&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
