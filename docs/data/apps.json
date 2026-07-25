@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T21:03:58.184Z",
+  "updatedAt": "2026-07-25T22:05:11.737Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1514,7 +1514,8 @@
     "it.rortos.realflightsimulator",
     "com.tripledot.solitaire",
     "com.sweetcandy.puzzle.blast.crush.free",
-    "com.abi.cook.chill"
+    "com.abi.cook.chill",
+    "com.geargames.warlegends.rts.strategy.game"
   ],
   "items": [
     {
@@ -1532,6 +1533,15 @@
       "developer": "ABI GAMES PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/Xk7ITaKDW8mcQy8iDmPTyj0XzF0P4c1wbBYE8a3fnzmaODlX4Am9fkM659_oLlsMfic4C9z1X_0MdbiimZON",
       "url": "https://play.google.com/store/apps/details?id=com.abi.cook.chill&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.geargames.warlegends.rts.strategy.game",
+      "title": "워 레전드 (War Legends): RTS 전략 게임",
+      "developer": "SPIRE CRAFT GAMES",
+      "icon": "https://play-lh.googleusercontent.com/qJaAncA9AN_Upc2TQQVG4iZpD77NmdJ8VvU3n2dZ2zubX5iNpKQdq15NxaxTenF_SW72YCtUclHiJzgRcfXhuA",
+      "url": "https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
       "isGame": true
     },
@@ -4692,15 +4702,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.crowdstar.covetfashion",
-      "title": "Covet Fashion: Dress Up Game",
-      "developer": "Crowdstar Inc",
-      "icon": "https://play-lh.googleusercontent.com/Rb_JkPsooMjRJl9eIuTJ6yu5XECVJjz_N-vgR08vH3hoIkGA8Bxk1oTr5FB0A16wIns",
-      "url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
