@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T13:55:32.469Z",
+  "updatedAt": "2026-07-25T15:13:41.192Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1512,9 +1512,19 @@
     "com.bubble.shooter.bear.puzzle",
     "water.sort.color.puzzle.offline.games",
     "it.rortos.realflightsimulator",
-    "com.tripledot.solitaire"
+    "com.tripledot.solitaire",
+    "com.sweetcandy.puzzle.blast.crush.free"
   ],
   "items": [
+    {
+      "appId": "com.sweetcandy.puzzle.blast.crush.free",
+      "title": "달콤한 사탕 퍼즐",
+      "developer": "Jewel Loft",
+      "icon": "https://play-lh.googleusercontent.com/Ta5VsXTxgVmWahAHwFCff1UXtsrcHptiqxFOt0QHXWv_7p5MyOM4FFsuyzSnL_D2g8KiLXLHC-XsZ-a2qYmzOo0",
+      "url": "https://play.google.com/store/apps/details?id=com.sweetcandy.puzzle.blast.crush.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-26",
+      "isGame": true
+    },
     {
       "appId": "com.kiwifun.game.android.ten.crush",
       "title": "Ten Crush",
@@ -4672,15 +4682,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.ironhidegames.android.kingdomrush4",
-      "title": "킹덤 러쉬 벤전스 (KR Vengeance)",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/8uftLSAWvbW3stKpvAfJ1NQUxcxex8aOagUcgl0JJKwCXD35fOIF_8Vc9O6V9p3fXOw",
-      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush4&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
