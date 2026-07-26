@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T11:28:41.643Z",
+  "updatedAt": "2026-07-26T13:48:03.756Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1517,7 +1517,8 @@
     "com.abi.cook.chill",
     "com.geargames.warlegends.rts.strategy.game",
     "com.mvgamesteam.minetap",
-    "com.fc.p.hk.pixel.flow.breaker.color.puzzle"
+    "com.fc.p.hk.pixel.flow.breaker.color.puzzle",
+    "com.orangeapps.piratetreasure"
   ],
   "items": [
     {
@@ -1562,6 +1563,15 @@
       "developer": "FALCON GAME",
       "icon": "https://play-lh.googleusercontent.com/kUiEk9X3uRRWiCmYPjlLoBcdldWnzcta2CsDNr7liPYjfItotH6wdA8Km-GaikmB79nlMWiUrG6gR6pvSDjt3Q",
       "url": "https://play.google.com/store/apps/details?id=com.fc.p.hk.pixel.flow.breaker.color.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.orangeapps.piratetreasure",
+      "title": "Pirate Treasures -  3 매치 게임 퍼즐",
+      "developer": "TAPCLAP",
+      "icon": "https://play-lh.googleusercontent.com/-i3PHZYjLBh6OxgBLc30eUZdyZJdQsqC7x-NAR7ybugYISLYvWkj0eBZw5pzfJehsc6vqaV2-gARpKJfNguX9w",
+      "url": "https://play.google.com/store/apps/details?id=com.orangeapps.piratetreasure&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
       "isGame": true
     },
@@ -4722,15 +4732,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.spaceapegames.carsuperstar",
-      "title": "Chrome Valley Customs",
-      "developer": "Offroad Games",
-      "icon": "https://play-lh.googleusercontent.com/PTmDIVDP0yhrbN5rTxepD862HFmPu_iijg9qjgq6HNWgthN0Ipb0B-RNF5tpK6eeJtml_i5EjO1PQWUcPpvf9SY",
-      "url": "https://play.google.com/store/apps/details?id=com.spaceapegames.carsuperstar&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
