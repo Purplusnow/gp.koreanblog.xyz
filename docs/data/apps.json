@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T15:13:46.579Z",
+  "updatedAt": "2026-07-26T17:11:11.906Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1518,9 +1518,19 @@
     "com.geargames.warlegends.rts.strategy.game",
     "com.mvgamesteam.minetap",
     "com.fc.p.hk.pixel.flow.breaker.color.puzzle",
-    "com.orangeapps.piratetreasure"
+    "com.orangeapps.piratetreasure",
+    "com.habby.souls"
   ],
   "items": [
+    {
+      "appId": "com.habby.souls",
+      "title": "소울즈",
+      "developer": "Habby",
+      "icon": "https://play-lh.googleusercontent.com/dHpH6YOhdUl_rBiEcpSZ-qfg_y_6eGLacJQaM4u74mdJA5lEQ_kkhwfey9sZFdsKdRl9Q7r2dcvnJHFISrcF",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.souls&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-27",
+      "isGame": true
+    },
     {
       "appId": "com.sweetcandy.puzzle.blast.crush.free",
       "title": "달콤한 사탕 퍼즐",
@@ -4732,15 +4742,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.kitchenscramble.goo",
-      "title": "Kitchen Scramble: Cooking Game",
-      "developer": "Garden City Games",
-      "icon": "https://play-lh.googleusercontent.com/4AKGTNsz-ll2vRCsmTtSwJfnXD59Rta1hCR8rL07Ot83Rwsg24zXHBsLTNnGk8s6TfrC",
-      "url": "https://play.google.com/store/apps/details?id=air.com.kitchenscramble.goo&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
