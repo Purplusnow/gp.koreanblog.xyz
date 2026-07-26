@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T21:07:29.838Z",
+  "updatedAt": "2026-07-26T23:07:22.308Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1519,7 +1519,8 @@
     "com.mvgamesteam.minetap",
     "com.fc.p.hk.pixel.flow.breaker.color.puzzle",
     "com.orangeapps.piratetreasure",
-    "com.habby.souls"
+    "com.habby.souls",
+    "com.hkqs.jszx.google"
   ],
   "items": [
     {
@@ -1528,6 +1529,15 @@
       "developer": "Habby",
       "icon": "https://play-lh.googleusercontent.com/dHpH6YOhdUl_rBiEcpSZ-qfg_y_6eGLacJQaM4u74mdJA5lEQ_kkhwfey9sZFdsKdRl9Q7r2dcvnJHFISrcF",
       "url": "https://play.google.com/store/apps/details?id=com.habby.souls&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.hkqs.jszx.google",
+      "title": "부족 또 전쟁 : 무한루프 RPG",
+      "developer": "HKQS GAMES",
+      "icon": "https://play-lh.googleusercontent.com/umli_4_TJJYzpLVwVV6fjA15kjMxrSkHDgYN46V6GYoJKTGPo-RlcLB4rNTEg5ScMAGeIdiFcq4vcVlSIFBqvg",
+      "url": "https://play.google.com/store/apps/details?id=com.hkqs.jszx.google&hl=ko&gl=KR",
       "discoveredDate": "2026-07-27",
       "isGame": true
     },
@@ -4661,15 +4671,6 @@
       "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
       "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.global.zljslg",
-      "title": "쥬라기 대륙:디노시아",
-      "developer": "37GAMES",
-      "icon": "https://play-lh.googleusercontent.com/h_f8Mb1nMncdHTok-6hUUbVBa3jYFztBq4w06CE1DTlMkEvbe_aA496YBFHXH4PYn6Ql",
-      "url": "https://play.google.com/store/apps/details?id=com.global.zljslg&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
       "isGame": true
     },
     {
