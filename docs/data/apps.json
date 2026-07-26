@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T03:48:05.822Z",
+  "updatedAt": "2026-07-26T06:45:01.783Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1516,7 +1516,8 @@
     "com.sweetcandy.puzzle.blast.crush.free",
     "com.abi.cook.chill",
     "com.geargames.warlegends.rts.strategy.game",
-    "com.mvgamesteam.minetap"
+    "com.mvgamesteam.minetap",
+    "com.fc.p.hk.pixel.flow.breaker.color.puzzle"
   ],
   "items": [
     {
@@ -1552,6 +1553,15 @@
       "developer": "Geeky House",
       "icon": "https://play-lh.googleusercontent.com/-KL65OvaN1iN9ocqXnvAjvM0BdxiEE6yoFP7_XQNHwWSWN6lKHHv7Xzw3FrLHqrkiC0cpPrIrfM0RVFxZw5CiV0",
       "url": "https://play.google.com/store/apps/details?id=com.mvgamesteam.minetap&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.fc.p.hk.pixel.flow.breaker.color.puzzle",
+      "title": "큐브 플로우: 컬러 이스케이프",
+      "developer": "FALCON GAME",
+      "icon": "https://play-lh.googleusercontent.com/kUiEk9X3uRRWiCmYPjlLoBcdldWnzcta2CsDNr7liPYjfItotH6wdA8Km-GaikmB79nlMWiUrG6gR6pvSDjt3Q",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.p.hk.pixel.flow.breaker.color.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
       "isGame": true
     },
@@ -4712,15 +4722,6 @@
       "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
       "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
       "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "dk.tactile.lilysgarden",
-      "title": "릴리의 정원 (Lily's Garden)",
-      "developer": "Tactile Games",
-      "icon": "https://play-lh.googleusercontent.com/WSJ53kBRApJis-K7Z2lwNEmtMU9s6DrxWHfADBqBb40UEXlbXUoQQSyEjD1isyg0SGo",
-      "url": "https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-16",
       "isGame": true
     },
     {
