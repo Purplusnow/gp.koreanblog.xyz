@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T19:47:13.374Z",
+  "updatedAt": "2026-07-27T21:20:04.965Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1521,7 +1521,9 @@
     "com.orangeapps.piratetreasure",
     "com.habby.souls",
     "com.hkqs.jszx.google",
-    "com.SuperAwesome.HelloKittyFriends"
+    "com.SuperAwesome.HelloKittyFriends",
+    "com.dreamwalker.kr.gp",
+    "com.vladk.pipemasters"
   ],
   "items": [
     {
@@ -1530,6 +1532,24 @@
       "developer": "Super Awesome Inc.",
       "icon": "https://play-lh.googleusercontent.com/AnG70rgHebhOJ_HNk6BgdjrFmM3nmc8iPCJ6Ij1iqSa92iK5hNkhfrn-piq5Wf9G6iEycNI8LTNJu2sGsP1kUQc",
       "url": "https://play.google.com/store/apps/details?id=com.SuperAwesome.HelloKittyFriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.dreamwalker.kr.gp",
+      "title": "꿈의 여행자: 별빛 여정",
+      "developer": "Grand Sunrise Game",
+      "icon": "https://play-lh.googleusercontent.com/YKJCks-c7Z8rrdehFPtt694C7AUkxY2zebMaU5FBQKiPtIuZ2TJG39yqjwYK4E1xMBnPSylTPKsgwj4ycLpO",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamwalker.kr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.vladk.pipemasters",
+      "title": "수류 레전드: 파이프 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/SswZKFjqUrl2XYWAZRtSDIOHD09JAyb8o645c6I6I9akkZnH2f8pUxkwsH2ENolxkbjUuSBk6pKUx3c__c4eadE",
+      "url": "https://play.google.com/store/apps/details?id=com.vladk.pipemasters&hl=ko&gl=KR",
       "discoveredDate": "2026-07-28",
       "isGame": true
     },
@@ -4681,24 +4701,6 @@
       "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
       "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.cyberjoy.spaceoutpost",
-      "title": "Space Outpost: Drone War",
-      "developer": "CyberJoy Games",
-      "icon": "https://play-lh.googleusercontent.com/rvP8IpoT1Sf8gJCx4MJcwXYBm4RYPxhLvLRnGQw04QAPbwcWxPNuiu3fjPgXhLl3gA",
-      "url": "https://play.google.com/store/apps/details?id=com.cyberjoy.spaceoutpost&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.dreamotion.empire",
-      "title": "로드 투 발러: 엠파이어스",
-      "developer": "Dreamotion Inc.",
-      "icon": "https://play-lh.googleusercontent.com/5kmHTcqYkX8lBhJoih2fmMbGEuTzpl2_R-eX7fq6ppsrZK6Ub0448jCFsZdEVvZ4ntU",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamotion.empire&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
       "isGame": true
     },
     {
