@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T17:50:13.677Z",
+  "updatedAt": "2026-07-27T19:47:13.374Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1520,9 +1520,19 @@
     "com.fc.p.hk.pixel.flow.breaker.color.puzzle",
     "com.orangeapps.piratetreasure",
     "com.habby.souls",
-    "com.hkqs.jszx.google"
+    "com.hkqs.jszx.google",
+    "com.SuperAwesome.HelloKittyFriends"
   ],
   "items": [
+    {
+      "appId": "com.SuperAwesome.HelloKittyFriends",
+      "title": "헬로키티 프렌즈",
+      "developer": "Super Awesome Inc.",
+      "icon": "https://play-lh.googleusercontent.com/AnG70rgHebhOJ_HNk6BgdjrFmM3nmc8iPCJ6Ij1iqSa92iK5hNkhfrn-piq5Wf9G6iEycNI8LTNJu2sGsP1kUQc",
+      "url": "https://play.google.com/store/apps/details?id=com.SuperAwesome.HelloKittyFriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-28",
+      "isGame": true
+    },
     {
       "appId": "com.habby.souls",
       "title": "소울즈",
@@ -4671,15 +4681,6 @@
       "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
       "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.twodesperados.pic.cross.picross.logic",
-      "title": "Nonogram Crossing Logic Puzzle",
-      "developer": "Two Desperados Ltd",
-      "icon": "https://play-lh.googleusercontent.com/KlAB4A9DwFFk2IBB-EByJa-1p_FO1IZwIQI4xpnqvH1IWZUkb4lf2N7mEYpnrkth8QA",
-      "url": "https://play.google.com/store/apps/details?id=com.twodesperados.pic.cross.picross.logic&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
       "isGame": true
     },
     {
