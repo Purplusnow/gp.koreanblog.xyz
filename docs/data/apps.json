@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:21:49.412Z",
+  "updatedAt": "2026-07-28T20:21:49.587Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1524,9 +1524,29 @@
     "com.SuperAwesome.HelloKittyFriends",
     "com.dreamwalker.kr.gp",
     "com.vladk.pipemasters",
-    "com.vigafun.funfinity.foodhunt"
+    "com.vigafun.funfinity.foodhunt",
+    "com.atesgamestudio.rollance",
+    "water.sort.puzzle.color.sort.games"
   ],
   "items": [
+    {
+      "appId": "com.atesgamestudio.rollance",
+      "title": "롤랜스 : 어드벤처 볼",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/04PLuKO_aLtlXmLvn2L8vQ7ki06zZvlkjxh32vsIF3AIyYyqqv6-idwPuQMUum3oxAlrxAkJoImE4BbuSz_MGA",
+      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-29",
+      "isGame": true
+    },
+    {
+      "appId": "water.sort.puzzle.color.sort.games",
+      "title": "Water Sort: 컬러 튜브 퍼즐",
+      "developer": "Flyfox Games",
+      "icon": "https://play-lh.googleusercontent.com/MFLdFYKLj_c4Sd_HsSOhhYgPM1M_PxDOQcWwyXQjxYqrUXzm-h6FIecBSpDBtm6lqzOYD9ghs5Vs9_rEEw3Kyg",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.puzzle.color.sort.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-29",
+      "isGame": true
+    },
     {
       "appId": "com.SuperAwesome.HelloKittyFriends",
       "title": "헬로키티 프렌즈",
@@ -4711,24 +4731,6 @@
       "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
       "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.razmobi.monstertrucks2",
-      "title": "Monster Trucks Game for Kids 2",
-      "developer": "Raz Games",
-      "icon": "https://play-lh.googleusercontent.com/IF6wbbtB8JxHiYAqXDQ-umy6zR0UeKPk__bBJGVXhYvgAo9MVJpFDmC7nrjw2A7I3fo",
-      "url": "https://play.google.com/store/apps/details?id=com.razmobi.monstertrucks2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.classicsolitaire.klondike.cardgames",
-      "title": "솔리테어 물고기 (Solitaire Ocean)",
-      "developer": "Solitaire Card Games Classic",
-      "icon": "https://play-lh.googleusercontent.com/ABdMSmWA-lWYwUjKWpR8l2Q8YLCqlTuE_48MiqJDivMaWDPFu_wp8bK2le7vocrolw",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.classicsolitaire.klondike.cardgames&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
       "isGame": true
     },
     {
