@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T20:21:49.587Z",
+  "updatedAt": "2026-07-28T22:13:00.848Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1526,7 +1526,10 @@
     "com.vladk.pipemasters",
     "com.vigafun.funfinity.foodhunt",
     "com.atesgamestudio.rollance",
-    "water.sort.puzzle.color.sort.games"
+    "water.sort.puzzle.color.sort.games",
+    "net.happywit.screw.out.jam",
+    "com.candy.sweet.legend.free",
+    "com.sadpuppy.lemmings"
   ],
   "items": [
     {
@@ -1544,6 +1547,33 @@
       "developer": "Flyfox Games",
       "icon": "https://play-lh.googleusercontent.com/MFLdFYKLj_c4Sd_HsSOhhYgPM1M_PxDOQcWwyXQjxYqrUXzm-h6FIecBSpDBtm6lqzOYD9ghs5Vs9_rEEw3Kyg",
       "url": "https://play.google.com/store/apps/details?id=water.sort.puzzle.color.sort.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-29",
+      "isGame": true
+    },
+    {
+      "appId": "net.happywit.screw.out.jam",
+      "title": "Screw Out 3D",
+      "developer": "Unico Studio",
+      "icon": "https://play-lh.googleusercontent.com/SlRTSl_1g2SH-7hhUVuWfG7aqTjaP49PicT__unHSbH-_W6J2PL_Dns0rjjp_VZHIRavfW5qb-ol6565aFfgZw",
+      "url": "https://play.google.com/store/apps/details?id=net.happywit.screw.out.jam&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.candy.sweet.legend.free",
+      "title": "캔디 스위트 레전드",
+      "developer": "Yo App",
+      "icon": "https://play-lh.googleusercontent.com/s25Ma0NLveUeT5dyoYP0iCuaEhs_-nLcMu9mlO2PRFQ7L4Ur1wbDbabAwjWE-Fo_WXIVReBr4ilX9M1petXg",
+      "url": "https://play.google.com/store/apps/details?id=com.candy.sweet.legend.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.sadpuppy.lemmings",
+      "title": "Lemmings - 퍼즐 어드벤처",
+      "developer": "Exient",
+      "icon": "https://play-lh.googleusercontent.com/eTLUiJo33j53yJsl6PpXBaSsZXaPrOg0lj5bLMUsE2tA-IZHjxQ9sy0WdZxkISx0V9NHYgA_lYUOxD1JPMPvcw",
+      "url": "https://play.google.com/store/apps/details?id=com.sadpuppy.lemmings&hl=ko&gl=KR",
       "discoveredDate": "2026-07-29",
       "isGame": true
     },
@@ -4680,15 +4710,6 @@
       "isGame": true
     },
     {
-      "appId": "jp.goodsmile.touhoulostwordglobal_android",
-      "title": "Touhou LostWord",
-      "developer": "GOOD SMILE COMPANY, Inc",
-      "icon": "https://play-lh.googleusercontent.com/IzsjNG8yz_p_s0dHcHUF2_Q_6Fdan1ZenIa6RGvUTlH3MweFElefq1EzsITJsOm2qw4ODepZo0aJ2JNafO4lAA",
-      "url": "https://play.google.com/store/apps/details?id=jp.goodsmile.touhoulostwordglobal_android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
       "appId": "com.appcraft.number.puzzle",
       "title": "Numberzilla: 퍼즐 수학 게임 숫자 게임 논리",
       "developer": "Appsyoulove",
@@ -4731,24 +4752,6 @@
       "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
       "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "net.mobigame.zombietsunami",
-      "title": "Zombie Tsunami (좀비 쓰나미)",
-      "developer": "Mobigame SAS",
-      "icon": "https://play-lh.googleusercontent.com/y2v9w4KjUe4djmd3yYgj2_XrDIt_D9JO2c2NkYdxtYyE6cGl21JgU4aMqTEcoQzQorLD",
-      "url": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.smilegate.chaoszero.stove.google",
-      "title": "카오스 제로 나이트메어",
-      "developer": "Smilegate, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/RJq-yPAQe9iPVqQX28JcmyBTyAYVKToIlPla4cOPff37UIJ6CFsxu7yUtf0G6qFtB3brgX6VTe0Njzrs4IrOOhw",
-      "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
       "isGame": true
     },
     {
