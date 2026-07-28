@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T06:35:28.716Z",
+  "updatedAt": "2026-07-28T09:41:50.173Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1523,7 +1523,8 @@
     "com.hkqs.jszx.google",
     "com.SuperAwesome.HelloKittyFriends",
     "com.dreamwalker.kr.gp",
-    "com.vladk.pipemasters"
+    "com.vladk.pipemasters",
+    "com.vigafun.funfinity.foodhunt"
   ],
   "items": [
     {
@@ -1550,6 +1551,15 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/SswZKFjqUrl2XYWAZRtSDIOHD09JAyb8o645c6I6I9akkZnH2f8pUxkwsH2ENolxkbjUuSBk6pKUx3c__c4eadE",
       "url": "https://play.google.com/store/apps/details?id=com.vladk.pipemasters&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-28",
+      "isGame": true
+    },
+    {
+      "appId": "com.vigafun.funfinity.foodhunt",
+      "title": "Food Hunt: Pixel Puzzle",
+      "developer": "EVERFUN",
+      "icon": "https://play-lh.googleusercontent.com/f7HHbEOewA0rIk299hsDv6vN4Iz_W5OvivKF2lMKOKzttF1g4lp8kE7qDAUGlJLAelw56TSRd6V5y4SFGCKp",
+      "url": "https://play.google.com/store/apps/details?id=com.vigafun.funfinity.foodhunt&hl=ko&gl=KR",
       "discoveredDate": "2026-07-28",
       "isGame": true
     },
@@ -4701,15 +4711,6 @@
       "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
       "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
       "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.plarium.vikings",
-      "title": "바이킹스 : 전쟁의 서막",
-      "developer": "Plarium  LLC",
-      "icon": "https://play-lh.googleusercontent.com/1E_Y1QDvLmnUiAcXxwhmuSVPAIF3Of4SIUR8whlO6QDLNUYGzZJVzE18KZ2c-EpOyA",
-      "url": "https://play.google.com/store/apps/details?id=com.plarium.vikings&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-17",
       "isGame": true
     },
     {
