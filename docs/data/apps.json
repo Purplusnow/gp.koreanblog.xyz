@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:46:55.994Z",
+  "updatedAt": "2026-07-29T13:05:51.177Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1529,7 +1529,8 @@
     "water.sort.puzzle.color.sort.games",
     "net.happywit.screw.out.jam",
     "com.candy.sweet.legend.free",
-    "com.sadpuppy.lemmings"
+    "com.sadpuppy.lemmings",
+    "com.peerplay.megamerge"
   ],
   "items": [
     {
@@ -1574,6 +1575,15 @@
       "developer": "Exient",
       "icon": "https://play-lh.googleusercontent.com/eTLUiJo33j53yJsl6PpXBaSsZXaPrOg0lj5bLMUsE2tA-IZHjxQ9sy0WdZxkISx0V9NHYgA_lYUOxD1JPMPvcw",
       "url": "https://play.google.com/store/apps/details?id=com.sadpuppy.lemmings&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.peerplay.megamerge",
+      "title": "Merge Cruise: Mystery Puzzle",
+      "developer": "PeerPlay",
+      "icon": "https://play-lh.googleusercontent.com/HPR1HCSj2yz7i4jV0dUece2qswOgkxXKgrqZnQF9lWVTLzeFhKpajuUQwTABne39Iiht4QNglnaDDJD0f8iw",
+      "url": "https://play.google.com/store/apps/details?id=com.peerplay.megamerge&hl=ko&gl=KR",
       "discoveredDate": "2026-07-29",
       "isGame": true
     },
@@ -4707,15 +4717,6 @@
       "icon": "https://play-lh.googleusercontent.com/VPw6Np6VusWZpkAB5rvZWbuSGmZnz1v85EQMwaoMBbZlI_gB_pWVwvBOf0tiFxN_t5EiIq_0ye7UzDZNhPOnOw",
       "url": "https://play.google.com/store/apps/details?id=com.leap.searchit&hl=ko&gl=KR",
       "discoveredDate": "2026-05-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.appcraft.number.puzzle",
-      "title": "Numberzilla: 퍼즐 수학 게임 숫자 게임 논리",
-      "developer": "Appsyoulove",
-      "icon": "https://play-lh.googleusercontent.com/bsviI_8TO7KIBabaSyEaJnY1lVH17z8MjvUOnewj4kVh7huq6RGxzlCqCvKREyBRGV0",
-      "url": "https://play.google.com/store/apps/details?id=com.appcraft.number.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-18",
       "isGame": true
     },
     {
