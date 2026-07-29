@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T17:23:43.057Z",
+  "updatedAt": "2026-07-29T19:37:24.192Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1530,9 +1530,39 @@
     "net.happywit.screw.out.jam",
     "com.candy.sweet.legend.free",
     "com.sadpuppy.lemmings",
-    "com.peerplay.megamerge"
+    "com.peerplay.megamerge",
+    "com.herogame.gp.eternalevolution.kr",
+    "com.nexon.he",
+    "com.sugargame.mjlj.gp"
   ],
   "items": [
+    {
+      "appId": "com.herogame.gp.eternalevolution.kr",
+      "title": "이터널 에볼루션",
+      "developer": "HK Hero Entertainment Co., Limited",
+      "icon": "https://play-lh.googleusercontent.com/fRExOjsboW3qgE3dVMEQwqpoCfA-ZUHwBgYu5ux1XxiRASvDRuU2idxbFJQHjN_-ZxcVnYAmCqkjjHmCFNuC",
+      "url": "https://play.google.com/store/apps/details?id=com.herogame.gp.eternalevolution.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.he",
+      "title": "히간: 이루실",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/h2KLujDD_Q4V5z7TjC4OoVOarmTw9QLFtCkdFlGOxICvqOaOV0U6XOFeqk_xZvv4dwOHZbKfED0lRBdT4Qj_",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.he&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.sugargame.mjlj.gp",
+      "title": "Illusion Connect: Re",
+      "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)",
+      "icon": "https://play-lh.googleusercontent.com/AOwbdMLQwgZZPmULuwCTCwPoiLFiS1zIaZYX5DJxFxGDz9v_Cn_B2DpUGAg1sIWlte3LfvNU0Y6T6ezCsgercw",
+      "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-30",
+      "isGame": true
+    },
     {
       "appId": "com.atesgamestudio.rollance",
       "title": "롤랜스 : 어드벤처 볼",
@@ -4717,33 +4747,6 @@
       "icon": "https://play-lh.googleusercontent.com/VPw6Np6VusWZpkAB5rvZWbuSGmZnz1v85EQMwaoMBbZlI_gB_pWVwvBOf0tiFxN_t5EiIq_0ye7UzDZNhPOnOw",
       "url": "https://play.google.com/store/apps/details?id=com.leap.searchit&hl=ko&gl=KR",
       "discoveredDate": "2026-05-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.aldagames.polygonfantasy",
-      "title": "폴리곤 판타지: 액션 RPG",
-      "developer": "Alda Games",
-      "icon": "https://play-lh.googleusercontent.com/gTClOsH65tqP-Ad1JhpxsJfsFnso7986exk4i0eOXxUEdUunolkZAUqwb0VKXm7JPA",
-      "url": "https://play.google.com/store/apps/details?id=com.aldagames.polygonfantasy&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.droidhang.ad",
-      "title": "Idle Heroes - 아이들 히어로즈",
-      "developer": "DHGAMES",
-      "icon": "https://play-lh.googleusercontent.com/Hs1icA4suzVUKQLWrAq3uUc9VwH4UoKvXVyMEsPnEHQmVAe3uWq9jX5P09XhvjPeposAgohH3g38RrLomY7nbA",
-      "url": "https://play.google.com/store/apps/details?id=com.droidhang.ad&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.pixel.hero.action.rpg.adventure.games",
-      "title": "Guardian War: RPG 픽셀 영웅",
-      "developer": "Putaleng",
-      "icon": "https://play-lh.googleusercontent.com/wLZbc4btcFYrzErtA5-7JkCImDlwG8xZKVdG2K1z2uD3tU6sXjzD7G3g6Wj0FTv4iq1C",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.pixel.hero.action.rpg.adventure.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-18",
       "isGame": true
     },
     {
