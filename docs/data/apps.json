@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T14:25:39.417Z",
+  "updatedAt": "2026-07-30T16:42:53.271Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1535,9 +1535,19 @@
     "com.nexon.he",
     "com.sugargame.mjlj.gp",
     "com.rxjhglkr.gp",
-    "com.d3p.olympic"
+    "com.d3p.olympic",
+    "jp.gungho.padKO"
   ],
   "items": [
+    {
+      "appId": "jp.gungho.padKO",
+      "title": "퍼즐앤드래곤",
+      "developer": "GungHo Online Entertainment, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/t70uE_YeQkZ_080ReFVUETvtJKpOi9HutRCASqVzOOZZw5SJsquEUWD0pi7nPchfbPE6ere8onuflQfF_r8wBfc",
+      "url": "https://play.google.com/store/apps/details?id=jp.gungho.padKO&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-31",
+      "isGame": true
+    },
     {
       "appId": "com.herogame.gp.eternalevolution.kr",
       "title": "이터널 에볼루션",
@@ -4713,15 +4723,6 @@
       "icon": "https://play-lh.googleusercontent.com/KTxVzqzRRu1xFag0gp-yfS_4nSkH1zHzYV9n3U20X3qQ6oDPoBFjUXrNG8W6HWmf06c",
       "url": "https://play.google.com/store/apps/details?id=com.my.cooking.chef.kitchen.craze.fever&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.aldagames.zombero.bullet.hell",
-      "title": "Zombero: Archero Doom Shooter",
-      "developer": "Alda Games",
-      "icon": "https://play-lh.googleusercontent.com/Fos8LCDUEsM-4GvbfZUmboxud3SVJhhqtnDlZieinaPNUVdtqqFYAg0leL8kzKVu2o2u",
-      "url": "https://play.google.com/store/apps/details?id=com.aldagames.zombero.bullet.hell&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-19",
       "isGame": true
     },
     {
