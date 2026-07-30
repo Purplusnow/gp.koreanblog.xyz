@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T09:36:20.128Z",
+  "updatedAt": "2026-07-30T11:59:07.481Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1533,7 +1533,9 @@
     "com.peerplay.megamerge",
     "com.herogame.gp.eternalevolution.kr",
     "com.nexon.he",
-    "com.sugargame.mjlj.gp"
+    "com.sugargame.mjlj.gp",
+    "com.rxjhglkr.gp",
+    "com.d3p.olympic"
   ],
   "items": [
     {
@@ -1560,6 +1562,24 @@
       "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)",
       "icon": "https://play-lh.googleusercontent.com/AOwbdMLQwgZZPmULuwCTCwPoiLFiS1zIaZYX5DJxFxGDz9v_Cn_B2DpUGAg1sIWlte3LfvNU0Y6T6ezCsgercw",
       "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.rxjhglkr.gp",
+      "title": "열혈강호: 넥스트",
+      "developer": "Kingnet Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+      "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.d3p.olympic",
+      "title": "Magic: Puzzle Quest",
+      "developer": "505 Go Inc.",
+      "icon": "https://play-lh.googleusercontent.com/fwWqpDfS0qzolNo4Q3JGof9UpbY3GlMFWWLQtsuHkNqFlOlKBUQKrJut_k-DfisS_mdbCrQjSuE-PH6JBDrN",
+      "url": "https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=ko&gl=KR",
       "discoveredDate": "2026-07-30",
       "isGame": true
     },
@@ -4696,15 +4716,6 @@
       "isGame": true
     },
     {
-      "appId": "com.ondi.fortias.saga",
-      "title": "Fortias Saga: Idle RPG",
-      "developer": "ONDI TECHNOLOGY JSC",
-      "icon": "https://play-lh.googleusercontent.com/Bgv_6KxGJn3E-FYUHSXTuzxC8ffnuQ-u61i-mwzhe-aXwdcZu8ct9Bl-UK4UgylGSNtj-VGc1Hde2QMkkLO17A",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.saga&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-19",
-      "isGame": true
-    },
-    {
       "appId": "com.aldagames.zombero.bullet.hell",
       "title": "Zombero: Archero Doom Shooter",
       "developer": "Alda Games",
@@ -4747,15 +4758,6 @@
       "icon": "https://play-lh.googleusercontent.com/VPw6Np6VusWZpkAB5rvZWbuSGmZnz1v85EQMwaoMBbZlI_gB_pWVwvBOf0tiFxN_t5EiIq_0ye7UzDZNhPOnOw",
       "url": "https://play.google.com/store/apps/details?id=com.leap.searchit&hl=ko&gl=KR",
       "discoveredDate": "2026-05-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.raventurn.realcoaster",
-      "title": "Real Coaster: Idle Tycoon",
-      "developer": "Raventurn Games",
-      "icon": "https://play-lh.googleusercontent.com/NWQqiZ8EUS-xSBbrqLn2gZq6zWeEpGCEm7ke7dH6IJb31pOc3BStWwUZwWhrODw6PXvt",
-      "url": "https://play.google.com/store/apps/details?id=com.raventurn.realcoaster&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-18",
       "isGame": true
     },
     {
