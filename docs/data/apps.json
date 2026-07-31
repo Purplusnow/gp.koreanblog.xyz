@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T20:25:14.222Z",
+  "updatedAt": "2026-07-31T22:12:32.106Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1543,7 +1543,8 @@
     "com.korea.hsbbkr.google",
     "com.playgendary.polyspherecoolgame",
     "com.newmoonproduction.sunshineisland",
-    "com.cedargames.word.sort.fun"
+    "com.cedargames.word.sort.fun",
+    "com.loop.clear.cube.free.card.puzzle.sort.match"
   ],
   "items": [
     {
@@ -1561,6 +1562,15 @@
       "developer": "Cedar Games Studio",
       "icon": "https://play-lh.googleusercontent.com/A3VlT33MbYYSwmtKrk6q-tZw9Xw1HhlAV92c0wjek_wc4a8BYII2uAzfC68UaFkPBmD6vr_ZbEbIKILkfbINcQ",
       "url": "https://play.google.com/store/apps/details?id=com.cedargames.word.sort.fun&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.loop.clear.cube.free.card.puzzle.sort.match",
+      "title": "Loop Master: 컬러 정렬 퍼즐",
+      "developer": "Pleasure City",
+      "icon": "https://play-lh.googleusercontent.com/y0hlrHNAOWgF1TZdB5kLr7d4BfxgTlqqUG142YLUBfXdRxeL0xLZi9uuDKKV8nTZRD38YErrc7sL2DjjLDFW",
+      "url": "https://play.google.com/store/apps/details?id=com.loop.clear.cube.free.card.puzzle.sort.match&hl=ko&gl=KR",
       "discoveredDate": "2026-08-01",
       "isGame": true
     },
@@ -4685,15 +4695,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.naddic.bbhero",
-      "title": "별별히어로 : 영웅 다 있소",
-      "developer": "Mafgames",
-      "icon": "https://play-lh.googleusercontent.com/g5EoFBv6Z2-eDON25vV9UaIaLV1h1bQnqZ-mgNERcLoonsVaepsVHiKETZ4WQ2ZN04Xm6Pw3p82vRSeYcDKcfQ",
-      "url": "https://play.google.com/store/apps/details?id=com.naddic.bbhero&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
