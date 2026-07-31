@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T14:28:15.182Z",
+  "updatedAt": "2026-07-31T16:51:06.352Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1541,9 +1541,19 @@
     "com.dramaton.slimepet",
     "com.fruitshake.fairyrpg",
     "com.korea.hsbbkr.google",
-    "com.playgendary.polyspherecoolgame"
+    "com.playgendary.polyspherecoolgame",
+    "com.newmoonproduction.sunshineisland"
   ],
   "items": [
+    {
+      "appId": "com.newmoonproduction.sunshineisland",
+      "title": "선샤인 아일랜드 (Sunshine Island)",
+      "developer": "Goodgame Studios",
+      "icon": "https://play-lh.googleusercontent.com/v1bjDUGJjAs7L9woZPW94YAIcoqIPR3EspxLhsJfwOk0a2whsYaC3BehMt_4l4A-RPkWW84rsJapynPOFwDwtoI",
+      "url": "https://play.google.com/store/apps/details?id=com.newmoonproduction.sunshineisland&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-01",
+      "isGame": true
+    },
     {
       "appId": "jp.gungho.padKO",
       "title": "퍼즐앤드래곤",
@@ -4665,15 +4675,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.lightcore.unknownherosagakor",
-      "title": "미송자의 노래: 도트 방치형 RPG",
-      "developer": "Lightcore Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/b513TUGNcY5Byv97gV97dddDyldWSvT0dCgJJcoGt2Sw7zmHVpzTuaAUqzGOMaYLRcIMKg-HUNGouuQY673ffg",
-      "url": "https://play.google.com/store/apps/details?id=com.lightcore.unknownherosagakor&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
