@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T04:31:41.463Z",
+  "updatedAt": "2026-07-31T08:05:53.698Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1539,7 +1539,9 @@
     "jp.gungho.padKO",
     "com.netmarble.mherosgb",
     "com.dramaton.slimepet",
-    "com.fruitshake.fairyrpg"
+    "com.fruitshake.fairyrpg",
+    "com.korea.hsbbkr.google",
+    "com.playgendary.polyspherecoolgame"
   ],
   "items": [
     {
@@ -1575,6 +1577,24 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/waYbIkYl9u3uYLVT8zQUekshoFvoKpHg9zpuTUzh24kSgoDHtvyXzTeSO5qpB58NdP8zQ9r4uab6O89OWOOaCA",
       "url": "https://play.google.com/store/apps/details?id=com.fruitshake.fairyrpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.korea.hsbbkr.google",
+      "title": "도깨비 소녀와 함께",
+      "developer": "Apex Esports Network Limited",
+      "icon": "https://play-lh.googleusercontent.com/E9IdozLHE5pWbDGeUqxWuRj1zGbE2x2uySXfNy1BR_qS65d7N--IzBkH0T2d4btGeM8qI2EM9BJn0xRmjVu3og",
+      "url": "https://play.google.com/store/apps/details?id=com.korea.hsbbkr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.polyspherecoolgame",
+      "title": "폴리스피어: 아트 퍼즐 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/aWGive7ThVYwQdpeWYWIlTHN8nfKjy3rP0pr-9IDAXw2fe8OzM4p8rX7QSAq186zd7lF4EkJlwYbeDOnfWjJkA",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.polyspherecoolgame&hl=ko&gl=KR",
       "discoveredDate": "2026-07-31",
       "isGame": true
     },
@@ -4648,15 +4668,6 @@
       "isGame": true
     },
     {
-      "appId": "com.vizorapps.merge",
-      "title": "Pines Peak: 로얄 머지 게임",
-      "developer": "VIZOR APPS LTD.",
-      "icon": "https://play-lh.googleusercontent.com/UoXdA72zj9COWscdqypevzJbBKnsrTaQ9qp3QA3OSO6j2BnKdH8L_8ufT5uoVo8MAbYL7YgrB0cfQzr4xwcD",
-      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
       "appId": "com.lightcore.unknownherosagakor",
       "title": "미송자의 노래: 도트 방치형 RPG",
       "developer": "Lightcore Games Limited",
@@ -4753,15 +4764,6 @@
       "icon": "https://play-lh.googleusercontent.com/KTxVzqzRRu1xFag0gp-yfS_4nSkH1zHzYV9n3U20X3qQ6oDPoBFjUXrNG8W6HWmf06c",
       "url": "https://play.google.com/store/apps/details?id=com.my.cooking.chef.kitchen.craze.fever&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.leap.searchit",
-      "title": "Search It – 숨은그림찾기",
-      "developer": "Leap Game Studios",
-      "icon": "https://play-lh.googleusercontent.com/VPw6Np6VusWZpkAB5rvZWbuSGmZnz1v85EQMwaoMBbZlI_gB_pWVwvBOf0tiFxN_t5EiIq_0ye7UzDZNhPOnOw",
-      "url": "https://play.google.com/store/apps/details?id=com.leap.searchit&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-19",
       "isGame": true
     },
     {
