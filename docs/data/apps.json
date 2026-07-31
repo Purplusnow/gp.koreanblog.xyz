@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T00:11:46.832Z",
+  "updatedAt": "2026-07-31T04:31:41.463Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1536,7 +1536,10 @@
     "com.sugargame.mjlj.gp",
     "com.rxjhglkr.gp",
     "com.d3p.olympic",
-    "jp.gungho.padKO"
+    "jp.gungho.padKO",
+    "com.netmarble.mherosgb",
+    "com.dramaton.slimepet",
+    "com.fruitshake.fairyrpg"
   ],
   "items": [
     {
@@ -1545,6 +1548,33 @@
       "developer": "GungHo Online Entertainment, Inc.",
       "icon": "https://play-lh.googleusercontent.com/t70uE_YeQkZ_080ReFVUETvtJKpOi9HutRCASqVzOOZZw5SJsquEUWD0pi7nPchfbPE6ere8onuflQfF_r8wBfc",
       "url": "https://play.google.com/store/apps/details?id=jp.gungho.padKO&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.mherosgb",
+      "title": "MARVEL 퓨처파이트",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/AJu2Xz_kntkH5ZKf3LLrIgf5WlRtaGJ6lgCUr0NLohcdlAfM8NKJMJSZcpLhz480UNQ_Ugt_4HBzr4pzRC3NvbI",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.mherosgb&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.dramaton.slimepet",
+      "title": "Bruno – 브루노 – 나의 귀여운 슬라임 몬스터 펫",
+      "developer": "Dramaton",
+      "icon": "https://play-lh.googleusercontent.com/0KN1fLyMh8TtYcUfujUXi0AYPFr-TiIUSO4x7T-NTlkppZ8Z0kfisXKg06Xy7St_btfi8N3kkdJ2tfqeknNWnQ",
+      "url": "https://play.google.com/store/apps/details?id=com.dramaton.slimepet&hl=ko&gl=KR",
+      "discoveredDate": "2026-07-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.fruitshake.fairyrpg",
+      "title": "에이지 오브 리벤지: 턴제 RPG",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/waYbIkYl9u3uYLVT8zQUekshoFvoKpHg9zpuTUzh24kSgoDHtvyXzTeSO5qpB58NdP8zQ9r4uab6O89OWOOaCA",
+      "url": "https://play.google.com/store/apps/details?id=com.fruitshake.fairyrpg&hl=ko&gl=KR",
       "discoveredDate": "2026-07-31",
       "isGame": true
     },
@@ -4723,33 +4753,6 @@
       "icon": "https://play-lh.googleusercontent.com/KTxVzqzRRu1xFag0gp-yfS_4nSkH1zHzYV9n3U20X3qQ6oDPoBFjUXrNG8W6HWmf06c",
       "url": "https://play.google.com/store/apps/details?id=com.my.cooking.chef.kitchen.craze.fever&hl=ko&gl=KR",
       "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapps.roguelike.rpg.cardguardians",
-      "title": "Card Guardians Roguelike Games",
-      "developer": "Tapps Games - PT",
-      "icon": "https://play-lh.googleusercontent.com/ZJrZOKBQJzdFYPVX5Pt1aeshVSu94vlOBa7_cdiGQfAOovogQsn04XBYnKRHAprOUPE",
-      "url": "https://play.google.com/store/apps/details?id=com.tapps.roguelike.rpg.cardguardians&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.funplus.familyfarm",
-      "title": "패밀리팜",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/NOm5nhqI7T5IT_4hct96i_gdU1sp4z_WXgtBb6SIdDJXN29AoDiJa0iKcOEZsVjpU1Y",
-      "url": "https://play.google.com/store/apps/details?id=com.funplus.familyfarm&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.pg.crossrim",
-      "title": "크로스림:오디세이",
-      "developer": "Capcloud",
-      "icon": "https://play-lh.googleusercontent.com/gxNWp2pvXDvi9Ytxs_AbD2nfE6qsfMszqEx7wqwayyyh29LDla4JTPWaWDQ8NpzMjw",
-      "url": "https://play.google.com/store/apps/details?id=com.pg.crossrim&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-19",
       "isGame": true
     },
     {
