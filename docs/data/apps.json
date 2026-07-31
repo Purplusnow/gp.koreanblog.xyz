@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:39:47.314Z",
+  "updatedAt": "2026-07-31T20:25:14.222Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1542,7 +1542,8 @@
     "com.fruitshake.fairyrpg",
     "com.korea.hsbbkr.google",
     "com.playgendary.polyspherecoolgame",
-    "com.newmoonproduction.sunshineisland"
+    "com.newmoonproduction.sunshineisland",
+    "com.cedargames.word.sort.fun"
   ],
   "items": [
     {
@@ -1551,6 +1552,15 @@
       "developer": "Goodgame Studios",
       "icon": "https://play-lh.googleusercontent.com/v1bjDUGJjAs7L9woZPW94YAIcoqIPR3EspxLhsJfwOk0a2whsYaC3BehMt_4l4A-RPkWW84rsJapynPOFwDwtoI",
       "url": "https://play.google.com/store/apps/details?id=com.newmoonproduction.sunshineisland&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.cedargames.word.sort.fun",
+      "title": "Word Sort Fun! - 재미 단어 분류",
+      "developer": "Cedar Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/A3VlT33MbYYSwmtKrk6q-tZw9Xw1HhlAV92c0wjek_wc4a8BYII2uAzfC68UaFkPBmD6vr_ZbEbIKILkfbINcQ",
+      "url": "https://play.google.com/store/apps/details?id=com.cedargames.word.sort.fun&hl=ko&gl=KR",
       "discoveredDate": "2026-08-01",
       "isGame": true
     },
@@ -4675,15 +4685,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "co.imba.archero",
-      "title": "아처 헌터 - 오프라인 액션 RPG 게임",
-      "developer": "Suga Studio",
-      "icon": "https://play-lh.googleusercontent.com/9hx0qGNoS32QtcKq1ECd9iKgRbmyAmFkhhfTe3vOy8FxBmBfIspkiPffSpCJKxCJuq6uWaz1ygrnorIZISNDEE0",
-      "url": "https://play.google.com/store/apps/details?id=co.imba.archero&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
