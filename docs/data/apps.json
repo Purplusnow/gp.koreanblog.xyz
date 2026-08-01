@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:13:08.540Z",
+  "updatedAt": "2026-08-01T22:04:04.711Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1545,7 +1545,8 @@
     "com.newmoonproduction.sunshineisland",
     "com.cedargames.word.sort.fun",
     "com.loop.clear.cube.free.card.puzzle.sort.match",
-    "com.scopely.whiplash"
+    "com.scopely.whiplash",
+    "com.horus.beach.head"
   ],
   "items": [
     {
@@ -1554,6 +1555,15 @@
       "developer": "Scopely",
       "icon": "https://play-lh.googleusercontent.com/dT8HPYRKsJUPFvp115OQ_IFtgY9b0JpQ9uD12YuqjDqf3OkstRwNMF_AWt2I7pNPPpIqrj_909CCHwD8_3bSs6E",
       "url": "https://play.google.com/store/apps/details?id=com.scopely.whiplash&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.horus.beach.head",
+      "title": "World War: 자유를 위해 싸우다",
+      "developer": "Horus Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/ESVkLUzeszp_HXzfxD8FZ6yXxC1IFC88aSDJevgLka_glYB1oLNiIqExTBPLB8-YOxTV_al5OEJdQIZ7VhL882A",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.beach.head&hl=ko&gl=KR",
       "discoveredDate": "2026-08-02",
       "isGame": true
     },
@@ -4705,15 +4715,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.minigame.android.google.global.normal",
-      "title": "미니게임천국 (feat.액션퍼즐패밀리)",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/7Q-6UdvuFmf6ZXYJZNYfyg1mYWDA05CJgnNoQGQ1KB-8y_QtVOENfD4uNFaa1_rtwg",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.minigame.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
