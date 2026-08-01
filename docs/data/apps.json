@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T18:06:36.243Z",
+  "updatedAt": "2026-08-01T20:13:08.540Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1544,9 +1544,19 @@
     "com.playgendary.polyspherecoolgame",
     "com.newmoonproduction.sunshineisland",
     "com.cedargames.word.sort.fun",
-    "com.loop.clear.cube.free.card.puzzle.sort.match"
+    "com.loop.clear.cube.free.card.puzzle.sort.match",
+    "com.scopely.whiplash"
   ],
   "items": [
+    {
+      "appId": "com.scopely.whiplash",
+      "title": "WWE Champions",
+      "developer": "Scopely",
+      "icon": "https://play-lh.googleusercontent.com/dT8HPYRKsJUPFvp115OQ_IFtgY9b0JpQ9uD12YuqjDqf3OkstRwNMF_AWt2I7pNPPpIqrj_909CCHwD8_3bSs6E",
+      "url": "https://play.google.com/store/apps/details?id=com.scopely.whiplash&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-02",
+      "isGame": true
+    },
     {
       "appId": "com.newmoonproduction.sunshineisland",
       "title": "선샤인 아일랜드 (Sunshine Island)",
@@ -4695,15 +4705,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.Playrion.AirlinesManager2",
-      "title": "Airlines Manager: Plane Tycoon",
-      "developer": "Playrion",
-      "icon": "https://play-lh.googleusercontent.com/dwq4cO_LdzDUqge2VSZ87CK9JDaXn9nstO81iLQv3pwB3-Z1oKx_LFnkUITd6656ORQ4",
-      "url": "https://play.google.com/store/apps/details?id=com.Playrion.AirlinesManager2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
