@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T21:05:25.643Z",
+  "updatedAt": "2026-08-02T22:07:09.190Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1550,7 +1550,9 @@
     "com.unicostudio.voxelblastjam",
     "linkdesks.bubblegames.bubbleshooter.royal.pop",
     "com.roomperfect.global",
-    "com.joydo.minestrikenew"
+    "com.joydo.minestrikenew",
+    "com.heliogames.westland",
+    "pl.idreams.Dino"
   ],
   "items": [
     {
@@ -1586,6 +1588,24 @@
       "developer": "Riovox",
       "icon": "https://play-lh.googleusercontent.com/Qd4XXDsKr_I5zJviO1pqNZkh3DFw1JrkJYu6on23mHOaQp--7WsIJprHzEcBfxhwMpH3K82VR6U7lswVNRVy",
       "url": "https://play.google.com/store/apps/details?id=com.joydo.minestrikenew&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.heliogames.westland",
+      "title": "Westland Survival: 카우보이 게임",
+      "developer": "Helio Games",
+      "icon": "https://play-lh.googleusercontent.com/8s9HBCUKCSt8PSrQ8rZL2LyiVB4xtazUbQYbua1YINqOs1TdycN8_IlZ3FfLPPyBOZGBF833qHpzMSk4hoHGyA",
+      "url": "https://play.google.com/store/apps/details?id=com.heliogames.westland&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-03",
+      "isGame": true
+    },
+    {
+      "appId": "pl.idreams.Dino",
+      "title": "나만의 디노 파크 (Crazy Dino Park)",
+      "developer": "Infinite Dreams",
+      "icon": "https://play-lh.googleusercontent.com/ZjOZt105HQCSHvyGxSKpgAbKdzIR4Yh_tdtN-1_NtWCT--q6lIiEmQPNfsb-WgcZBGt0xsYwOPasDJ0ExrS9y00",
+      "url": "https://play.google.com/store/apps/details?id=pl.idreams.Dino&hl=ko&gl=KR",
       "discoveredDate": "2026-08-03",
       "isGame": true
     },
@@ -4755,24 +4775,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.yulong.sgame.gp",
-      "title": "퓨어 화이트 대작전：뮤지컬 소녀의 마법 모험",
-      "developer": "Gaminpower",
-      "icon": "https://play-lh.googleusercontent.com/3A9PZLKwBns5fev_yBDY6zbfIc7PnYl0hHji58AtdVtQzX-xTfQaRfft1PVbnVheJSxc827j68rRZfxhQNjUnA",
-      "url": "https://play.google.com/store/apps/details?id=com.yulong.sgame.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.my.cooking.chef.kitchen.craze.fever",
-      "title": "내 요리: 미치도록 빠른 레스토랑 요리 게임",
-      "developer": "gameone",
-      "icon": "https://play-lh.googleusercontent.com/KTxVzqzRRu1xFag0gp-yfS_4nSkH1zHzYV9n3U20X3qQ6oDPoBFjUXrNG8W6HWmf06c",
-      "url": "https://play.google.com/store/apps/details?id=com.my.cooking.chef.kitchen.craze.fever&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
