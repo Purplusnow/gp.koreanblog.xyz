@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T15:11:33.960Z",
+  "updatedAt": "2026-08-02T17:10:23.910Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1546,9 +1546,29 @@
     "com.cedargames.word.sort.fun",
     "com.loop.clear.cube.free.card.puzzle.sort.match",
     "com.scopely.whiplash",
-    "com.horus.beach.head"
+    "com.horus.beach.head",
+    "com.unicostudio.voxelblastjam",
+    "linkdesks.bubblegames.bubbleshooter.royal.pop"
   ],
   "items": [
+    {
+      "appId": "com.unicostudio.voxelblastjam",
+      "title": "Voxel Blast Jam",
+      "developer": "Unico Studio",
+      "icon": "https://play-lh.googleusercontent.com/ymbqPDAdCEN67fbIWUPsObgCEmRFfLg2GsCgHSETtdLCAue-ZSxx1pkJnp1ldgzdm72d4Tioq7qWl6yaVpHxePk",
+      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.voxelblastjam&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-03",
+      "isGame": true
+    },
+    {
+      "appId": "linkdesks.bubblegames.bubbleshooter.royal.pop",
+      "title": "버블 슈터 로열 팝 - Bubble shooter",
+      "developer": "LinkDesks Classic Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/GSfrO-pylYSCY3eq1kkvRi8jfgp6YzUNv_RqwFTSz38froiT2453Guqv9eqwpEZTPc3GDhsu2eZappvVJwqI",
+      "url": "https://play.google.com/store/apps/details?id=linkdesks.bubblegames.bubbleshooter.royal.pop&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-03",
+      "isGame": true
+    },
     {
       "appId": "com.scopely.whiplash",
       "title": "WWE Champions",
@@ -4715,24 +4735,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.godzilab.idlerpg",
-      "title": "모두 부수세요 - PVP 방치형 RPG",
-      "developer": "Imperia Online JSC",
-      "icon": "https://play-lh.googleusercontent.com/3NXqFDy4GxFSJ2jFjoOVJzLrRgvrdlgnCbSerOvVX-Xo3AfxRbrjCejpuw_Ne3OrAE53",
-      "url": "https://play.google.com/store/apps/details?id=com.godzilab.idlerpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.kofafk",
-      "title": "킹 오브 파이터 AFK",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/gzYCg8GGxbHYIUpLJ00w6B7dhUEOMQkn1JyxxLdCGvr7Px_ton0MUGqKSkR4pl-xfnr92lMV84tD6G82z2Fq",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.kofafk&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
