@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:23:02.710Z",
+  "updatedAt": "2026-08-02T21:05:25.643Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1548,7 +1548,9 @@
     "com.scopely.whiplash",
     "com.horus.beach.head",
     "com.unicostudio.voxelblastjam",
-    "linkdesks.bubblegames.bubbleshooter.royal.pop"
+    "linkdesks.bubblegames.bubbleshooter.royal.pop",
+    "com.roomperfect.global",
+    "com.joydo.minestrikenew"
   ],
   "items": [
     {
@@ -1566,6 +1568,24 @@
       "developer": "LinkDesks Classic Puzzle Games",
       "icon": "https://play-lh.googleusercontent.com/GSfrO-pylYSCY3eq1kkvRi8jfgp6YzUNv_RqwFTSz38froiT2453Guqv9eqwpEZTPc3GDhsu2eZappvVJwqI",
       "url": "https://play.google.com/store/apps/details?id=linkdesks.bubblegames.bubbleshooter.royal.pop&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.roomperfect.global",
+      "title": "Family Farm Merge",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/Ppu-bx-N-lFEx_47WbCbV0aIQXBwov_YZi-F0luYYMaPU1ubK8zsnFbMmppTmw49Hdb-Gni9Zjh0KdcFB3M69io",
+      "url": "https://play.google.com/store/apps/details?id=com.roomperfect.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-03",
+      "isGame": true
+    },
+    {
+      "appId": "com.joydo.minestrikenew",
+      "title": "Cops N Robbers (FPS) - 경찰과 강도！",
+      "developer": "Riovox",
+      "icon": "https://play-lh.googleusercontent.com/Qd4XXDsKr_I5zJviO1pqNZkh3DFw1JrkJYu6on23mHOaQp--7WsIJprHzEcBfxhwMpH3K82VR6U7lswVNRVy",
+      "url": "https://play.google.com/store/apps/details?id=com.joydo.minestrikenew&hl=ko&gl=KR",
       "discoveredDate": "2026-08-03",
       "isGame": true
     },
@@ -4735,24 +4755,6 @@
       "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
       "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
       "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.fungi.houseflip",
-      "title": "House Flip",
-      "developer": "fun-gi",
-      "icon": "https://play-lh.googleusercontent.com/OW2uAkp2DkG83zNJQGO_HOW-mrDy7_rQ6KdQJZbLSWF16Ot_FDmI7U8G3mlhaLP36XXQMCDEOxwR-VJuwwVtEGU",
-      "url": "https://play.google.com/store/apps/details?id=com.fungi.houseflip&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.funstay.android.global.idlerpgv1",
-      "title": "다크스타 : 방치형 RPG",
-      "developer": "Neptune Corp.",
-      "icon": "https://play-lh.googleusercontent.com/mHdddeSe4rjWSZChb4Jvd5OYjINUp7lb5bhIp6AkNNT-D_PgvWx6VA8bbXUJFvHtkIo",
-      "url": "https://play.google.com/store/apps/details?id=com.funstay.android.global.idlerpgv1&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-20",
       "isGame": true
     },
     {
