@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T15:31:34.092Z",
+  "updatedAt": "2026-08-04T17:59:29.170Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1560,7 +1560,10 @@
     "sonic.bubbleshoot.classic",
     "com.devsisters.cc",
     "com.igenesoft.hide",
-    "com.idle.breaker.game"
+    "com.idle.breaker.game",
+    "com.pixodust.games.free.rpg.medieval.merge.puzzle.empire",
+    "com.solotopiax.merge.cooking",
+    "com.ayasis.mentalup"
   ],
   "items": [
     {
@@ -1578,6 +1581,33 @@
       "developer": "Estoty",
       "icon": "https://play-lh.googleusercontent.com/l50Ed0cOUkjP3oqaIMjsdaUCGeM97f7RlAdsBPva32in9DvrT7kdHadiMDhxi7LS4A4B0LvwJVRxfRfjZGdo",
       "url": "https://play.google.com/store/apps/details?id=com.idle.breaker.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixodust.games.free.rpg.medieval.merge.puzzle.empire",
+      "title": "Medieval Merge: 에픽 RPG 게임",
+      "developer": "Pixodust Games",
+      "icon": "https://play-lh.googleusercontent.com/DGFQ0BSQHSDnXeuNyRcEQn9oO4kuvBc4EJKmX5Uo-Nf0BcMx7uTJbL3fnY68FkFUNndOHmok_B-kNG-kFhcCpQ",
+      "url": "https://play.google.com/store/apps/details?id=com.pixodust.games.free.rpg.medieval.merge.puzzle.empire&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.solotopiax.merge.cooking",
+      "title": "Merge Bistro™ 요리 & 꾸미기",
+      "developer": "Gaming Laboratory",
+      "icon": "https://play-lh.googleusercontent.com/mCtcrh3Xx6pMoB3iyIA5cN7VXL-EB-HxFjTwIlfmTZ2ELTUGUeqK83Es0Qk5VPz9ZqrYEjrCzQHKP5XhMKCBQw",
+      "url": "https://play.google.com/store/apps/details?id=com.solotopiax.merge.cooking&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.ayasis.mentalup",
+      "title": "아이들을 위한 두뇌 게임",
+      "developer": "MentalUP - Learning Games for Kids",
+      "icon": "https://play-lh.googleusercontent.com/nsOqY2S5elsIlnsDbiQsd7LkgUag0oVq2hU52H6MUXmWqLBIrOvFfADvPC_5p0XTDywoufhmQ8Zai8Mpf7nl",
+      "url": "https://play.google.com/store/apps/details?id=com.ayasis.mentalup&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
       "isGame": true
     },
@@ -4612,33 +4642,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.miniclip.basketballstars",
-      "title": "Basketball Stars: 멀티플레이어",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/IwJlaXKcLSfIkLE_aINFAT4UJszoaU9pC9fs8OqGIhV5GoyFPFk1HfuKWa2DKeQDGmAz",
-      "url": "https://play.google.com/store/apps/details?id=com.miniclip.basketballstars&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.edkongames.mobs",
-      "title": "현대 작전 - 총게임 온라인게임 FPS",
-      "developer": "Edkon Games GmbH",
-      "icon": "https://play-lh.googleusercontent.com/YZnqvKDGCILAzvfT-bmYfiH6Msvt_xc1XJ7wQzM1IjZ_nl8i0Al3i5YWBNszhdkhMUY",
-      "url": "https://play.google.com/store/apps/details?id=com.edkongames.mobs&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.amanotes.duetfriends",
-      "title": "Duet Friends: 귀여운 동물 음악 게임",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/cik44rG0c2-G_x8gaH-DUCVHDkjDLt7tNFAetX3P8sSTwaWeAi5FPIVAAS7wYS09hmU",
-      "url": "https://play.google.com/store/apps/details?id=com.amanotes.duetfriends&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
