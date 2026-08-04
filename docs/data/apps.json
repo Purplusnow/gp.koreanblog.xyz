@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:36:25.608Z",
+  "updatedAt": "2026-08-04T09:44:55.137Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1556,7 +1556,8 @@
     "com.coolcatsgames.racestaridle",
     "vh.one",
     "com.checkbox.minershminer",
-    "com.pz.life.android"
+    "com.pz.life.android",
+    "sonic.bubbleshoot.classic"
   ],
   "items": [
     {
@@ -1592,6 +1593,15 @@
       "developer": "Pocket Worlds",
       "icon": "https://play-lh.googleusercontent.com/i9_0YyHuhCi9Iyx_PWqxmjRxa7sMudKfnnN609AHNRKUgIEesDeXwnV9ebRW87ty43ffGyYh7VvxIJQWwFkzsg",
       "url": "https://play.google.com/store/apps/details?id=com.pz.life.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-04",
+      "isGame": true
+    },
+    {
+      "appId": "sonic.bubbleshoot.classic",
+      "title": "Bubble Pop Dream: Bubble Shoot",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/8SWW_m0H_yInjShoUaaTefmHHKpAk_9nJJMvjkLwkIGRT17tG7Di_h58N71hDdKDjGRHxmgsqIwu_6HLpNwm0tA",
+      "url": "https://play.google.com/store/apps/details?id=sonic.bubbleshoot.classic&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
       "isGame": true
     },
@@ -4572,15 +4582,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.ch.ruler.match",
-      "title": "Ruler Match: 타일 퍼즐",
-      "developer": "Fungoodgames",
-      "icon": "https://play-lh.googleusercontent.com/b6Mg6V_fxCWI8fJnIsgPKeKL8hd3LbZb2qmBdCi37fBs638s8_yH5aKrTCy3rbuMHQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ch.ruler.match&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
