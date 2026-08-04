@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T12:09:16.833Z",
+  "updatedAt": "2026-08-04T15:31:34.092Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1558,9 +1558,29 @@
     "com.checkbox.minershminer",
     "com.pz.life.android",
     "sonic.bubbleshoot.classic",
-    "com.devsisters.cc"
+    "com.devsisters.cc",
+    "com.igenesoft.hide",
+    "com.idle.breaker.game"
   ],
   "items": [
+    {
+      "appId": "com.igenesoft.hide",
+      "title": "숨바꼭질 온라인 - 실시간 숨바꼭질",
+      "developer": "iGene",
+      "icon": "https://play-lh.googleusercontent.com/-4oaztlPc5oBE-m8Aqg0V1ITNG0e3Q2VXuBd9DEl4vaU1DBI8gpCTFtvxdSxQpbVKlY07KC_JojyqyqNxjRi-A",
+      "url": "https://play.google.com/store/apps/details?id=com.igenesoft.hide&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.idle.breaker.game",
+      "title": "Idle Breaker - Last Survival",
+      "developer": "Estoty",
+      "icon": "https://play-lh.googleusercontent.com/l50Ed0cOUkjP3oqaIMjsdaUCGeM97f7RlAdsBPva32in9DvrT7kdHadiMDhxi7LS4A4B0LvwJVRxfRfjZGdo",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.breaker.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
     {
       "appId": "com.coolcatsgames.racestaridle",
       "title": "Race Star - Team Manager Game",
@@ -4592,24 +4612,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.asobimo.avabel_gp_b3",
-      "title": "신의 탑-하늘의 정원 　AVABEL Online",
-      "developer": "Asobimo, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/0LTEvBFENzQQ23az42DSDoudvBgx8OE-ZsdfHRPqdS5_m0-R1BnT_U4Q4-oXaE__j0meSt3GQRDs0UChE2siIg",
-      "url": "https://play.google.com/store/apps/details?id=com.asobimo.avabel_gp_b3&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.sandboxol.blockymods",
-      "title": "Blockman Go",
-      "developer": "Blockman GO studio",
-      "icon": "https://play-lh.googleusercontent.com/YK-kgK6_jF5nx3FdyOskpLLVu-5jfr_hncm851KD1dAM2TJCwTFguyNl52INMxXpJdI",
-      "url": "https://play.google.com/store/apps/details?id=com.sandboxol.blockymods&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
