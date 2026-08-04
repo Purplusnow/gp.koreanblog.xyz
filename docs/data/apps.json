@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:59:29.170Z",
+  "updatedAt": "2026-08-04T19:49:08.825Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1563,7 +1563,8 @@
     "com.idle.breaker.game",
     "com.pixodust.games.free.rpg.medieval.merge.puzzle.empire",
     "com.solotopiax.merge.cooking",
-    "com.ayasis.mentalup"
+    "com.ayasis.mentalup",
+    "com.sparklingsocietysims.towncitybrawlworldofbrawlers"
   ],
   "items": [
     {
@@ -1608,6 +1609,15 @@
       "developer": "MentalUP - Learning Games for Kids",
       "icon": "https://play-lh.googleusercontent.com/nsOqY2S5elsIlnsDbiQsd7LkgUag0oVq2hU52H6MUXmWqLBIrOvFfADvPC_5p0XTDywoufhmQ8Zai8Mpf7nl",
       "url": "https://play.google.com/store/apps/details?id=com.ayasis.mentalup&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.sparklingsocietysims.towncitybrawlworldofbrawlers",
+      "title": "Village City - 타운 빌딩 심 게임",
+      "developer": "Sparkling Society - Build a Town, City, Village",
+      "icon": "https://play-lh.googleusercontent.com/9Y5y0SuspX_iM41KxVJHtMkzCsaFm5frycI5JXOMzSFQo-NvnOYlKiuPOMkDLKxWt5_9A5EqNfVt8bcQL-6E",
+      "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietysims.towncitybrawlworldofbrawlers&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
       "isGame": true
     },
@@ -4642,15 +4652,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "me.pou.app",
-      "title": "Pou",
-      "developer": "Zakeh",
-      "icon": "https://play-lh.googleusercontent.com/xToRFw-mqA18HtizgutV0K1IouakfR8iJ3PW75u-1n1oxbP7hVfBMlgHWIwuUYKKS_s",
-      "url": "https://play.google.com/store/apps/details?id=me.pou.app&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
