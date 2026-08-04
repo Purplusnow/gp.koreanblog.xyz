@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T09:44:55.137Z",
+  "updatedAt": "2026-08-04T12:09:16.833Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1557,7 +1557,8 @@
     "vh.one",
     "com.checkbox.minershminer",
     "com.pz.life.android",
-    "sonic.bubbleshoot.classic"
+    "sonic.bubbleshoot.classic",
+    "com.devsisters.cc"
   ],
   "items": [
     {
@@ -1602,6 +1603,15 @@
       "developer": "Oakever Games",
       "icon": "https://play-lh.googleusercontent.com/8SWW_m0H_yInjShoUaaTefmHHKpAk_9nJJMvjkLwkIGRT17tG7Di_h58N71hDdKDjGRHxmgsqIwu_6HLpNwm0tA",
       "url": "https://play.google.com/store/apps/details?id=sonic.bubbleshoot.classic&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.devsisters.cc",
+      "title": "쿠키런 키우기 - 쿠키런: 크럼블",
+      "developer": "Devsisters Corporation",
+      "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
       "isGame": true
     },
@@ -4582,15 +4592,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "word.games.puzzle.offline.games",
-      "title": "낱말퀴즈-단어&단어게임&두뇌 훈련&현실적인 게임",
-      "developer": "Astrasen Global",
-      "icon": "https://play-lh.googleusercontent.com/fYeACZGDVaUFn4Zlga6ZR3VpdPaRDUjFCt_9oJGhy37S_9ZqnB2b1KtyVLwN3vZ-UGE",
-      "url": "https://play.google.com/store/apps/details?id=word.games.puzzle.offline.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
