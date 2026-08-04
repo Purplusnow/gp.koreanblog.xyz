@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T03:29:49.219Z",
+  "updatedAt": "2026-08-04T06:36:25.608Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1554,7 +1554,9 @@
     "com.heliogames.westland",
     "pl.idreams.Dino",
     "com.coolcatsgames.racestaridle",
-    "vh.one"
+    "vh.one",
+    "com.checkbox.minershminer",
+    "com.pz.life.android"
   ],
   "items": [
     {
@@ -1572,6 +1574,24 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/aVz3lkQI7Wz9d5nXzxd2wiF2YZF2J8D-6lXfDo58HPK9LV7sIxp-NxaR7W9lTDaYNpR9kZ9BbyxpKJww_ugufyw",
       "url": "https://play.google.com/store/apps/details?id=vh.one&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.checkbox.minershminer",
+      "title": "Idle Obelisk Miner",
+      "developer": "Checkbox Entertainment LTD",
+      "icon": "https://play-lh.googleusercontent.com/ZnA0knx9doBSiw4GPZFchMyPmwo5usthvMun5jiPnL2qENVGLpdUI5eimo-XGaxQQhFJXaOfH1gvB_mnDvS9GXY",
+      "url": "https://play.google.com/store/apps/details?id=com.checkbox.minershminer&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.pz.life.android",
+      "title": "Highrise: Dress Up Avatar Chat",
+      "developer": "Pocket Worlds",
+      "icon": "https://play-lh.googleusercontent.com/i9_0YyHuhCi9Iyx_PWqxmjRxa7sMudKfnnN609AHNRKUgIEesDeXwnV9ebRW87ty43ffGyYh7VvxIJQWwFkzsg",
+      "url": "https://play.google.com/store/apps/details?id=com.pz.life.android&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
       "isGame": true
     },
@@ -4552,24 +4572,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.grilltown.grill",
-      "title": "Corner cafe : Merge & Cook",
-      "developer": "Alchemical Inc.",
-      "icon": "https://play-lh.googleusercontent.com/r8TwULQWBUEAlQSpVjQPkAEYqrPY6AElD8HNfHs7hTIEq6wvp1q_N3AGPFfY5ViFOH4g",
-      "url": "https://play.google.com/store/apps/details?id=com.grilltown.grill&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.starstable.ssom",
-      "title": "Star Stable Online",
-      "developer": "Star Stable Entertainment AB",
-      "icon": "https://play-lh.googleusercontent.com/_W8DslDTt_Pa0joQFEfJ04eG2nOBGMb2XUfodXwJA4BU0fw_DlTCdjooCDerRG_dhSk",
-      "url": "https://play.google.com/store/apps/details?id=com.starstable.ssom&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
