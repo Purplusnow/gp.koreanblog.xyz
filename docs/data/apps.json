@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T21:21:09.359Z",
+  "updatedAt": "2026-08-05T23:12:20.051Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1569,7 +1569,8 @@
     "com.mobirix.abmon",
     "com.furywing.travel.merge",
     "factory.resource.industry",
-    "net.peakgames.match"
+    "net.peakgames.match",
+    "com.eapublishing.dhsw.paid"
   ],
   "items": [
     {
@@ -1596,6 +1597,15 @@
       "developer": "Peak",
       "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
       "url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.eapublishing.dhsw.paid",
+      "title": "그림자 헌터 잃어버린 세계 : 프리미엄",
+      "developer": "EA Publishing",
+      "icon": "https://play-lh.googleusercontent.com/-32RAQJYWTdHdGFv3G8517GVPD7rqF6Nf-E4CEAe8gZoZVMf8Dg4P6HqddY1PNiVRiJS-7cb3xX-Q2ILKD_tb7I",
+      "url": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
       "isGame": true
     },
@@ -4702,15 +4712,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.zeptolab.bulletecho.google",
-      "title": "불릿 에코",
-      "developer": "ZeptoLab",
-      "icon": "https://play-lh.googleusercontent.com/Rkz2MrSLKuN3EG7odvoj5B025V8V2aL5W-TKGvczmUw1b07SLn8W6-1FEG2ly6izydhm2Nocd1lJhZp008oQwA",
-      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.bulletecho.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
