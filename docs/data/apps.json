@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T15:23:07.304Z",
+  "updatedAt": "2026-08-05T17:49:57.791Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1566,9 +1566,39 @@
     "com.ayasis.mentalup",
     "com.sparklingsocietysims.towncitybrawlworldofbrawlers",
     "com.mobirix.airhockey",
-    "com.mobirix.abmon"
+    "com.mobirix.abmon",
+    "com.furywing.travel.merge",
+    "factory.resource.industry",
+    "net.peakgames.match"
   ],
   "items": [
+    {
+      "appId": "com.furywing.travel.merge",
+      "title": "여행 이야기: 병합된 여정",
+      "developer": "FW Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/XqBYxG0P338Y8ZEM6J1Dt6SoqK5duauy7sqrciA0INJ1s1ZkPQN5vsAGw26dYnKroIPePH88Xxs423Odeph77A",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.travel.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-06",
+      "isGame": true
+    },
+    {
+      "appId": "factory.resource.industry",
+      "title": "팩토리 월드",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/sD7k5h6xD4KJAKYqnp28GTVOiUhl8ZRyyovFzx92rTqasM3LZsnjie47rqb1AVYgZjb-oleWQ6hfkkj7xGsrJA",
+      "url": "https://play.google.com/store/apps/details?id=factory.resource.industry&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-06",
+      "isGame": true
+    },
+    {
+      "appId": "net.peakgames.match",
+      "title": "매치 팩토리(Match Factory)!",
+      "developer": "Peak",
+      "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
+      "url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-06",
+      "isGame": true
+    },
     {
       "appId": "com.igenesoft.hide",
       "title": "숨바꼭질 온라인 - 실시간 숨바꼭질",
@@ -4672,33 +4702,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-      "title": "숨은그림찾기 게임: Seek It",
-      "developer": "NimbleMind Network Inc.",
-      "icon": "https://play-lh.googleusercontent.com/wjlDWPj_fLATFob1nDPcGy_6EEEOZwpM1tjHQnVdvzJTuHJe5y0UH173Siz1oWjGuA",
-      "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.robtopx.geometryjump",
-      "title": "Geometry Dash",
-      "developer": "RobTop Games",
-      "icon": "https://play-lh.googleusercontent.com/ixHXzBWPmmKWIBxDMfjbIXK10UQCTDvIYOcs_uLXHCRbdsz2siJFYfb7MqckU8eC3Ks",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjump&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.capcom.sf4ce",
-      "title": "Street Fighter IV CE",
-      "developer": "CAPCOM CO., LTD.",
-      "icon": "https://play-lh.googleusercontent.com/8oEqWvaiUX6genNzGqe31c8FfWRnZz-KXfqnwJ8qLUGy1_XmA_XQ1BtYTm_X3JIimFdv",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.capcom.sf4ce&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
