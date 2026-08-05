@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:13:17.344Z",
+  "updatedAt": "2026-08-05T03:25:25.451Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1564,7 +1564,9 @@
     "com.pixodust.games.free.rpg.medieval.merge.puzzle.empire",
     "com.solotopiax.merge.cooking",
     "com.ayasis.mentalup",
-    "com.sparklingsocietysims.towncitybrawlworldofbrawlers"
+    "com.sparklingsocietysims.towncitybrawlworldofbrawlers",
+    "com.mobirix.airhockey",
+    "com.mobirix.abmon"
   ],
   "items": [
     {
@@ -1618,6 +1620,24 @@
       "developer": "Sparkling Society - Build a Town, City, Village",
       "icon": "https://play-lh.googleusercontent.com/9Y5y0SuspX_iM41KxVJHtMkzCsaFm5frycI5JXOMzSFQo-NvnOYlKiuPOMkDLKxWt5_9A5EqNfVt8bcQL-6E",
       "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietysims.towncitybrawlworldofbrawlers&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.airhockey",
+      "title": "에어 하키 챌린지",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/yYOmm0a3fQ_uZEG8ObB5YJxzBoWgyBCNnjgLue-md5oTSh4Vj3MK6zi0JgeOVROBgYGeguZynvrq0ViQxY-G3g",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.abmon",
+      "title": "투석기 퀘스트",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/eDBpIzcaUDYdTTWqPcFKh4f0HiucAZ4kuoOk9q86N9iFgM9IpeRPSWzwsl8UvlNCYA-8cuJKMxih_rRfWId3mg",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.abmon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
       "isGame": true
     },
@@ -4652,24 +4672,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.thg.d",
-      "title": "챔피언 스트라이크 - PvP 아레나",
-      "developer": "Two Hands Games",
-      "icon": "https://play-lh.googleusercontent.com/2C9O8tK-sCCcPmOsRv0sMF4aWWEModtnhErGYyVNSODtCqS2ZNyX_SZQoOGmG54o1JfhEkEmU9zP_ge3qEJ_WA",
-      "url": "https://play.google.com/store/apps/details?id=com.thg.d&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.luckyspingames.merge2",
-      "title": "Merge Treasure Hunt",
-      "developer": "Lucky Spin Games",
-      "icon": "https://play-lh.googleusercontent.com/HIZ0xTTajoSuM7_GJH8mhZ8P6QQJNZyGBQR2EIAA_eDrKfx4DuICAepReQcEwrao4kJMBPeSoELgSmK7WYpdOQ",
-      "url": "https://play.google.com/store/apps/details?id=com.luckyspingames.merge2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
