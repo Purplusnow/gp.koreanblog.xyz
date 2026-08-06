@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T06:40:26.353Z",
+  "updatedAt": "2026-08-06T09:46:02.213Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1570,7 +1570,8 @@
     "com.furywing.travel.merge",
     "factory.resource.industry",
     "net.peakgames.match",
-    "com.eapublishing.dhsw.paid"
+    "com.eapublishing.dhsw.paid",
+    "com.kristanix.android.mahjongsolitairetitan"
   ],
   "items": [
     {
@@ -1606,6 +1607,15 @@
       "developer": "EA Publishing",
       "icon": "https://play-lh.googleusercontent.com/-32RAQJYWTdHdGFv3G8517GVPD7rqF6Nf-E4CEAe8gZoZVMf8Dg4P6HqddY1PNiVRiJS-7cb3xX-Q2ILKD_tb7I",
       "url": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.kristanix.android.mahjongsolitairetitan",
+      "title": "Mahjong Titan",
+      "developer": "Kristanix Games",
+      "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
+      "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
       "isGame": true
     },
@@ -4712,15 +4722,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildlifestudios.free.online.games.suspects",
-      "title": "용의자들: 미스테리 맨션 (Suspects)",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/pTwou7SJK6HsLV3yAYSf5bAqnueMv08xP-TSzvoLAbBnaJ0xrirqsa5NUlugFGTJ_oaB",
-      "url": "https://play.google.com/store/apps/details?id=com.wildlifestudios.free.online.games.suspects&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
