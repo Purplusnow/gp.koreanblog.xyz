@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:36:41.583Z",
+  "updatedAt": "2026-08-07T09:12:05.393Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1575,7 +1575,8 @@
     "com.horus.warzone",
     "color.number.paint.pixle.art.sort.jigsaw",
     "com.sundaytoz.kakao.wbb",
-    "com.sts.vision"
+    "com.sts.vision",
+    "com.candy.smash.mania.match.gp"
   ],
   "items": [
     {
@@ -1611,6 +1612,15 @@
       "developer": "Magic Tavern, Inc.",
       "icon": "https://play-lh.googleusercontent.com/GMMJjQm9R16WF0AvifVAFfhFCpv_QTxavwguEwL1SQSstf9zdha2Gg6JMYzXQJj2bnts0biyTFAk9T4_62aB",
       "url": "https://play.google.com/store/apps/details?id=com.sts.vision&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.candy.smash.mania.match.gp",
+      "title": "Candy Smash Mania 2",
+      "developer": "gameone",
+      "icon": "https://play-lh.googleusercontent.com/nAildlAbAaau6jV53hP_IlzWobQEIquFXZ_rZEJ1DuShQwj6Gp3BWtfJb_wiStZ-v2W5pVc345lPAByDsP1HhA",
+      "url": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-07",
       "isGame": true
     },
@@ -4762,15 +4772,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.squareenixmontreal.hitmango",
-      "title": "Hitman GO",
-      "developer": "Deca Games",
-      "icon": "https://play-lh.googleusercontent.com/Yc5lCFD_Vm694m_2Yk7QT0KVxfXGVyNLoreJOFKy03kBEnTkEsSf2lAxy8TAi745-Q",
-      "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmango&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
