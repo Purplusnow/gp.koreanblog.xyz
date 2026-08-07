@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:23:04.023Z",
+  "updatedAt": "2026-08-07T15:03:37.057Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1576,9 +1576,29 @@
     "color.number.paint.pixle.art.sort.jigsaw",
     "com.sundaytoz.kakao.wbb",
     "com.sts.vision",
-    "com.candy.smash.mania.match.gp"
+    "com.candy.smash.mania.match.gp",
+    "com.playdigious.dst",
+    "com.tensquaregames.medalhunter"
   ],
   "items": [
+    {
+      "appId": "com.playdigious.dst",
+      "title": "Don't Starve Together",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/7EOrztVm3xsrUgSL0wsPXSRdXffDsokQ0seVT08NGDzuom3t2JGGPu3dcLz_ubMrEkbTkY3hkdNjTzkgQgwzFw",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.dst&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.tensquaregames.medalhunter",
+      "title": "Medal Hunter: 밀리터리 게임",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/WR2twMlKIjnCO0cOTgYdj_RhtmLuQfcQiBgkAIij6ippigFl-aZRDbu14ATzZoz5O8lH6AFGknjTVfKqn_xayh4",
+      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.medalhunter&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
     {
       "appId": "com.horus.warzone",
       "title": "War Zone: 조국을 위한 싸움",
@@ -4772,24 +4792,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.zykj.princessknight",
-      "title": "드래곤 퇴치",
-      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/WBTABM0AudvgsQzE4Jt6rOxr7uaImipT4Rn4S55pUQMGB1l2do39t0w1azmmFuTfhqY0sqRa5jl3b97CAZ1Y",
-      "url": "https://play.google.com/store/apps/details?id=com.zykj.princessknight&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.moonactive.holestars",
-      "title": "Hole Stars: 퍼즐 게임",
-      "developer": "Moon Active",
-      "icon": "https://play-lh.googleusercontent.com/FNCz82sncnDjBLqJyHmQZEuHFVxbQIpVuSExCOTCcelqEo654O2z-bUVAFxo0IR5MX3-64UBgqZl7HLq-_3WgQ",
-      "url": "https://play.google.com/store/apps/details?id=com.moonactive.holestars&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
