@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:08:52.954Z",
+  "updatedAt": "2026-08-07T20:52:08.240Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1579,7 +1579,8 @@
     "com.candy.smash.mania.match.gp",
     "com.playdigious.dst",
     "com.tensquaregames.medalhunter",
-    "com.goosebump.bulletheroes"
+    "com.goosebump.bulletheroes",
+    "com.ovilex.trucksimulatorusaevo"
   ],
   "items": [
     {
@@ -1606,6 +1607,15 @@
       "developer": "Homa",
       "icon": "https://play-lh.googleusercontent.com/eKf4KzQ6rlaBYGjpNdCgy0yWPFX58tcYcE8KVyPPEncCow6i0ttrSji2Yx2pP3uS2m5WtawPhpCGSGApk3SRVPI",
       "url": "https://play.google.com/store/apps/details?id=com.goosebump.bulletheroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.ovilex.trucksimulatorusaevo",
+      "title": "Truck Simulator EVO: Drive USA",
+      "developer": "Ovidiu Pop",
+      "icon": "https://play-lh.googleusercontent.com/lYeLUcxpa_tEbYJkGdUAzClkWqkB0VdS1B22AVlejeCgMYgMN-VypAJ9ZqYlJDZYw43yWOnV9zEavynMXNhn",
+      "url": "https://play.google.com/store/apps/details?id=com.ovilex.trucksimulatorusaevo&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
       "isGame": true
     },
@@ -4712,15 +4722,6 @@
       "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
       "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.zepetto.theoutlaw",
-      "title": "Outlaw-Real Time Shooting Game",
-      "developer": "Zepetto Co",
-      "icon": "https://play-lh.googleusercontent.com/_No-PXSljXfHV8FlhY_KB68ewcfctqvR08xJXfllWjaUb6nEwhWDIYaPmHczyNUmVQ",
-      "url": "https://play.google.com/store/apps/details?id=com.zepetto.theoutlaw&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
       "isGame": true
     },
     {
