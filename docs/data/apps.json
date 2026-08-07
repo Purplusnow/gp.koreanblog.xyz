@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:49:12.198Z",
+  "updatedAt": "2026-08-07T23:41:36.613Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1581,7 +1581,8 @@
     "com.tensquaregames.medalhunter",
     "com.goosebump.bulletheroes",
     "com.ovilex.trucksimulatorusaevo",
-    "com.wsy.google.wansuiye.kr"
+    "com.wsy.google.wansuiye.kr",
+    "com.multicastgames.butcher"
   ],
   "items": [
     {
@@ -1626,6 +1627,15 @@
       "developer": "Clicktouch Co., Ltd.",
       "icon": "https://play-lh.googleusercontent.com/VX7eOJGkE3mv1fFa_XIOyOkOqclOCQ81nrfpUZjxlg0surJXL1y5kBUkUi_OGoaamyr2YsOW47irCChGp72XYw",
       "url": "https://play.google.com/store/apps/details?id=com.wsy.google.wansuiye.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.multicastgames.butcher",
+      "title": "Butcher hero: 서바이벌 RPG",
+      "developer": "MULTICAST GAMES",
+      "icon": "https://play-lh.googleusercontent.com/M-UK0n-uJBVdk-DNQHbo1-3epaTzVjWeynD-sfo_lJ56i-zpOYVDF9vX78UPrfgfTI0AMiSzIiB_Z3hGoZtFlA",
+      "url": "https://play.google.com/store/apps/details?id=com.multicastgames.butcher&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
       "isGame": true
     },
@@ -4732,15 +4742,6 @@
       "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
       "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.h73.jhqyna",
-      "title": "Once Human",
-      "developer": "Exptional Global",
-      "icon": "https://play-lh.googleusercontent.com/0-94hjDsVyTjm0Jic6AP8wVbuSb4SCrrxcZnQDJ5YgNHukFjG-g6C1yMlGmuYDsJW3Pdva4Iqrp9ox5GPFpj-HU",
-      "url": "https://play.google.com/store/apps/details?id=com.h73.jhqyna&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
       "isGame": true
     },
     {
