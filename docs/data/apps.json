@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T15:23:08.435Z",
+  "updatedAt": "2026-08-07T00:10:44.693Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1571,9 +1571,19 @@
     "factory.resource.industry",
     "net.peakgames.match",
     "com.eapublishing.dhsw.paid",
-    "com.kristanix.android.mahjongsolitairetitan"
+    "com.kristanix.android.mahjongsolitairetitan",
+    "com.horus.warzone"
   ],
   "items": [
+    {
+      "appId": "com.horus.warzone",
+      "title": "War Zone: 조국을 위한 싸움",
+      "developer": "Horus Entertainment",
+      "icon": "https://play-lh.googleusercontent.com/A36_j-YjA-HKDwmpRt_JT-Ac_GGOvjzvcSLsX6Lr1PIEZarSusQtjcrQGpXOd8Y6rvyr4duBl0CQZ7WqiCilxg",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.warzone&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-07",
+      "isGame": true
+    },
     {
       "appId": "com.furywing.travel.merge",
       "title": "여행 이야기: 병합된 여정",
@@ -4722,15 +4732,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "io.voodoo.paper2",
-      "title": "Paper.io 2",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/VLNMnYux_aq-VLdWuwXGSGqxBlVZUh0LQvUZrc58tDLvuK08CITp9WzT8638iACsYGgTS9BSe-XMZA5_fufZ",
-      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
