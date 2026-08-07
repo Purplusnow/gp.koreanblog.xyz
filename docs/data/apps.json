@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:10:44.693Z",
+  "updatedAt": "2026-08-07T03:56:08.550Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1572,7 +1572,8 @@
     "net.peakgames.match",
     "com.eapublishing.dhsw.paid",
     "com.kristanix.android.mahjongsolitairetitan",
-    "com.horus.warzone"
+    "com.horus.warzone",
+    "color.number.paint.pixle.art.sort.jigsaw"
   ],
   "items": [
     {
@@ -1581,6 +1582,15 @@
       "developer": "Horus Entertainment",
       "icon": "https://play-lh.googleusercontent.com/A36_j-YjA-HKDwmpRt_JT-Ac_GGOvjzvcSLsX6Lr1PIEZarSusQtjcrQGpXOd8Y6rvyr4duBl0CQZ7WqiCilxg",
       "url": "https://play.google.com/store/apps/details?id=com.horus.warzone&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-07",
+      "isGame": true
+    },
+    {
+      "appId": "color.number.paint.pixle.art.sort.jigsaw",
+      "title": "Jewel Coloring",
+      "developer": "TaTa Game Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
+      "url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=ko&gl=KR",
       "discoveredDate": "2026-08-07",
       "isGame": true
     },
@@ -4732,15 +4742,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.futuremlb.android.google.global.normal",
-      "title": "MLB 9이닝스 라이벌 26",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/H9o9BAmZopoJ_1NH1eCqspX57dJhqUsgHZdWlbivsTH2T-1jn-PX3cUObfNPpsjZmA6yx5pchQfp3-X2EnEd8g",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.futuremlb.android.google.global.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
