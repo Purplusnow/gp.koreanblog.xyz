@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T05:47:04.431Z",
+  "updatedAt": "2026-08-07T07:36:41.583Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1573,7 +1573,9 @@
     "com.eapublishing.dhsw.paid",
     "com.kristanix.android.mahjongsolitairetitan",
     "com.horus.warzone",
-    "color.number.paint.pixle.art.sort.jigsaw"
+    "color.number.paint.pixle.art.sort.jigsaw",
+    "com.sundaytoz.kakao.wbb",
+    "com.sts.vision"
   ],
   "items": [
     {
@@ -1591,6 +1593,24 @@
       "developer": "TaTa Game Technology Limited",
       "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
       "url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sundaytoz.kakao.wbb",
+      "title": "위 베어 베어스 더 퍼즐 : 퍼즐게임",
+      "developer": "Wemade Play Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/sJhd-4u6oauB6o2mLrWjK_G26aUNHDzsQhp1VdO6ZuoE73hSzZjqjWSJdSwGtRcMK8rCINU3yoqU3YKmAOYs",
+      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.wbb&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.sts.vision",
+      "title": "모던 커뮤니티(Modern Community)",
+      "developer": "Magic Tavern, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/GMMJjQm9R16WF0AvifVAFfhFCpv_QTxavwguEwL1SQSstf9zdha2Gg6JMYzXQJj2bnts0biyTFAk9T4_62aB",
+      "url": "https://play.google.com/store/apps/details?id=com.sts.vision&hl=ko&gl=KR",
       "discoveredDate": "2026-08-07",
       "isGame": true
     },
@@ -4742,24 +4762,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.gameinsight.gobandroid",
-      "title": "Guns of Boom",
-      "developer": "Game Insight",
-      "icon": "https://play-lh.googleusercontent.com/0Rqh-hgkf10RQ_EjDy8U0oEFZxDO3ouKoIrgVRAWHZlbX_bHWkhxcazeuYI8wJxHBg",
-      "url": "https://play.google.com/store/apps/details?id=com.gameinsight.gobandroid&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.nebulajoy.act.dmcpoc.asia",
-      "title": "데빌메이크라이: 피크 오브 컴뱃",
-      "developer": "nebulajoy",
-      "icon": "https://play-lh.googleusercontent.com/4QrFwSOYiO8Vex_qxcxm5Gtyz9fIbmt18KY85dBUPgaawLDK_A1KIkTcZxgU6dZ9BC_9E4JvG-95aQU0m38A",
-      "url": "https://play.google.com/store/apps/details?id=com.nebulajoy.act.dmcpoc.asia&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
