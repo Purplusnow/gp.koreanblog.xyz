@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T15:03:37.057Z",
+  "updatedAt": "2026-08-07T16:05:25.333Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1578,7 +1578,8 @@
     "com.sts.vision",
     "com.candy.smash.mania.match.gp",
     "com.playdigious.dst",
-    "com.tensquaregames.medalhunter"
+    "com.tensquaregames.medalhunter",
+    "com.goosebump.bulletheroes"
   ],
   "items": [
     {
@@ -1596,6 +1597,15 @@
       "developer": "Ten Square Games",
       "icon": "https://play-lh.googleusercontent.com/WR2twMlKIjnCO0cOTgYdj_RhtmLuQfcQiBgkAIij6ippigFl-aZRDbu14ATzZoz5O8lH6AFGknjTVfKqn_xayh4",
       "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.medalhunter&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.goosebump.bulletheroes",
+      "title": "불릿 히어로즈: 타워 디펜스 게임",
+      "developer": "Homa",
+      "icon": "https://play-lh.googleusercontent.com/eKf4KzQ6rlaBYGjpNdCgy0yWPFX58tcYcE8KVyPPEncCow6i0ttrSji2Yx2pP3uS2m5WtawPhpCGSGApk3SRVPI",
+      "url": "https://play.google.com/store/apps/details?id=com.goosebump.bulletheroes&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
       "isGame": true
     },
@@ -4792,15 +4802,6 @@
       "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
       "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
       "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "fi.twomenandadog.zombiecatchers",
-      "title": "Zombie Catchers (좀비 캐쳐)",
-      "developer": "Deca Games",
-      "icon": "https://play-lh.googleusercontent.com/voHkJov0A6_3rSeZqX1D85KtKQ8pbyInBfsTq5VCUbBok_asWHn1bszJXLg0WYd3dj0Y",
-      "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-21",
       "isGame": true
     },
     {
