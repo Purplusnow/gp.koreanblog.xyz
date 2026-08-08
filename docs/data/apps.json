@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:40:35.325Z",
+  "updatedAt": "2026-08-08T21:39:26.862Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1595,7 +1595,13 @@
     "com.cookapps.towerroguedefense",
     "com.byabyak.soda",
     "com.devolver.reignsbeyond",
-    "com.darkwind.majo"
+    "com.darkwind.majo",
+    "com.rummikubfree",
+    "com.kwalee.drawit",
+    "com.namcobandaigames.spmoja010E",
+    "com.etermax.trivialadder",
+    "com.gamebee.androidtv.fruitslicer",
+    "me.funkin.fnf"
   ],
   "items": [
     {
@@ -1685,6 +1691,60 @@
       "developer": "DarkWind Ltd.",
       "icon": "https://play-lh.googleusercontent.com/eMf9zaHmPPz-7fQ-7Vd2ZJ_w7URtPPGQ0ZW_GdBAVPRGLPI7CmdUzPUDv-K6A2QIh60sro60wrWSahWhxphXsg",
       "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.rummikubfree",
+      "title": "Rummikub",
+      "developer": "Kinkajoo",
+      "icon": "https://play-lh.googleusercontent.com/F1SQPTmM9FhxlIxCQTWF3HipKHw_OUTwjTUZXeSR5KRy6m-R_j1nDzm7xKUj1hX6AV4y3IJ4IkQXzflgBi7s",
+      "url": "https://play.google.com/store/apps/details?id=com.rummikubfree&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.kwalee.drawit",
+      "title": "드로우 잇",
+      "developer": "Kwalee Ltd",
+      "icon": "https://play-lh.googleusercontent.com/9qMJ1OJwB877bTyOxmArEQ9fr6ibuWYFe1fxIY-lNJzlac8x0nwBvgn9Qh31qXheTDtQi-5HZFT-wTT0QOjtTWk",
+      "url": "https://play.google.com/store/apps/details?id=com.kwalee.drawit&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.namcobandaigames.spmoja010E",
+      "title": "ONE PIECE TREASURE CRUISE-RPG",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/OxGBZzboa7ySZzmCfhLa8DpjH8rKdUjBnHOszHuvamdJC01wLhmnxZMR-C3ALnCSCP3NsCCcUN18Jt3kOiap",
+      "url": "https://play.google.com/store/apps/details?id=com.namcobandaigames.spmoja010E&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.etermax.trivialadder",
+      "title": "Adventure Trivia Crack",
+      "developer": "etermax",
+      "icon": "https://play-lh.googleusercontent.com/97ioZOUF7gygUJU-bOnmtMDPEH1WWttE_UL742P6Ob5hOEDC6X9GKuc9eZ9tcSaoDG3fWR3Adkk1QjyVOE6W",
+      "url": "https://play.google.com/store/apps/details?id=com.etermax.trivialadder&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamebee.androidtv.fruitslicer",
+      "title": "Fruit Cutter TV – 3D Cut",
+      "developer": "Gamebee Studio",
+      "icon": "https://play-lh.googleusercontent.com/N1dUyyxhcvMLdXBk3dpOQRjNnTTwnuLtfpNc6dSFoM4jA67U4sRxR-W-FGB7Y5IJWCjzIGgsNzgBZTKlTtPY",
+      "url": "https://play.google.com/store/apps/details?id=com.gamebee.androidtv.fruitslicer&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "me.funkin.fnf",
+      "title": "Friday Night Funkin'",
+      "developer": "The Funkin' Crew Inc.",
+      "icon": "https://play-lh.googleusercontent.com/ZplHij_geaxbSPxB3Eo8ynVnOM0i3Ug8vD0bIi-1-q5gzK7QPoVqvGLeLYlJWGLV48LGtpfpMp6BQ56iEXqMUtw",
+      "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
       "isGame": true
     },
@@ -4758,66 +4818,12 @@
       "isGame": true
     },
     {
-      "appId": "com.hollywood.merge",
-      "title": "할리우드 머지",
-      "developer": "VoyagerOne IE",
-      "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-      "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.higgs.cubemaster3d",
-      "title": "큐브 마스터 3D - 매치 3 및 퍼즐 게임",
-      "developer": "Higgs Studio",
-      "icon": "https://play-lh.googleusercontent.com/oh1JXLgbmN4YBEydVaArkN_R4655taBAxASFBjxoThwF0hACqkVbyNviZ1o3yYpCm3ic",
-      "url": "https://play.google.com/store/apps/details?id=com.higgs.cubemaster3d&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamehivecorp.taptitans2",
-      "title": "Tap Titans 2 탭타이탄: 방치형 클리커 게임",
-      "developer": "Game Hive Corporation",
-      "icon": "https://play-lh.googleusercontent.com/tCcGJq0I0UlcTx7vUgjEb6DYl5-107PkIIe7lJy0edUqwWnayoqmtmNMaHOx5djvWg",
-      "url": "https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.EightStudio.SpiritKing",
-      "title": "멀티 키우기 : 정령킹 키우기",
-      "developer": "Eight Studio",
-      "icon": "https://play-lh.googleusercontent.com/wNJRJyfopmFF6qLqzzuLC5Nbi2KZ4NNH2P4rN2NNE5z42KvpW6ybQtFbrQZPa6-BF4aR",
-      "url": "https://play.google.com/store/apps/details?id=com.EightStudio.SpiritKing&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.goh.daya.ydonline",
-      "title": "갓오브하이스쿨 - 11주년",
-      "developer": "WONCOMZ.INC",
-      "icon": "https://play-lh.googleusercontent.com/ahsfn8yud3XiO6r16hSNy-HILl4t5LYZZCnP9FV3r-7kaK6JD22UNIeQdKjjX7mq949Mr4u3W5GSXdHELgl4",
-      "url": "https://play.google.com/store/apps/details?id=com.goh.daya.ydonline&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-24",
-      "isGame": true
-    },
-    {
       "appId": "com.bilibilihk.jujutsuphanparagp",
       "title": "주술회전 팬텀 퍼레이드",
       "developer": "BILIBILI",
       "icon": "https://play-lh.googleusercontent.com/TzQIQ1BlBWMe1kwISA0WyGN1rm59tszIDY5pMnsOw2ztsb3BHj0yIfEQfxrMz9LkFbKS5Bf6fzN8_Y9-HFNd",
       "url": "https://play.google.com/store/apps/details?id=com.bilibilihk.jujutsuphanparagp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.gear2.growslayer",
-      "title": "슬레이어 키우기",
-      "developer": "GEAR2",
-      "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
-      "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
       "isGame": true
     },
     {
