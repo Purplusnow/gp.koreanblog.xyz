@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:46:18.332Z",
+  "updatedAt": "2026-08-08T17:39:24.595Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1586,7 +1586,16 @@
     "games.WanderlostInteractive.Dawncaster",
     "com.camelgames.superking",
     "com.yoozoo.jgame.kr",
-    "com.runawayplay.fishgame"
+    "com.runawayplay.fishgame",
+    "com.AmberbiteGames.ShoeItAllMobile",
+    "com.DoubleDaggerStudio.LittleKittyBigCity",
+    "com.bigcool.survival.lastzombie",
+    "com.azragames.ungodly",
+    "com.com2us.es.android.google.kr.normal",
+    "com.cookapps.towerroguedefense",
+    "com.byabyak.soda",
+    "com.devolver.reignsbeyond",
+    "com.darkwind.majo"
   ],
   "items": [
     {
@@ -1595,6 +1604,87 @@
       "developer": "Runaway Play",
       "icon": "https://play-lh.googleusercontent.com/4qte1kRgouctdXT4a6zb5Z9MQIlxH6WTYbLrrCPKAkCbURudyR4v7ME1qma0D6W2QkNfD0TmJLA_vnghfVbNc6Y",
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.fishgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.AmberbiteGames.ShoeItAllMobile",
+      "title": "Shoe It All!",
+      "developer": "Amberbite Games",
+      "icon": "https://play-lh.googleusercontent.com/v4a0XZVR517dMcx36LfcJRu4_4MUvMq5Q2VqcpZnJ6g6Xs5N8t5YfO6ZGu_w1vSgELwVmLs6U-XjS4PKuV9s",
+      "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.DoubleDaggerStudio.LittleKittyBigCity",
+      "title": "리틀 키티, 빅 시티",
+      "developer": "Double Dagger Studio",
+      "icon": "https://play-lh.googleusercontent.com/qfgA8NVol8CwRGco0sily93RD6HQMxIfVwjU7g8f5lsuG7ZOZjLcGI1JARxQtq6RNtWH2tOTDak7Qu5czsDPu1A",
+      "url": "https://play.google.com/store/apps/details?id=com.DoubleDaggerStudio.LittleKittyBigCity&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.bigcool.survival.lastzombie",
+      "title": "라스트 좀비: 오프라인 생존 로그라이크 슈팅 게임",
+      "developer": "Bigcool Limited",
+      "icon": "https://play-lh.googleusercontent.com/jfpFOVVjQG0I85HyeuJHKLf11ROHDhtQAKcpOMOmxu9vc_a71XL2ljJyt1-16h3CDrDvxjv3GXM-aiUQFRQc",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.survival.lastzombie&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.azragames.ungodly",
+      "title": "UnGodly",
+      "developer": "Azra Games",
+      "icon": "https://play-lh.googleusercontent.com/pPZcL7Kp2orgKhsB3QKqudyCnCGxClBfnvsitpCkNzc8Ox4uBrSMLIPeSrieJ3--n-L1tAlqsaOs17gwEl2I9w",
+      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.com2us.es.android.google.kr.normal",
+      "title": "제우스: 오만의 신",
+      "developer": "Com2uS",
+      "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.es.android.google.kr.normal&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.towerroguedefense",
+      "title": "황야의 무법자: 타워 디펜스",
+      "developer": "Purplecow games",
+      "icon": "https://play-lh.googleusercontent.com/PG5hyWvfp_N5JHWbdpz0AtYRCf52Dy3t9IF7elYSi13m6nuh5GBHb5XwDvsoy1CusSlkFKxB2Ws5x13dEzyplw",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.towerroguedefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.byabyak.soda",
+      "title": "소다전설",
+      "developer": "Byabyak Games",
+      "icon": "https://play-lh.googleusercontent.com/pKTZQouXCxce4c7E-7hPrmTp39IiiWwEPN8uJHUeFnXlQBXG2cYaTIx-nngRU10XXkRp-CVnMvl61fk_5nuqGNc",
+      "url": "https://play.google.com/store/apps/details?id=com.byabyak.soda&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.devolver.reignsbeyond",
+      "title": "Reigns: Beyond",
+      "developer": "DevolverDigital",
+      "icon": "https://play-lh.googleusercontent.com/r_SdQFsuyUaK9RtaArvIrWhGsn-qh_fKu22MUYH4yPrg8rjzFOf3NAK0aNv2-ZsWNlnG0F1xCYlBWQCo3NG_dPE",
+      "url": "https://play.google.com/store/apps/details?id=com.devolver.reignsbeyond&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.darkwind.majo",
+      "title": "MAJO - 아포칼립스 택틱스 RPG",
+      "developer": "DarkWind Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/eMf9zaHmPPz-7fQ-7Vd2ZJ_w7URtPPGQ0ZW_GdBAVPRGLPI7CmdUzPUDv-K6A2QIh60sro60wrWSahWhxphXsg",
+      "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
       "isGame": true
     },
@@ -4722,93 +4812,12 @@
       "isGame": true
     },
     {
-      "appId": "com.DoorTeam.BagMaster",
-      "title": "이세계 백마스터 (BagMaster Isekai)",
-      "developer": "SayGames Ltd",
-      "icon": "https://play-lh.googleusercontent.com/kGmUB8gwkJIjfQHF-G3TFtyZG_JWJT2dgpVBXdBuoPZkYMS5PS4ZTAWMmpxn3Fzgew",
-      "url": "https://play.google.com/store/apps/details?id=com.DoorTeam.BagMaster&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.halfbrick.fruitninjax",
-      "title": "Fruit Ninja 2 - 재밌는 액션 게임",
-      "developer": "Halfbrick Studios",
-      "icon": "https://play-lh.googleusercontent.com/_w8JmeRf8R4UxCUVxWp_RFx4XkV3mREEu9NUdrx5BZa3t1B8WsctgTw33RPnSAAiJA",
-      "url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjax&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "net.wargaming.wows.blitz",
-      "title": "월드 오브 워쉽 블리츠",
-      "developer": "Wargaming Group",
-      "icon": "https://play-lh.googleusercontent.com/NghP0EeXNyIYWaZhommMKRdL9Liba7sxqGgG7tZC3-DPIlwb9VUKMjbKzdCZyFuHMxl_",
-      "url": "https://play.google.com/store/apps/details?id=net.wargaming.wows.blitz&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.meet",
-      "title": "아기팬더의 키즈파티",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/8rclYcnt_7edCdJKjKByT5wEtPtN0D0L_plh8oPZPj686iU40IhS-wVUa_avYGIk6Js7",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.meet&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobirix.projectdf1",
-      "title": "슉슉 용병단",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/Wqs8nKKJXUU5BOkGy89KApsHhHYYwb5cy_xGk4h3Zp1LU3NtfVl45YSPKWGEYRbDSB0",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.projectdf1&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.wildsky.wildcastle",
-      "title": "와일드 캐슬 TD - 왕국 건설 타워 디펜스",
-      "developer": "Funovus",
-      "icon": "https://play-lh.googleusercontent.com/wL8Nfir9O9LehuGb76AQtV7AlKZgK-khe3UwccW0EzsWO0cSLZqNurmBfnQC5pSNBcOw",
-      "url": "https://play.google.com/store/apps/details?id=com.wildsky.wildcastle&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
       "appId": "com.gear2.growslayer",
       "title": "슬레이어 키우기",
       "developer": "GEAR2",
       "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
       "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.wemade.nightcrows",
-      "title": "나이트 크로우",
-      "developer": "Wemade Co., Ltd",
-      "icon": "https://play-lh.googleusercontent.com/TjjQk-u1yoZ-9pWHa6vMqY46rN7NhyVGVrb9yZ54nJdzj8U1LwsWj91KzJFKwRliFg",
-      "url": "https://play.google.com/store/apps/details?id=com.wemade.nightcrows&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.sports.real.golf.rival.online",
-      "title": "Golf Rival",
-      "developer": "Zynga",
-      "icon": "https://play-lh.googleusercontent.com/WWz5qGVgkSI0inGsVG0n0zTa-DKh8s-sA0fZAGCDl9i7cbKm0SslseUxIuEPRA0Yvuhptn5jxiXk3hjAKdNk",
-      "url": "https://play.google.com/store/apps/details?id=com.sports.real.golf.rival.online&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.heatherglade.idleguy",
-      "title": "Idle Guy: 방치형 타이쿤 시뮬레이션 게임",
-      "developer": "Heatherglade Publishing",
-      "icon": "https://play-lh.googleusercontent.com/2YspjBbD5n1LtuXBCwRsi5Dx_qaFn9EC25iHh8PcX1_yanUPIWI2HoKId2M4wGmuWOui",
-      "url": "https://play.google.com/store/apps/details?id=com.heatherglade.idleguy&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
       "isGame": true
     },
     {
