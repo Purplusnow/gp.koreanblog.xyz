@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:37:51.677Z",
+  "updatedAt": "2026-08-08T16:46:18.332Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1585,9 +1585,19 @@
     "com.multicastgames.butcher",
     "games.WanderlostInteractive.Dawncaster",
     "com.camelgames.superking",
-    "com.yoozoo.jgame.kr"
+    "com.yoozoo.jgame.kr",
+    "com.runawayplay.fishgame"
   ],
   "items": [
+    {
+      "appId": "com.runawayplay.fishgame",
+      "title": "연못살이 ー 힐링 물고기 키우기 게임",
+      "developer": "Runaway Play",
+      "icon": "https://play-lh.googleusercontent.com/4qte1kRgouctdXT4a6zb5Z9MQIlxH6WTYbLrrCPKAkCbURudyR4v7ME1qma0D6W2QkNfD0TmJLA_vnghfVbNc6Y",
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.fishgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
     {
       "appId": "com.playdigious.dst",
       "title": "Don't Starve Together",
@@ -4772,15 +4782,6 @@
       "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
       "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.vitastudio.solitaire",
-      "title": "Vita Solitaire for Seniors",
-      "developer": "Vita Studio.",
-      "icon": "https://play-lh.googleusercontent.com/zugvpGQ6r3ruK8szB4x7DjP8E9ykqkbk21VwsTwYyYpqVVjudni4_nFbt4Oc1AgSFmc",
-      "url": "https://play.google.com/store/apps/details?id=com.vitastudio.solitaire&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
       "isGame": true
     },
     {
