@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:50:37.085Z",
+  "updatedAt": "2026-08-08T07:07:17.726Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1582,7 +1582,9 @@
     "com.goosebump.bulletheroes",
     "com.ovilex.trucksimulatorusaevo",
     "com.wsy.google.wansuiye.kr",
-    "com.multicastgames.butcher"
+    "com.multicastgames.butcher",
+    "games.WanderlostInteractive.Dawncaster",
+    "com.camelgames.superking"
   ],
   "items": [
     {
@@ -1636,6 +1638,24 @@
       "developer": "MULTICAST GAMES",
       "icon": "https://play-lh.googleusercontent.com/M-UK0n-uJBVdk-DNQHbo1-3epaTzVjWeynD-sfo_lJ56i-zpOYVDF9vX78UPrfgfTI0AMiSzIiB_Z3hGoZtFlA",
       "url": "https://play.google.com/store/apps/details?id=com.multicastgames.butcher&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "games.WanderlostInteractive.Dawncaster",
+      "title": "Dawncaster: 덱빌딩 RPG",
+      "developer": "Wanderlost Interactive",
+      "icon": "https://play-lh.googleusercontent.com/x9n-1cME_nO_BrlwZXMqCquKNaK_A_ab0ZQ7oAS1ytT0K6f5nHm9pxBmkm5B4QnwZ19kidXdMdyTv-glQo80xvY",
+      "url": "https://play.google.com/store/apps/details?id=games.WanderlostInteractive.Dawncaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.camelgames.superking",
+      "title": "전쟁의 성화 (War and Order)",
+      "developer": "CamelStudio",
+      "icon": "https://play-lh.googleusercontent.com/MXSinmUQlhaV8xJIl0O99LVPkNU-YvIMGtbRW-2QQhIm-Dkk-NuDso_FbApzmrp_bRVyvLGbxNzEp-ZD0ghf",
+      "url": "https://play.google.com/store/apps/details?id=com.camelgames.superking&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
       "isGame": true
     },
@@ -4742,24 +4762,6 @@
       "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
       "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.media720.games2020",
-      "title": "와이파이 필요없는 게임 - 오프라인 게임 100+",
-      "developer": "Fun Offline Games",
-      "icon": "https://play-lh.googleusercontent.com/V9r9XbUk5njQHiag_eBmx-MuADSz2Bp4gReReTR_zyj5BFfYS-wTF2UzgpAhLD9s7Q",
-      "url": "https://play.google.com/store/apps/details?id=com.media720.games2020&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.playdigious.northgard",
-      "title": "노르트가르드 - Northgard",
-      "developer": "Playdigious",
-      "icon": "https://play-lh.googleusercontent.com/A_7LZ3GLOrscdIf0rTSC3MjGZmGvKQ5u-hpUTAtE-3YyhYGATMBLdBWd2TP1F-a-Kw",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.northgard&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
       "isGame": true
     },
     {
