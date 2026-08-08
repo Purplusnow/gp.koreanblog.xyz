@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:48:46.331Z",
+  "updatedAt": "2026-08-08T10:44:00.111Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1584,7 +1584,8 @@
     "com.wsy.google.wansuiye.kr",
     "com.multicastgames.butcher",
     "games.WanderlostInteractive.Dawncaster",
-    "com.camelgames.superking"
+    "com.camelgames.superking",
+    "com.yoozoo.jgame.kr"
   ],
   "items": [
     {
@@ -1656,6 +1657,15 @@
       "developer": "CamelStudio",
       "icon": "https://play-lh.googleusercontent.com/MXSinmUQlhaV8xJIl0O99LVPkNU-YvIMGtbRW-2QQhIm-Dkk-NuDso_FbApzmrp_bRVyvLGbxNzEp-ZD0ghf",
       "url": "https://play.google.com/store/apps/details?id=com.camelgames.superking&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.yoozoo.jgame.kr",
+      "title": "에코칼립스: 진홍의 서약",
+      "developer": "Yoozoo (Singapore) Pte. Ltd",
+      "icon": "https://play-lh.googleusercontent.com/GNER28fAsdniuqZGOzOKpN82vduFJPTV2E01IyrUvngH_zHCRyfISN7yonm3qzwNEgdaYVRydlwp3qYvW5qL",
+      "url": "https://play.google.com/store/apps/details?id=com.yoozoo.jgame.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
       "isGame": true
     },
@@ -4762,15 +4772,6 @@
       "icon": "https://play-lh.googleusercontent.com/rU5RMjRFWnj0UIJBLtjFe2so2WzecN4D5tcY2VYhMIO1m1JKEaiu2M-BTn6SJpu3Vw",
       "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=ko&gl=KR",
       "discoveredDate": "2026-05-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.gundamucengage_ww",
-      "title": "MOBILE SUIT GUNDAM U.C. ENGAGE",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/_oMwneG8w4bNsPZjQYk1j1yDcVh5jQLin2gYrYIf7cC9Tl9xLzUj5AUjAGYFjv1CA_OnWW2cPjVbslViBPK9bGc",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gundamucengage_ww&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-22",
       "isGame": true
     },
     {
