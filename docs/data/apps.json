@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:50:44.139Z",
+  "updatedAt": "2026-08-09T10:45:41.018Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1602,7 +1602,8 @@
     "com.etermax.trivialadder",
     "com.gamebee.androidtv.fruitslicer",
     "me.funkin.fnf",
-    "com.nextgames.android.twd"
+    "com.nextgames.android.twd",
+    "com.funplus.kingofavalon"
   ],
   "items": [
     {
@@ -1755,6 +1756,15 @@
       "developer": "Deca Games",
       "icon": "https://play-lh.googleusercontent.com/jeiLLiNJhyrsaeFIXyDP_ItKDBgVx_k-2GGg5HhJmKnFpsuWUP-J_nEj8faXmhPv-ND_AuBl92VF7wwXBGySqmg",
       "url": "https://play.google.com/store/apps/details?id=com.nextgames.android.twd&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.funplus.kingofavalon",
+      "title": "서리와 불：King of Avalon",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/aJGym34S8jF33-lk7GhQ9CejCDeMTgZbskjeIoAE_R4l6mfsPwMEI7D_5OAyRPkHgkBTkOREMNeYu9z5i64pl4c",
+      "url": "https://play.google.com/store/apps/details?id=com.funplus.kingofavalon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
       "isGame": true
     },
@@ -4789,15 +4799,6 @@
       "icon": "https://play-lh.googleusercontent.com/np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t",
       "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.feralinteractive.hitmanabsolution_android",
-      "title": "Hitman: Absolution",
-      "developer": "Feral Interactive",
-      "icon": "https://play-lh.googleusercontent.com/sZ2vcnPx2dGILYDxX4e6VIFZq1lWdBvekVFSGphJa2Lnreo7ghXsaP11nIKq77Rl775JN6zgf7v9whOmKwpWMoY",
-      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanabsolution_android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-25",
       "isGame": true
     },
     {
