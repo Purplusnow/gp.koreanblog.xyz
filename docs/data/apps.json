@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T05:53:27.709Z",
+  "updatedAt": "2026-08-09T07:08:53.173Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1601,7 +1601,8 @@
     "com.namcobandaigames.spmoja010E",
     "com.etermax.trivialadder",
     "com.gamebee.androidtv.fruitslicer",
-    "me.funkin.fnf"
+    "me.funkin.fnf",
+    "com.nextgames.android.twd"
   ],
   "items": [
     {
@@ -1745,6 +1746,15 @@
       "developer": "The Funkin' Crew Inc.",
       "icon": "https://play-lh.googleusercontent.com/ZplHij_geaxbSPxB3Eo8ynVnOM0i3Ug8vD0bIi-1-q5gzK7QPoVqvGLeLYlJWGLV48LGtpfpMp6BQ56iEXqMUtw",
       "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.nextgames.android.twd",
+      "title": "더 워킹 데드: 무인 지대",
+      "developer": "Deca Games",
+      "icon": "https://play-lh.googleusercontent.com/jeiLLiNJhyrsaeFIXyDP_ItKDBgVx_k-2GGg5HhJmKnFpsuWUP-J_nEj8faXmhPv-ND_AuBl92VF7wwXBGySqmg",
+      "url": "https://play.google.com/store/apps/details?id=com.nextgames.android.twd&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
       "isGame": true
     },
@@ -4815,15 +4825,6 @@
       "icon": "https://play-lh.googleusercontent.com/-E0EGITAL2dTH_4WQQiGyXz4uNnC8UrGKn-kbUOVwQ_CYl9Ekr3YajZryo1GgLIzoRZ4",
       "url": "https://play.google.com/store/apps/details?id=com.machinezone.gow&hl=ko&gl=KR",
       "discoveredDate": "2026-05-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.bilibilihk.jujutsuphanparagp",
-      "title": "주술회전 팬텀 퍼레이드",
-      "developer": "BILIBILI",
-      "icon": "https://play-lh.googleusercontent.com/TzQIQ1BlBWMe1kwISA0WyGN1rm59tszIDY5pMnsOw2ztsb3BHj0yIfEQfxrMz9LkFbKS5Bf6fzN8_Y9-HFNd",
-      "url": "https://play.google.com/store/apps/details?id=com.bilibilihk.jujutsuphanparagp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-24",
       "isGame": true
     },
     {
