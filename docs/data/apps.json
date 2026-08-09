@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:41:43.071Z",
+  "updatedAt": "2026-08-09T20:46:05.702Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1604,9 +1604,29 @@
     "me.funkin.fnf",
     "com.nextgames.android.twd",
     "com.funplus.kingofavalon",
-    "com.ryonggame.soulhunteridle"
+    "com.ryonggame.soulhunteridle",
+    "jp.co.ponos.nekohopper",
+    "com.tree.idle.cat.office"
   ],
   "items": [
+    {
+      "appId": "jp.co.ponos.nekohopper",
+      "title": "GO! GO! 고양이 홉핑",
+      "developer": "PONOS Corporation",
+      "icon": "https://play-lh.googleusercontent.com/SH5SuDoidIGYtnO10Gy_Ydxp0xF8BgP_VZUbz3zKzYiuQ5vUbdcPpRwAWhzM38PIz0oujDvrZxut2LK6aSfxOCQ",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.nekohopper&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.tree.idle.cat.office",
+      "title": "고양이 오피스: 타이쿤 게임",
+      "developer": "TREEPLLA",
+      "icon": "https://play-lh.googleusercontent.com/IRw53WNooarQ259IEpja2ZkpXTR04YkIeoz_LgOdCfa5Acwop9aPXpeJDTspfEnPoGk4F2qAPVXokK0jB5AjUPw",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.office&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-10",
+      "isGame": true
+    },
     {
       "appId": "com.runawayplay.fishgame",
       "title": "연못살이 ー 힐링 물고기 키우기 게임",
@@ -4809,24 +4829,6 @@
       "icon": "https://play-lh.googleusercontent.com/np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t",
       "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.HelloKittyLunchBox",
-      "title": "Hello Kitty 런치박스",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/vcByLHYmerL9zAh1TjhUMVRT9QyOeeqleaH4tXJL7n9Uyii8kloc9_Eq8CpAh19lZMtFM8I7NYIxZCMcd24RZw",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyLunchBox&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.machinezone.gow",
-      "title": "Game of War - Fire Age",
-      "developer": "Epic War",
-      "icon": "https://play-lh.googleusercontent.com/-E0EGITAL2dTH_4WQQiGyXz4uNnC8UrGKn-kbUOVwQ_CYl9Ekr3YajZryo1GgLIzoRZ4",
-      "url": "https://play.google.com/store/apps/details?id=com.machinezone.gow&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-25",
       "isGame": true
     },
     {
