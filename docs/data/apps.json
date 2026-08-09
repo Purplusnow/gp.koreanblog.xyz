@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:09:40.688Z",
+  "updatedAt": "2026-08-09T14:44:44.856Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1603,7 +1603,8 @@
     "com.gamebee.androidtv.fruitslicer",
     "me.funkin.fnf",
     "com.nextgames.android.twd",
-    "com.funplus.kingofavalon"
+    "com.funplus.kingofavalon",
+    "com.ryonggame.soulhunteridle"
   ],
   "items": [
     {
@@ -1765,6 +1766,15 @@
       "developer": "FunPlus International AG",
       "icon": "https://play-lh.googleusercontent.com/aJGym34S8jF33-lk7GhQ9CejCDeMTgZbskjeIoAE_R4l6mfsPwMEI7D_5OAyRPkHgkBTkOREMNeYu9z5i64pl4c",
       "url": "https://play.google.com/store/apps/details?id=com.funplus.kingofavalon&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.ryonggame.soulhunteridle",
+      "title": "소울 헌터 키우기 : 방치형 RPG",
+      "developer": "RyongGames",
+      "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
+      "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
       "isGame": true
     },
@@ -4799,15 +4809,6 @@
       "icon": "https://play-lh.googleusercontent.com/np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t",
       "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp&hl=ko&gl=KR",
       "discoveredDate": "2026-05-26",
-      "isGame": true
-    },
-    {
-      "appId": "zombie.survival.dead.shooting",
-      "title": "Zombie Hunter - 좀비헌터: 오프라인 게임",
-      "developer": "VNGGames Studios",
-      "icon": "https://play-lh.googleusercontent.com/5gq8zhR_WBiZ_HIoE86uH3Dt8h6ZOsU7StqvuDqequL59wGVo-_LdziYYyuksr2BWge2",
-      "url": "https://play.google.com/store/apps/details?id=zombie.survival.dead.shooting&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-25",
       "isGame": true
     },
     {
