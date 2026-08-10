@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:55:15.944Z",
+  "updatedAt": "2026-08-10T21:52:18.447Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1609,9 +1609,19 @@
     "com.tree.idle.cat.office",
     "com.klab.heroaca.united.survival",
     "com.crayolallc.crayola_create_and_play",
-    "com.fdgentertainment.bananakong"
+    "com.fdgentertainment.bananakong",
+    "games.my.zombie.shooter.fps"
   ],
   "items": [
+    {
+      "appId": "games.my.zombie.shooter.fps",
+      "title": "좀비 하버: 오프라인 FPS 생존 좀비게임",
+      "developer": "KEYSTORM HOLDINGS LTD",
+      "icon": "https://play-lh.googleusercontent.com/wCtvcIz9AHcl1W9RIwcXrJ1yWrB6YbiVveXa9Y0vtrfGfd9kvZG4qw95T5ItB1_DcHZAcdjJ3U-QbQAIr1QmSA",
+      "url": "https://play.google.com/store/apps/details?id=games.my.zombie.shooter.fps&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-11",
+      "isGame": true
+    },
     {
       "appId": "jp.co.ponos.nekohopper",
       "title": "GO! GO! 고양이 홉핑",
@@ -4796,15 +4806,6 @@
       "icon": "https://play-lh.googleusercontent.com/g7IlaVOg6pqpCJVu5oHyOUNFq4mDpNcfkIRU1yiiGxjE4GF2nCrkJ5gf76mLRYsmcQ",
       "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=ko&gl=KR",
       "discoveredDate": "2026-05-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.mgs.sniper1",
-      "title": "Sniper Strike FPS 3D Shooting",
-      "developer": "Mobile Gaming Studios Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/fY35ZTFl-EboVMxqkzhetdt0_YOnWWXy1H8vrK4tE1GMqgaPqFVUxoM8fXIp9P2FSqo",
-      "url": "https://play.google.com/store/apps/details?id=com.mgs.sniper1&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-26",
       "isGame": true
     },
     {
