@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:52:18.447Z",
+  "updatedAt": "2026-08-10T22:50:04.121Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1610,7 +1610,8 @@
     "com.klab.heroaca.united.survival",
     "com.crayolallc.crayola_create_and_play",
     "com.fdgentertainment.bananakong",
-    "games.my.zombie.shooter.fps"
+    "games.my.zombie.shooter.fps",
+    "com.prettysimple.elixirapp"
   ],
   "items": [
     {
@@ -1619,6 +1620,15 @@
       "developer": "KEYSTORM HOLDINGS LTD",
       "icon": "https://play-lh.googleusercontent.com/wCtvcIz9AHcl1W9RIwcXrJ1yWrB6YbiVveXa9Y0vtrfGfd9kvZG4qw95T5ItB1_DcHZAcdjJ3U-QbQAIr1QmSA",
       "url": "https://play.google.com/store/apps/details?id=games.my.zombie.shooter.fps&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.prettysimple.elixirapp",
+      "title": "Sorcery School",
+      "developer": "Pretty Simple",
+      "icon": "https://play-lh.googleusercontent.com/horsCFkGqoO4vjSv4V0byS-RZqGMgPH34aXPluPRdAhJ-xy_Jl66Xlw1co37qmDbQeIqzQoL-sWtxYRiWoBl",
+      "url": "https://play.google.com/store/apps/details?id=com.prettysimple.elixirapp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-11",
       "isGame": true
     },
@@ -4806,15 +4816,6 @@
       "icon": "https://play-lh.googleusercontent.com/g7IlaVOg6pqpCJVu5oHyOUNFq4mDpNcfkIRU1yiiGxjE4GF2nCrkJ5gf76mLRYsmcQ",
       "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=ko&gl=KR",
       "discoveredDate": "2026-05-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.more.dayzsurvival.gp",
-      "title": "라스트 쉘터: 서바이벌",
-      "developer": "Long Tech Network Limited",
-      "icon": "https://play-lh.googleusercontent.com/-FZNLuhzOh0qYp6cbB588KMGm9P8_z0YArJ3KMW7aT2EbYrmGPlVYNFaqIPzQQnRFEJo",
-      "url": "https://play.google.com/store/apps/details?id=com.more.dayzsurvival.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-26",
       "isGame": true
     },
     {
