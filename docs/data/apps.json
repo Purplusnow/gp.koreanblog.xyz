@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T11:54:41.013Z",
+  "updatedAt": "2026-08-10T13:35:55.474Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1607,7 +1607,9 @@
     "com.ryonggame.soulhunteridle",
     "jp.co.ponos.nekohopper",
     "com.tree.idle.cat.office",
-    "com.klab.heroaca.united.survival"
+    "com.klab.heroaca.united.survival",
+    "com.crayolallc.crayola_create_and_play",
+    "com.fdgentertainment.bananakong"
   ],
   "items": [
     {
@@ -1634,6 +1636,24 @@
       "developer": "KLab",
       "icon": "https://play-lh.googleusercontent.com/6N68UmL37trcXjJYhv-LWsnNTqdwqBeiRVqRt3vfmbhPIW7-Ef0yEnOEAd3AroB_LXHUuib3As-0DcH2YLL6Lv0",
       "url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.crayolallc.crayola_create_and_play",
+      "title": "Crayola 크리에이트 앤 플레",
+      "developer": "Crayola LLC",
+      "icon": "https://play-lh.googleusercontent.com/AEho9kO-qQW-oVBlO8bij2RpPAkEX0m_k_GwuL-m8pdxeUJ1lWxdnNHPCOVCNbOq8O2Bv0ifRlr3AP6PraPwUqI",
+      "url": "https://play.google.com/store/apps/details?id=com.crayolallc.crayola_create_and_play&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.fdgentertainment.bananakong",
+      "title": "Banana Kong",
+      "developer": "FDG Entertainment GmbH & Co.KG",
+      "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
+      "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
       "isGame": true
     },
@@ -4776,24 +4796,6 @@
       "icon": "https://play-lh.googleusercontent.com/g7IlaVOg6pqpCJVu5oHyOUNFq4mDpNcfkIRU1yiiGxjE4GF2nCrkJ5gf76mLRYsmcQ",
       "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=ko&gl=KR",
       "discoveredDate": "2026-05-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.madfingergames.legends",
-      "title": "섀도우건 레전드 ( Shadowgun Legends)",
-      "developer": "Deca_Games",
-      "icon": "https://play-lh.googleusercontent.com/X5SLlIIihZfy6hcIsY8970M8QE40-3aQ6bVSgYYO52LdBQJOIGvRgsUVEkBGhB2cYGID",
-      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.legends&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-26",
-      "isGame": true
-    },
-    {
-      "appId": "sniper.gun.zombie.shooting",
-      "title": "저격 좀비: Sniper Zombies",
-      "developer": "VNGGames Studios",
-      "icon": "https://play-lh.googleusercontent.com/8l-lbOKBFbGeYSOr35bOTmKWfEt7YyyaCFX1kE9yoXCwfoq-jaOm9F-YcprKTdGI6A",
-      "url": "https://play.google.com/store/apps/details?id=sniper.gun.zombie.shooting&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-26",
       "isGame": true
     },
     {
