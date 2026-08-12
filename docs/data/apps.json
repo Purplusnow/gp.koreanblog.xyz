@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T23:52:06.712Z",
+  "updatedAt": "2026-08-12T02:36:13.246Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1611,9 +1611,29 @@
     "com.crayolallc.crayola_create_and_play",
     "com.fdgentertainment.bananakong",
     "games.my.zombie.shooter.fps",
-    "com.prettysimple.elixirapp"
+    "com.prettysimple.elixirapp",
+    "com.budgestudios.googleplay.BudgeWorld",
+    "com.sinyee.babybus.selfcare"
   ],
   "items": [
+    {
+      "appId": "com.budgestudios.googleplay.BudgeWorld",
+      "title": "Budge 어린이 게임 및 재미",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/KgDhuKNJsX-moQONcDcsBpgV7l5OB-st3iIwIYpMD1NRfAJ6APkZAXqTvnw2Ji34anP5pKKQCk1V2WmspYNuiA",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BudgeWorld&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.sinyee.babybus.selfcare",
+      "title": "아기팬더의 일상 습관",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/83-rnapDyS-6bXV0jlBXhQDNhgYW3nPSHd_KwXDF-LfT9ce4qnvGizmZ1DEDfVGleWNg9cAcTz3YF8YtZfa_SQ",
+      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.selfcare&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-12",
+      "isGame": true
+    },
     {
       "appId": "games.my.zombie.shooter.fps",
       "title": "좀비 하버: 오프라인 FPS 생존 좀비게임",
@@ -4816,24 +4836,6 @@
       "icon": "https://play-lh.googleusercontent.com/g7IlaVOg6pqpCJVu5oHyOUNFq4mDpNcfkIRU1yiiGxjE4GF2nCrkJ5gf76mLRYsmcQ",
       "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=ko&gl=KR",
       "discoveredDate": "2026-05-27",
-      "isGame": true
-    },
-    {
-      "appId": "ghost.shooting.sniper.real3d.action.free.android",
-      "title": "Ghost Shooting: hunting games",
-      "developer": "BitStrong Games",
-      "icon": "https://play-lh.googleusercontent.com/kdDze2Bd36XpG_REyE7SUQ2mc40f8GvL-6BF4nQLOYH-60JvTSzJMJmP0SHvCMp3K613",
-      "url": "https://play.google.com/store/apps/details?id=ghost.shooting.sniper.real3d.action.free.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-26",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
-      "title": "Brawlhalla",
-      "developer": "Ubisoft Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t",
-      "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-26",
       "isGame": true
     },
     {
