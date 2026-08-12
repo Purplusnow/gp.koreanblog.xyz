@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:07:41.679Z",
+  "updatedAt": "2026-08-12T17:06:16.492Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1615,9 +1615,19 @@
     "com.budgestudios.googleplay.BudgeWorld",
     "com.sinyee.babybus.selfcare",
     "com.king.farmheroessaga",
-    "superstar.games.Color.Invaders.Idle"
+    "superstar.games.Color.Invaders.Idle",
+    "com.mobirate.DeadAheadTactics"
   ],
   "items": [
+    {
+      "appId": "com.mobirate.DeadAheadTactics",
+      "title": "Dead Ahead: Zombie Warfare",
+      "developer": "Mobirate",
+      "icon": "https://play-lh.googleusercontent.com/PPBLKIa4mOz6yJsrCKM_pSoiiczgn-PxSerGJ7fft1O4lbyssuX_e6V0ajFb1-4cxyXiQr2HK9OFriRiy-vDRro",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirate.DeadAheadTactics&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-13",
+      "isGame": true
+    },
     {
       "appId": "com.budgestudios.googleplay.BudgeWorld",
       "title": "Budge 어린이 게임 및 재미",
@@ -4820,15 +4830,6 @@
       "icon": "https://play-lh.googleusercontent.com/8T7C2fD0W1zN3yDeFxp06-kg_LEHL-couoCPcndKn1C9LVHMGRhgT0CRpH-ZU-4e4iD5RTiiYubw__9nAXMyHw",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko&gl=KR",
       "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.bw.ud.googleplay",
-      "title": "유보트",
-      "developer": "Tap4fun Trident Limited",
-      "icon": "https://play-lh.googleusercontent.com/aXBE7Zx7I47PEld1KlUp_betQa6L4lGtKofWtfdlFDiiFiYu8kLMmKqzOuPaeFjmHxA",
-      "url": "https://play.google.com/store/apps/details?id=com.bw.ud.googleplay&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-27",
       "isGame": true
     },
     {
