@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:22:02.767Z",
+  "updatedAt": "2026-08-12T08:25:24.761Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1613,7 +1613,9 @@
     "games.my.zombie.shooter.fps",
     "com.prettysimple.elixirapp",
     "com.budgestudios.googleplay.BudgeWorld",
-    "com.sinyee.babybus.selfcare"
+    "com.sinyee.babybus.selfcare",
+    "com.king.farmheroessaga",
+    "superstar.games.Color.Invaders.Idle"
   ],
   "items": [
     {
@@ -1631,6 +1633,24 @@
       "developer": "BabyBus",
       "icon": "https://play-lh.googleusercontent.com/83-rnapDyS-6bXV0jlBXhQDNhgYW3nPSHd_KwXDF-LfT9ce4qnvGizmZ1DEDfVGleWNg9cAcTz3YF8YtZfa_SQ",
       "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.selfcare&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.king.farmheroessaga",
+      "title": "팜히어로사가",
+      "developer": "King",
+      "icon": "https://play-lh.googleusercontent.com/BoSTaEZEpVULdJX_lcNS2wNrXApunF2lGOpP-vO7jUIm-cQ9NF_0CFULN8E9GMBt8IXh717mXqE0bNcAWCXp",
+      "url": "https://play.google.com/store/apps/details?id=com.king.farmheroessaga&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-12",
+      "isGame": true
+    },
+    {
+      "appId": "superstar.games.Color.Invaders.Idle",
+      "title": "색상 침략자 방치형 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/w0GG-oGNwJhhgh8ZATdtV7Bh9u6Znfga9mR35ecbqkR_CMHWfk4kQx-2Qhw1g9uF4VFRQCTbPnnORHqmoZk",
+      "url": "https://play.google.com/store/apps/details?id=superstar.games.Color.Invaders.Idle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-12",
       "isGame": true
     },
@@ -4800,24 +4820,6 @@
       "icon": "https://play-lh.googleusercontent.com/8T7C2fD0W1zN3yDeFxp06-kg_LEHL-couoCPcndKn1C9LVHMGRhgT0CRpH-ZU-4e4iD5RTiiYubw__9nAXMyHw",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko&gl=KR",
       "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.zillionwhales.mushroomwars2",
-      "title": "Mushroom Wars 2: 전략 게임 및 타워 방어",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/0ULcae3wzWD4fh7VoEvHo1qjJd4bRYwrrY-4vnGAD8nXg20MrFJCu6Hx1SRyIdiR1TI",
-      "url": "https://play.google.com/store/apps/details?id=com.zillionwhales.mushroomwars2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.idle.summoners.era.heroes.afk",
-      "title": "Summoners Era: 방치 전략",
-      "developer": "Fansipan Limited",
-      "icon": "https://play-lh.googleusercontent.com/kynz9TPqb2KOw4qoMiRDx5ZSRXIG9gkDlVDctYQve3ZrcVk_4FXCvanS5ij5mhdqxIs",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-27",
       "isGame": true
     },
     {
