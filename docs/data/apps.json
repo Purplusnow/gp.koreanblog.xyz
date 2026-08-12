@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:06:16.492Z",
+  "updatedAt": "2026-08-12T19:14:28.613Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1616,7 +1616,8 @@
     "com.sinyee.babybus.selfcare",
     "com.king.farmheroessaga",
     "superstar.games.Color.Invaders.Idle",
-    "com.mobirate.DeadAheadTactics"
+    "com.mobirate.DeadAheadTactics",
+    "com.kakaogames.grdchase"
   ],
   "items": [
     {
@@ -1625,6 +1626,15 @@
       "developer": "Mobirate",
       "icon": "https://play-lh.googleusercontent.com/PPBLKIa4mOz6yJsrCKM_pSoiiczgn-PxSerGJ7fft1O4lbyssuX_e6V0ajFb1-4cxyXiQr2HK9OFriRiy-vDRro",
       "url": "https://play.google.com/store/apps/details?id=com.mobirate.DeadAheadTactics&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.kakaogames.grdchase",
+      "title": "그랜드체이스",
+      "developer": "KOG CO., LTD.",
+      "icon": "https://play-lh.googleusercontent.com/9bmbQm4ttEMY2qQ1ppzcU_RcX4mQT9zUpM9dZz8YrqURYTjbf5ihZ4L0DDaSF28PA8QPw8BdCJ6UOBN-YlQljQ",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.grdchase&hl=ko&gl=KR",
       "discoveredDate": "2026-08-13",
       "isGame": true
     },
@@ -4830,15 +4840,6 @@
       "icon": "https://play-lh.googleusercontent.com/8T7C2fD0W1zN3yDeFxp06-kg_LEHL-couoCPcndKn1C9LVHMGRhgT0CRpH-ZU-4e4iD5RTiiYubw__9nAXMyHw",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko&gl=KR",
       "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.kingsgroup.sos",
-      "title": "S.O.S: 스테이트 오브 서바이벌",
-      "developer": "FunPlus International AG",
-      "icon": "https://play-lh.googleusercontent.com/g7IlaVOg6pqpCJVu5oHyOUNFq4mDpNcfkIRU1yiiGxjE4GF2nCrkJ5gf76mLRYsmcQ",
-      "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-27",
       "isGame": true
     },
     {
