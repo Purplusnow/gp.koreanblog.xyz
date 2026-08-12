@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:55:45.127Z",
+  "updatedAt": "2026-08-12T22:53:25.627Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1617,7 +1617,9 @@
     "com.king.farmheroessaga",
     "superstar.games.Color.Invaders.Idle",
     "com.mobirate.DeadAheadTactics",
-    "com.kakaogames.grdchase"
+    "com.kakaogames.grdchase",
+    "com.Shooter.ModernWarships",
+    "com.linecorp.LGBB2"
   ],
   "items": [
     {
@@ -1635,6 +1637,24 @@
       "developer": "KOG CO., LTD.",
       "icon": "https://play-lh.googleusercontent.com/9bmbQm4ttEMY2qQ1ppzcU_RcX4mQT9zUpM9dZz8YrqURYTjbf5ihZ4L0DDaSF28PA8QPw8BdCJ6UOBN-YlQljQ",
       "url": "https://play.google.com/store/apps/details?id=com.kakaogames.grdchase&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.Shooter.ModernWarships",
+      "title": "모던 워쉽 (Modern Warships)",
+      "developer": "Artstorm FZE",
+      "icon": "https://play-lh.googleusercontent.com/CbJIZbma9S7zhK6PYYcYMwnoGWPY9WgOTYi1tEPl7APVmRuZGKVQRKXi4_TY_RuhWxa43JrM6gYAO29PuFHXuWQ",
+      "url": "https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.linecorp.LGBB2",
+      "title": "라인 버블 2",
+      "developer": "LINE (LY Corporation)",
+      "icon": "https://play-lh.googleusercontent.com/rIfCFZjOtilMFvAdTeI2Dhg2zqcMo9BUbIzLcb9yaIHs3C8rR-GoLakWEyXklvZpYujDzXKNwgLzblGtmFbg",
+      "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGBB2&hl=ko&gl=KR",
       "discoveredDate": "2026-08-13",
       "isGame": true
     },
@@ -4732,24 +4752,6 @@
       "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
       "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.Wispwood.ArrowQuest",
-      "title": "Arrow Quest: 방치형 디펜스 RPG",
-      "developer": "Wispwood Games",
-      "icon": "https://play-lh.googleusercontent.com/bd_9QWiC9g58mfO2EIcgrBAE2-6GF0EF3ah0-sb7zQ4mIr5Cwfby34BVamvvJouFaWuR",
-      "url": "https://play.google.com/store/apps/details?id=com.Wispwood.ArrowQuest&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.allstarunion.cdw",
-      "title": "CatDog World: After Humans",
-      "developer": "StarFortune",
-      "icon": "https://play-lh.googleusercontent.com/diPHztqICkd4EQZb5waN2bmgJ90FIefp2Bt60IIoBKBvgiKb3DxCxMgsUkYwnSyBI0bcMgulMMGlObT3lnEsJA",
-      "url": "https://play.google.com/store/apps/details?id=com.allstarunion.cdw&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
       "isGame": true
     },
     {
