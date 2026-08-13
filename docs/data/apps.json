@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:14:56.112Z",
+  "updatedAt": "2026-08-13T20:54:52.970Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1621,9 +1621,19 @@
     "com.Shooter.ModernWarships",
     "com.linecorp.LGBB2",
     "com.block.color.escape",
-    "com.plaium.tmm"
+    "com.plaium.tmm",
+    "com.zigzagame.evertale"
   ],
   "items": [
+    {
+      "appId": "com.zigzagame.evertale",
+      "title": "에버테일",
+      "developer": "ZigZaGame Inc.",
+      "icon": "https://play-lh.googleusercontent.com/9nZjArhTESER-BINXd2CcC8U3PJt4zLBvxSFREu_qA-SBx-V-HmdpCQ6XpNlg5PE41uuwbskSxuPAmAXApdWsA",
+      "url": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-14",
+      "isGame": true
+    },
     {
       "appId": "com.mobirate.DeadAheadTactics",
       "title": "Dead Ahead: Zombie Warfare",
@@ -4772,15 +4782,6 @@
       "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
       "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.gotasia",
-      "title": "왕좌의 게임: 킹스로드",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/j7o9-bE6N0s71hZvO5qbYqG9V0kvbiMHsPNCjQoKD4kR0OiD5wK3NZKY2eCV1VNStH9pX8BTlxsn_5qhxC3G",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.gotasia&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
       "isGame": true
     },
     {
