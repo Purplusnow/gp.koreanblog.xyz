@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T06:23:49.107Z",
+  "updatedAt": "2026-08-13T08:38:35.797Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1619,7 +1619,9 @@
     "com.mobirate.DeadAheadTactics",
     "com.kakaogames.grdchase",
     "com.Shooter.ModernWarships",
-    "com.linecorp.LGBB2"
+    "com.linecorp.LGBB2",
+    "com.block.color.escape",
+    "com.plaium.tmm"
   ],
   "items": [
     {
@@ -1655,6 +1657,24 @@
       "developer": "LINE (LY Corporation)",
       "icon": "https://play-lh.googleusercontent.com/rIfCFZjOtilMFvAdTeI2Dhg2zqcMo9BUbIzLcb9yaIHs3C8rR-GoLakWEyXklvZpYujDzXKNwgLzblGtmFbg",
       "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGBB2&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.block.color.escape",
+      "title": "Screw Block Escape",
+      "developer": "IEC Holding L.L.C-FZ",
+      "icon": "https://play-lh.googleusercontent.com/bqb13Wfj5T07izR85DPapAIqo-MjEl-Za23tYQX6_fIG-GO5BkYUa62Vk5CGkYr4hNpEIXlSDMWTeu3WwxH2BAQ",
+      "url": "https://play.google.com/store/apps/details?id=com.block.color.escape&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.plaium.tmm",
+      "title": "티니핑 매직 매치",
+      "developer": "BY4M STUDIO",
+      "icon": "https://play-lh.googleusercontent.com/8yFHnV7z6UgX3ATjbk6fzrAHx-MfvafbH9mpnRGWUD0Rg6BXC0mDLQudFbilwimrphQC6i4vQdjBJQ-tmIuIpyA",
+      "url": "https://play.google.com/store/apps/details?id=com.plaium.tmm&hl=ko&gl=KR",
       "discoveredDate": "2026-08-13",
       "isGame": true
     },
@@ -4752,24 +4772,6 @@
       "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
       "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.more.lastfortress.gp",
-      "title": "라스트 포트리스 : 언더그라운드",
-      "developer": "LIFE GAME PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/2QzHW0r7FDEn27OxQLD4izNtVqUzMKcK5AUEUSqM1nNNJUT8vDvrgapEDLeIr5Jzd_Q",
-      "url": "https://play.google.com/store/apps/details?id=com.more.lastfortress.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.kingsgroup.ss.kr",
-      "title": "S.O.S: 스테이트 오브 서바이벌",
-      "developer": "FunPlus International AG",
-      "icon": "https://play-lh.googleusercontent.com/hZdanx-2MfGgagNtfr24s9G_C693o64OUuR4kORnqaq7diruIijfPH7mbKaAKv68o6yu",
-      "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.ss.kr&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
       "isGame": true
     },
     {
