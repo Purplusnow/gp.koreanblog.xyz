@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:00:40.885Z",
+  "updatedAt": "2026-08-14T17:02:46.093Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1624,9 +1624,29 @@
     "com.plaium.tmm",
     "com.zigzagame.evertale",
     "com.familygo.simgame",
-    "com.pikpok.wtd.play"
+    "com.pikpok.wtd.play",
+    "com.wemadeconnect.aos.lostdgl",
+    "com.netmarble.fgok"
   ],
   "items": [
+    {
+      "appId": "com.wemadeconnect.aos.lostdgl",
+      "title": "로스트 소드",
+      "developer": "Wemade Connect",
+      "icon": "https://play-lh.googleusercontent.com/_OS6EQ01n93vfCiMRVgOb6RSsYiyacTI-2z_ebCzHNlLHdQX4Ln12dC1qGLjb_nrLc2L7Yr62osZDvFdIIv0JA",
+      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.lostdgl&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.fgok",
+      "title": "페이트/그랜드 오더",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/HA3nOzVN1Osr5sN0rGbHBRPr59r5PJ3kYWOwb9xzXjReoIOTNEuvr_oubfKLf8zCeG_V4tPFSApmeF7rDnqO_Tk",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.fgok&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
     {
       "appId": "com.zigzagame.evertale",
       "title": "에버테일",
@@ -4802,24 +4822,6 @@
       "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
       "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
-      "title": "퀸즈레터 : 합성 & 스토리",
-      "developer": "PLAYHARD STUDIO",
-      "icon": "https://play-lh.googleusercontent.com/31LyCNMnFqSfHu__QDlZVhaZpc5NjS-FJiaQnj4FCi1CS1qdwM6ATBE-k3t9E1n6KKJYYs3yzmh2s2LEVG0Cd-U",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.ObliqueGames.GodGodGod",
-      "title": "갓갓갓 : 로그라이크 디펜스",
-      "developer": "OBLIQUE GAMES",
-      "icon": "https://play-lh.googleusercontent.com/Tll0djbuLn3Pk98T4nSjg1ytnyfDDm4kRDdsrBDDO0OCjK1CA_3g-PIbH1UfrFnEAko",
-      "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.GodGodGod&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
       "isGame": true
     },
     {
