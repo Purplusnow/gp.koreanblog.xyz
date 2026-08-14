@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:34:28.462Z",
+  "updatedAt": "2026-08-14T22:32:53.385Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1629,7 +1629,10 @@
     "com.netmarble.fgok",
     "com.rvappstudios.math.kids.counting",
     "com.bimiboo.kids.drawing",
-    "com.vizta.wefly"
+    "com.vizta.wefly",
+    "com.pid.caravansandwitch",
+    "com.snapbreak.chillquarium",
+    "com.shortcircuitstudio.dawnfolk"
   ],
   "items": [
     {
@@ -1674,6 +1677,33 @@
       "developer": "Vizta Games",
       "icon": "https://play-lh.googleusercontent.com/1aVlClSrBkHU047nXcn4_-AgcrYQvlbETEjyt68LaIaEm-LOGfMK4RoIEVExJW2vOLBGCqMp22VPsTqszCR51Q",
       "url": "https://play.google.com/store/apps/details?id=com.vizta.wefly&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.pid.caravansandwitch",
+      "title": "Caravan SandWitch",
+      "developer": "Dear Villagers",
+      "icon": "https://play-lh.googleusercontent.com/w1OHWOIIh2j98zzTn0fVs1DTCeASlzAyzgBAlfPTGDFwh0tzveHbB3KLvyWfHVrr3Uz55miJD3VYL8Q6c0AU",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.caravansandwitch&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.chillquarium",
+      "title": "Chillquarium",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/8hprV-L8shJZBsf-6z6pSq5UdWN5cuI_M7D37ysufa6-jCt93apzUY6ngjPVy4uCRGOhHmmbgZi05ZdqiWkV0Q",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.chillquarium&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.shortcircuitstudio.dawnfolk",
+      "title": "Dawnfolk",
+      "developer": "Short Circuit Studio",
+      "icon": "https://play-lh.googleusercontent.com/_5L9bHETQKu4MoBO6yfreBGE2PJpFBpNWvqSuq2-s32dtcQGEec3IxgAa9ijI8w1RZjVbfyYnHn-Z9YM4weCWg",
+      "url": "https://play.google.com/store/apps/details?id=com.shortcircuitstudio.dawnfolk&hl=ko&gl=KR",
       "discoveredDate": "2026-08-15",
       "isGame": true
     },
@@ -4789,33 +4819,6 @@
       "icon": "https://play-lh.googleusercontent.com/luuXLlHj4AHbKgKtCmMQZJgetVqEuX5ZpzDy9JBx7q6_DMyoWMwiGbxNmOw0_nWfOdkM",
       "url": "https://play.google.com/store/apps/details?id=com.rbx.antique.android&hl=ko&gl=KR",
       "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.battlecreek.nolimit2",
-      "title": "No Limit Drag Racing 2",
-      "developer": "Battle Creek Games, LLC",
-      "icon": "https://play-lh.googleusercontent.com/iO0umwRfq4QpRsDIO2GpwWm-HJaMykk-oyNBQ9ccQ8Djo64GZIQiWQQaGaG06iKCj-joIGihqPZTiVvJt80EOdY",
-      "url": "https://play.google.com/store/apps/details?id=com.battlecreek.nolimit2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.topgamesinc.rg",
-      "title": "달려! 여신",
-      "developer": "TG Inc.",
-      "icon": "https://play-lh.googleusercontent.com/w_heeYWYsJ6FzMCmEalHqmR0B73vsNDg9eL1YrePYROjB5L9x7EyDspA1PEhKA1JA3E",
-      "url": "https://play.google.com/store/apps/details?id=com.topgamesinc.rg&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.snapbreak.terrarium",
-      "title": "Project Terrarium",
-      "developer": "Snapbreak",
-      "icon": "https://play-lh.googleusercontent.com/BzGkHcgo0ujx85NeyHifZlpiUzwcL2147TGv6HlN2BULd8WjxC9OZAwS5DxlKmyx2e0",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.terrarium&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
       "isGame": true
     },
     {
