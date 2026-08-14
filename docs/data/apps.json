@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T04:56:12.085Z",
+  "updatedAt": "2026-08-14T06:21:53.092Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1622,7 +1622,9 @@
     "com.linecorp.LGBB2",
     "com.block.color.escape",
     "com.plaium.tmm",
-    "com.zigzagame.evertale"
+    "com.zigzagame.evertale",
+    "com.familygo.simgame",
+    "com.pikpok.wtd.play"
   ],
   "items": [
     {
@@ -1631,6 +1633,24 @@
       "developer": "ZigZaGame Inc.",
       "icon": "https://play-lh.googleusercontent.com/9nZjArhTESER-BINXd2CcC8U3PJt4zLBvxSFREu_qA-SBx-V-HmdpCQ6XpNlg5PE41uuwbskSxuPAmAXApdWsA",
       "url": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.familygo.simgame",
+      "title": "Family Go! - 대를 잇는 인생 시뮬레이션",
+      "developer": "KIKO FUN INTERACTIVE ENTERTAINMENT CO., LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/WJP5by3vR-Ejkp1VI6BoC4Pddfvwk1ouyioZ7LhvUsVsAWm-kBJldXznuixOgSPFptSKPZcJgn24lEtDcJqQuA",
+      "url": "https://play.google.com/store/apps/details?id=com.familygo.simgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.pikpok.wtd.play",
+      "title": "오리DUCK후",
+      "developer": "PIKPOK",
+      "icon": "https://play-lh.googleusercontent.com/cTwDY_r_9paKRsbTHXV-ShALxhsBg8wrJDG-EdeeGhvmPNJGjeefmx6lf0ZRHK-mO3j-QrSxA0emNJ4yZTVDvg",
+      "url": "https://play.google.com/store/apps/details?id=com.pikpok.wtd.play&hl=ko&gl=KR",
       "discoveredDate": "2026-08-14",
       "isGame": true
     },
@@ -4782,24 +4802,6 @@
       "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
       "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.gtarcade.ioe.global",
-      "title": "Infinity Kingdom",
-      "developer": "Yoozoo (Singapore) Pte. Ltd",
-      "icon": "https://play-lh.googleusercontent.com/CwJIBPWghsBgSaNvbdomABMhrKYsXzInF6DkZDVY_vOjLPG1or6XvtVy8ww8fT5UwPAn",
-      "url": "https://play.google.com/store/apps/details?id=com.gtarcade.ioe.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.netease.dunkcdjp",
-      "title": "NBA 덩크 시티",
-      "developer": "Exptional Global",
-      "icon": "https://play-lh.googleusercontent.com/5YBer2TCaAxpRZTcWV-F0JulQjpmuEsy5TehNNK2Wr_SGQXBDavzjkzYVdn_jCrZdC7yiriOP4RXQgmM09WY2zo",
-      "url": "https://play.google.com/store/apps/details?id=com.netease.dunkcdjp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
       "isGame": true
     },
     {
