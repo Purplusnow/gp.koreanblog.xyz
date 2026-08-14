@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:06:41.233Z",
+  "updatedAt": "2026-08-14T20:38:28.862Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1626,7 +1626,10 @@
     "com.familygo.simgame",
     "com.pikpok.wtd.play",
     "com.wemadeconnect.aos.lostdgl",
-    "com.netmarble.fgok"
+    "com.netmarble.fgok",
+    "com.rvappstudios.math.kids.counting",
+    "com.bimiboo.kids.drawing",
+    "com.vizta.wefly"
   ],
   "items": [
     {
@@ -1644,6 +1647,33 @@
       "developer": "Netmarble",
       "icon": "https://play-lh.googleusercontent.com/HA3nOzVN1Osr5sN0rGbHBRPr59r5PJ3kYWOwb9xzXjReoIOTNEuvr_oubfKLf8zCeG_V4tPFSApmeF7rDnqO_Tk",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.fgok&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.rvappstudios.math.kids.counting",
+      "title": "수학 게임 어린이-덧셈뺄셈",
+      "developer": "RV AppStudios",
+      "icon": "https://play-lh.googleusercontent.com/Zu5Fn9SqTRyatFWgGl0hPfuCbzQHljpY9RXc19rS9o1qrHfbtdRobvorowFWebklBnyzxoRZGQibAD5iyZI8IQ",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.math.kids.counting&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.bimiboo.kids.drawing",
+      "title": "유아용 그림그리기 및 색칠 게임 - 2-6세 색칠공부",
+      "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
+      "icon": "https://play-lh.googleusercontent.com/wtz9KlSYBTTCCAa0yJQFD7TvLzGdqYnhYvxb1L464H8Ck58kkvtZizewye_mojyikZk-GiYqCCqL_vrrODSl",
+      "url": "https://play.google.com/store/apps/details?id=com.bimiboo.kids.drawing&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.vizta.wefly",
+      "title": "에이스크래프트: 협동 비행 슈팅",
+      "developer": "Vizta Games",
+      "icon": "https://play-lh.googleusercontent.com/1aVlClSrBkHU047nXcn4_-AgcrYQvlbETEjyt68LaIaEm-LOGfMK4RoIEVExJW2vOLBGCqMp22VPsTqszCR51Q",
+      "url": "https://play.google.com/store/apps/details?id=com.vizta.wefly&hl=ko&gl=KR",
       "discoveredDate": "2026-08-15",
       "isGame": true
     },
@@ -4822,33 +4852,6 @@
       "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
       "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
       "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.BillionaireGames.TicketHero",
-      "title": "사신소년 키우기",
-      "developer": "BillionaireGames",
-      "icon": "https://play-lh.googleusercontent.com/-cya2aw0g811BXjXedyeVh-4jtRsrJaC1OnociY5swJHq6xU25-kL0RLgMNGaFbBbCTOPRd0khwy5EnmybU2Ews",
-      "url": "https://play.google.com/store/apps/details?id=com.BillionaireGames.TicketHero&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.bscotch.hmd",
-      "title": "How Many Dudes: 몇 놈 필요함?",
-      "developer": "Butterscotch Shenanigans",
-      "icon": "https://play-lh.googleusercontent.com/2wHXIQ0iFHmkai6kyACtq0tNLR-crzn9_lTSqFrWMg5f7o-V3iZUARSWbqslVZs4vLZBCQyDNjiWHDT8oRL7Bdc",
-      "url": "https://play.google.com/store/apps/details?id=com.bscotch.hmd&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookapps.catsurvivor",
-      "title": "쾅냥 서바이버 : 좀비 쓸어버리기",
-      "developer": "CookApps",
-      "icon": "https://play-lh.googleusercontent.com/8T7C2fD0W1zN3yDeFxp06-kg_LEHL-couoCPcndKn1C9LVHMGRhgT0CRpH-ZU-4e4iD5RTiiYubw__9nAXMyHw",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-28",
       "isGame": true
     },
     {
