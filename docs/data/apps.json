@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:32:53.385Z",
+  "updatedAt": "2026-08-14T23:30:25.073Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1632,7 +1632,8 @@
     "com.vizta.wefly",
     "com.pid.caravansandwitch",
     "com.snapbreak.chillquarium",
-    "com.shortcircuitstudio.dawnfolk"
+    "com.shortcircuitstudio.dawnfolk",
+    "com.herocraft.game.mafioso.gangster.paradise.pvp"
   ],
   "items": [
     {
@@ -1704,6 +1705,15 @@
       "developer": "Short Circuit Studio",
       "icon": "https://play-lh.googleusercontent.com/_5L9bHETQKu4MoBO6yfreBGE2PJpFBpNWvqSuq2-s32dtcQGEec3IxgAa9ijI8w1RZjVbfyYnHn-Z9YM4weCWg",
       "url": "https://play.google.com/store/apps/details?id=com.shortcircuitstudio.dawnfolk&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.herocraft.game.mafioso.gangster.paradise.pvp",
+      "title": "마피오소: 마피아 PvP 온라인",
+      "developer": "HeroCraft Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/BSvARVv1HrOFpcrwk-C-l0fFENKQ2-nnbqzbvq3J8ZRo2_ARY24GQq7Pcelk2HRMS2z4Tg8BWFrIl2YSfYURfg",
+      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.mafioso.gangster.paradise.pvp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-15",
       "isGame": true
     },
@@ -4819,15 +4829,6 @@
       "icon": "https://play-lh.googleusercontent.com/luuXLlHj4AHbKgKtCmMQZJgetVqEuX5ZpzDy9JBx7q6_DMyoWMwiGbxNmOw0_nWfOdkM",
       "url": "https://play.google.com/store/apps/details?id=com.rbx.antique.android&hl=ko&gl=KR",
       "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "ru.skillcap.dominoes",
-      "title": "Domino - 도미노 게임",
-      "developer": "ZiMAD",
-      "icon": "https://play-lh.googleusercontent.com/SqyCJuE9Nmv912xNbd6xUD74GYCX_EhAdniBpvkuYow_mtjYBTiEzMgh1UQBgcR_YPI",
-      "url": "https://play.google.com/store/apps/details?id=ru.skillcap.dominoes&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
       "isGame": true
     },
     {
