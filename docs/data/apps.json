@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:53:40.391Z",
+  "updatedAt": "2026-08-15T13:37:21.678Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1649,7 +1649,9 @@
     "com.ChickMania.Carrom",
     "com.casualino.mancala",
     "com.hitrock.hideonline",
-    "com.werewolfapps.online"
+    "com.werewolfapps.online",
+    "find.differences.online.puzzle.games",
+    "com.xmonetize.quizzland"
   ],
   "items": [
     {
@@ -1874,6 +1876,24 @@
       "developer": "Wolvesville GmbH & Co. KG",
       "icon": "https://play-lh.googleusercontent.com/Rbzf9fh9dc4IzOi78di3mMM_OZtx8RFGq8NNDc68drhKpsTuXdedQygFqYx_FLPPZcu3sQTXn_zql4O1SyCXwg",
       "url": "https://play.google.com/store/apps/details?id=com.werewolfapps.online&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "find.differences.online.puzzle.games",
+      "title": "차이점찾기: 46,000개 이상의 HD 이미지",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/o3ZvKMWtAiRFWQ0aeUQT52TE5kL6ElCO3yT2WoE9Vglyp1_Jg7bapBRPo5fM9_mkvzPV1MeHHUP7DfUoOcIIRVY",
+      "url": "https://play.google.com/store/apps/details?id=find.differences.online.puzzle.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.xmonetize.quizzland",
+      "title": "QuizzLand: 짜릿한 모바일 상식퀴즈 게임",
+      "developer": "Quiz & Trivia Games by Mno Go Apps",
+      "icon": "https://play-lh.googleusercontent.com/OWKOL5jvh-PwZCtsGTservGEXCHNadYJlYFyenAZ0uLNT3ue0816RgG7fwYVnL8XN2L73lPGE1Qe_CYXvsIkBw",
+      "url": "https://play.google.com/store/apps/details?id=com.xmonetize.quizzland&hl=ko&gl=KR",
       "discoveredDate": "2026-08-15",
       "isGame": true
     },
@@ -4854,24 +4874,6 @@
       "icon": "https://play-lh.googleusercontent.com/irP0bu8dvhc9nDnGaAp6fbFZfMR98NxNWnyX7JigPw6F8WTFrnkjfzBeiBq55TVAg04",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.redesignstar.homemakeover&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.bitmango.go.bubblepop",
-      "title": "버블팝! 클래식 퍼즐 게임",
-      "developer": "BitMango",
-      "icon": "https://play-lh.googleusercontent.com/KVtDCuaNqlZ8mT78eEqSPIQEMvjXw0RKRC7atxpPHN6-PPs4ZwvDRjtf_LOfymBApQ",
-      "url": "https://play.google.com/store/apps/details?id=com.bitmango.go.bubblepop&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.linecorp.LGTMTMG",
-      "title": "라인 디즈니 썸썸",
-      "developer": "LINE (LY Corporation)",
-      "icon": "https://play-lh.googleusercontent.com/FoMcn4l25vD95pjTxbvZ65mK-ITkSVbjczLQ2QdWHOyDtapq0XkHu4rSVX6ZdeKCvQ9sDQ3u40So1MbeNxU6",
-      "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTMG&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
       "isGame": true
     },
     {
