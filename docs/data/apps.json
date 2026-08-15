@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:48:29.278Z",
+  "updatedAt": "2026-08-15T04:40:06.645Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1633,7 +1633,23 @@
     "com.pid.caravansandwitch",
     "com.snapbreak.chillquarium",
     "com.shortcircuitstudio.dawnfolk",
-    "com.herocraft.game.mafioso.gangster.paradise.pvp"
+    "com.herocraft.game.mafioso.gangster.paradise.pvp",
+    "com.project7.project7beta",
+    "com.KhoGames.WarzoneCommander",
+    "com.pixelfun.online",
+    "com.haegin.overdox",
+    "com.direwolfdigital.Phoenix",
+    "com.guildsoftware.vendetta",
+    "com.fingersoft.boomkarts",
+    "com.igg.android.vikingriseglobal",
+    "com.avalar.aone.epl.gp",
+    "mmorpg.main",
+    "com.fanatee.stop2",
+    "com.bitgate.curseofaros",
+    "com.ChickMania.Carrom",
+    "com.casualino.mancala",
+    "com.hitrock.hideonline",
+    "com.werewolfapps.online"
   ],
   "items": [
     {
@@ -1714,6 +1730,150 @@
       "developer": "HeroCraft Ltd.",
       "icon": "https://play-lh.googleusercontent.com/BSvARVv1HrOFpcrwk-C-l0fFENKQ2-nnbqzbvq3J8ZRo2_ARY24GQq7Pcelk2HRMS2z4Tg8BWFrIl2YSfYURfg",
       "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.mafioso.gangster.paradise.pvp&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.project7.project7beta",
+      "title": "Laurum Online - 2D MMORPG",
+      "developer": "Pixel Cat Interactive Limited",
+      "icon": "https://play-lh.googleusercontent.com/hIB7apnJkKgKYvGkeLC0fgVXyltl9hkFhYjyYMP2oMNfUxNcfI-fIZAJGYQEEellimdy-yvFfjZIoTtDSfQdwQ",
+      "url": "https://play.google.com/store/apps/details?id=com.project7.project7beta&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.KhoGames.WarzoneCommander",
+      "title": "Warzone Commander",
+      "developer": "KhoGames",
+      "icon": "https://play-lh.googleusercontent.com/5I4XB4IzKQgre7iUsGnHBwmq_ZrEN2ck4RBgiQ_9cokBJYboV9TiWi8eK3BdKDBacMvnNOD1JHWc3LQGTiZh",
+      "url": "https://play.google.com/store/apps/details?id=com.KhoGames.WarzoneCommander&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.pixelfun.online",
+      "title": "Vortex 9 슈팅게임 & 온라인 게임",
+      "developer": "Go Dreams",
+      "icon": "https://play-lh.googleusercontent.com/R0cTeIBCneU3gp6PnFm1BIrtQiTEu-A7spJIfZrV0AO1iA6gRdDfPckB2bHCN_7N5KT1wGy26WDxuYnd8s_e5g",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelfun.online&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.haegin.overdox",
+      "title": "오버독스",
+      "developer": "HAEGIN Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/DTilLdniA-xJyjUUOnZu01wC_P0wKSNQW1glMtgbKyg8aRnV--fuJ4TtgB3n3h_iLStuCqk_i9WqCakMhr8Nk5g",
+      "url": "https://play.google.com/store/apps/details?id=com.haegin.overdox&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.direwolfdigital.Phoenix",
+      "title": "Eternal Card Game",
+      "developer": "Dire Wolf Digital",
+      "icon": "https://play-lh.googleusercontent.com/ndA99T_wd5pTux6Y1m6cwpyZgcrN4tC5o_tPSdMk14i_pUM9wyy1HtXMubgFMEWPy8R1fF2hwESxkM1PX4nvVw",
+      "url": "https://play.google.com/store/apps/details?id=com.direwolfdigital.Phoenix&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.guildsoftware.vendetta",
+      "title": "벤데타 온라인 (MMORPG)",
+      "developer": "Guild Software, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/UFi9zfs_U9XsdQ5Ghfca8Wlip7Kx-AlMjaN17rg0_jfakREbN3js6iT2ye8hna7kfENdlUW0w9NjEB3U4qfAVOM",
+      "url": "https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.fingersoft.boomkarts",
+      "title": "Boom Karts Multiplayer Racing",
+      "developer": "Zaibatsu Interactive",
+      "icon": "https://play-lh.googleusercontent.com/2rz7U9PMzoEFVQQAsBaUkvO7Kh8fkCvf-h3OB8PeP1z7-p3JzC13mMaj_x8oWvhRrpqe4ILcAYyUCQwAkVKiGg4",
+      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.boomkarts&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.android.vikingriseglobal",
+      "title": "바이킹 라이즈",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/_7Te43ZvU8ghQr4m2VhGDswlVhjqwQ5484SkMMrK072FL0dt38M_yZlw1lYoxNHx9zSPLzWPFLXIxwNppsZrJQ",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.vikingriseglobal&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.avalar.aone.epl.gp",
+      "title": "아발라: 그림자 전쟁",
+      "developer": "Enigma Publishing Limited",
+      "icon": "https://play-lh.googleusercontent.com/LnPpPmG0dD96jmJIrXWrIwA7Dn2O-4Z9pQKcYUQh6qZCo1b_g8JO9ydv470x6WkhlCrpOyNZq9DflhBmRbkqMA",
+      "url": "https://play.google.com/store/apps/details?id=com.avalar.aone.epl.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "mmorpg.main",
+      "title": "Kakele Online - Pixel MMORPG",
+      "developer": "ViVa Games",
+      "icon": "https://play-lh.googleusercontent.com/KBJAU-gaX5RZHoCiGJyuF-50zxDUbjQ6_qR4tYN66kOaYx1cRV7ZHUnIP0bJZFwOGUP7iiGcolkB33CZyvaq",
+      "url": "https://play.google.com/store/apps/details?id=mmorpg.main&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.fanatee.stop2",
+      "title": "Stop 2 - Word Trivia Game",
+      "developer": "Fanatee, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/tXBTC9XtnWNhJC5QYhL7-i6yYq1lTF8stbSmZSD0ApLZ31xTWBQvvuXAdPHw3ab1-4fyMlwAea1d0AhI34nVBg",
+      "url": "https://play.google.com/store/apps/details?id=com.fanatee.stop2&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.bitgate.curseofaros",
+      "title": "Curse of Aros - MMORPG",
+      "developer": "Bitgate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/LyZ-ts_m4J9FSyf5fTcWQ88I1U3Ve7bkPnf3E2KaGAbL24LHg7afyBLsUaKMO_0xLnb7eBDxxUaWaas1h2FtzQ",
+      "url": "https://play.google.com/store/apps/details?id=com.bitgate.curseofaros&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.ChickMania.Carrom",
+      "title": "Carrom - Online pool game",
+      "developer": "ChickMania",
+      "icon": "https://play-lh.googleusercontent.com/mfcvSezwCrFuOE_-w-yzIyktDOpcGkMWlZ55pmXdxqQ7JcfZgURKDiHv_wsk8YwEcOex0kbQ7556h8u1sYvAog",
+      "url": "https://play.google.com/store/apps/details?id=com.ChickMania.Carrom&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.casualino.mancala",
+      "title": "Mancala Game Online",
+      "developer": "Casualino Games",
+      "icon": "https://play-lh.googleusercontent.com/CFlMThzXj_CNI4qbLq-f2QrYqen8_66nB8Nj1czocIiX34Jx3yKFw2xL1uoS7leIYNgJcIPflLo-ga8VkGPSAw",
+      "url": "https://play.google.com/store/apps/details?id=com.casualino.mancala&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.hitrock.hideonline",
+      "title": "Hide Online: Prop Hunt",
+      "developer": "Hitrock",
+      "icon": "https://play-lh.googleusercontent.com/vDsBHBrTA_E91eWw-ptyP_2WW-75nYWQcOdymbS__zxUqFfqTT5bbMW1VFlTZAl4YTTPXxGcpJa7nM3ozdAwdjo",
+      "url": "https://play.google.com/store/apps/details?id=com.hitrock.hideonline&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.werewolfapps.online",
+      "title": "Wolvesville - Werewolf Online",
+      "developer": "Wolvesville GmbH & Co. KG",
+      "icon": "https://play-lh.googleusercontent.com/Rbzf9fh9dc4IzOi78di3mMM_OZtx8RFGq8NNDc68drhKpsTuXdedQygFqYx_FLPPZcu3sQTXn_zql4O1SyCXwg",
+      "url": "https://play.google.com/store/apps/details?id=com.werewolfapps.online&hl=ko&gl=KR",
       "discoveredDate": "2026-08-15",
       "isGame": true
     },
@@ -4697,78 +4857,6 @@
       "isGame": true
     },
     {
-      "appId": "com.redcellgames.animalvalley",
-      "title": "애니멀 밸리: 방치 머지 마을 시뮬레이션",
-      "developer": "AppQuantum",
-      "icon": "https://play-lh.googleusercontent.com/8hwRTFqlFstEqe1gt0WJTLS-5MghKNyAc39RKIrpUo5uJ5EZ6WDWoMeJc9HpZimrZwu6IYZNA5azxEjSnumS6g",
-      "url": "https://play.google.com/store/apps/details?id=com.redcellgames.animalvalley&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "dk.xombat.airlinemanager4",
-      "title": "항공사 관리자 2026 - 비행기 타이쿤",
-      "developer": "Xombat Development - Airline manager games",
-      "icon": "https://play-lh.googleusercontent.com/GbwqsLrryUIyjixY1X4_WH5GtX-soP1i8YkzISPmupoU9qvKrn1KSP8Hvchd2BgZooLuOmpgiki9WQDrbVci",
-      "url": "https://play.google.com/store/apps/details?id=dk.xombat.airlinemanager4&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.highbrow.games.dvo",
-      "title": "드래곤빌리지3",
-      "developer": "highbrow",
-      "icon": "https://play-lh.googleusercontent.com/xkwb3p2V6SkaxRq3uC_NM3n_tkw_UOcfe6uw75plux3o-e_XiY5Ixis8HTfjjix0U14HMqIbVNICs8IoVRFs",
-      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.mattel163.uno2",
-      "title": "UNO Wonder",
-      "developer": "Mattel163 Limited",
-      "icon": "https://play-lh.googleusercontent.com/x9pKmjPeMQkDeCccZY64IAWnErQBeGAuw9S3lnxNGg8ZK4nYVCvn6XOEZHmkkKR8uQ",
-      "url": "https://play.google.com/store/apps/details?id=com.mattel163.uno2&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "block.puzzle.sudoku.free.game.classic.offline",
-      "title": "나무 블록 스도쿠 게임 - 클래식 브레인 퍼즐",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/apO5jX9E5gR2k0CliQ2RPA6J4fSMigRl2Pd8xTUYvrlnt3azdno2XaQihdJLxewvAFAC",
-      "url": "https://play.google.com/store/apps/details?id=block.puzzle.sudoku.free.game.classic.offline&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.StonehollowWorkshop.Eterspire",
-      "title": "Eterspire - 정통 판타지 MMORPG",
-      "developer": "Stonehollow Workshop",
-      "icon": "https://play-lh.googleusercontent.com/zd7AtJlXCZGU5PeKbjN3WEOy7SrLMIuGp8cG4Jnkx8OX5XVyXlf6d9xTlekdOxOyCgBtrbKH7SuIcg7SB0BiCA",
-      "url": "https://play.google.com/store/apps/details?id=com.StonehollowWorkshop.Eterspire&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamegos.adventure.bay.paradise.farm",
-      "title": "어드벤처 베이: 팜 게임",
-      "developer": "GAMEGOS",
-      "icon": "https://play-lh.googleusercontent.com/IwON07dG7ZaBWSwK0koQ7cJ3s1zNgpLYVyZh84SVwUnUp30jVveywLM2wQGb5LLGnLs",
-      "url": "https://play.google.com/store/apps/details?id=com.gamegos.adventure.bay.paradise.farm&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.village",
-      "title": "베이비버스 마을",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/zZ3uHs4-9sIul_7fLLa0ShQZZRhzat4Sq6pel7M3xMMmBOTGTjRB_O-ZJJjaY2GG848",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.village&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
       "appId": "com.bitmango.go.bubblepop",
       "title": "버블팝! 클래식 퍼즐 게임",
       "developer": "BitMango",
@@ -4784,78 +4872,6 @@
       "icon": "https://play-lh.googleusercontent.com/FoMcn4l25vD95pjTxbvZ65mK-ITkSVbjczLQ2QdWHOyDtapq0XkHu4rSVX6ZdeKCvQ9sDQ3u40So1MbeNxU6",
       "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTMG&hl=ko&gl=KR",
       "discoveredDate": "2026-05-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.loadcomplete.minitales",
-      "title": "미니테일즈",
-      "developer": "LoadComplete",
-      "icon": "https://play-lh.googleusercontent.com/RTZztNzUEAARL_g_RzPAkw7M3200xXB4Tw9WJEl1U_XwfgPmCmv1qJ0BejxleREgax0",
-      "url": "https://play.google.com/store/apps/details?id=com.loadcomplete.minitales&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.aceviral.motox3m",
-      "title": "Moto X3M Bike Race Game",
-      "developer": "Ace Viral",
-      "icon": "https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo",
-      "url": "https://play.google.com/store/apps/details?id=air.com.aceviral.motox3m&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world",
-      "title": "Tizi 타운: 인형 옷 입히기 게임",
-      "developer": "Tizi Town Games",
-      "icon": "https://play-lh.googleusercontent.com/Slr2-uvl85m8FFj3aISVq9tmzRgXLQaHY_cvgzPHi1pCvthquBYGAWpEqLzLjcm95qA",
-      "url": "https://play.google.com/store/apps/details?id=com.iz.my.tizi.town.doll.games.pretend.play.home.family.life.wonder.world&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.googleplay.FrozenFRZ",
-      "title": "Disney Frozen Royal Castle",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/6xayMOXHlhFnRjLmDFJt4Cyn2zD3j41uauDhP3_HH74kVd8XoiQge8WaPwoBTWR5P-a_UapC9uuzAjp_Wm2eAQ",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.FrozenFRZ&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.rbx.antique.android",
-      "title": "엠파이어 시티: 건축하고 정복하라!",
-      "developer": "RED BRIX COMPUTER SYSTEMS",
-      "icon": "https://play-lh.googleusercontent.com/luuXLlHj4AHbKgKtCmMQZJgetVqEuX5ZpzDy9JBx7q6_DMyoWMwiGbxNmOw0_nWfOdkM",
-      "url": "https://play.google.com/store/apps/details?id=com.rbx.antique.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.rebirthkr.gp",
-      "title": "밤탈출 - 49일",
-      "developer": "MOREFUN（H.K.) LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/260G3AHHQJIap86kBpE4Z5OOWTqS0_Jy5dM0QTId6HK4h3_NXkeKNQ4A3jMfDqO0i3HD6kMPN1v-fF5edeGpIQ",
-      "url": "https://play.google.com/store/apps/details?id=com.rebirthkr.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.joynexgames.btaste.google",
-      "title": "요괴잡이소대 X 대환장 MMORPG",
-      "developer": "JOYNEX GAMES",
-      "icon": "https://play-lh.googleusercontent.com/1ofJcFK0H4D5NKStquS_vOnEvsW1VJt2Z08H2VhXVoC_LPMIhDFGsleoZFaXNjf5P2dOezXSiillV78sKzxe",
-      "url": "https://play.google.com/store/apps/details?id=com.joynexgames.btaste.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.rome.caesar.war.strategy.conqueror.games",
-      "title": "Grand War: 로마 전략",
-      "developer": "Joynow Studio",
-      "icon": "https://play-lh.googleusercontent.com/nbWuWLaAbqIMA5b0crtW9gaS4RGFnwg-9kQ9TeGm9qmCpTyVOu7Cuh9Jw1HYdJuzFg",
-      "url": "https://play.google.com/store/apps/details?id=com.rome.caesar.war.strategy.conqueror.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-05-29",
       "isGame": true
     },
     {
