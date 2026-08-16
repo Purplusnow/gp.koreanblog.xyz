@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:39:09.270Z",
+  "updatedAt": "2026-08-16T08:40:10.607Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1654,7 +1654,8 @@
     "com.xmonetize.quizzland",
     "com.bbumgames.rummystars",
     "com.wg.wowslegends",
-    "com.ilmfinity.evocreo_2"
+    "com.ilmfinity.evocreo_2",
+    "com.ftt.msleague_gl"
   ],
   "items": [
     {
@@ -1681,6 +1682,15 @@
       "developer": "ilmfinity - Creator of Monster Adventure Games",
       "icon": "https://play-lh.googleusercontent.com/zTm_92IUDu1UkWCHrICgmigFoOy5ZeJNvz5ISCNOUaoCuO4EPC142Vg3AIF1rWHHZx_IrPc1tJOiNfTDjn7B",
       "url": "https://play.google.com/store/apps/details?id=com.ilmfinity.evocreo_2&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.ftt.msleague_gl",
+      "title": "몬스터슈퍼리그",
+      "developer": "Smart Study Games",
+      "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
+      "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
       "isGame": true
     },
@@ -4840,15 +4850,6 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
       "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.tinytitanstudios.TrainChu",
-      "title": "Tiny Rails - 철도 타이쿤",
-      "developer": "Trophy Games - Tiny Rails Train Cargo Simulator",
-      "icon": "https://play-lh.googleusercontent.com/3rtO2id6lOA94jYMb_DN8pOuRpnElT3D4b_X5R2np4pPRFbd3QErDFhDwH6TBadLt4I",
-      "url": "https://play.google.com/store/apps/details?id=com.tinytitanstudios.TrainChu&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
