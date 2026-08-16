@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:53:58.399Z",
+  "updatedAt": "2026-08-16T07:39:09.270Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1653,7 +1653,8 @@
     "find.differences.online.puzzle.games",
     "com.xmonetize.quizzland",
     "com.bbumgames.rummystars",
-    "com.wg.wowslegends"
+    "com.wg.wowslegends",
+    "com.ilmfinity.evocreo_2"
   ],
   "items": [
     {
@@ -1671,6 +1672,15 @@
       "developer": "Wargaming Group",
       "icon": "https://play-lh.googleusercontent.com/sPNzsV7oCX6euxAmUG8X0iwmOksjfZCXVAZIRftB8NNwnN-Jfk2Rtt6kdAUw68MVPeH0_MlnLoE-Lb6Cea-oFQ",
       "url": "https://play.google.com/store/apps/details?id=com.wg.wowslegends&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.ilmfinity.evocreo_2",
+      "title": "EvoCreo 2: 턴제 몬스터 RPG",
+      "developer": "ilmfinity - Creator of Monster Adventure Games",
+      "icon": "https://play-lh.googleusercontent.com/zTm_92IUDu1UkWCHrICgmigFoOy5ZeJNvz5ISCNOUaoCuO4EPC142Vg3AIF1rWHHZx_IrPc1tJOiNfTDjn7B",
+      "url": "https://play.google.com/store/apps/details?id=com.ilmfinity.evocreo_2&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
       "isGame": true
     },
@@ -4830,15 +4840,6 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
       "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.pop.bubblegames.bubbleshooter",
-      "title": "버블 슈터 - 바이킹 팝 오락실 게임",
-      "developer": "LinkDesks - Jewel Games Star",
-      "icon": "https://play-lh.googleusercontent.com/7u3ufAtKREs2jzABD8J0edmeQXcRANlFxNmUi-cZMKRciBup09t4e1s0fG-18nxffLA",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.pop.bubblegames.bubbleshooter&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
