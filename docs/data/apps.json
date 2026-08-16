@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:28:39.217Z",
+  "updatedAt": "2026-08-16T01:52:39.097Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1651,9 +1651,29 @@
     "com.hitrock.hideonline",
     "com.werewolfapps.online",
     "find.differences.online.puzzle.games",
-    "com.xmonetize.quizzland"
+    "com.xmonetize.quizzland",
+    "com.bbumgames.rummystars",
+    "com.wg.wowslegends"
   ],
   "items": [
+    {
+      "appId": "com.bbumgames.rummystars",
+      "title": "Gin Rummy Stars - Card Game",
+      "developer": "Beach Bum Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/4PVxa1nhlvhiNlyfBxjA6kQqVhxBgbmcNb3nnCn15dK3HO9XySpdYXzQpId5DKxzOywv_a_xmY2KzgHwZ4Cs8XY",
+      "url": "https://play.google.com/store/apps/details?id=com.bbumgames.rummystars&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.wg.wowslegends",
+      "title": "월드 오브 워쉽 레전드 — 해군 전함 전쟁 게임",
+      "developer": "Wargaming Group",
+      "icon": "https://play-lh.googleusercontent.com/sPNzsV7oCX6euxAmUG8X0iwmOksjfZCXVAZIRftB8NNwnN-Jfk2Rtt6kdAUw68MVPeH0_MlnLoE-Lb6Cea-oFQ",
+      "url": "https://play.google.com/store/apps/details?id=com.wg.wowslegends&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-16",
+      "isGame": true
+    },
     {
       "appId": "com.wemadeconnect.aos.lostdgl",
       "title": "로스트 소드",
@@ -4810,24 +4830,6 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
       "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.snapbreak.doors",
-      "title": "도어스: 어웨이크닝",
-      "developer": "Snapbreak",
-      "icon": "https://play-lh.googleusercontent.com/PEo96I0U3b0VMonhjwGaqQ9N27G2E4fr09PELAKFcWfhOWmrCxfo28VLsvWWDJJ72Q",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.doors&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.capcom.android.mhpuzzle",
-      "title": "Monster Hunter Puzzles",
-      "developer": "CAPCOM CO., LTD.",
-      "icon": "https://play-lh.googleusercontent.com/mS2ir1oPNF2Mp7TywJacDVRmSQdOn6lXQ4wSMWJGHmvISlTTw5QA_9do6o5486qqdEyJ3n20oBp2wngxHVdf",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.capcom.android.mhpuzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
