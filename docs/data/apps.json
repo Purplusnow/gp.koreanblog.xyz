@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:28:52.978Z",
+  "updatedAt": "2026-08-17T01:50:09.179Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1655,9 +1655,19 @@
     "com.bbumgames.rummystars",
     "com.wg.wowslegends",
     "com.ilmfinity.evocreo_2",
-    "com.ftt.msleague_gl"
+    "com.ftt.msleague_gl",
+    "com.sadpanda.mobile.blushblush.google"
   ],
   "items": [
+    {
+      "appId": "com.sadpanda.mobile.blushblush.google",
+      "title": "Blush Blush - Idle Otome Game",
+      "developer": "Sad Panda Studios Ltd",
+      "icon": "https://play-lh.googleusercontent.com/NMxyMnc0-TE_VdXWuZZ7S2m4S1kRakO8Nnfk5Jieu3E-pvdi6EtjX6uHt8sbuU9AwsvmxVObmexrF92243bhew",
+      "url": "https://play.google.com/store/apps/details?id=com.sadpanda.mobile.blushblush.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-17",
+      "isGame": true
+    },
     {
       "appId": "com.bbumgames.rummystars",
       "title": "Gin Rummy Stars - Card Game",
@@ -4850,15 +4860,6 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
       "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.lyoomatch.jewelscrush.princessadventure",
-      "title": "Jewels Crush - Match 3 퍼즐 어드벤처",
-      "developer": "IVYGAMES",
-      "icon": "https://play-lh.googleusercontent.com/m0r4E33ZW1pQucSwiBDcGZLKSqB2qZjX6_m6AID2D_s438yw6OSwOyfCjdNuelXWd7M",
-      "url": "https://play.google.com/store/apps/details?id=com.lyoomatch.jewelscrush.princessadventure&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
