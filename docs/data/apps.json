@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:52:23.999Z",
+  "updatedAt": "2026-08-17T10:41:19.177Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1657,7 +1657,8 @@
     "com.ilmfinity.evocreo_2",
     "com.ftt.msleague_gl",
     "com.sadpanda.mobile.blushblush.google",
-    "com.gamespark.topking.gp"
+    "com.gamespark.topking.gp",
+    "com.puzzle1studio.go.brickoutshoottheball"
   ],
   "items": [
     {
@@ -1675,6 +1676,15 @@
       "developer": "GAME SPARK",
       "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
       "url": "https://play.google.com/store/apps/details?id=com.gamespark.topking.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzle1studio.go.brickoutshoottheball",
+      "title": "브릭 아웃 - 클래식 벽돌깨기",
+      "developer": "Puzzle1Studio",
+      "icon": "https://play-lh.googleusercontent.com/2jsYr9d_pAKTNyJHJBhUsasv-IJaAJBURKgW_stKaJ-T5E2DYDADnzGrAgx6GVRKdS_IVeKAYLhp7u9PAsjGLLY",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.brickoutshoottheball&hl=ko&gl=KR",
       "discoveredDate": "2026-08-17",
       "isGame": true
     },
@@ -4870,15 +4880,6 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
       "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookapps.redesignstar.homemakeover",
-      "title": "디자인 스타 : 집꾸미기 게임",
-      "developer": "NSTAGE",
-      "icon": "https://play-lh.googleusercontent.com/irP0bu8dvhc9nDnGaAp6fbFZfMR98NxNWnyX7JigPw6F8WTFrnkjfzBeiBq55TVAg04",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.redesignstar.homemakeover&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
