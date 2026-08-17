@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:08:10.178Z",
+  "updatedAt": "2026-08-17T04:52:50.180Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1656,7 +1656,8 @@
     "com.wg.wowslegends",
     "com.ilmfinity.evocreo_2",
     "com.ftt.msleague_gl",
-    "com.sadpanda.mobile.blushblush.google"
+    "com.sadpanda.mobile.blushblush.google",
+    "com.gamespark.topking.gp"
   ],
   "items": [
     {
@@ -1665,6 +1666,15 @@
       "developer": "Sad Panda Studios Ltd",
       "icon": "https://play-lh.googleusercontent.com/NMxyMnc0-TE_VdXWuZZ7S2m4S1kRakO8Nnfk5Jieu3E-pvdi6EtjX6uHt8sbuU9AwsvmxVObmexrF92243bhew",
       "url": "https://play.google.com/store/apps/details?id=com.sadpanda.mobile.blushblush.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamespark.topking.gp",
+      "title": "탑 로드",
+      "developer": "GAME SPARK",
+      "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+      "url": "https://play.google.com/store/apps/details?id=com.gamespark.topking.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-17",
       "isGame": true
     },
@@ -4860,15 +4870,6 @@
       "developer": "IGG.COM",
       "icon": "https://play-lh.googleusercontent.com/3JdPZ_uiS4n_aNyEvkO9N_SG4aAg92DG3CKJV_KhoIPV9pLmY-lzmayXivXSv9ArFg",
       "url": "https://play.google.com/store/apps/details?id=com.epicage.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.snapbreak.doors3",
-      "title": "Doors: Paradox",
-      "developer": "Snapbreak",
-      "icon": "https://play-lh.googleusercontent.com/zmdZgG2JV5bZp_m7XacWhwtDhWcBZwz9ln-BHeZwQc6obCPKS8oq_T5lGFbmLmbcKuK5",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.doors3&hl=ko&gl=KR",
       "discoveredDate": "2026-06-01",
       "isGame": true
     },
