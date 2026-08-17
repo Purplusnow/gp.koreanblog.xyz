@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:33:44.368Z",
+  "updatedAt": "2026-08-17T23:31:26.981Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1659,9 +1659,19 @@
     "com.sadpanda.mobile.blushblush.google",
     "com.gamespark.topking.gp",
     "com.puzzle1studio.go.brickoutshoottheball",
-    "com.igg.android.mythicheroes"
+    "com.igg.android.mythicheroes",
+    "com.world.war.defence"
   ],
   "items": [
+    {
+      "appId": "com.world.war.defence",
+      "title": "WWII 디펜스: RTS 육군 전략",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/awPQBQU5ZRd4hG8nZinnhKk8ry6nxCRVNnTt5iuK4bKt3GNK9QMiMw9h19xHZ18L4YvkY86-WeVmaoaFqRNz",
+      "url": "https://play.google.com/store/apps/details?id=com.world.war.defence&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-18",
+      "isGame": true
+    },
     {
       "appId": "com.sadpanda.mobile.blushblush.google",
       "title": "Blush Blush - Idle Otome Game",
@@ -4810,15 +4820,6 @@
       "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
       "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
       "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigc.tile.match.triple",
-      "title": "타일 매치: 트리플 퍼즐 게임",
-      "developer": "Big Cake Apps",
-      "icon": "https://play-lh.googleusercontent.com/ZtNznxLFRhEjYhGW6zmDor_u1tudzHwAc8ZRhF-eedZM1fJ-GYUEJvULZoVyyleaYLnOeXrmObJvF0cbP2ZIAQ",
-      "url": "https://play.google.com/store/apps/details?id=com.bigc.tile.match.triple&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
       "isGame": true
     },
     {
