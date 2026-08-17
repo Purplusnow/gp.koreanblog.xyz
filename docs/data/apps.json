@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T13:47:52.350Z",
+  "updatedAt": "2026-08-17T14:37:12.008Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1658,7 +1658,8 @@
     "com.ftt.msleague_gl",
     "com.sadpanda.mobile.blushblush.google",
     "com.gamespark.topking.gp",
-    "com.puzzle1studio.go.brickoutshoottheball"
+    "com.puzzle1studio.go.brickoutshoottheball",
+    "com.igg.android.mythicheroes"
   ],
   "items": [
     {
@@ -1685,6 +1686,15 @@
       "developer": "Puzzle1Studio",
       "icon": "https://play-lh.googleusercontent.com/2jsYr9d_pAKTNyJHJBhUsasv-IJaAJBURKgW_stKaJ-T5E2DYDADnzGrAgx6GVRKdS_IVeKAYLhp7u9PAsjGLLY",
       "url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.brickoutshoottheball&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.igg.android.mythicheroes",
+      "title": "미틱 히어로즈",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/2Rp2zdzjO0ijMLNIfQRL__KitlgoLj0bh13d3JDslcjtoBqEusXc3yRdqtuyRvBmf7_YTAfDN1UPoHO2-7Ytyg",
+      "url": "https://play.google.com/store/apps/details?id=com.igg.android.mythicheroes&hl=ko&gl=KR",
       "discoveredDate": "2026-08-17",
       "isGame": true
     },
@@ -4800,15 +4810,6 @@
       "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
       "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
       "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.zynga.ozmatch",
-      "title": "The Wizard of Oz Magic Match 3",
-      "developer": "Zynga",
-      "icon": "https://play-lh.googleusercontent.com/Ub4PTn9oOgJWbcHvLgwZ5IpogZ-UzlVXGLXKJF3LKrl_vsU9y-3Ezk67WgzTP0o-XdWZXt6vTzmBp-6EtzzXit0",
-      "url": "https://play.google.com/store/apps/details?id=com.zynga.ozmatch&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
       "isGame": true
     },
     {
