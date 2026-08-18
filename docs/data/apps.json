@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:04:01.822Z",
+  "updatedAt": "2026-08-18T03:53:49.728Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1661,7 +1661,9 @@
     "com.puzzle1studio.go.brickoutshoottheball",
     "com.igg.android.mythicheroes",
     "com.world.war.defence",
-    "com.gamovation.chessclubpilot"
+    "com.gamovation.chessclubpilot",
+    "com.yoyaworld.sparkle",
+    "vng.sniper.shooting3d.zombie"
   ],
   "items": [
     {
@@ -1679,6 +1681,24 @@
       "developer": "GamoVation",
       "icon": "https://play-lh.googleusercontent.com/Xr_i4rqTeq5JkId_A2ZTcQXZKGZ-IWlTm6MR-fPnnCEC7yAsPWpxZOo4BDnZigCyrozIm5Pi-Qjq5ZSIfX-0",
       "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.yoyaworld.sparkle",
+      "title": "YoYa Sparkle: Style Pop",
+      "developer": "YoYa World",
+      "icon": "https://play-lh.googleusercontent.com/p8-BaCjUpkQpVNEZmtMdBOlNI7VKwtAzlGRuN2lHqZByjb5QAcR7iNrOpTr6b63zEB3KajI0C29ZP6ZP_t-cEg",
+      "url": "https://play.google.com/store/apps/details?id=com.yoyaworld.sparkle&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-18",
+      "isGame": true
+    },
+    {
+      "appId": "vng.sniper.shooting3d.zombie",
+      "title": "Sniper Zombie 3D Game",
+      "developer": "VNGGames Studios",
+      "icon": "https://play-lh.googleusercontent.com/WZeypn8wNjjmPe0HS9-lvNGcwiLEPjhadT584vZ0HHhpD4XTv-bQHqLk5cMxC0vtxaonqbO2szz8dv71SHPL",
+      "url": "https://play.google.com/store/apps/details?id=vng.sniper.shooting3d.zombie&hl=ko&gl=KR",
       "discoveredDate": "2026-08-18",
       "isGame": true
     },
@@ -4830,24 +4850,6 @@
       "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
       "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
       "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.xyrality.lkclient",
-      "title": "영주와 기사 - Lords & Knights 건물 게임",
-      "developer": "XYRALITY GmbH",
-      "icon": "https://play-lh.googleusercontent.com/kiR3VWmTbBjwQSueOCBsiHyd-PqAtWbWAMxQtw8kpwZyDWaCYZLUe9ta0ci7mwCyvdI",
-      "url": "https://play.google.com/store/apps/details?id=com.xyrality.lkclient&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.eastsidegames.squishmallows",
-      "title": "Squishmallows Match",
-      "developer": "East Side Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/gsVuhlJq3qhPWw-E6VmgkaYuvdpO_uQ9NNVUF30DJ2OVEyFtBxCT_362C8AEUrn423jtUagY8n4jVra5B3AP",
-      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.squishmallows&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
       "isGame": true
     },
     {
