@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:45:12.500Z",
+  "updatedAt": "2026-08-18T03:04:01.822Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1660,7 +1660,8 @@
     "com.gamespark.topking.gp",
     "com.puzzle1studio.go.brickoutshoottheball",
     "com.igg.android.mythicheroes",
-    "com.world.war.defence"
+    "com.world.war.defence",
+    "com.gamovation.chessclubpilot"
   ],
   "items": [
     {
@@ -1669,6 +1670,15 @@
       "developer": "Azur Interactive Games Limited",
       "icon": "https://play-lh.googleusercontent.com/awPQBQU5ZRd4hG8nZinnhKk8ry6nxCRVNnTt5iuK4bKt3GNK9QMiMw9h19xHZ18L4YvkY86-WeVmaoaFqRNz",
       "url": "https://play.google.com/store/apps/details?id=com.world.war.defence&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamovation.chessclubpilot",
+      "title": "체스 클럽 - 체스 보드 게임",
+      "developer": "GamoVation",
+      "icon": "https://play-lh.googleusercontent.com/Xr_i4rqTeq5JkId_A2ZTcQXZKGZ-IWlTm6MR-fPnnCEC7yAsPWpxZOo4BDnZigCyrozIm5Pi-Qjq5ZSIfX-0",
+      "url": "https://play.google.com/store/apps/details?id=com.gamovation.chessclubpilot&hl=ko&gl=KR",
       "discoveredDate": "2026-08-18",
       "isGame": true
     },
@@ -4820,15 +4830,6 @@
       "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
       "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
       "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.match3d.triple.match.legend.gp",
-      "title": "Match 3D - Triple Tile Match",
-      "developer": "Jewel Loft",
-      "icon": "https://play-lh.googleusercontent.com/m5J38vxjM4hBRGAwqYQ6POjvkBEcxoFKhONCCq41zmWQwjmBHs2olWBM23vqGLgn4jV1WXmsWX6YcYFO98Yf6_M",
-      "url": "https://play.google.com/store/apps/details?id=com.match3d.triple.match.legend.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
       "isGame": true
     },
     {
