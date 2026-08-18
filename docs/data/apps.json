@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:53:49.728Z",
+  "updatedAt": "2026-08-18T04:44:37.728Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1663,7 +1663,9 @@
     "com.world.war.defence",
     "com.gamovation.chessclubpilot",
     "com.yoyaworld.sparkle",
-    "vng.sniper.shooting3d.zombie"
+    "vng.sniper.shooting3d.zombie",
+    "com.wanda.jojo.gp.global",
+    "com.gosugames.cloud.google"
   ],
   "items": [
     {
@@ -1699,6 +1701,24 @@
       "developer": "VNGGames Studios",
       "icon": "https://play-lh.googleusercontent.com/WZeypn8wNjjmPe0HS9-lvNGcwiLEPjhadT584vZ0HHhpD4XTv-bQHqLk5cMxC0vtxaonqbO2szz8dv71SHPL",
       "url": "https://play.google.com/store/apps/details?id=vng.sniper.shooting3d.zombie&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.wanda.jojo.gp.global",
+      "title": "죠죠의 기묘한 모험: 골든 스피릿",
+      "developer": "Wanda Cinemas Games",
+      "icon": "https://play-lh.googleusercontent.com/hjTS4jkjAub0T_kWpD1igt2ve3p_at2E1zOz0Un63W-XhF6I7N55Qc75w_qBSeqHr_5H672nu45CIGl1CuF_yQ",
+      "url": "https://play.google.com/store/apps/details?id=com.wanda.jojo.gp.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.gosugames.cloud.google",
+      "title": "혼(Horn)",
+      "developer": "GAMEADE",
+      "icon": "https://play-lh.googleusercontent.com/bmp4DZHaD3WyKAAls4OdlIGFtnAm6DrDWIG0SVW4UxrSwsKpc_hxHovgtN8eisJe3rX_nyZ8-x2yzY-GfCQ8",
+      "url": "https://play.google.com/store/apps/details?id=com.gosugames.cloud.google&hl=ko&gl=KR",
       "discoveredDate": "2026-08-18",
       "isGame": true
     },
@@ -4850,24 +4870,6 @@
       "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
       "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
       "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.zitga.ninja.stickman.legends",
-      "title": "Stickman Legends: 생존 RPG",
-      "developer": "Putaleng",
-      "icon": "https://play-lh.googleusercontent.com/bvu4-ZwZbQdEcS2Xy7CumbUrEDVstovljg6jv3Ja8YQl0jkMxBwfryfs6CJoIH9Pcw",
-      "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.bubblegames.bubbleshooter.ocean.pop",
-      "title": "버블슈터 - 아쿠아리움",
-      "developer": "LinkDesks Classic Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/Pbf8lJwgFqHj-f-xycuJoVd3fkX65JTJgqowHksvMy1K3IpE-G4DFHwfkRKTVn4d-Q",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.bubblegames.bubbleshooter.ocean.pop&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
       "isGame": true
     },
     {
