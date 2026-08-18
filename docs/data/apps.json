@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:33:47.486Z",
+  "updatedAt": "2026-08-18T21:32:24.122Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1665,9 +1665,199 @@
     "com.yoyaworld.sparkle",
     "vng.sniper.shooting3d.zombie",
     "com.wanda.jojo.gp.global",
-    "com.gosugames.cloud.google"
+    "com.gosugames.cloud.google",
+    "com.mobirix.hamdoku",
+    "com.nexon.azurpromilia",
+    "com.superpixel.scrap",
+    "com.mobirix.extfzombie",
+    "com.neptune.windtrace",
+    "com.yyjlkr.az",
+    "com.superbox.aos.traindefense",
+    "com.mobirix.bussort",
+    "com.spcomes.jeweltemple",
+    "com.mintrocket.drmobile",
+    "com.mrtgd2kr.google",
+    "kr.co.sonew.rm",
+    "com.niceplaygames.PotionCraft",
+    "com.neptune.dawnsedge",
+    "com.twh003.stickman.rpg.idle.game",
+    "com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien",
+    "com.snowgames.newtroboxing",
+    "com.rabbit.zf",
+    "jp.boi.mementomori.android"
   ],
   "items": [
+    {
+      "appId": "com.mobirix.hamdoku",
+      "title": "햄도쿠: 스도쿠 논리 퍼즐",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/HvaC1AUqgPwlEq9or0Vyp-BlnXkjKNe28BZzI39Dkqw-BU5Er40rXdRXgEQ8dj44wCt2m7WC6INI-ehsJfuJpls",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.hamdoku&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.azurpromilia",
+      "title": "아주르 프로밀리아",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/3RQcMLdaNzl3OpgQPr3cnwwbFeVyZq_iE3bmh7cs9f9YUZnl07MtWxCcKAsfRhrt47DFFAl1IQvyp2CRYIyN1cY",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.azurpromilia&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.superpixel.scrap",
+      "title": "고물 히어로",
+      "developer": "SUPERBOX Inc",
+      "icon": "https://play-lh.googleusercontent.com/wsShyiBht7Y2eDceCY4ZnsLQuDIU23zoRuMvSi4pxJsnLitZYdJX0sv8gCpOSEQAIJderxd_VCiEP368apfwCQ",
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.scrap&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.extfzombie",
+      "title": "좀비 배틀 : FPS Idle",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/H2CdGnNvlLBEvVFo8n1pBzB4tEFkgMM-yS7ixsS-M0ssKKBpn6B7ODCQZdU5HJIDjHZ9QgmoATSNbb69SXtTuw",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfzombie&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.neptune.windtrace",
+      "title": "바람의흔적",
+      "developer": "Neptune Corp.",
+      "icon": "https://play-lh.googleusercontent.com/wCa7Z3WCanH_UTA2T_HAZscW6givoDnJvSSF2Z15LQ6qvRb9uxhMosh8-CiQtOfKG_YMLxGNtkd9iDzgNDehdg",
+      "url": "https://play.google.com/store/apps/details?id=com.neptune.windtrace&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.yyjlkr.az",
+      "title": "에버나이트: 리버스",
+      "developer": "Hong Kong Longsin Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/XJBbIgPZfySq7txP8LzUVESgiieGgnRElQYwp89y3YyVuji7AWOpoG-oGARUYIyhAZILmS98BrrhBp-Wxo_n",
+      "url": "https://play.google.com/store/apps/details?id=com.yyjlkr.az&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.superbox.aos.traindefense",
+      "title": "기차 디펜스",
+      "developer": "SUPERBOX Inc",
+      "icon": "https://play-lh.googleusercontent.com/BXVAbBib3aU-AhxCDxyTeEPMfqEn8JFhFRGy0n6O8Ff4IR6Bn1Wxmix7biGvacPBJKJMZUvxg2dbJvoTGW1KjQM",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.traindefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.bussort",
+      "title": "Bus Sort: Traffic Jam",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/VccOlruOCpOIQdhs7FPxqyMJsuXg9AtRkNVOtKPJSRAp92hQ501ivNL4fTX3nDDO8aAyXBZhv8dvGbRIEdwp3A",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.bussort&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.spcomes.jeweltemple",
+      "title": "쥬얼 템플 (Jewel Temple)",
+      "developer": "Springcomes",
+      "icon": "https://play-lh.googleusercontent.com/LZOPWYWcKXynrFfxzmczLEsCDLBdT8ZoL1sJNmNxow2sEwu8JWDQt_A99ODJGGJuvRLy3r6hEmwsbGygbf_nALY",
+      "url": "https://play.google.com/store/apps/details?id=com.spcomes.jeweltemple&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.mintrocket.drmobile",
+      "title": "데이브 더 다이버",
+      "developer": "MINTROCKET",
+      "icon": "https://play-lh.googleusercontent.com/KanZqUC8rxGocom2xIuFVO0kKp7JUTktlYc_878Yg3G2Hv94DgZYoT-gfO5dsri7MxYJ5WCX2JrS4pOHqLMsCA",
+      "url": "https://play.google.com/store/apps/details?id=com.mintrocket.drmobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.mrtgd2kr.google",
+      "title": "후더덕 서바이벌-777뽑기 증정",
+      "developer": "Joy Nice Games",
+      "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA",
+      "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "kr.co.sonew.rm",
+      "title": "아이러브레스토랑 : 고양이와 매장 경영",
+      "developer": "sonew",
+      "icon": "https://play-lh.googleusercontent.com/5QmlOW1-pec-qBEVkuGE2HfaOfsRtz6XEt5lP4Yv7_nQmq9s8cZ6b49HPJcxxnN1-y6pEQIlxQo7NqVfKY9T",
+      "url": "https://play.google.com/store/apps/details?id=kr.co.sonew.rm&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.niceplaygames.PotionCraft",
+      "title": "Potion Craft",
+      "developer": "tinyBuild",
+      "icon": "https://play-lh.googleusercontent.com/s1kWmAtLnSUxBvl4EOAJzlPJwwyHVbRavDRVfW4rgx7wCsQOqLJQ4R81E62iwIT8TENa0xWig2iunY9YOicgIg",
+      "url": "https://play.google.com/store/apps/details?id=com.niceplaygames.PotionCraft&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.neptune.dawnsedge",
+      "title": "검신제로",
+      "developer": "Neptune Corp.",
+      "icon": "https://play-lh.googleusercontent.com/pVx2omfarTkIbl5hh2OS2vso3iiI79ncAMqgNaaZxMYo1pyTZw21EJW6xycVh3c65-TmQPsqv7t9vNPFLNC0uck",
+      "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.twh003.stickman.rpg.idle.game",
+      "title": "Age of Stickman: Evolution",
+      "developer": "Velocita Z",
+      "icon": "https://play-lh.googleusercontent.com/V4ISxtGmF5T4QCd0IjkMVJMdDPwmhlsysn9F3CtXyOeQWRLgR04O3fIi7cOyQdkieDvsvZGIihBoyCu177GH2Q",
+      "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien",
+      "title": "Mecha Warrior: Robot Idle TD",
+      "developer": "Gem Jam",
+      "icon": "https://play-lh.googleusercontent.com/cFVHegfbObe1wmNXWvrh7tMbO9BqSoq6lJkglsMlCZbI2h6-8RW9xe436io2YDORKB7yDfD7PWE3V5ree4vNdjI",
+      "url": "https://play.google.com/store/apps/details?id=com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.snowgames.newtroboxing",
+      "title": "뉴트로 복싱",
+      "developer": "Snow_Games",
+      "icon": "https://play-lh.googleusercontent.com/aoehaGPuq6g2O4NlAhCArgBh1Rptc3BzxVIv8Ywh4OitLLeOCGUO6HPI2haJz-0lw5518O7gyyQZeuIabQGoQTg",
+      "url": "https://play.google.com/store/apps/details?id=com.snowgames.newtroboxing&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.rabbit.zf",
+      "title": "좀비파이어 : 오두막 생존",
+      "developer": "Clegames Inc",
+      "icon": "https://play-lh.googleusercontent.com/WfxH3gaxaYV_mvffUJ5pw2K-yHzYWMeEwbVxq-VLGhRqBleS0Nyo3f4FHfmU0oaOEV0aRnOzMmGoSeUX0ls2hg",
+      "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "jp.boi.mementomori.android",
+      "title": "메멘토 모리: MementoMori",
+      "developer": "Bank of Innovation, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+      "url": "https://play.google.com/store/apps/details?id=jp.boi.mementomori.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
     {
       "appId": "com.world.war.defence",
       "title": "WWII 디펜스: RTS 육군 전략",
@@ -4666,15 +4856,6 @@
       "isGame": true
     },
     {
-      "appId": "jp.pokemon.pokemonchampions",
-      "title": "Pokémon Champions",
-      "developer": "The Pokémon Company",
-      "icon": "https://play-lh.googleusercontent.com/CpBUPy9eZPB-lVJzVtVtwE6IPvNbr6hvxwcLDkcw4_LXJd6HYh0nBl37AwjZOWB4IecEM3PcPoYcvd-T6JYldz4",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonchampions&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-07",
-      "isGame": true
-    },
-    {
       "appId": "com.TeamSparta.brd",
       "title": "벙커 딸깍 디펜스: 랜덤TD",
       "developer": "Teamsparta Inc.",
@@ -4717,168 +4898,6 @@
       "icon": "https://play-lh.googleusercontent.com/lrERcCoTm7m8XStnhTHZDVfemQc_vTzCRl4CCBKhvQoBXo-WvmrwiGqONB7daFIJJkT0znGB5EOfgbaNRgiTyQ",
       "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=KR",
       "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.neowizgames.game.browndust2",
-      "title": "브라운더스트2 - 가슴 벅찬 RPG",
-      "developer": "NEOWIZ",
-      "icon": "https://play-lh.googleusercontent.com/EU57oDE8N2ZfMo3ina1NN37ZKhrG5_OJ7a7a2R_DsLLRUHFQJI6vM3e780DCIJ43DpEeUi_r8c82bs7G-a7j",
-      "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "aliens.zombies.invasion",
-      "title": "Aliens vs Zombies: 침공",
-      "developer": "GAMEGEARS LTD",
-      "icon": "https://play-lh.googleusercontent.com/ijB2fkmqoA7ya60_Ik5tzg1aJ-3WwAQI8mj2geA_ko__mlLGjt_DR9c2pjcnG_Uz06E1gpKxf0ztKolRjBpjQnU",
-      "url": "https://play.google.com/store/apps/details?id=aliens.zombies.invasion&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.proofofplay.shibastorygo",
-      "title": "시바 스토리 고! RPG 방치형 게임",
-      "developer": "Proof of Play",
-      "icon": "https://play-lh.googleusercontent.com/KxYfhFMg8RPrAzh6vcSZcGeV2EZFz0GvZgMOwMpj6OUtdYh5BnwpXHr1A-X9Ejl71hT-Mq822hoI9nTRMaeD",
-      "url": "https://play.google.com/store/apps/details?id=com.proofofplay.shibastorygo&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
-      "title": "몬몬 마스터즈",
-      "developer": "PLAYHARD STUDIO",
-      "icon": "https://play-lh.googleusercontent.com/kPBvsEcDpcKZQb901kvSicdpFzH7ThjAeTyRNGQSTi8HybWzry5OwqDEVOLZPtXPnxM-bVNgAhR9Gn29XHIqGw",
-      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobirix.mgct",
-      "title": "머지 캣 타운",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/f53hNpL2GxVNTzkVUuFBpXPP-c6eFNqnwgwJMFnTrL1-FVB_vpYWR-WKDInrseDmy_-WqUcULzLcKos66pWb",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgct&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcool.puzzle.merge.valley",
-      "title": "머지 밸리: 데이터 필요없는 힐링 퍼즐 게임",
-      "developer": "Bigcool Games",
-      "icon": "https://play-lh.googleusercontent.com/0a3y5hrKDzMAE0B1MKoWF9bs9JX86-MMywIgCab2R4-Rzo9SWPPSO9uXKmCt1jZl7yVG",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.valley&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.jinlinetwork.match.pair",
-      "title": "Pair Match Solitaire",
-      "developer": "Jinli Network",
-      "icon": "https://play-lh.googleusercontent.com/nQmeAkioxv0wDT48djc5tBsKFEtWCABUbwsVXqNA5-s6lKYrz08gbeS-w-bsIstBFIQA",
-      "url": "https://play.google.com/store/apps/details?id=com.jinlinetwork.match.pair&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.pantheraplay.soulhuntresspremium",
-      "title": "소울 헌트리스: RPG 프리미엄",
-      "developer": "PANTHERA GLOBAL",
-      "icon": "https://play-lh.googleusercontent.com/r9URIoNDSKRRNT4HtZ7fHoJ9_A8sbxohEsAzQTBEybNv7WnbIaA_MBdRoEbrKMz0Joao_S8-Az6YjyBCeohfmQ",
-      "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.playdigious.slimerancher",
-      "title": "Slime Rancher",
-      "developer": "Playdigious",
-      "icon": "https://play-lh.googleusercontent.com/y0a-3TmdIBjFlUxTGLcdVLYxuw1k5wV4sdUdxouNNRIkbrUN2my2d0psghze5bseoNvVSZIMGCAg4TIf6etCTw",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.slimerancher&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.snapbreak.amongthesleep",
-      "title": "Among the Sleep",
-      "developer": "Snapbreak",
-      "icon": "https://play-lh.googleusercontent.com/cBmkf-VToJITpnuhRQ7C6eDk6tXy5tJDc-moQhVM9xx122-nDgyy7krG8slQ6UHXXKBXRZndLlVLz5XrYLfv",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.amongthesleep&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.wgame.codeg",
-      "title": "Grand Gangster War",
-      "developer": "WGAME TECHNOLOGY",
-      "icon": "https://play-lh.googleusercontent.com/OK2BF0-MXlZ3kah3Nah4Rme5YqWVG0tpc2em9JtULXSKdf1IPkefCTYUAD5J_epbow4",
-      "url": "https://play.google.com/store/apps/details?id=com.wgame.codeg&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.wb.goog.hotd.socialstrategy",
-      "title": "Game of Thrones: Dragonfire",
-      "developer": "Warner Bros. International Enterprises",
-      "icon": "https://play-lh.googleusercontent.com/2y_h7WQuNqcoxOKRLDUmNsEgRBKhTSFyM-EWG6rguQrDqWkHUB_oUXXWQ_p5RnLaKepvs8pNbj-xaPecEH11uw",
-      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.hotd.socialstrategy&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.plarium.throne",
-      "title": "Throne: Kingdom at War",
-      "developer": "Plarium  LLC",
-      "icon": "https://play-lh.googleusercontent.com/HfL_vloGVeD0igXuFWQYAvAzZ1rYKOJIzpE2gSMRuoJoKzqgQ3ZWi7YSNDe3OiK1Sg",
-      "url": "https://play.google.com/store/apps/details?id=com.plarium.throne&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.robtopx.geometrydashworld",
-      "title": "Geometry Dash World",
-      "developer": "RobTop Games",
-      "icon": "https://play-lh.googleusercontent.com/eu0Lv1QtDbCdVvuphJh84zxKNURIEcXjmZPhAv4NM4Xacfjum9TspfYkzRcBKv4zpDk",
-      "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometrydashworld&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.kongregate.mobile.throwdown.google",
-      "title": "Animation Throwdown: Epic CCG",
-      "developer": "Kongregate",
-      "icon": "https://play-lh.googleusercontent.com/dyQqDH8FkM53lkEFhtw_Ef_nQeTCJ4ye3RiPHK-6bNe7MDxIeHXUm1C2Uu_8MKLOyVdl",
-      "url": "https://play.google.com/store/apps/details?id=com.kongregate.mobile.throwdown.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.kongorange.felixthereaper",
-      "title": "Felix the Reaper",
-      "developer": "Daedalic Entertainment GmbH",
-      "icon": "https://play-lh.googleusercontent.com/yCoFS6lUKsLKAYo3nLoYArj9OnKtyBiChV8lg_QmeWvxDxo9rMHYwGzdt9wYAk8LavmTbiZBFEVVF97px-JoR20",
-      "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.rikudogames.maze",
-      "title": "미로: 끝없는 간단함",
-      "developer": "Infinity Games, Lda",
-      "icon": "https://play-lh.googleusercontent.com/F3y9yb86nYZRuglGGEm6BAoJ2J_vIBTysw9-6hqHfn6h_9zfoQYndwymoCO85W-jOEY",
-      "url": "https://play.google.com/store/apps/details?id=com.rikudogames.maze&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.nianticlabs.pikmin",
-      "title": "Pikmin Bloom",
-      "developer": "Niantic, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/lZhO5dn3aCCBkqfFBMCFQeTsCaCfKA_wdmXsco4HtZoy970MSPnXTSbm5Ub-Z3glHA",
-      "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-02",
       "isGame": true
     },
     {
