@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:49:39.431Z",
+  "updatedAt": "2026-08-19T09:42:47.478Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1686,7 +1686,10 @@
     "com.rabbit.zf",
     "jp.boi.mementomori.android",
     "com.libii.march",
-    "com.cookapps.bm.fortresssaga"
+    "com.cookapps.bm.fortresssaga",
+    "com.combo.yarnflow",
+    "screw.jam.handler",
+    "bus.games.car.out.traffic.parking.jam.escape.puzzle"
   ],
   "items": [
     {
@@ -1875,6 +1878,33 @@
       "developer": "CookApps",
       "icon": "https://play-lh.googleusercontent.com/4bcvrNBMFob_5Qr4pRMmnnma1o3K5KfnwP8KPvt0OSCsBfLMb91kGQI1dgbHy-dhGHmXifSvUNUJdYVYQN72kw",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.bm.fortresssaga&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.combo.yarnflow",
+      "title": "Yarn Loop",
+      "developer": "Combo Game",
+      "icon": "https://play-lh.googleusercontent.com/DliylMEnevS_giunP2OosFM0RxOwTCl6DLN1krnWvhCt5T90OMWeAzMtntoTK1TqOkA7vd8Xnw_mtbUlBmfDSEA",
+      "url": "https://play.google.com/store/apps/details?id=com.combo.yarnflow&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "screw.jam.handler",
+      "title": "Screw Jam: 나사와 볼트 퍼즐",
+      "developer": "Playful Bytes",
+      "icon": "https://play-lh.googleusercontent.com/82xYDE92pBr_ZuQETvw2v1RJU9LFcrTZHNhl6t9ZkKNQjnKoZRd_45SdVQ5O6Ci5mjLBgcZTFvZe2io7_xFUuw",
+      "url": "https://play.google.com/store/apps/details?id=screw.jam.handler&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "bus.games.car.out.traffic.parking.jam.escape.puzzle",
+      "title": "버스 매드니스: 주차 체증",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/nbmVNGBwY2Det_2P1KviCSAOz3Pz3IYm5WubcRtMsoyvkJFnhtWCft4kx39UTeedjAN6HCK3TurC7Y_bnmO9ow",
+      "url": "https://play.google.com/store/apps/details?id=bus.games.car.out.traffic.parking.jam.escape.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-19",
       "isGame": true
     },
@@ -4849,15 +4879,6 @@
       "isGame": true
     },
     {
-      "appId": "com.strategy.war.ww2.glory.tactics",
-      "title": "제 2 차 세계 대전 : 전쟁 전략 게임",
-      "developer": "Joynow Studio",
-      "icon": "https://play-lh.googleusercontent.com/dzlMrpP9ZTuxCf1mHR8Lb_NfcADTmWM9jOHI4MsCKeeSZYgYfodaQVs0nFQwmrj7OQ",
-      "url": "https://play.google.com/store/apps/details?id=com.strategy.war.ww2.glory.tactics&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-08",
-      "isGame": true
-    },
-    {
       "appId": "com.gamesntpte.xp0",
       "title": "라스트 벙커: 타워 디펜스",
       "developer": "HK TAIHE INTERACTIVE LIMITED",
@@ -4873,24 +4894,6 @@
       "icon": "https://play-lh.googleusercontent.com/GCpf36a9Ls_IEw9mPbh_e7TDU4SrYNqpWqQ_5LBatXV_gH0X3gOK7PGGxbd0df-YZ4Pge3I17rfRuev2t-DSnlU",
       "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=ko&gl=KR",
       "discoveredDate": "2026-06-08",
-      "isGame": true
-    },
-    {
-      "appId": "cats.goods.sort.sorting.games",
-      "title": "Goods Triple - 트리플매치",
-      "developer": "Shinrays Games",
-      "icon": "https://play-lh.googleusercontent.com/uAqVKlUIn308wSfj9UhyAM5EPGqj7oNlDBKjGTMta6eqN0NDn_uF5EgK8WxsY8QAlw",
-      "url": "https://play.google.com/store/apps/details?id=cats.goods.sort.sorting.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.merge.match3mystery",
-      "title": "미스트폴 매치: 디자인 & 블래스트",
-      "developer": "Flyyes, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/g8z1-NZNcXr1XDSVbMgJGoi5gEwUX6DNWfHUiWjF1grEEd1U2dZJla_UINWmLvwxxQrW0F0AO1PJN5LcDnA-kUg",
-      "url": "https://play.google.com/store/apps/details?id=com.merge.match3mystery&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-07",
       "isGame": true
     },
     {
