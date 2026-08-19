@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:40:25.609Z",
+  "updatedAt": "2026-08-19T17:34:44.956Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1690,9 +1690,19 @@
     "com.combo.yarnflow",
     "screw.jam.handler",
     "bus.games.car.out.traffic.parking.jam.escape.puzzle",
-    "com.nexus.frostkingdom"
+    "com.nexus.frostkingdom",
+    "com.camelgames.aoz"
   ],
   "items": [
+    {
+      "appId": "com.camelgames.aoz",
+      "title": "에이지 오브 제트: 타워 디펜스",
+      "developer": "CamelStudio",
+      "icon": "https://play-lh.googleusercontent.com/O-HDAroicpbeUZ_wUlRF8wAEMvHPDXo11CHRjhkZ1s8EcVs_Wd5ODJCaKnLU_dB3V9uGRv7foKFKv4SPorwMoA",
+      "url": "https://play.google.com/store/apps/details?id=com.camelgames.aoz&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-20",
+      "isGame": true
+    },
     {
       "appId": "com.mobirix.hamdoku",
       "title": "햄도쿠: 스도쿠 논리 퍼즐",
@@ -4886,15 +4896,6 @@
       "icon": "https://play-lh.googleusercontent.com/h6Fer19ruK7pQFwnwkjvRfzrNGWwLwLQZbyuv8kyNrJUkRUgjW6r6GyEQ2tiNzyp-TiTiWDh1PRItP3H3pmjq20",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon&hl=ko&gl=KR",
       "discoveredDate": "2026-06-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapblaze.pizzabusiness",
-      "title": "좋은 피자, 위대한 피자: 힐링 피자가게 게임",
-      "developer": "TapBlaze",
-      "icon": "https://play-lh.googleusercontent.com/GCpf36a9Ls_IEw9mPbh_e7TDU4SrYNqpWqQ_5LBatXV_gH0X3gOK7PGGxbd0df-YZ4Pge3I17rfRuev2t-DSnlU",
-      "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-08",
       "isGame": true
     },
     {
