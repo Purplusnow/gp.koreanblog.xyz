@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:06:11.049Z",
+  "updatedAt": "2026-08-19T04:46:09.851Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1685,7 +1685,8 @@
     "com.snowgames.newtroboxing",
     "com.rabbit.zf",
     "jp.boi.mementomori.android",
-    "com.libii.march"
+    "com.libii.march",
+    "com.cookapps.bm.fortresssaga"
   ],
   "items": [
     {
@@ -1865,6 +1866,15 @@
       "developer": "Libii HK Limited",
       "icon": "https://play-lh.googleusercontent.com/bN7s_AScGHMtQvNorxvW8vzgRA6FifwN_U0E07rFSaVmwXZ1O8L7dRQqkPRDBhxiaUA4kxFdVG4N6Rhp-Vbxmgg",
       "url": "https://play.google.com/store/apps/details?id=com.libii.march&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.bm.fortresssaga",
+      "title": "포트리스 사가: 이세계 방치형 RPG 게임",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/4bcvrNBMFob_5Qr4pRMmnnma1o3K5KfnwP8KPvt0OSCsBfLMb91kGQI1dgbHy-dhGHmXifSvUNUJdYVYQN72kw",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.bm.fortresssaga&hl=ko&gl=KR",
       "discoveredDate": "2026-08-19",
       "isGame": true
     },
@@ -4863,15 +4873,6 @@
       "icon": "https://play-lh.googleusercontent.com/GCpf36a9Ls_IEw9mPbh_e7TDU4SrYNqpWqQ_5LBatXV_gH0X3gOK7PGGxbd0df-YZ4Pge3I17rfRuev2t-DSnlU",
       "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=ko&gl=KR",
       "discoveredDate": "2026-06-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcool.puzzle.merge.kitchen",
-      "title": "머지 키친: 힐링 요리 & 오프라인 퍼즐 게임",
-      "developer": "Bigcool Games",
-      "icon": "https://play-lh.googleusercontent.com/NueXxQe00ROCCLuC1ux19gog09BeAABQV8IbxtYj7t0ZnlYeUgpXBoZ1EUsnOHjcKmNJ836XG8xFTPhDcRAxFA8",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.kitchen&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-07",
       "isGame": true
     },
     {
