@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:38:07.309Z",
+  "updatedAt": "2026-08-19T21:33:55.694Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1691,7 +1691,8 @@
     "screw.jam.handler",
     "bus.games.car.out.traffic.parking.jam.escape.puzzle",
     "com.nexus.frostkingdom",
-    "com.camelgames.aoz"
+    "com.camelgames.aoz",
+    "com.unicogames.jamgame"
   ],
   "items": [
     {
@@ -1700,6 +1701,15 @@
       "developer": "CamelStudio",
       "icon": "https://play-lh.googleusercontent.com/O-HDAroicpbeUZ_wUlRF8wAEMvHPDXo11CHRjhkZ1s8EcVs_Wd5ODJCaKnLU_dB3V9uGRv7foKFKv4SPorwMoA",
       "url": "https://play.google.com/store/apps/details?id=com.camelgames.aoz&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.unicogames.jamgame",
+      "title": "트리플 히든 매치",
+      "developer": "Unico Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/m3f1fm3Oq5EqinerfgYjpKIzW6kMkNWIY3wJVQIC1OG6r74-pag6pp8NVOIWXL3c_tTAOhQD_bZ0VwU4tfrr7w",
+      "url": "https://play.google.com/store/apps/details?id=com.unicogames.jamgame&hl=ko&gl=KR",
       "discoveredDate": "2026-08-20",
       "isGame": true
     },
@@ -4860,15 +4870,6 @@
       "icon": "https://play-lh.googleusercontent.com/Kgfa0LTFST8T3tweXHQ1v_VrpDmwSMhB55FfW8VFeMLTyMcBY6YGvdqunXLlHMkq_HG9BwUXytJczWWb2e0Y",
       "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
-      "title": "20 Minutes Till Dawn",
-      "developer": "Erabit Studios",
-      "icon": "https://play-lh.googleusercontent.com/8GaMFhrdW8ic2uMIWk4-gJQv9vFIphglgl2jE1j18IMMHlTq4v0CY8fhLSaq9oHBFeW6O9kKb1BbUbEU7Dqg",
-      "url": "https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.roguelike.shooting.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-09",
       "isGame": true
     },
     {
