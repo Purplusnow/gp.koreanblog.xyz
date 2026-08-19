@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:52:46.804Z",
+  "updatedAt": "2026-08-19T14:44:41.349Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1689,7 +1689,8 @@
     "com.cookapps.bm.fortresssaga",
     "com.combo.yarnflow",
     "screw.jam.handler",
-    "bus.games.car.out.traffic.parking.jam.escape.puzzle"
+    "bus.games.car.out.traffic.parking.jam.escape.puzzle",
+    "com.nexus.frostkingdom"
   ],
   "items": [
     {
@@ -1905,6 +1906,15 @@
       "developer": "Guru Puzzle Game",
       "icon": "https://play-lh.googleusercontent.com/nbmVNGBwY2Det_2P1KviCSAOz3Pz3IYm5WubcRtMsoyvkJFnhtWCft4kx39UTeedjAN6HCK3TurC7Y_bnmO9ow",
       "url": "https://play.google.com/store/apps/details?id=bus.games.car.out.traffic.parking.jam.escape.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexus.frostkingdom",
+      "title": "프로스트킹덤: 머지 생존전략 SLG",
+      "developer": "NEXUS",
+      "icon": "https://play-lh.googleusercontent.com/Nl2Q5rxBu0jVKk1ApMGsai-hGg0iaC7R-GupFEj-N9hQcSI9YbFTKnxzJ57AOVF3sOzlbgULGvieA_j_nC05nA",
+      "url": "https://play.google.com/store/apps/details?id=com.nexus.frostkingdom&hl=ko&gl=KR",
       "discoveredDate": "2026-08-19",
       "isGame": true
     },
@@ -4876,15 +4886,6 @@
       "icon": "https://play-lh.googleusercontent.com/h6Fer19ruK7pQFwnwkjvRfzrNGWwLwLQZbyuv8kyNrJUkRUgjW6r6GyEQ2tiNzyp-TiTiWDh1PRItP3H3pmjq20",
       "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon&hl=ko&gl=KR",
       "discoveredDate": "2026-06-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamesntpte.xp0",
-      "title": "라스트 벙커: 타워 디펜스",
-      "developer": "HK TAIHE INTERACTIVE LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/FcTTQjuHoGdXwxLx4EDmWIYh_LznQ8sYj24A5qgzFs1soP2f1XBkbe_10kOZT2BZ2Os",
-      "url": "https://play.google.com/store/apps/details?id=com.gamesntpte.xp0&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-08",
       "isGame": true
     },
     {
