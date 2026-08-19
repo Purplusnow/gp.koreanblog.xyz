@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:47:00.176Z",
+  "updatedAt": "2026-08-19T03:06:11.049Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1684,7 +1684,8 @@
     "com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien",
     "com.snowgames.newtroboxing",
     "com.rabbit.zf",
-    "jp.boi.mementomori.android"
+    "jp.boi.mementomori.android",
+    "com.libii.march"
   ],
   "items": [
     {
@@ -1855,6 +1856,15 @@
       "developer": "Bank of Innovation, Inc.",
       "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
       "url": "https://play.google.com/store/apps/details?id=jp.boi.mementomori.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.libii.march",
+      "title": "SuitU: 패션 아바타 드레스업",
+      "developer": "Libii HK Limited",
+      "icon": "https://play-lh.googleusercontent.com/bN7s_AScGHMtQvNorxvW8vzgRA6FifwN_U0E07rFSaVmwXZ1O8L7dRQqkPRDBhxiaUA4kxFdVG4N6Rhp-Vbxmgg",
+      "url": "https://play.google.com/store/apps/details?id=com.libii.march&hl=ko&gl=KR",
       "discoveredDate": "2026-08-19",
       "isGame": true
     },
@@ -4853,15 +4863,6 @@
       "icon": "https://play-lh.googleusercontent.com/GCpf36a9Ls_IEw9mPbh_e7TDU4SrYNqpWqQ_5LBatXV_gH0X3gOK7PGGxbd0df-YZ4Pge3I17rfRuev2t-DSnlU",
       "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=ko&gl=KR",
       "discoveredDate": "2026-06-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.TeamSparta.brd",
-      "title": "벙커 딸깍 디펜스: 랜덤TD",
-      "developer": "Teamsparta Inc.",
-      "icon": "https://play-lh.googleusercontent.com/0DDzk4evRfO0Kmt2jPEXOQKDrAZMyZR2VtOiv33dIKQnCLFiQgy6O4253g4PII_W3EAYq8g5cvHz1Jw49ju_sA",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-07",
       "isGame": true
     },
     {
