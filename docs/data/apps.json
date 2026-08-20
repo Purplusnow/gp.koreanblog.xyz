@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:05:22.824Z",
+  "updatedAt": "2026-08-20T03:55:16.296Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1692,7 +1692,8 @@
     "bus.games.car.out.traffic.parking.jam.escape.puzzle",
     "com.nexus.frostkingdom",
     "com.camelgames.aoz",
-    "com.unicogames.jamgame"
+    "com.unicogames.jamgame",
+    "com.hungrystudio.mahjong"
   ],
   "items": [
     {
@@ -1710,6 +1711,15 @@
       "developer": "Unico Games Studio",
       "icon": "https://play-lh.googleusercontent.com/m3f1fm3Oq5EqinerfgYjpKIzW6kMkNWIY3wJVQIC1OG6r74-pag6pp8NVOIWXL3c_tTAOhQD_bZ0VwU4tfrr7w",
       "url": "https://play.google.com/store/apps/details?id=com.unicogames.jamgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.hungrystudio.mahjong",
+      "title": "Double Tile!",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/9Xe4BoMuPetboySk7ciCKp-WqzWFycwVJJ-byy3F_YYYzA_zKsvL-ah79bpx2N3_Wz7K8Y1BCiFmYbuIoZfuew",
+      "url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-20",
       "isGame": true
     },
@@ -4870,15 +4880,6 @@
       "icon": "https://play-lh.googleusercontent.com/Kgfa0LTFST8T3tweXHQ1v_VrpDmwSMhB55FfW8VFeMLTyMcBY6YGvdqunXLlHMkq_HG9BwUXytJczWWb2e0Y",
       "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.kids.preschool.learning.games",
-      "title": "Kids Preschool Learning Games",
-      "developer": "GunjanApps Studios",
-      "icon": "https://play-lh.googleusercontent.com/7RdFOhN7q7E10-3VNMNGi1BdM_Jk7753c6QKWgOoHEhBZs_mCl-8W2mpBixwW2jE4dE",
-      "url": "https://play.google.com/store/apps/details?id=com.kids.preschool.learning.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-09",
       "isGame": true
     },
     {
