@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:37:12.996Z",
+  "updatedAt": "2026-08-20T23:34:02.561Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1693,9 +1693,59 @@
     "com.nexus.frostkingdom",
     "com.camelgames.aoz",
     "com.unicogames.jamgame",
-    "com.hungrystudio.mahjong"
+    "com.hungrystudio.mahjong",
+    "com.smilegate.eclipse.stove.google",
+    "com.funovus.alternatekeep",
+    "com.gamehouse.lilys.diary.sticker.color.by.number.puzzle.game",
+    "com.goodville.goodgame",
+    "com.ironhidegames.android.kingdomrush6.genesis"
   ],
   "items": [
+    {
+      "appId": "com.smilegate.eclipse.stove.google",
+      "title": "이클립스: 더 어웨이크닝",
+      "developer": "Smilegate, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.smilegate.eclipse.stove.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.funovus.alternatekeep",
+      "title": "Grim Arcade: Treasure Raid",
+      "developer": "Funovus",
+      "icon": "https://play-lh.googleusercontent.com/t-Q-ImplsZoko2ZZ5PwzER66Fjwp6S96P83ue4EKYdF2PfF0cNzTOIG_qUh5oY7jHvTPB9fP9-jcfk6lJWVw0w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.gamehouse.lilys.diary.sticker.color.by.number.puzzle.game",
+      "title": "Lily's Diary",
+      "developer": "GameHouse LLC",
+      "icon": "https://play-lh.googleusercontent.com/dn0hdjldz7XoulsBkWOvlV8UXdethvG2kiBaiGdbMnm3G2KtzWxCl3U6z03VED99MaX8aO748Pn_7nTSsnE6Mg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.lilys.diary.sticker.color.by.number.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.goodville.goodgame",
+      "title": "Goodville 농장 게임 모험",
+      "developer": "Goodville AG",
+      "icon": "https://play-lh.googleusercontent.com/8_gf2BdKST_dyDjhoBcOuZ5z9VxeQrllp5aZ3Kvzyn0KWTEd0UxNIoj6mZ0B31KaLrsbmg1fM24g-W46bkMsJFw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.goodville.goodgame&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.ironhidegames.android.kingdomrush6.genesis",
+      "title": "Kingdom Rush 6: Genesis TD",
+      "developer": "Ironhide Games",
+      "icon": "https://play-lh.googleusercontent.com/OEcpMNaiFRCca12qpIQWR8jGJCxPrRQsly00833YrzDh65hpTzVe2c1lBwReZku2j6ApAvWRC9Zz19X92Q8Dqg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush6.genesis&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
     {
       "appId": "com.camelgames.aoz",
       "title": "에이지 오브 제트: 타워 디펜스",
@@ -4838,33 +4888,6 @@
       "isGame": true
     },
     {
-      "appId": "com.logicappkids",
-      "title": "LogicLike: ABC & Math for kids",
-      "developer": "Massiana - Educational Games",
-      "icon": "https://play-lh.googleusercontent.com/O2aKzUu_wJShCE0fGJeWaaQd_Xp4-Vhf6YCL3slbz0UrSXeZktaEBf_-HY5BoK019HuQDpNNbLCOoQs6w0_YVA",
-      "url": "https://play.google.com/store/apps/details?id=com.logicappkids&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.zeptolab.ctr.ads",
-      "title": "Cut the Rope",
-      "developer": "ZeptoLab",
-      "icon": "https://play-lh.googleusercontent.com/Y5T271UOBkc52lUDHwiw0ECoAg3o-rOdmp8fCQqZqhX9tj5DKl5xeTollbj_nPcpSCgx",
-      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.TreetopCrew.EarthInc",
-      "title": "Earth Inc. Tycoon Idle Miner",
-      "developer": "Treetop Crew",
-      "icon": "https://play-lh.googleusercontent.com/Hd3FVg7w214wNa_42EyWFD-u2cjjyfyRXIVsUE6nT_-otayp1RqovJ3k3wLNwjFz9w2T",
-      "url": "https://play.google.com/store/apps/details?id=com.TreetopCrew.EarthInc&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
       "appId": "com.vm3.global",
       "title": "트럭 스타 매치",
       "developer": "Century Games PTE. LTD.",
@@ -4880,24 +4903,6 @@
       "icon": "https://play-lh.googleusercontent.com/Kgfa0LTFST8T3tweXHQ1v_VrpDmwSMhB55FfW8VFeMLTyMcBY6YGvdqunXLlHMkq_HG9BwUXytJczWWb2e0Y",
       "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.rvappstudios.abc_kids_toddler_tracing_phonics",
-      "title": "ABC Kids - Tracing & Phonics",
-      "developer": "RV AppStudios",
-      "icon": "https://play-lh.googleusercontent.com/dubBqdZfWh4LPRnwhf6c0zTtYscOykYvjE7PK91aJ8K6RHwUjQYhQ42rkO3fVF5X4gYO",
-      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.abc_kids_toddler_tracing_phonics&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.HelloKittyNailSalon",
-      "title": "Hello Kitty 네일 살롱",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/h6Fer19ruK7pQFwnwkjvRfzrNGWwLwLQZbyuv8kyNrJUkRUgjW6r6GyEQ2tiNzyp-TiTiWDh1PRItP3H3pmjq20",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-09",
       "isGame": true
     },
     {
