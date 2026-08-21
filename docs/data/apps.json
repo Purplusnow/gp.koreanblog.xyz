@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:50:54.576Z",
+  "updatedAt": "2026-08-21T03:11:32.456Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1704,7 +1704,11 @@
     "com.cooyostudio.marble.blast",
     "net.wargaming.wot.blitz",
     "com.impossibleapps.walkinghero",
-    "com.disruptorbeam.StarTrekTimelines"
+    "com.disruptorbeam.StarTrekTimelines",
+    "com.budgestudios.googleplay.MiraculousMIR",
+    "com.goplaytoday.guildofheroes",
+    "com.kakaogames.aaw",
+    "com.playgendary.bowmasters"
   ],
   "items": [
     {
@@ -1803,6 +1807,42 @@
       "developer": "Tilting Point",
       "icon": "https://play-lh.googleusercontent.com/K9Wm6qv1aSIFJFsmZTlZu5iE2_QNjvMHjSJZb9JyGKumlI59cgnJ-MHssixfmSW3POf2Cz9L3cRBJ7Bi4AEEyXM=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.disruptorbeam.StarTrekTimelines&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.budgestudios.googleplay.MiraculousMIR",
+      "title": "Miraculous Ladybug Life",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/8oMCMsi5DsWlMO0I37Pxwie8JNiTLfG6UxSR2FLGR7cRgjnKnf0KWzumdFIO-EuTYn9Ro_LhVgw3A_3HU2pldAE=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.MiraculousMIR&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.goplaytoday.guildofheroes",
+      "title": "Guild of Heroes",
+      "developer": "BIT.GAMES",
+      "icon": "https://play-lh.googleusercontent.com/61oIO5F42YSzpASDoD0qKxFuJI2DOoaWRFustkDW29z15TUrJzw2C-lgwDchF09aQBKJmvmP8o1uUlLiNaUmAg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.goplaytoday.guildofheroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.kakaogames.aaw",
+      "title": "아키에이지 워 (ArcheAge WAR)",
+      "developer": "Kakao Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/SQ2uUMPJ8hZwuJ5Yo0-Y9wG1b-yvCn0IQKDBf3gqcveW9RKOV-GaCSyHP0x7VqadLaflX0JuQK9wd2qbrO_hVQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.aaw&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.bowmasters",
+      "title": "Bowmasters",
+      "developer": "Playgendary Limited",
+      "icon": "https://play-lh.googleusercontent.com/-PLdLKmyG86fVQqXiVpgF5PTm05jgEl-EyFTXKDBiKNeLGE5e7iVmsnRVtlLrvRjGzjpgOCGElhQoOJwde5YqA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.bowmasters&hl=ko&gl=KR",
       "discoveredDate": "2026-08-21",
       "isGame": true
     },
@@ -4849,15 +4889,6 @@
       "isGame": true
     },
     {
-      "appId": "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
-      "title": "Keep the Crown: 타워 디펜스 TD",
-      "developer": "Deviloper Limited",
-      "icon": "https://play-lh.googleusercontent.com/wwvhK3PrrthIzfOWY-ww8VkPqfp2ZRGeYQ2NKnIUYeLb0dG3V2lx6yfzxkkM78iBunc4344BiGVGoHeBxW9v",
-      "url": "https://play.google.com/store/apps/details?id=com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-14",
-      "isGame": true
-    },
-    {
       "appId": "com.unicostudio.blastfriends",
       "title": "폭발 친구들: 매치 3 퍼즐",
       "developer": "Unico Studio",
@@ -4882,33 +4913,6 @@
       "icon": "https://play-lh.googleusercontent.com/wNyltcXoUMKz7txb1KGz0MN4-B-HXv6-iVC6n39cry5FNukJxtoJyQ-sC-KMrg-CNO1a_Ed3r8AaUJNuHWGsjA",
       "url": "https://play.google.com/store/apps/details?id=com.panstudio.gplay.duetnightabyss.arpg.global&hl=ko&gl=KR",
       "discoveredDate": "2026-06-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.g5e.hiddencity.android",
-      "title": "Hidden City: 숨은물건찾기 모험",
-      "developer": "G5 Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/oekwZn3-GBFC2vNtZ8kzOBP4kv851RggAIypnlTSP8p9h3Sxq7p_fzdBsAWori8SNDy5PBdRP8aU0fiPAxHXgdI",
-      "url": "https://play.google.com/store/apps/details?id=com.g5e.hiddencity.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-13",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.imagineer.sumikkogurashi.sumisumi",
-      "title": "SUMI SUMI : Matching Puzzle",
-      "developer": "Imagineer Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/cu66q7JA5LLkwb3DxFsTQG1yh0GrCBq65sMu65psSyO3IOpddihjKtsmXJzcjxJDzf-k",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.sumikkogurashi.sumisumi&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.wemadeconnect.aos.makedrama.google",
-      "title": "메이크 드라마 : MAD",
-      "developer": "Wemade Connect",
-      "icon": "https://play-lh.googleusercontent.com/u574SJ5fOmikWAC7rVtFRKNFdP6vp29dyl-OFKDBW0hnOvlj5r-gKTrEGD57yDjqhCf8exL0zjCEki-Wdjyq_g",
-      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-12",
       "isGame": true
     },
     {
