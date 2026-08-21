@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:34:02.561Z",
+  "updatedAt": "2026-08-21T01:50:54.576Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1698,7 +1698,13 @@
     "com.funovus.alternatekeep",
     "com.gamehouse.lilys.diary.sticker.color.by.number.puzzle.game",
     "com.goodville.goodgame",
-    "com.ironhidegames.android.kingdomrush6.genesis"
+    "com.ironhidegames.android.kingdomrush6.genesis",
+    "com.rhaon.ghostwar",
+    "com.supercell.squad",
+    "com.cooyostudio.marble.blast",
+    "net.wargaming.wot.blitz",
+    "com.impossibleapps.walkinghero",
+    "com.disruptorbeam.StarTrekTimelines"
   ],
   "items": [
     {
@@ -1743,6 +1749,60 @@
       "developer": "Ironhide Games",
       "icon": "https://play-lh.googleusercontent.com/OEcpMNaiFRCca12qpIQWR8jGJCxPrRQsly00833YrzDh65hpTzVe2c1lBwReZku2j6ApAvWRC9Zz19X92Q8Dqg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush6.genesis&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.rhaon.ghostwar",
+      "title": "고스트워 : 캐주얼 배틀 아레나",
+      "developer": "RHAON",
+      "icon": "https://play-lh.googleusercontent.com/cs-yGocLMyp05nPhXizegFh6E22PPjoELi3HiIwSOMvcjlKuLwU4ysopZrxJY-_w4NmgkNwtJT3smcMa-fW4liA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rhaon.ghostwar&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.supercell.squad",
+      "title": "스쿼드 버스터즈",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/oyIthD3LpJAnVfd77tCUOxZk1wzdxx6hT858ZN_AN1HYwjF1IjzJNiwUFR0g1AhdPuDfSj9bpkavE7ZlvC5fnw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.squad&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.cooyostudio.marble.blast",
+      "title": "대리석을 탐험",
+      "developer": "coolstudios",
+      "icon": "https://play-lh.googleusercontent.com/kzPf_NwiyDjTRwZVVvbwjAV79heQkVNBzF5g6UzuTeNSJCoOB_OyVXY9tu3zaPqIhEVH-aeuL-Y5TL7Pmkn5Sw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.cooyostudio.marble.blast&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "net.wargaming.wot.blitz",
+      "title": "World of Tanks Blitz™",
+      "developer": "Wargaming Group",
+      "icon": "https://play-lh.googleusercontent.com/9sInKEDpfr7PP1igQkNqtE1u1DShC6C22fCDqQFMcJ2eZh9Sjm5H_PQ8tyiaX5UzClwG7EjbOwzJCYKR5Iimyg0=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=net.wargaming.wot.blitz&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.impossibleapps.walkinghero",
+      "title": "Walking Hero – 방치 배틀 RPG",
+      "developer": "Impossible Apps",
+      "icon": "https://play-lh.googleusercontent.com/r5XQ2ijPaw1UrOAjkbN_D3MTuFkhayuJXhB5xLziDdyrWBbNKQo4YWNtQACiUKp3ZgmwZjqQy3w8I-1NXGz3OQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.impossibleapps.walkinghero&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.disruptorbeam.StarTrekTimelines",
+      "title": "Star Trek™ Timelines",
+      "developer": "Tilting Point",
+      "icon": "https://play-lh.googleusercontent.com/K9Wm6qv1aSIFJFsmZTlZu5iE2_QNjvMHjSJZb9JyGKumlI59cgnJ-MHssixfmSW3POf2Cz9L3cRBJ7Bi4AEEyXM=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.disruptorbeam.StarTrekTimelines&hl=ko&gl=KR",
       "discoveredDate": "2026-08-21",
       "isGame": true
     },
@@ -4849,60 +4909,6 @@
       "icon": "https://play-lh.googleusercontent.com/u574SJ5fOmikWAC7rVtFRKNFdP6vp29dyl-OFKDBW0hnOvlj5r-gKTrEGD57yDjqhCf8exL0zjCEki-Wdjyq_g",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google&hl=ko&gl=KR",
       "discoveredDate": "2026-06-12",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.and.games505.gemsofwar",
-      "title": "Gems of War - Match 3 RPG",
-      "developer": "505 Games Srl",
-      "icon": "https://play-lh.googleusercontent.com/BUtuYM7g8AVcjtrLdlRq7xGxijhkl_U1mNNSPmZNZGSsdiC0W-6HnwcLxNj7Vj-sC8udxGwEQA91-yK5eqDGIAI",
-      "url": "https://play.google.com/store/apps/details?id=air.com.and.games505.gemsofwar&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.klab.captain283.global",
-      "title": "Captain Tsubasa: Dream Team",
-      "developer": "KLab",
-      "icon": "https://play-lh.googleusercontent.com/kkVtcJxYpr8IQghyTq7OmHEa-ZYEi2vbsuHq9jw0D1pLt3smpLcMjPabiqoYzEy09Bhy2p7dlSQvIADcrG2btNk",
-      "url": "https://play.google.com/store/apps/details?id=com.klab.captain283.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.dhxmedia.slugitout2",
-      "title": "Slugterra: Slug it Out 2",
-      "developer": "Nightmarket Games",
-      "icon": "https://play-lh.googleusercontent.com/W2ZCJxbKMeMv8tMyF3zzBiV75cHeMgmbKWj0FX27VeKAMxPr4aDoha6LeVKc7WqCq_nERoc4rLKQ99iiVMSn3w",
-      "url": "https://play.google.com/store/apps/details?id=com.dhxmedia.slugitout2&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.trivia.star.android",
-      "title": "TRIVIA STAR Quiz Games Offline",
-      "developer": "Super Free",
-      "icon": "https://play-lh.googleusercontent.com/F87q19pE0fWjghkmIHees5ckJb4M_6nrp_GUz6jXqI1P1jgUiB0pL0T-rDeKSA-prCU",
-      "url": "https://play.google.com/store/apps/details?id=com.trivia.star.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.vm3.global",
-      "title": "트럭 스타 매치",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/bcvxHCVs5go0uzGohpwDu-Zid76pUDAlLY-XwbXtlGjrsv9wj2KWoW4kCWfMevxtfCbIMUQqqgZv-n8F-YD2SF0",
-      "url": "https://play.google.com/store/apps/details?id=com.vm3.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay",
-      "title": "LEGO® DUPLO® 월드",
-      "developer": "StoryToys",
-      "icon": "https://play-lh.googleusercontent.com/Kgfa0LTFST8T3tweXHQ1v_VrpDmwSMhB55FfW8VFeMLTyMcBY6YGvdqunXLlHMkq_HG9BwUXytJczWWb2e0Y",
-      "url": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-10",
       "isGame": true
     },
     {
