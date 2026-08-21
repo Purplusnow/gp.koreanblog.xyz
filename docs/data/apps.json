@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:52:02.833Z",
+  "updatedAt": "2026-08-21T08:52:16.135Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1708,7 +1708,9 @@
     "com.budgestudios.googleplay.MiraculousMIR",
     "com.goplaytoday.guildofheroes",
     "com.kakaogames.aaw",
-    "com.playgendary.bowmasters"
+    "com.playgendary.bowmasters",
+    "com.starblaster.athree.epl.gp",
+    "com.snapbreak.discounty"
   ],
   "items": [
     {
@@ -1843,6 +1845,24 @@
       "developer": "Playgendary Limited",
       "icon": "https://play-lh.googleusercontent.com/-PLdLKmyG86fVQqXiVpgF5PTm05jgEl-EyFTXKDBiKNeLGE5e7iVmsnRVtlLrvRjGzjpgOCGElhQoOJwde5YqA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.playgendary.bowmasters&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.starblaster.athree.epl.gp",
+      "title": "Star Blaster: Offline Premium",
+      "developer": "Enigma Publishing Limited",
+      "icon": "https://play-lh.googleusercontent.com/5JY2gvQztS2PONAF8oLGbmmCVrcUmr1Ki4qBP67QG54P-NiUlqkEEPOjLUEj5YuvkEjjAIYtbA0J5mug09ClqA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.starblaster.athree.epl.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.discounty",
+      "title": "Discounty: Supermarket Manager",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/4gHKeXyq8TdmTLMpz_ybqtbRLaUwd3rIIYAQgqTm7XXV1zumBuZ5Lesplp9_gHDJuVlpK_GkazUhzO0twD2n=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.discounty&hl=ko&gl=KR",
       "discoveredDate": "2026-08-21",
       "isGame": true
     },
@@ -4886,24 +4906,6 @@
       "icon": "https://play-lh.googleusercontent.com/YOI9UnkGQTu77FS-iaHL2mz3j9oCw7p3eqthBWiGVVEb5NkEuwgpGCx3gXEeK5BerdN1uRAGQXsKKUDWm-2GUA",
       "url": "https://play.google.com/store/apps/details?id=com.gamebasics.osm&hl=ko&gl=KR",
       "discoveredDate": "2026-06-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.unicostudio.blastfriends",
-      "title": "폭발 친구들: 매치 3 퍼즐",
-      "developer": "Unico Studio",
-      "icon": "https://play-lh.googleusercontent.com/siP4iyCVYRxtMgklID2E7RJ7hrfwP6C4Mxg0fALDLo4twClPSekEcaYuQZCHvbTW0il3a5QIakDhRyhYLCOZKA",
-      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.blastfriends&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.herocraft.game.free.spaceshipbattles",
-      "title": "스페이스 아레나: 우주 전함 전략 게임",
-      "developer": "HC GLOBAL DISTRIBUTION LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/DZr4bDU1QKcbHGtcCKazcJURbXb4Ca7DcGU77APRr3ks4AnXyahk6z3883jvRuabfa0",
-      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.free.spaceshipbattles&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-14",
       "isGame": true
     },
     {
