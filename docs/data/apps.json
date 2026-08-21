@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T11:34:30.112Z",
+  "updatedAt": "2026-08-21T13:03:57.675Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1711,7 +1711,9 @@
     "com.playgendary.bowmasters",
     "com.starblaster.athree.epl.gp",
     "com.snapbreak.discounty",
-    "com.flaregames.zgs"
+    "com.flaregames.zgs",
+    "com.fskr.google",
+    "com.game.xzjh2.global"
   ],
   "items": [
     {
@@ -1873,6 +1875,24 @@
       "developer": "Flaregames",
       "icon": "https://play-lh.googleusercontent.com/pcLGTbHOF1tMvlxja85Rb0TfxbmbkkV81JKUhfyaOuD7uSPcMg6HOifTacSWbxtZPvif8GgP_1Z0Ys9UO2x6cw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.flaregames.zgs&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.fskr.google",
+      "title": "포레스트 사이: 네버랜드​",
+      "developer": "Hifun Game",
+      "icon": "https://play-lh.googleusercontent.com/TuwNmZiR7tVRu56e9HD8K94k6VFY9Rz5bwP_lJ2Qwi5YTAq35Ilm5HDU4curtEP6Hatzd0nhSou0pKWxgOsIZSQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fskr.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.xzjh2.global",
+      "title": "수련의 강호 2-플레이 가능한 수양 소설!",
+      "developer": "FUN GAMES STUDIO",
+      "icon": "https://play-lh.googleusercontent.com/y1UjchUqYVS_BJB0MQq0gKjsnJ4ZBn9GsLBBINdzYPkSSVUrlmOLarsKlj29hyUu3RxSunpB0DaqSDvIt7pddw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.game.xzjh2.global&hl=ko&gl=KR",
       "discoveredDate": "2026-08-21",
       "isGame": true
     },
@@ -4883,15 +4903,6 @@
       "isGame": true
     },
     {
-      "appId": "com.bibiboom.settlementheroes",
-      "title": "생존자의 도시",
-      "developer": "Bibiboom",
-      "icon": "https://play-lh.googleusercontent.com/TifaQ3cmuhrOfEJXNORhWe5j397lzmCT9C6rc9wV436IdGLRhuhYaGnSUxuB6BaWH9YM",
-      "url": "https://play.google.com/store/apps/details?id=com.bibiboom.settlementheroes&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-16",
-      "isGame": true
-    },
-    {
       "appId": "com.sivona.stormshot.e",
       "title": "총탄 사격: 보물섬의 비밀",
       "developer": "FunPlus International AG",
@@ -4907,15 +4918,6 @@
       "icon": "https://play-lh.googleusercontent.com/9xzFnDp8AoEWPCC2b4WwGPiaH_vtalPlcG0ownJED7vwWc4dTzrL2f14GauigsAuwbA",
       "url": "https://play.google.com/store/apps/details?id=com.dreamotion.ronin&hl=ko&gl=KR",
       "discoveredDate": "2026-06-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.gamebasics.osm",
-      "title": "OSM 26 - Football Manager game",
-      "developer": "Gamebasics BV",
-      "icon": "https://play-lh.googleusercontent.com/YOI9UnkGQTu77FS-iaHL2mz3j9oCw7p3eqthBWiGVVEb5NkEuwgpGCx3gXEeK5BerdN1uRAGQXsKKUDWm-2GUA",
-      "url": "https://play.google.com/store/apps/details?id=com.gamebasics.osm&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-15",
       "isGame": true
     },
     {
