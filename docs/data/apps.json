@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:47:27.329Z",
+  "updatedAt": "2026-08-21T10:39:14.408Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1710,7 +1710,8 @@
     "com.kakaogames.aaw",
     "com.playgendary.bowmasters",
     "com.starblaster.athree.epl.gp",
-    "com.snapbreak.discounty"
+    "com.snapbreak.discounty",
+    "com.flaregames.zgs"
   ],
   "items": [
     {
@@ -1863,6 +1864,15 @@
       "developer": "Snapbreak",
       "icon": "https://play-lh.googleusercontent.com/4gHKeXyq8TdmTLMpz_ybqtbRLaUwd3rIIYAQgqTm7XXV1zumBuZ5Lesplp9_gHDJuVlpK_GkazUhzO0twD2n=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.snapbreak.discounty&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.flaregames.zgs",
+      "title": "Zombie Gunship Survival",
+      "developer": "Flaregames",
+      "icon": "https://play-lh.googleusercontent.com/pcLGTbHOF1tMvlxja85Rb0TfxbmbkkV81JKUhfyaOuD7uSPcMg6HOifTacSWbxtZPvif8GgP_1Z0Ys9UO2x6cw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.flaregames.zgs&hl=ko&gl=KR",
       "discoveredDate": "2026-08-21",
       "isGame": true
     },
@@ -4906,15 +4916,6 @@
       "icon": "https://play-lh.googleusercontent.com/YOI9UnkGQTu77FS-iaHL2mz3j9oCw7p3eqthBWiGVVEb5NkEuwgpGCx3gXEeK5BerdN1uRAGQXsKKUDWm-2GUA",
       "url": "https://play.google.com/store/apps/details?id=com.gamebasics.osm&hl=ko&gl=KR",
       "discoveredDate": "2026-06-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.panstudio.gplay.duetnightabyss.arpg.global",
-      "title": "듀엣 나이트 어비스",
-      "developer": "Hong Kong Spiral Rising Technology Co., Limited",
-      "icon": "https://play-lh.googleusercontent.com/wNyltcXoUMKz7txb1KGz0MN4-B-HXv6-iVC6n39cry5FNukJxtoJyQ-sC-KMrg-CNO1a_Ed3r8AaUJNuHWGsjA",
-      "url": "https://play.google.com/store/apps/details?id=com.panstudio.gplay.duetnightabyss.arpg.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-14",
       "isGame": true
     },
     {
