@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:44:39.018Z",
+  "updatedAt": "2026-08-22T03:02:24.674Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1713,9 +1713,19 @@
     "com.snapbreak.discounty",
     "com.flaregames.zgs",
     "com.fskr.google",
-    "com.game.xzjh2.global"
+    "com.game.xzjh2.global",
+    "com.oakever.zencolor"
   ],
   "items": [
+    {
+      "appId": "com.oakever.zencolor",
+      "title": "Zen Color - 숫자별 색상",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/j_tm9DNbpZj3i5MrWSauB2xITNpSPE7tbN5rVSEoNdMzQiqHwrTicb3CAGJqda2FxJTR1A4V2yCbBrKoZCiuhQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.zencolor&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-22",
+      "isGame": true
+    },
     {
       "appId": "com.smilegate.eclipse.stove.google",
       "title": "이클립스: 더 어웨이크닝",
@@ -4900,15 +4910,6 @@
       "icon": "https://play-lh.googleusercontent.com/0Kn_y9dvZ8OmFUjefO4FwFFkT6C-yvZAqoZdrOTs3w54aImd2o3oIpiVzYZvk-7kE9768_SH2mxqTqXTiK1nHqM",
       "url": "https://play.google.com/store/apps/details?id=com.leme.coe&hl=ko&gl=KR",
       "discoveredDate": "2026-06-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.sivona.stormshot.e",
-      "title": "총탄 사격: 보물섬의 비밀",
-      "developer": "FunPlus International AG",
-      "icon": "https://play-lh.googleusercontent.com/apU8Kna4Az1nXODmT6RDYVkBFOkUSVrRQNd8JRPLy7JH-tc55ROzA1st1mKKBXf9OM0",
-      "url": "https://play.google.com/store/apps/details?id=com.sivona.stormshot.e&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-16",
       "isGame": true
     },
     {
