@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:30:12.608Z",
+  "updatedAt": "2026-08-22T22:32:13.021Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1714,9 +1714,19 @@
     "com.flaregames.zgs",
     "com.fskr.google",
     "com.game.xzjh2.global",
-    "com.oakever.zencolor"
+    "com.oakever.zencolor",
+    "com.gaijin.xom"
   ],
   "items": [
+    {
+      "appId": "com.gaijin.xom",
+      "title": "Crossout 모바일 - PvP 액션",
+      "developer": "Gaijin Distribution KFT",
+      "icon": "https://play-lh.googleusercontent.com/bt7JMYIJDQgQjkfGPCQomYgNbtNkkvME1xP1WuYouiDiia1BxNnQtq9esfUsTFFhA1H3OVl3j8_XICLkzBcakvM=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gaijin.xom&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-23",
+      "isGame": true
+    },
     {
       "appId": "com.oakever.zencolor",
       "title": "Zen Color - 숫자별 색상",
@@ -4910,15 +4920,6 @@
       "icon": "https://play-lh.googleusercontent.com/0Kn_y9dvZ8OmFUjefO4FwFFkT6C-yvZAqoZdrOTs3w54aImd2o3oIpiVzYZvk-7kE9768_SH2mxqTqXTiK1nHqM",
       "url": "https://play.google.com/store/apps/details?id=com.leme.coe&hl=ko&gl=KR",
       "discoveredDate": "2026-06-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.dreamotion.ronin",
-      "title": "로닌: 더 라스트 사무라이",
-      "developer": "Dreamotion Inc.",
-      "icon": "https://play-lh.googleusercontent.com/9xzFnDp8AoEWPCC2b4WwGPiaH_vtalPlcG0ownJED7vwWc4dTzrL2f14GauigsAuwbA",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamotion.ronin&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-16",
       "isGame": true
     },
     {
