@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:56:45.595Z",
+  "updatedAt": "2026-08-23T13:39:20.116Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1717,7 +1717,8 @@
     "com.oakever.zencolor",
     "com.gaijin.xom",
     "com.allstarunion.nod",
-    "com.jedigames.p20.googleplay"
+    "com.jedigames.p20.googleplay",
+    "com.rubberbandgames.wobblylifev2"
   ],
   "items": [
     {
@@ -1744,6 +1745,15 @@
       "developer": "BEKKO GAMES",
       "icon": "https://play-lh.googleusercontent.com/gOkCxbgRlI8vDDtylCC0Sdz6xMGgAFnJwRomNPBtpkE6p1-0ecOFgVgMI5iiA7ZXv5S8ye-G2UBjRIyqfWE1=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.jedigames.p20.googleplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.rubberbandgames.wobblylifev2",
+      "title": "Wobbly Life",
+      "developer": "Curve Games",
+      "icon": "https://play-lh.googleusercontent.com/cH7yJARfE_wJ2lXnrsKiXnpAdJlv5VNKWthRQdQ4bnOnYYZJjmuoX7inCu7MKGU6r2unnNG6VIIe0z9EXE_3=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rubberbandgames.wobblylifev2&hl=ko&gl=KR",
       "discoveredDate": "2026-08-23",
       "isGame": true
     },
@@ -4859,15 +4869,6 @@
       "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
       "url": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort&hl=ko&gl=KR",
       "discoveredDate": "2026-06-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.taprun.fruitmanialine",
-      "title": "Fruit Fancy",
-      "developer": "Tap Run",
-      "icon": "https://play-lh.googleusercontent.com/RvwETxq6kFCALhr7-WNTiyndMG9D6OIZ-GNmmYZ19HqNOEd8EJBk0VOu85B4UmITIjHU3gX97_RpKmI_uSF3IA",
-      "url": "https://play.google.com/store/apps/details?id=com.taprun.fruitmanialine&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-19",
       "isGame": true
     },
     {
