@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:28:46.291Z",
+  "updatedAt": "2026-08-23T18:41:42.402Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1718,9 +1718,19 @@
     "com.gaijin.xom",
     "com.allstarunion.nod",
     "com.jedigames.p20.googleplay",
-    "com.rubberbandgames.wobblylifev2"
+    "com.rubberbandgames.wobblylifev2",
+    "com.swiftappskom.thewolfrpg"
   ],
   "items": [
+    {
+      "appId": "com.swiftappskom.thewolfrpg",
+      "title": "더 울프: 애니멀 게임 (The Wolf)",
+      "developer": "Rage Quit Games Group",
+      "icon": "https://play-lh.googleusercontent.com/xCL9YFWywZCNJxncxLCSQmNGO4zSFcjEm1v_FSULjqqlQlg4FW_LVYW17Cr4_GWRqNEroS5ey8-U1oo5ispjaA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.swiftappskom.thewolfrpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-24",
+      "isGame": true
+    },
     {
       "appId": "com.gaijin.xom",
       "title": "Crossout 모바일 - PvP 액션",
@@ -4869,15 +4879,6 @@
       "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
       "url": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort&hl=ko&gl=KR",
       "discoveredDate": "2026-06-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.hanbitsoft.gem.google",
-      "title": "그라나도 에스파다M",
-      "developer": "HanbitSoft Inc",
-      "icon": "https://play-lh.googleusercontent.com/3qeoJaniP3tSGUnyRwk2ty5ZKGfIFidRoh7TsT1CrqQtUTKNo18yrkAjG28cavlqUNeF-l2CMC6mX0W1yaUKmA",
-      "url": "https://play.google.com/store/apps/details?id=com.hanbitsoft.gem.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-19",
       "isGame": true
     },
     {
