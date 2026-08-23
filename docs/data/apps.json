@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:11:32.113Z",
+  "updatedAt": "2026-08-23T04:47:22.947Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1715,7 +1715,9 @@
     "com.fskr.google",
     "com.game.xzjh2.global",
     "com.oakever.zencolor",
-    "com.gaijin.xom"
+    "com.gaijin.xom",
+    "com.allstarunion.nod",
+    "com.jedigames.p20.googleplay"
   ],
   "items": [
     {
@@ -1724,6 +1726,24 @@
       "developer": "Gaijin Distribution KFT",
       "icon": "https://play-lh.googleusercontent.com/bt7JMYIJDQgQjkfGPCQomYgNbtNkkvME1xP1WuYouiDiia1BxNnQtq9esfUsTFFhA1H3OVl3j8_XICLkzBcakvM=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.gaijin.xom&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.allstarunion.nod",
+      "title": "Nations of Darkness",
+      "developer": "TCA GAMES STUDIO - FZCO",
+      "icon": "https://play-lh.googleusercontent.com/3LeXZLZaX-J3g2DYZWYV_akAA55NjcJSI47hj3ATMsSHnur41yozaTrPnWxW1AXqvrNbi6H-xQTAof_WCWzL_w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.allstarunion.nod&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.jedigames.p20.googleplay",
+      "title": "짐의강산-백년의 흥망성쇠가 눈에 선하다",
+      "developer": "BEKKO GAMES",
+      "icon": "https://play-lh.googleusercontent.com/gOkCxbgRlI8vDDtylCC0Sdz6xMGgAFnJwRomNPBtpkE6p1-0ecOFgVgMI5iiA7ZXv5S8ye-G2UBjRIyqfWE1=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.jedigames.p20.googleplay&hl=ko&gl=KR",
       "discoveredDate": "2026-08-23",
       "isGame": true
     },
@@ -4842,15 +4862,6 @@
       "isGame": true
     },
     {
-      "appId": "com.liteorange.hometopia",
-      "title": "Frost Valley™: Merge & Story",
-      "developer": "LITEORANGE CREATION PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/DNlTlOWp5zc9Xe77eizL8vU7aT72_SwVwSHcz0NtSlMz6Dmosk8BM_PDv3h2Zd661HVX9gK2klsySgKmaGoiUJk",
-      "url": "https://play.google.com/store/apps/details?id=com.liteorange.hometopia&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-19",
-      "isGame": true
-    },
-    {
       "appId": "com.taprun.fruitmanialine",
       "title": "Fruit Fancy",
       "developer": "Tap Run",
@@ -4911,15 +4922,6 @@
       "icon": "https://play-lh.googleusercontent.com/vre365L9Y_XIpaTg56Mqa3Oraobas7RMsHl52ZJuyyShZNWdPg8fbkQjWCHu1hTJ0TE4DaY_vbuDUkUi9u8P",
       "url": "https://play.google.com/store/apps/details?id=com.zzsjkr.google&hl=ko&gl=KR",
       "discoveredDate": "2026-06-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.leme.coe",
-      "title": "라스트랜드: 중세 제국 전쟁",
-      "developer": "LEME GAMES",
-      "icon": "https://play-lh.googleusercontent.com/0Kn_y9dvZ8OmFUjefO4FwFFkT6C-yvZAqoZdrOTs3w54aImd2o3oIpiVzYZvk-7kE9768_SH2mxqTqXTiK1nHqM",
-      "url": "https://play.google.com/store/apps/details?id=com.leme.coe&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-17",
       "isGame": true
     },
     {
