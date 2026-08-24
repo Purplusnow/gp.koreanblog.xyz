@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:29:33.317Z",
+  "updatedAt": "2026-08-24T01:52:14.438Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1719,7 +1719,8 @@
     "com.allstarunion.nod",
     "com.jedigames.p20.googleplay",
     "com.rubberbandgames.wobblylifev2",
-    "com.swiftappskom.thewolfrpg"
+    "com.swiftappskom.thewolfrpg",
+    "com.hg.idleweaponshoptycoon.android"
   ],
   "items": [
     {
@@ -1728,6 +1729,15 @@
       "developer": "Rage Quit Games Group",
       "icon": "https://play-lh.googleusercontent.com/xCL9YFWywZCNJxncxLCSQmNGO4zSFcjEm1v_FSULjqqlQlg4FW_LVYW17Cr4_GWRqNEroS5ey8-U1oo5ispjaA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.swiftappskom.thewolfrpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.hg.idleweaponshoptycoon.android",
+      "title": "아이들 무기  상점(Idle Weapon Shop)",
+      "developer": "Hello Games Team",
+      "icon": "https://play-lh.googleusercontent.com/PuXIvrJfeki4y8clpJ8Tgm_pIVOxRxgAH_oEcdgR3R2BqOZe_1N5mHZwRiTvgqnDmd1aNXojwxvBdqHAgc_HGA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.idleweaponshoptycoon.android&hl=ko&gl=KR",
       "discoveredDate": "2026-08-24",
       "isGame": true
     },
@@ -4879,15 +4889,6 @@
       "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
       "url": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort&hl=ko&gl=KR",
       "discoveredDate": "2026-06-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.vectorunit.purple.googleplay",
-      "title": "Beach Buggy Racing",
-      "developer": "Vector Unit",
-      "icon": "https://play-lh.googleusercontent.com/SEYvChlcEIii7XknQ7bZOoznL0HL1WKYCxMDlCs88mhraX1aHMmIrytCcadg8gPGv9Lw5gMc3821KUxFUpFwkQ",
-      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-19",
       "isGame": true
     },
     {
