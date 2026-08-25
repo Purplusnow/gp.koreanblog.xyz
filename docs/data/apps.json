@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:51:16.505Z",
+  "updatedAt": "2026-08-25T19:39:27.156Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1720,9 +1720,19 @@
     "com.jedigames.p20.googleplay",
     "com.rubberbandgames.wobblylifev2",
     "com.swiftappskom.thewolfrpg",
-    "com.hg.idleweaponshoptycoon.android"
+    "com.hg.idleweaponshoptycoon.android",
+    "com.miHoYo.bh3korea"
   ],
   "items": [
+    {
+      "appId": "com.miHoYo.bh3korea",
+      "title": "붕괴3rd",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/ditfMKOtRRnASNxKnW7N2bmmA_lLIqkJvk4gs6hxLU8-Gxcg9-53Gysspw0qZukKEL1Et6Pf2cghBVKdm9vR=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3korea&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-26",
+      "isGame": true
+    },
     {
       "appId": "com.swiftappskom.thewolfrpg",
       "title": "더 울프: 애니멀 게임 (The Wolf)",
@@ -4889,15 +4899,6 @@
       "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
       "url": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort&hl=ko&gl=KR",
       "discoveredDate": "2026-06-20",
-      "isGame": true
-    },
-    {
-      "appId": "net.supercat.stone",
-      "title": "돌 키우기 온라인 : 방치형 2D MMORPG, RPG",
-      "developer": "SUPERCAT",
-      "icon": "https://play-lh.googleusercontent.com/QhAoxWMdezmruLHjs_Up-RyGp74rq8419vT2Xh36ed73cjdNuEgBj0Z7YrdPfaAaL7LxU0rvvwcA9EkdyY-C",
-      "url": "https://play.google.com/store/apps/details?id=net.supercat.stone&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-19",
       "isGame": true
     },
     {
