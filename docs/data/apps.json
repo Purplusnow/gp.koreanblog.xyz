@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:18:07.176Z",
+  "updatedAt": "2026-08-28T18:34:01.235Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1727,9 +1727,29 @@
     "com.bandainamcoent.bleach_mh_ww",
     "com.deviloper.shadow.dungeon",
     "com.doghowlgames.trashgoblin",
-    "com.elementagames.silverpalace.google"
+    "com.elementagames.silverpalace.google",
+    "com.orienjoy.heroland.kr",
+    "com.backflipstudios.android.dragonvale"
   ],
   "items": [
+    {
+      "appId": "com.orienjoy.heroland.kr",
+      "title": "히어로 랜드M",
+      "developer": "Orienjoy International Company Limited",
+      "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.orienjoy.heroland.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.backflipstudios.android.dragonvale",
+      "title": "DragonVale",
+      "developer": "Deca Games",
+      "icon": "https://play-lh.googleusercontent.com/KmSfBEub5wFzHVujJlkA4F9MFac8U0JIdW-BUQPHhT1yfDfAEAyeGGVjO3Zxsnh-7dApscG9ziJZnevWDXtABQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.backflipstudios.android.dragonvale&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-29",
+      "isGame": true
+    },
     {
       "appId": "com.project.idle.cd",
       "title": "Top Force: 탑 포스",
@@ -4872,15 +4892,6 @@
       "isGame": true
     },
     {
-      "appId": "com.gravity.romkrzeny.aos",
-      "title": "라그나로크M: Classic",
-      "developer": "GRAVITY Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
-      "url": "https://play.google.com/store/apps/details?id=com.gravity.romkrzeny.aos&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-21",
-      "isGame": true
-    },
-    {
       "appId": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
       "developer": "Teamsparta Inc.",
@@ -4923,15 +4934,6 @@
       "icon": "https://play-lh.googleusercontent.com/n8Sx0l6yLJ8kXN6Ca-wJIAzbYMBZe1ltObZGNmNpSC7QzA9i7bd8EyBGom07sqD5QA2V0Badd3UgDwEGYmhI7A",
       "url": "https://play.google.com/store/apps/details?id=com.blackhammer.kingdomsiege&hl=ko&gl=KR",
       "discoveredDate": "2026-06-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.chaos.drink.sort",
-      "title": "Chaos Drink Sort: Water Puzzle",
-      "developer": "IEC Holding L.L.C-FZ",
-      "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
-      "url": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-20",
       "isGame": true
     },
     {
