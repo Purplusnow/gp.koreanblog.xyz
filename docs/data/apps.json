@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:34:01.235Z",
+  "updatedAt": "2026-08-29T02:05:17.953Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1729,7 +1729,8 @@
     "com.doghowlgames.trashgoblin",
     "com.elementagames.silverpalace.google",
     "com.orienjoy.heroland.kr",
-    "com.backflipstudios.android.dragonvale"
+    "com.backflipstudios.android.dragonvale",
+    "com.nvsgames.pt"
   ],
   "items": [
     {
@@ -1747,6 +1748,15 @@
       "developer": "Deca Games",
       "icon": "https://play-lh.googleusercontent.com/KmSfBEub5wFzHVujJlkA4F9MFac8U0JIdW-BUQPHhT1yfDfAEAyeGGVjO3Zxsnh-7dApscG9ziJZnevWDXtABQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.backflipstudios.android.dragonvale&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.nvsgames.pt",
+      "title": "플랜츠 온 파이어",
+      "developer": "Nuverse Games",
+      "icon": "https://play-lh.googleusercontent.com/gH5Gthsejk7l-7CvcqyU5jhAOSMuWANN-o49MFIwzvKDPKhxPKrxvtDdyHNHmTpJktcS80TqezPwHczv-bcSRQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nvsgames.pt&hl=ko&gl=KR",
       "discoveredDate": "2026-08-29",
       "isGame": true
     },
@@ -4889,15 +4899,6 @@
       "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=KR",
       "discoveredDate": "2026-06-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.TeamSparta.CSD",
-      "title": "협동마법디펜스: 마법사 키우기",
-      "developer": "Teamsparta Inc.",
-      "icon": "https://play-lh.googleusercontent.com/OUKiwSEdbcpDi5aVggEdAa5n-7eJVpVlPuG67bFV47TVgOjPIu4fJ__nwfsLBhKqU0lv-vuiWe9-1WXNU18MJCY",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.CSD&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-21",
       "isGame": true
     },
     {
