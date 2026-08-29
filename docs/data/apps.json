@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T18:21:24.067Z",
+  "updatedAt": "2026-08-29T21:40:06.395Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1730,9 +1730,29 @@
     "com.elementagames.silverpalace.google",
     "com.orienjoy.heroland.kr",
     "com.backflipstudios.android.dragonvale",
-    "com.nvsgames.pt"
+    "com.nvsgames.pt",
+    "com.justdesserts.global",
+    "com.cww.laststronghold"
   ],
   "items": [
+    {
+      "appId": "com.justdesserts.global",
+      "title": "치명적 달콤함: 리벤지&머지",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/q_KROSDAhT4UgCR7Y11CqDdIAg2A1m8GTJTo2sPJnobwDZuRyC_Gvyyx71nreHPaH5WrxM4PwZ3lTsCYhuw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.justdesserts.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.cww.laststronghold",
+      "title": "최후의 거점 (Last Stronghold)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/sFsfhl1nqormfI9O2cneMU-gjOQpI8n1NUVavYCqg3q3JMn1PI7SN0tQeeYit1rEpLRULcTMFL_ylEc43hE6Og=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.cww.laststronghold&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-30",
+      "isGame": true
+    },
     {
       "appId": "com.orienjoy.heroland.kr",
       "title": "히어로 랜드M",
@@ -4899,24 +4919,6 @@
       "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=KR",
       "discoveredDate": "2026-06-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.antistress.coloring.cross.stitch",
-      "title": "Cross Stitch: Antistress",
-      "developer": "Crimson Pine Games",
-      "icon": "https://play-lh.googleusercontent.com/fhbLgvGKbxOud5L_Rdc88AC10srW1CaozSIN8F9dNipvgVCkrfwgvjlVGgubSqjNMreRiRE6cXdKeZEzUIfafA",
-      "url": "https://play.google.com/store/apps/details?id=com.antistress.coloring.cross.stitch&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcool.puzzle.merge.tasty",
-      "title": "머지 테이스티: 데이터 필요없는 힐링 요리 퍼즐 게임",
-      "developer": "Bigcool Limited",
-      "icon": "https://play-lh.googleusercontent.com/a9bLu7U6mOvz6HMnwE6mwOEmsqAWN9Yo4CYnjvusTYbQjkUiYXSOnXVYAyE-xXkIJvwPzSwVOlJHR9CGP42SYeo",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.tasty&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-21",
       "isGame": true
     },
     {
