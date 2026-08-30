@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:21:15.713Z",
+  "updatedAt": "2026-08-30T20:57:57.451Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1732,9 +1732,29 @@
     "com.backflipstudios.android.dragonvale",
     "com.nvsgames.pt",
     "com.justdesserts.global",
-    "com.cww.laststronghold"
+    "com.cww.laststronghold",
+    "com.pool3d.eightball.classic.billiards",
+    "com.hermes.p6gameos"
   ],
   "items": [
+    {
+      "appId": "com.pool3d.eightball.classic.billiards",
+      "title": "클래식 풀 3D - 8볼",
+      "developer": "C.C.T Games",
+      "icon": "https://play-lh.googleusercontent.com/401_itRu07i8AkqC3I2mdcexto1tGyEtme2V0ZiFa6cOP3TzsegqKZ6NLIkk9Z-w-5AP9I1dy5k52GpietbThA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.pool3d.eightball.classic.billiards&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.hermes.p6gameos",
+      "title": "CoA: 아틀란의 크리스탈",
+      "developer": "Nuverse Games",
+      "icon": "https://play-lh.googleusercontent.com/aMDcx-jJ1g5LpJHe2Qvsn1-vrCsO3YDnXtrTQJcjJxnPTsuEZF34zDQpxqbJ76OhkWL3zh6Dskyz-slhN2yDQw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hermes.p6gameos&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-31",
+      "isGame": true
+    },
     {
       "appId": "com.justdesserts.global",
       "title": "치명적 달콤함: 리벤지&머지",
@@ -4919,24 +4939,6 @@
       "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=KR",
       "discoveredDate": "2026-06-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.bilibili.lumi.kr",
-      "title": "루미마스터",
-      "developer": "BILIBILI",
-      "icon": "https://play-lh.googleusercontent.com/0Ut8o7nest3uKxkovBhGDfjcPE4kHXHv2gCWZGGAah3J3fHhVB1rizvnnOOs7D0t_1IAiyX8j07D-K_N308Rdw",
-      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi.kr&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.blackhammer.kingdomsiege",
-      "title": "킹덤시즈",
-      "developer": "Black Hammer",
-      "icon": "https://play-lh.googleusercontent.com/n8Sx0l6yLJ8kXN6Ca-wJIAzbYMBZe1ltObZGNmNpSC7QzA9i7bd8EyBGom07sqD5QA2V0Badd3UgDwEGYmhI7A",
-      "url": "https://play.google.com/store/apps/details?id=com.blackhammer.kingdomsiege&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-21",
       "isGame": true
     },
     {
