@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:24:44.157Z",
+  "updatedAt": "2026-08-31T05:21:24.746Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1734,7 +1734,8 @@
     "com.justdesserts.global",
     "com.cww.laststronghold",
     "com.pool3d.eightball.classic.billiards",
-    "com.hermes.p6gameos"
+    "com.hermes.p6gameos",
+    "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
   ],
   "items": [
     {
@@ -1752,6 +1753,15 @@
       "developer": "Nuverse Games",
       "icon": "https://play-lh.googleusercontent.com/aMDcx-jJ1g5LpJHe2Qvsn1-vrCsO3YDnXtrTQJcjJxnPTsuEZF34zDQpxqbJ76OhkWL3zh6Dskyz-slhN2yDQw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.hermes.p6gameos&hl=ko&gl=KR",
+      "discoveredDate": "2026-08-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
+      "title": "Exile: Wasteland Survival PRO",
+      "developer": "Gem Jam",
+      "icon": "https://play-lh.googleusercontent.com/0qT0ThqFSQG9fzX-wV4VqFfPmkH_Bc7rd3ujwxDWaqyVvKaNHoqKLH5itokVDeWbRhq8MOQRz1TM_7HQiksPQQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert&hl=ko&gl=KR",
       "discoveredDate": "2026-08-31",
       "isGame": true
     },
@@ -4912,15 +4922,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZQbqCKdWg86k3HmeD3sZ2OiVoeaHhaqntQxBK8iE2x4seuZgyMZm8FGmZQZRfdzr7bdYpmyxDvGSNZItmu-p",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.foeandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-06-23",
-      "isGame": true
-    },
-    {
-      "appId": "rail.road.tycoon",
-      "title": "레일로드 엠파이어: 3D 기차 게임",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/hGpmpTQYa0oaCRAA8CVWXBpL3PoBFvqaindjtSaZpaZCvUDhXLum6qadU8S6NNIzb6QOfn4r051ctZ8Ss1zSJw",
-      "url": "https://play.google.com/store/apps/details?id=rail.road.tycoon&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-22",
       "isGame": true
     },
     {
