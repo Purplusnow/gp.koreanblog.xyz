@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:57:37.539Z",
+  "updatedAt": "2026-08-31T23:44:58.894Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1735,9 +1735,19 @@
     "com.cww.laststronghold",
     "com.pool3d.eightball.classic.billiards",
     "com.hermes.p6gameos",
-    "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
+    "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
+    "com.nvsgames.snap"
   ],
   "items": [
+    {
+      "appId": "com.nvsgames.snap",
+      "title": "마블스냅",
+      "developer": "Second Dinner",
+      "icon": "https://play-lh.googleusercontent.com/mvTNdrsMzaeieEWzy_ts9QnXlSi7SoAIBvJhpP1v-L7uOVwYPXTKI178--ffV1MPtZT6YWYiVQ7rAJz161-RGg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nvsgames.snap&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-01",
+      "isGame": true
+    },
     {
       "appId": "com.pool3d.eightball.classic.billiards",
       "title": "클래식 풀 3D - 8볼",
@@ -4922,15 +4932,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZQbqCKdWg86k3HmeD3sZ2OiVoeaHhaqntQxBK8iE2x4seuZgyMZm8FGmZQZRfdzr7bdYpmyxDvGSNZItmu-p",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.foeandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-06-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.generagames.deathtycoon",
-      "title": "Idle Death Tycoon: Money Inc.",
-      "developer": "Viva Games Studios",
-      "icon": "https://play-lh.googleusercontent.com/TRs8XiSU-DIKmY6ziEizqd-JAlSrtoZRWxXIxhSvmAnNQH-CoWV5Jc6dEStW9qXBzRgWiN6pSAkQs406lAe5sg",
-      "url": "https://play.google.com/store/apps/details?id=com.generagames.deathtycoon&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-22",
       "isGame": true
     },
     {
