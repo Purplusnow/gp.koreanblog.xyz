@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:29:14.582Z",
+  "updatedAt": "2026-09-02T14:21:31.421Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1736,9 +1736,19 @@
     "com.pool3d.eightball.classic.billiards",
     "com.hermes.p6gameos",
     "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
-    "com.nvsgames.snap"
+    "com.nvsgames.snap",
+    "com.ankama.dofustouch"
   ],
   "items": [
+    {
+      "appId": "com.ankama.dofustouch",
+      "title": "DOFUS Touch – 온라인 MMORPG",
+      "developer": "ANKAMA GAMES",
+      "icon": "https://play-lh.googleusercontent.com/ycNr_s-0DgMrZKd_xZqajxS7TqdN3JDcACsah-UjVCtJBBmVGLVZW3kgyg70iQydQ9obb45Z6VvNH4LkFdFt-A=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ankama.dofustouch&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-02",
+      "isGame": true
+    },
     {
       "appId": "com.nvsgames.snap",
       "title": "마블스냅",
@@ -4932,15 +4942,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZQbqCKdWg86k3HmeD3sZ2OiVoeaHhaqntQxBK8iE2x4seuZgyMZm8FGmZQZRfdzr7bdYpmyxDvGSNZItmu-p",
       "url": "https://play.google.com/store/apps/details?id=com.innogames.foeandroid&hl=ko&gl=KR",
       "discoveredDate": "2026-06-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.sol",
-      "title": "SOL: enchant",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-22",
       "isGame": true
     },
     {
