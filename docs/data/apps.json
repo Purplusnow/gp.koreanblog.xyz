@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:32:35.980Z",
+  "updatedAt": "2026-09-03T21:39:35.026Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1737,9 +1737,19 @@
     "com.hermes.p6gameos",
     "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
     "com.nvsgames.snap",
-    "com.ankama.dofustouch"
+    "com.ankama.dofustouch",
+    "com.netflix.NGP.BloonsTDSix"
   ],
   "items": [
+    {
+      "appId": "com.netflix.NGP.BloonsTDSix",
+      "title": "블룬스 TD 6 NETFLIX",
+      "developer": "Netflix, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/3a85dIAqyfTjxeGDeyJkXNgFvY6CIT8w9Ms4Gfmt4XYttEDuK4mVHwIpyCzsn-FXe2D-dQ6G1dDbTUmEbmzsK5k=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.BloonsTDSix&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
     {
       "appId": "com.ankama.dofustouch",
       "title": "DOFUS Touch – 온라인 MMORPG",
@@ -4915,15 +4925,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZpG04kxiovV6wwDQWdkABE2ngg24n1S6elOjyTt6jX69j-LQtKeSwy5y09Wy8hdmnXIG6QRuuB_vMbhOvvHJtA",
       "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland5&hl=ko&gl=KR",
       "discoveredDate": "2026-06-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.ahaworld.ahaworld",
-      "title": "Aha World: Doll World Games",
-      "developer": "IHUMAN (SG) PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/gUi6HZcJWwdgw_Nb2cmZP4CHr4773wanX77QwZ1GX6ZsZsS-zkLUzjsctQdv64lVCZ-ERn1wMa_aLoMqaR-T",
-      "url": "https://play.google.com/store/apps/details?id=com.ahaworld.ahaworld&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-23",
       "isGame": true
     },
     {
