@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:05:14.891Z",
+  "updatedAt": "2026-09-04T04:19:45.601Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1738,7 +1738,11 @@
     "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
     "com.nvsgames.snap",
     "com.ankama.dofustouch",
-    "com.netflix.NGP.BloonsTDSix"
+    "com.netflix.NGP.BloonsTDSix",
+    "com.boddle.learning",
+    "com.fluffydrop.op.gp",
+    "com.metaboneent.gauntletrpg",
+    "com.percent.aos.randomdice2"
   ],
   "items": [
     {
@@ -1747,6 +1751,42 @@
       "developer": "Netflix, Inc.",
       "icon": "https://play-lh.googleusercontent.com/3a85dIAqyfTjxeGDeyJkXNgFvY6CIT8w9Ms4Gfmt4XYttEDuK4mVHwIpyCzsn-FXe2D-dQ6G1dDbTUmEbmzsK5k=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.BloonsTDSix&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.boddle.learning",
+      "title": "Boddle: Math & Reading Game",
+      "developer": "Boddle",
+      "icon": "https://play-lh.googleusercontent.com/cLAzBcnYAoq9LMCOJbFRWXMF3M_C9UdYAiw4aCZ_VTr8W85-29tHLLIkuqbFV3xkOq93GUWjaFOfSsnakE6_Ew=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.boddle.learning&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.fluffydrop.op.gp",
+      "title": "Fluffy Drop",
+      "developer": "UniRise Studio",
+      "icon": "https://play-lh.googleusercontent.com/0QHOk-3WigsO1NrQJ7KavpFz_fBYRlj01DUt7uoQawX2E8XjLyQVUlxMWGNfasdXR-xUFjHAESZE3arrr89HVw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fluffydrop.op.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.metaboneent.gauntletrpg",
+      "title": "건틀렛: 신규 서버 오픈!",
+      "developer": "Metabone Entertainment Inc",
+      "icon": "https://play-lh.googleusercontent.com/I9suWjqvISpME9vvmLzM-XJnuCUusRsZfMuh3EQnAmlyfa-LLyehaA9rCrjNVd2TUQyHtDYr3OGmPiZ4h_0rgbQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.metaboneent.gauntletrpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.percent.aos.randomdice2",
+      "title": "랜덤 다이스 2",
+      "developer": "111%",
+      "icon": "https://play-lh.googleusercontent.com/tDu4SSslBXNMs_6YIaIieqWZqRo9ZKA1COJ-9SYsynQq04idDtP3fhv993r4Dhp05v2T3npcrTVJqvVfGMiTdw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.randomdice2&hl=ko&gl=KR",
       "discoveredDate": "2026-09-04",
       "isGame": true
     },
@@ -4892,24 +4932,6 @@
       "isGame": true
     },
     {
-      "appId": "com.ludia.dragons",
-      "title": "Dragons: 라이즈 오브 버크",
-      "developer": "Ludia Games Inc.",
-      "icon": "https://play-lh.googleusercontent.com/q68KIZzWv5b35GUhmdquXOjpi4rau1qfvN9ee9qlru-mDCVz_UWp8SI-ieK-CjYGr811LIqJmjFx7eR-XBKg6v8",
-      "url": "https://play.google.com/store/apps/details?id=com.ludia.dragons&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.denachina.g33002013.android",
-      "title": "슬램덩크",
-      "developer": "蝌蚪互動娛樂科技有限公司",
-      "icon": "https://play-lh.googleusercontent.com/WEoCDO6T-qNw1LiBd2YkIeTl0Url6ke0giKs9R2pnZkCL8sowluyvqudKCRzKzs_ZETh-lSmZpsCknoV3zwtkFs",
-      "url": "https://play.google.com/store/apps/details?id=com.denachina.g33002013.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-24",
-      "isGame": true
-    },
-    {
       "appId": "com.iterationone.nightclubtycoon",
       "title": "방치형 클럽 제국: Nightclub Tycoon",
       "developer": "Iteration One GmbH",
@@ -4925,24 +4947,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZpG04kxiovV6wwDQWdkABE2ngg24n1S6elOjyTt6jX69j-LQtKeSwy5y09Wy8hdmnXIG6QRuuB_vMbhOvvHJtA",
       "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland5&hl=ko&gl=KR",
       "discoveredDate": "2026-06-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.rarebyte.emop",
-      "title": "EMERGENCY Operator - Call 911",
-      "developer": "16tons entertainment",
-      "icon": "https://play-lh.googleusercontent.com/2Z2yaz1S9XAfG7svHx2hNiOR2vo6rj8j4-pqdR7LMES6fvOSAv5WbORajJWg5h3imR47zkq-HpFgfvCiNQOcEA",
-      "url": "https://play.google.com/store/apps/details?id=com.rarebyte.emop&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.innogames.foeandroid",
-      "title": "Forge of Empires: Build a City",
-      "developer": "InnoGames GmbH",
-      "icon": "https://play-lh.googleusercontent.com/ZQbqCKdWg86k3HmeD3sZ2OiVoeaHhaqntQxBK8iE2x4seuZgyMZm8FGmZQZRfdzr7bdYpmyxDvGSNZItmu-p",
-      "url": "https://play.google.com/store/apps/details?id=com.innogames.foeandroid&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-23",
       "isGame": true
     },
     {
