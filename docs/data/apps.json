@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:19:45.601Z",
+  "updatedAt": "2026-09-04T09:38:11.662Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1742,7 +1742,9 @@
     "com.boddle.learning",
     "com.fluffydrop.op.gp",
     "com.metaboneent.gauntletrpg",
-    "com.percent.aos.randomdice2"
+    "com.percent.aos.randomdice2",
+    "com.matchington.mansion",
+    "com.cookie.match3.casual"
   ],
   "items": [
     {
@@ -1787,6 +1789,24 @@
       "developer": "111%",
       "icon": "https://play-lh.googleusercontent.com/tDu4SSslBXNMs_6YIaIieqWZqRo9ZKA1COJ-9SYsynQq04idDtP3fhv993r4Dhp05v2T3npcrTVJqvVfGMiTdw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.percent.aos.randomdice2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.matchington.mansion",
+      "title": "행복의 저택",
+      "developer": "Magic Tavern, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/f5YBGVWU3t8-DFrBZVVym563gHxH-mw35ju9dJk8niMaNl7WFou7IN5KBjWHXBCN_WMu5ZzkGk29BczyJbv0=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.matchington.mansion&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookie.match3.casual",
+      "title": "Dream Family - 매치 3 게임",
+      "developer": "Playflux",
+      "icon": "https://play-lh.googleusercontent.com/5x_S27RGRbS5liTb2yTukAs1tUu2Rgb5633ZdLPt4G9c_9hgrd9MrA_UpBMpgE09C7ttMKkK0teI6Ol83VNgzA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.cookie.match3.casual&hl=ko&gl=KR",
       "discoveredDate": "2026-09-04",
       "isGame": true
     },
@@ -4929,24 +4949,6 @@
       "icon": "https://play-lh.googleusercontent.com/Hsa5Laxf7iXxPeMsjKEPt1KCMzCdnvq-jOP6Rk5Cb_NrNx4td_pGgYPVlfVMaE8atp5rtHDZTUAxHfxyJ0MMIA",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.bnsmkr&hl=ko&gl=KR",
       "discoveredDate": "2026-06-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.iterationone.nightclubtycoon",
-      "title": "방치형 클럽 제국: Nightclub Tycoon",
-      "developer": "Iteration One GmbH",
-      "icon": "https://play-lh.googleusercontent.com/jxSD4C6BHBkHvXrJVlQEx_JcIcs-Cc7EjKN4rlCgElDiYxSZJNbR4iP7-FKlDuActhl9W5jnsRAclBhUkwgCUg",
-      "url": "https://play.google.com/store/apps/details?id=com.iterationone.nightclubtycoon&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparklingsociety.cityisland5",
-      "title": "City Island 5 - 건물 시뮬레이터",
-      "developer": "Sparkling Society - Build Town City Building Games",
-      "icon": "https://play-lh.googleusercontent.com/ZpG04kxiovV6wwDQWdkABE2ngg24n1S6elOjyTt6jX69j-LQtKeSwy5y09Wy8hdmnXIG6QRuuB_vMbhOvvHJtA",
-      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland5&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-24",
       "isGame": true
     },
     {
