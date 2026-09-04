@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:18:17.145Z",
+  "updatedAt": "2026-09-04T21:22:21.749Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1746,7 +1746,9 @@
     "com.matchington.mansion",
     "com.cookie.match3.casual",
     "com.rbx.wildwestcity.android",
-    "com.moayong.google"
+    "com.moayong.google",
+    "com.playmotional.survival",
+    "com.zombie.idleminertycoon"
   ],
   "items": [
     {
@@ -1755,6 +1757,24 @@
       "developer": "엔트릴게임즈",
       "icon": "https://play-lh.googleusercontent.com/F2eeXYDsLIRw9n5x_JK2nHM-ROYD9z31wak8FVmECawT2qab6etO9BD8rlY2Lw8mdZiszwhY_6_y1yurs7TD2Q=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.moayong.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.playmotional.survival",
+      "title": "Zombastic: 좀비 서바이벌",
+      "developer": "Playmotional Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/20dUZOb7Y59u4NkSHTNzdt9OLCDYpf7HOmYHPuLtgHZ5McgfA28qO6BgYCHkOSq2f-dp8Y9XxUXLS8h-FiFIig=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playmotional.survival&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.zombie.idleminertycoon",
+      "title": "좀비 광산타이쿤, 금광 방치형 어드벤처 게임 Idle",
+      "developer": "Royal Ark",
+      "icon": "https://play-lh.googleusercontent.com/nbiHSW5DaCqbS-4o0d2k6mHJGsn2_tAGP0luT3kJqv-uWZz0bVu-7C_JawzM23_ETBhPjcuy_P6NJCb2gJW7_A=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.zombie.idleminertycoon&hl=ko&gl=KR",
       "discoveredDate": "2026-09-05",
       "isGame": true
     },
@@ -4915,24 +4935,6 @@
       "icon": "https://play-lh.googleusercontent.com/6XsjBymOKDDbYfYXbnhh1b1HdPEvG9tMNMVPSFK9JJGmr8o5OabH_58QSNpGDMXEVsl9oMErUj9T2Ftz9DWZkg",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.saoifww&hl=ko&gl=KR",
       "discoveredDate": "2026-06-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.tfgco.apps.coloring.free.color.by.number",
-      "title": "숫자별로 색칠하기: 픽셀 색칠 게임",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/LEpaZUt5zwmzZnIy5PG8x_-pygwO-B8g2E7EYIcQBs9bkVoLVRyCDuts_VVy-BxiULLL-6BPn5pOgZ_9RWE7",
-      "url": "https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.innogames.sunrisevillage",
-      "title": "Sunrise Village",
-      "developer": "InnoGames GmbH",
-      "icon": "https://play-lh.googleusercontent.com/6i4ATWSidBT833v25CtavQ7JQT3UIqMm3N_yDjNpOVRFmZU6fAuK36I22MbClEV6opPiQNFm9uHXe0yjxypf",
-      "url": "https://play.google.com/store/apps/details?id=com.innogames.sunrisevillage&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-25",
       "isGame": true
     },
     {
