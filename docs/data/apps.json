@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T09:38:11.662Z",
+  "updatedAt": "2026-09-04T14:14:25.869Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1744,7 +1744,8 @@
     "com.metaboneent.gauntletrpg",
     "com.percent.aos.randomdice2",
     "com.matchington.mansion",
-    "com.cookie.match3.casual"
+    "com.cookie.match3.casual",
+    "com.rbx.wildwestcity.android"
   ],
   "items": [
     {
@@ -1807,6 +1808,15 @@
       "developer": "Playflux",
       "icon": "https://play-lh.googleusercontent.com/5x_S27RGRbS5liTb2yTukAs1tUu2Rgb5633ZdLPt4G9c_9hgrd9MrA_UpBMpgE09C7ttMKkK0teI6Ol83VNgzA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.cookie.match3.casual&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.rbx.wildwestcity.android",
+      "title": "Wild West City: Building Sim",
+      "developer": "RED BRIX COMPUTER SYSTEMS",
+      "icon": "https://play-lh.googleusercontent.com/ycBVRKg2Iid5JSZg7B1qZuahcGGghsLkLZMAyanohqKr4f1IbT7UmzxXn5VVoDnh4Mp_D0RTeMR_Y6lLdpdhAA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rbx.wildwestcity.android&hl=ko&gl=KR",
       "discoveredDate": "2026-09-04",
       "isGame": true
     },
@@ -4895,15 +4905,6 @@
       "icon": "https://play-lh.googleusercontent.com/6XsjBymOKDDbYfYXbnhh1b1HdPEvG9tMNMVPSFK9JJGmr8o5OabH_58QSNpGDMXEVsl9oMErUj9T2Ftz9DWZkg",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.saoifww&hl=ko&gl=KR",
       "discoveredDate": "2026-06-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.smartfunapps.crazyhospital",
-      "title": "Crazy Hospital®️",
-      "developer": "Smart Fun Casual Games",
-      "icon": "https://play-lh.googleusercontent.com/SNI7Xob9oYicmf7UXvxt2hvHHM4nxAKZcmBFF2PqBpxbGP8ED1hUbYlYaramIti9gNQVOVtrbIltyyBef2u6W8Q",
-      "url": "https://play.google.com/store/apps/details?id=com.smartfunapps.crazyhospital&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-25",
       "isGame": true
     },
     {
