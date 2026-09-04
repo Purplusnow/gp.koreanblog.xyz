@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T14:14:25.869Z",
+  "updatedAt": "2026-09-04T18:18:17.145Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1745,9 +1745,19 @@
     "com.percent.aos.randomdice2",
     "com.matchington.mansion",
     "com.cookie.match3.casual",
-    "com.rbx.wildwestcity.android"
+    "com.rbx.wildwestcity.android",
+    "com.moayong.google"
   ],
   "items": [
+    {
+      "appId": "com.moayong.google",
+      "title": "모아용: SSS급 영웅 지급 중!",
+      "developer": "엔트릴게임즈",
+      "icon": "https://play-lh.googleusercontent.com/F2eeXYDsLIRw9n5x_JK2nHM-ROYD9z31wak8FVmECawT2qab6etO9BD8rlY2Lw8mdZiszwhY_6_y1yurs7TD2Q=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.moayong.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
     {
       "appId": "com.netflix.NGP.BloonsTDSix",
       "title": "블룬스 TD 6 NETFLIX",
@@ -4905,15 +4915,6 @@
       "icon": "https://play-lh.googleusercontent.com/6XsjBymOKDDbYfYXbnhh1b1HdPEvG9tMNMVPSFK9JJGmr8o5OabH_58QSNpGDMXEVsl9oMErUj9T2Ftz9DWZkg",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.saoifww&hl=ko&gl=KR",
       "discoveredDate": "2026-06-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.raven2",
-      "title": "레이븐2",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/hEsBJTaH7At6ftH03ozxXvBxaeIVN_lAdlBIFGZJj-Yhozr7lDJtw4CAPvckCrw1elZZ3dVxx3mVpc7L7uy5_XY",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.raven2&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-25",
       "isGame": true
     },
     {
