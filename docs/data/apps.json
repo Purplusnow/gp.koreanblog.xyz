@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:58:01.294Z",
+  "updatedAt": "2026-09-05T12:36:26.314Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1748,7 +1748,12 @@
     "com.rbx.wildwestcity.android",
     "com.moayong.google",
     "com.playmotional.survival",
-    "com.zombie.idleminertycoon"
+    "com.zombie.idleminertycoon",
+    "com.kakaogames.hodoo",
+    "com.Friedemann.SlotsAndDaggers",
+    "com.dreamplay.legendofwitch.google",
+    "where.my.seat.taken.logic.puzzle.brain.mind",
+    "com.sorting.games.match3d.goods.triple.puzzle"
   ],
   "items": [
     {
@@ -1775,6 +1780,51 @@
       "developer": "Royal Ark",
       "icon": "https://play-lh.googleusercontent.com/nbiHSW5DaCqbS-4o0d2k6mHJGsn2_tAGP0luT3kJqv-uWZz0bVu-7C_JawzM23_ETBhPjcuy_P6NJCb2gJW7_A=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.zombie.idleminertycoon&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.kakaogames.hodoo",
+      "title": "오늘두호두-날마다 두뇌 트레이닝",
+      "developer": "Kakao Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/42x2mZQkDNKCVDXeSFo5yt0x0KXZJWMn-FeGVrIYyQK0CROlZWoRpJtDtY--yWrXpgLpQd5V3mEy1PYewsxZMQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.hodoo&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.Friedemann.SlotsAndDaggers",
+      "title": "Slots & Daggers",
+      "developer": "Future Friends Games",
+      "icon": "https://play-lh.googleusercontent.com/0QRRhUbNzRl5AummI5bC5zyCCV_n-RH4iJyrhMp6O1KFn-r0FHrUR5DtTJR2m39PQnYdXbaWgv4cCfKtx5aB4A=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.Friedemann.SlotsAndDaggers&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.dreamplay.legendofwitch.google",
+      "title": "수습마녀 성장기",
+      "developer": "Dreamplay Games",
+      "icon": "https://play-lh.googleusercontent.com/2pNPctyRMo-v4F6579_22UsSePpDnONFa6ni3-_sIR4lv3bXwz5nEvm7CCwnMekpPOhPgmIFUziFKndpTIiI=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamplay.legendofwitch.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "where.my.seat.taken.logic.puzzle.brain.mind",
+      "title": "Where's My Seat? – 논리 퍼즐",
+      "developer": "Smartmove Global",
+      "icon": "https://play-lh.googleusercontent.com/AcwLQHuFVhzN9vmjurP4PhmWKikpZIOXFr4htWcgaoFJWLwL-oCFtGEKUvPpj5QvHgqb6ncJRJjT9VbVD0xNRg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=where.my.seat.taken.logic.puzzle.brain.mind&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.sorting.games.match3d.goods.triple.puzzle",
+      "title": "상품 매칭 정리 게임: Goods Matching 3D",
+      "developer": "Pleasure City",
+      "icon": "https://play-lh.googleusercontent.com/XNbBzbCDqNNudZJjzj0GzGWkfBMSg1puQi0o8tiuB9NmaR0RMDjdtznlpT02QJMt4roCKwMhVamTZu-XzlI-rQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.sorting.games.match3d.goods.triple.puzzle&hl=ko&gl=KR",
       "discoveredDate": "2026-09-05",
       "isGame": true
     },
@@ -4908,51 +4958,6 @@
       "icon": "https://play-lh.googleusercontent.com/IkLKrHCA4z_3lYS6Sc_Qb31ti1_dS4z2OJFszYzjnG4K6IGlELTE_x3NDQ0mwKKn14yStbSrqJkHOfsJZCo2",
       "url": "https://play.google.com/store/apps/details?id=com.erepubliklabs.warandpeace&hl=ko&gl=KR",
       "discoveredDate": "2026-06-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.panteon.arcanearena",
-      "title": "아케인 아레나: 타워 디펜스",
-      "developer": "Panteon",
-      "icon": "https://play-lh.googleusercontent.com/MDhjuPeguw-_GAZCRYObZ5eMx8JSjEIJ_iX0tyUwXcGOQaWgF8nMbtfQttSv_1L3Uvd3iWjTcqliUBpj7S3WQzY",
-      "url": "https://play.google.com/store/apps/details?id=com.panteon.arcanearena&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.hybeim.puzzle17",
-      "title": "퍼즐 세븐틴 Puzzle SEVENTEEN",
-      "developer": "DRIMAGE",
-      "icon": "https://play-lh.googleusercontent.com/kf8VwqISyg2vbT6JhKRjJJ5mgkwoMVWcupNtQ8ZguIz3ASK8Bl4dgfh1x4gH8BMIe9UNA_iK98qPzhPZ1CtsCZw",
-      "url": "https://play.google.com/store/apps/details?id=com.hybeim.puzzle17&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.bandainamcoent.saoifww",
-      "title": "소드 아트 온라인 인테그럴 팩터 - MMORPG",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/6XsjBymOKDDbYfYXbnhh1b1HdPEvG9tMNMVPSFK9JJGmr8o5OabH_58QSNpGDMXEVsl9oMErUj9T2Ftz9DWZkg",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.saoifww&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.noxgames.hex.polis.civilization.empire",
-      "title": "Hexapolis: 중세 문명",
-      "developer": "NOXGAMES",
-      "icon": "https://play-lh.googleusercontent.com/FzYa4-RDCOoD8hPBa4sbi8ERfvKM4pbU1Ex_YDWO3T3viXmdZcqj_QzvRZ0w4b61r6EP3f5T5PkuJVjn7hZLp3I",
-      "url": "https://play.google.com/store/apps/details?id=com.noxgames.hex.polis.civilization.empire&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.bnsmkr",
-      "title": "블레이드&소울 레볼루션",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/Hsa5Laxf7iXxPeMsjKEPt1KCMzCdnvq-jOP6Rk5Cb_NrNx4td_pGgYPVlfVMaE8atp5rtHDZTUAxHfxyJ0MMIA",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.bnsmkr&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-25",
       "isGame": true
     },
     {
