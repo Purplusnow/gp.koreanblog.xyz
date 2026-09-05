@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:09:52.705Z",
+  "updatedAt": "2026-09-05T21:07:28.049Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1753,9 +1753,19 @@
     "com.Friedemann.SlotsAndDaggers",
     "com.dreamplay.legendofwitch.google",
     "where.my.seat.taken.logic.puzzle.brain.mind",
-    "com.sorting.games.match3d.goods.triple.puzzle"
+    "com.sorting.games.match3d.goods.triple.puzzle",
+    "com.olzhas.carparking.multyplayer2"
   ],
   "items": [
+    {
+      "appId": "com.olzhas.carparking.multyplayer2",
+      "title": "Car Parking Multiplayer 2",
+      "developer": "olzhass",
+      "icon": "https://play-lh.googleusercontent.com/oCYZs3vR72j0dAo2K2Q7PPQuYg_q_GRUfqwBgWX_tVgh4j4yODpc-JIJUEoe5P5nKZjHDm17Wh1ANNAi6pevWg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-06",
+      "isGame": true
+    },
     {
       "appId": "com.moayong.google",
       "title": "모아용: SSS급 영웅 지급 중!",
@@ -4931,15 +4941,6 @@
       "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
       "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ko&gl=KR",
       "discoveredDate": "2026-06-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.dopuz.klotski.riddle",
-      "title": "Numpuz: 클래식 넘버 게임, 넘버 리들 퍼즐",
-      "developer": "HDuo Fun Games",
-      "icon": "https://play-lh.googleusercontent.com/XH2x16mxQvGMrkj32Aik9ikQLwUcWdQ6qD2xqDjXVg4Bt7hb8U2jBo_39Ul3J1vOQzaOJfoppOdGH3HgwP7K",
-      "url": "https://play.google.com/store/apps/details?id=com.dopuz.klotski.riddle&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-27",
       "isGame": true
     },
     {
