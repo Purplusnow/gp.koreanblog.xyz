@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:25:04.988Z",
+  "updatedAt": "2026-09-06T09:18:50.183Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1754,7 +1754,8 @@
     "com.dreamplay.legendofwitch.google",
     "where.my.seat.taken.logic.puzzle.brain.mind",
     "com.sorting.games.match3d.goods.triple.puzzle",
-    "com.olzhas.carparking.multyplayer2"
+    "com.olzhas.carparking.multyplayer2",
+    "com.tripledot.woodoku"
   ],
   "items": [
     {
@@ -1763,6 +1764,15 @@
       "developer": "olzhass",
       "icon": "https://play-lh.googleusercontent.com/oCYZs3vR72j0dAo2K2Q7PPQuYg_q_GRUfqwBgWX_tVgh4j4yODpc-JIJUEoe5P5nKZjHDm17Wh1ANNAi6pevWg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.tripledot.woodoku",
+      "title": "Woodoku: 우도쿠 - 나무 블록 퍼즐",
+      "developer": "Tripledot Studios Limited",
+      "icon": "https://play-lh.googleusercontent.com/QWflgedlzY0S8hge-qkheZ2ebcCbDqjJIh8W-iMC1GJquk3XsFGcdbsVdEl6XmhNjjbImT-P6Y31ONXWYOoY=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tripledot.woodoku&hl=ko&gl=KR",
       "discoveredDate": "2026-09-06",
       "isGame": true
     },
@@ -4941,15 +4951,6 @@
       "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
       "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ko&gl=KR",
       "discoveredDate": "2026-06-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.bilibili.sirius",
-      "title": "뱅드림! 아워 노트",
-      "developer": "BILIBILI",
-      "icon": "https://play-lh.googleusercontent.com/x5UGYtRnHIaRUXNmuE-lhqNmtCRPgZSjrfnwOVoZY8nU9K_WXnUnax1qCyGxuXyKKvn5liEM1wJ5rvZAhXDbSQ",
-      "url": "https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-27",
       "isGame": true
     },
     {
