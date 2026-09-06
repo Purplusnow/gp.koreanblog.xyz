@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:18:50.183Z",
+  "updatedAt": "2026-09-06T13:35:23.617Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1755,7 +1755,8 @@
     "where.my.seat.taken.logic.puzzle.brain.mind",
     "com.sorting.games.match3d.goods.triple.puzzle",
     "com.olzhas.carparking.multyplayer2",
-    "com.tripledot.woodoku"
+    "com.tripledot.woodoku",
+    "com.droidhang.ih.android.google.tw"
   ],
   "items": [
     {
@@ -1773,6 +1774,15 @@
       "developer": "Tripledot Studios Limited",
       "icon": "https://play-lh.googleusercontent.com/QWflgedlzY0S8hge-qkheZ2ebcCbDqjJIh8W-iMC1GJquk3XsFGcdbsVdEl6XmhNjjbImT-P6Y31ONXWYOoY=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.tripledot.woodoku&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.droidhang.ih.android.google.tw",
+      "title": "I.M.신화",
+      "developer": "DHGAMES",
+      "icon": "https://play-lh.googleusercontent.com/zDqC4PZFAMUQ-Qq2Fd0BkJnmp8uGaPmm0f-h2oVyVz1Oh4kYoyw3DgL6QOCwjURuCs0BW5TiGLuKrQIMKPWNZA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.droidhang.ih.android.google.tw&hl=ko&gl=KR",
       "discoveredDate": "2026-09-06",
       "isGame": true
     },
@@ -4951,15 +4961,6 @@
       "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
       "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ko&gl=KR",
       "discoveredDate": "2026-06-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.erepubliklabs.warandpeace",
-      "title": "전쟁과 평화 : 에픽 남북 전쟁에서 군대 건설",
-      "developer": "Erepublik Labs",
-      "icon": "https://play-lh.googleusercontent.com/IkLKrHCA4z_3lYS6Sc_Qb31ti1_dS4z2OJFszYzjnG4K6IGlELTE_x3NDQ0mwKKn14yStbSrqJkHOfsJZCo2",
-      "url": "https://play.google.com/store/apps/details?id=com.erepubliklabs.warandpeace&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-27",
       "isGame": true
     },
     {
