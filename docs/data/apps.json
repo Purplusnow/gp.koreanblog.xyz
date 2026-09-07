@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:46:02.122Z",
+  "updatedAt": "2026-09-07T04:23:56.217Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1756,9 +1756,19 @@
     "com.sorting.games.match3d.goods.triple.puzzle",
     "com.olzhas.carparking.multyplayer2",
     "com.tripledot.woodoku",
-    "com.droidhang.ih.android.google.tw"
+    "com.droidhang.ih.android.google.tw",
+    "com.playagames.shakesfidget"
   ],
   "items": [
+    {
+      "appId": "com.playagames.shakesfidget",
+      "title": "Shakes & Fidget - Fantasy MMO",
+      "developer": "Playa Games",
+      "icon": "https://play-lh.googleusercontent.com/YEXEPY1mdYG8Yxp73ypYn453ZoT3P7X-yhgCjWRnin3BK-aPF5GesaGMNEbmI-3-wrc8UJd-DzoZCkgMYU7fN2w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playagames.shakesfidget&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-07",
+      "isGame": true
+    },
     {
       "appId": "com.olzhas.carparking.multyplayer2",
       "title": "Car Parking Multiplayer 2",
@@ -4943,15 +4953,6 @@
       "icon": "https://play-lh.googleusercontent.com/e6iawDzUYDp2qmFkjRZ7zHuy2GIiiqn8A2nKC_fiGXMfqMtsysiP3j23y3RjzLyem-FHiCW-oi5nzqm7lT3u",
       "url": "https://play.google.com/store/apps/details?id=com.notdoppler.earntodierogue&hl=ko&gl=KR",
       "discoveredDate": "2026-06-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.tortuga.ava.sim.avaland.tale",
-      "title": "Avaland: Metaverse Life Sim 3D",
-      "developer": "LeadApp",
-      "icon": "https://play-lh.googleusercontent.com/pJ0t4rRdkotuDmkaVc8ThR52_CmiY5GW8gm343HB6DxLwW4_-4DQUX3QXl0izJNevgw-EhNmLtuMeoJAvT61",
-      "url": "https://play.google.com/store/apps/details?id=com.tortuga.ava.sim.avaland.tale&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-28",
       "isGame": true
     },
     {
