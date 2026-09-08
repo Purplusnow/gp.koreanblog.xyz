@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:33:04.134Z",
+  "updatedAt": "2026-09-08T14:24:19.138Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1759,7 +1759,9 @@
     "com.droidhang.ih.android.google.tw",
     "com.playagames.shakesfidget",
     "com.iyagames.flotshelter",
-    "com.cookapps.catshinobi"
+    "com.cookapps.catshinobi",
+    "com.pockethaven.roguelegend",
+    "com.s01.global"
   ],
   "items": [
     {
@@ -1777,6 +1779,24 @@
       "developer": "CookApps",
       "icon": "https://play-lh.googleusercontent.com/2IEt_OcRFv3gttmXgvxme07WrDDkUorCqQkyok2OqaknMXHSH70qNBs624lBUGXc_wjP4f70qGySaYMls05t=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.catshinobi&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.pockethaven.roguelegend",
+      "title": "로그 레전드: 로그라이크 RPG",
+      "developer": "PocketHaven",
+      "icon": "https://play-lh.googleusercontent.com/TJ2J_Xl-hXJ-067S_bG981LQgc1DbRAR3dCLATZ_ovXtB_Pj3yhxB2peGFMj2oD-iay-RxH0JKoT2ILjcPtT3aU=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.pockethaven.roguelegend&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.s01.global",
+      "title": "로드러쉬",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/4_JTVfSvadb3P01izF2fL47w183NO4oqje4gtwZIKf05-iCu9SI7ldG8vYfGZFpbN_-wXMWVexolzqqZqzJKWg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.s01.global&hl=ko&gl=KR",
       "discoveredDate": "2026-09-08",
       "isGame": true
     },
@@ -4919,24 +4939,6 @@
       "icon": "https://play-lh.googleusercontent.com/nKSaT9V73OUz2v5Yu9RFNZOniZaTJuop5-2qYBSsi-nz7jootq2IQGIJ-4ubPt4nLKI4ZASCguVqvrnr6_K77A",
       "url": "https://play.google.com/store/apps/details?id=com.tapanywhere.lootheroes&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.runawayplay.splash",
-      "title": "Splash — Fish Aquarium",
-      "developer": "Runaway Play",
-      "icon": "https://play-lh.googleusercontent.com/sa4wpERjLgVzyd_p6iXWclFyKqMXrUQ_siyRZ8VKVmySYWRsehabhQ8AP6RGXPqEzNpNLujER9eHVgIMwPXmFCc",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.splash&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.chillgaming.combatquest",
-      "title": "컴뱃 퀘스트 - 궁수의 전설! 로그라이크 롤플레잉 게임",
-      "developer": "ChillBase",
-      "icon": "https://play-lh.googleusercontent.com/4iRGXynb21wzdRKtqV6zk0kzNYwHY5r6D62CU9teXAcvYlkFRxiZTd4cZhZAUxaG7NIUg4hY44gX_Ys67kUlaA",
-      "url": "https://play.google.com/store/apps/details?id=com.chillgaming.combatquest&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-29",
       "isGame": true
     },
     {
