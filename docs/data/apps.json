@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:32:11.611Z",
+  "updatedAt": "2026-09-08T21:46:56.885Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1762,7 +1762,9 @@
     "com.cookapps.catshinobi",
     "com.pockethaven.roguelegend",
     "com.s01.global",
-    "com.gramgames.mergemagic"
+    "com.gramgames.mergemagic",
+    "com.nitrogames.autoblaster",
+    "com.hypgames.sniperbattle"
   ],
   "items": [
     {
@@ -1771,6 +1773,24 @@
       "developer": "Gram Games Limited",
       "icon": "https://play-lh.googleusercontent.com/o6zPagRBvdaeZgdqpTxeG5FLB3jr3J0T927jTVXvMk8muntanrzZDuDmHO7VY0LtQAu7-0SZ9LbMdaA1X8dq=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.gramgames.mergemagic&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.nitrogames.autoblaster",
+      "title": "오토 건 히어로즈: 런 앤 건",
+      "developer": "Hyperkani",
+      "icon": "https://play-lh.googleusercontent.com/EnY7wXkzBmxjZ3T4hmjsn3ZnmFGhlJeqVBGjhKFSfBKqkOvO6bvEb_obi2mOk1kiln9WaRX6qT9WoffPhLdzHJk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nitrogames.autoblaster&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.hypgames.sniperbattle",
+      "title": "Sniper Battle: 3D 전장 슈팅",
+      "developer": "HypGames.",
+      "icon": "https://play-lh.googleusercontent.com/mcIIbm7yBXgF_aX-2h23mb4BkWy5DWfx-dAvEOVZ-50c5FRahHW11RsUT9CoYOHQxgDsvWWkMzET6cA9aPpUtw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hypgames.sniperbattle&hl=ko&gl=KR",
       "discoveredDate": "2026-09-09",
       "isGame": true
     },
@@ -4949,24 +4969,6 @@
       "icon": "https://play-lh.googleusercontent.com/nKSaT9V73OUz2v5Yu9RFNZOniZaTJuop5-2qYBSsi-nz7jootq2IQGIJ-4ubPt4nLKI4ZASCguVqvrnr6_K77A",
       "url": "https://play.google.com/store/apps/details?id=com.tapanywhere.lootheroes&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.fourdollars.dng",
-      "title": "GunzTower",
-      "developer": "Wemade Play Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/ZLA8pxJ9DeOWUCqsPoMuH8DzYyCe_FE7AeUsXDO0sYbc1q-rNAO07D_U5V1JDnUCTeUnXswyNoTng8yTFI2-",
-      "url": "https://play.google.com/store/apps/details?id=com.fourdollars.dng&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.notdoppler.earntodierogue",
-      "title": "Earn to Die Rogue",
-      "developer": "Not Doppler",
-      "icon": "https://play-lh.googleusercontent.com/e6iawDzUYDp2qmFkjRZ7zHuy2GIiiqn8A2nKC_fiGXMfqMtsysiP3j23y3RjzLyem-FHiCW-oi5nzqm7lT3u",
-      "url": "https://play.google.com/store/apps/details?id=com.notdoppler.earntodierogue&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-29",
       "isGame": true
     },
     {
