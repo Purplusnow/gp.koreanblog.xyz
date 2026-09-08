@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T14:24:19.138Z",
+  "updatedAt": "2026-09-08T18:32:11.611Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1761,9 +1761,19 @@
     "com.iyagames.flotshelter",
     "com.cookapps.catshinobi",
     "com.pockethaven.roguelegend",
-    "com.s01.global"
+    "com.s01.global",
+    "com.gramgames.mergemagic"
   ],
   "items": [
+    {
+      "appId": "com.gramgames.mergemagic",
+      "title": "Merge Magic!",
+      "developer": "Gram Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/o6zPagRBvdaeZgdqpTxeG5FLB3jr3J0T927jTVXvMk8muntanrzZDuDmHO7VY0LtQAu7-0SZ9LbMdaA1X8dq=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gramgames.mergemagic&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-09",
+      "isGame": true
+    },
     {
       "appId": "com.iyagames.flotshelter",
       "title": "아쿠아랜드: 크레이지 서바이벌",
@@ -4939,15 +4949,6 @@
       "icon": "https://play-lh.googleusercontent.com/nKSaT9V73OUz2v5Yu9RFNZOniZaTJuop5-2qYBSsi-nz7jootq2IQGIJ-4ubPt4nLKI4ZASCguVqvrnr6_K77A",
       "url": "https://play.google.com/store/apps/details?id=com.tapanywhere.lootheroes&hl=ko&gl=KR",
       "discoveredDate": "2026-06-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.hygame.ssfh.kr.gp",
-      "title": "여왕의 복수",
-      "developer": "SkyHorse",
-      "icon": "https://play-lh.googleusercontent.com/u01bN6Mgfm1kHDa_KzfJPuKH54G9WrEdth2x4I1YjNZLs66AkjEsAnxpfUvuL110MNH45YIUr4FAMsSQNJ_0l2Q",
-      "url": "https://play.google.com/store/apps/details?id=com.hygame.ssfh.kr.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-29",
       "isGame": true
     },
     {
