@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:23:57.724Z",
+  "updatedAt": "2026-09-08T09:33:04.134Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1757,9 +1757,29 @@
     "com.olzhas.carparking.multyplayer2",
     "com.tripledot.woodoku",
     "com.droidhang.ih.android.google.tw",
-    "com.playagames.shakesfidget"
+    "com.playagames.shakesfidget",
+    "com.iyagames.flotshelter",
+    "com.cookapps.catshinobi"
   ],
   "items": [
+    {
+      "appId": "com.iyagames.flotshelter",
+      "title": "아쿠아랜드: 크레이지 서바이벌",
+      "developer": "Hong Kong Just Game Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/eDxdGytER34b52oX4FB5m5AyCdQLjJEy9mzmI2lHfKs_a90-8TvK3TSKvafp1uetKZliECkGXPRTEOAeTGYDWg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.catshinobi",
+      "title": "냥냥 시노비 : 미소녀 닌자 로그라이크 디펜스 RPG",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/2IEt_OcRFv3gttmXgvxme07WrDDkUorCqQkyok2OqaknMXHSH70qNBs624lBUGXc_wjP4f70qGySaYMls05t=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.catshinobi&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-08",
+      "isGame": true
+    },
     {
       "appId": "com.playagames.shakesfidget",
       "title": "Shakes & Fidget - Fantasy MMO",
@@ -4902,15 +4922,6 @@
       "isGame": true
     },
     {
-      "appId": "com.mgame.ghostsoulm",
-      "title": "귀혼M",
-      "developer": "Mgame",
-      "icon": "https://play-lh.googleusercontent.com/Y3oWMbesCHYkD-pftlE_kLsUYWSjCV9ZourEC9vFquDjETKb3QXXnmvFNgIBrzurHqOnb7fEOIHwFI0MSwFrzKA",
-      "url": "https://play.google.com/store/apps/details?id=com.mgame.ghostsoulm&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-29",
-      "isGame": true
-    },
-    {
       "appId": "com.runawayplay.splash",
       "title": "Splash — Fish Aquarium",
       "developer": "Runaway Play",
@@ -4953,15 +4964,6 @@
       "icon": "https://play-lh.googleusercontent.com/e6iawDzUYDp2qmFkjRZ7zHuy2GIiiqn8A2nKC_fiGXMfqMtsysiP3j23y3RjzLyem-FHiCW-oi5nzqm7lT3u",
       "url": "https://play.google.com/store/apps/details?id=com.notdoppler.earntodierogue&hl=ko&gl=KR",
       "discoveredDate": "2026-06-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.unept.leveldevil",
-      "title": "Level Devil - NOT A Troll Game",
-      "developer": "Poki.com",
-      "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
-      "url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-28",
       "isGame": true
     },
     {
