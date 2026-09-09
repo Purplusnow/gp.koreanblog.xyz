@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:36:31.232Z",
+  "updatedAt": "2026-09-09T14:26:47.021Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1764,7 +1764,8 @@
     "com.s01.global",
     "com.gramgames.mergemagic",
     "com.nitrogames.autoblaster",
-    "com.hypgames.sniperbattle"
+    "com.hypgames.sniperbattle",
+    "com.tapanywhere.laseroverload"
   ],
   "items": [
     {
@@ -1791,6 +1792,15 @@
       "developer": "HypGames.",
       "icon": "https://play-lh.googleusercontent.com/mcIIbm7yBXgF_aX-2h23mb4BkWy5DWfx-dAvEOVZ-50c5FRahHW11RsUT9CoYOHQxgDsvWWkMzET6cA9aPpUtw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.hypgames.sniperbattle&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapanywhere.laseroverload",
+      "title": "Laser: 힐링과 만족감",
+      "developer": "Infinity Games, Lda",
+      "icon": "https://play-lh.googleusercontent.com/XMCmmAN9S7hvPJ62pqKri-YF-_Mn37nSJ0YrBxEQBmIwNzFHZ3jlLPIscP7n-Wa3A7iujcEinXUxYs3_9-oK=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tapanywhere.laseroverload&hl=ko&gl=KR",
       "discoveredDate": "2026-09-09",
       "isGame": true
     },
@@ -4888,15 +4898,6 @@
       "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
       "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "castle.heroes.tower.defense.kingdom.magic.battle.archer",
-      "title": "붐 캐슬: 생존형 마법 타워 디펜스",
-      "developer": "TERAHYPE - AR, GPS & Fantasy RPG + Casual Games",
-      "icon": "https://play-lh.googleusercontent.com/lxXrRjpJdD3BlbLL0HByKs_g0UnIRta5B3fxT7-R5mRqc1K5MnucJGtM1cNmnep9MosTBJIXNW1J3B_eRcxCnw",
-      "url": "https://play.google.com/store/apps/details?id=castle.heroes.tower.defense.kingdom.magic.battle.archer&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
       "isGame": true
     },
     {
