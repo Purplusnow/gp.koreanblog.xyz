@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:38:35.466Z",
+  "updatedAt": "2026-09-10T00:05:28.938Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1765,9 +1765,29 @@
     "com.gramgames.mergemagic",
     "com.nitrogames.autoblaster",
     "com.hypgames.sniperbattle",
-    "com.tapanywhere.laseroverload"
+    "com.tapanywhere.laseroverload",
+    "com.YoStarKR.StellaSora",
+    "com.silverstarstudio.angellegion"
   ],
   "items": [
+    {
+      "appId": "com.YoStarKR.StellaSora",
+      "title": "스텔라 소라",
+      "developer": "Yostar Limited.",
+      "icon": "https://play-lh.googleusercontent.com/aqZjlrME19vAqEFLLxMQJo8dT6UE2__5JF9zhXMlDwUanpHWZLynlbMdrqi1ce_gu1qnRu6uxodsQveyCuDJGVc=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.StellaSora&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.silverstarstudio.angellegion",
+      "title": "Angel Legion: 3D Hero Idle RPG",
+      "developer": "More Well Studio",
+      "icon": "https://play-lh.googleusercontent.com/kEQgUIv6maAYMf--GwAPVfLsbJLxfYA5kpOt6keRGdWH4QZtnideEbzGFyQUdb8rDMy15RQeIt0awGZQNOS8HxE=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.silverstarstudio.angellegion&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-10",
+      "isGame": true
+    },
     {
       "appId": "com.gramgames.mergemagic",
       "title": "Merge Magic!",
@@ -4898,24 +4918,6 @@
       "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
       "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.kabam.marvelbattle",
-      "title": "Marvel 올스타 배틀",
-      "developer": "Kabam Games, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/Qu9lyWmuzXotmEhWMckhfk4gUamTPNSjbcZGfrwE0N_qzltBKTyHdDqbcD9-HgRPD9vJCPrTQNOdAjKXZmZxKSY",
-      "url": "https://play.google.com/store/apps/details?id=com.kabam.marvelbattle&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.superplusgames.hosandroid",
-      "title": "힐즈 오브 스틸",
-      "developer": "Supercharge Mobile",
-      "icon": "https://play-lh.googleusercontent.com/9ASYwsEtTdsuK_-HIh3Z4QwznxHYHnxDqKHnLSfiWdeLq58pvxHuTWhzFt2FTabBeoxziMqv1hySJLzecpVt",
-      "url": "https://play.google.com/store/apps/details?id=com.superplusgames.hosandroid&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
       "isGame": true
     },
     {
