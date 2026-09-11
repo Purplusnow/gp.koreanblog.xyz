@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:08:37.182Z",
+  "updatedAt": "2026-09-11T16:22:11.463Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1769,9 +1769,19 @@
     "com.YoStarKR.StellaSora",
     "com.silverstarstudio.angellegion",
     "com.easybrain.brick.balls.blast",
-    "com.hyperbeard.catopia"
+    "com.hyperbeard.catopia",
+    "games.starberry.game4"
   ],
   "items": [
+    {
+      "appId": "games.starberry.game4",
+      "title": "Garden Getaway: Merge & Design",
+      "developer": "StarBerry Games",
+      "icon": "https://play-lh.googleusercontent.com/-yOI-FyJderhNWsOXj4-NYFHEgjqLoegyx4rSReK_lOGND9F3BKAFhgGAnAeHXAXlpYuA7nFDHJ6Z8UtsJeOUw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=games.starberry.game4&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-12",
+      "isGame": true
+    },
     {
       "appId": "com.easybrain.brick.balls.blast",
       "title": "Brick Blast - 벽돌깨기 공튀기기",
@@ -4938,15 +4948,6 @@
       "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
       "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.puzzlegames.merge.traveltown",
-      "title": "머지사랑 2",
-      "developer": "C.C.T Games",
-      "icon": "https://play-lh.googleusercontent.com/QYdyWfTJTz7P6qRy08ZMHL-mVG9cTIQ2S_-ZAi65ioZ0tLZTU43S6f_2W6lYsrrmFjSdKflk6VWtJEiZZTaLcw8",
-      "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.merge.traveltown&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
       "isGame": true
     },
     {
