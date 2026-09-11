@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T00:57:44.880Z",
+  "updatedAt": "2026-09-11T05:50:34.557Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1768,7 +1768,8 @@
     "com.tapanywhere.laseroverload",
     "com.YoStarKR.StellaSora",
     "com.silverstarstudio.angellegion",
-    "com.easybrain.brick.balls.blast"
+    "com.easybrain.brick.balls.blast",
+    "com.hyperbeard.catopia"
   ],
   "items": [
     {
@@ -1777,6 +1778,15 @@
       "developer": "Easybrain",
       "icon": "https://play-lh.googleusercontent.com/WPk1QPZRP-tKLHqJwhLqgRR39XWejFN7peg4XPsD2XJQz2K3L-oAFcNEOEzxUJSpfgFojtE1lrkNKdxmUnQSwGE=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.easybrain.brick.balls.blast&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.hyperbeard.catopia",
+      "title": "냥스파 - 고양이 마사지 샵",
+      "developer": "Seeplay Inc.",
+      "icon": "https://play-lh.googleusercontent.com/D7gBS7hfNktA1MrFazuBAhl5Y4O2XyPgo0NHWMOHBEGMHCoWpH6R4ZP8_IxqIIzV035P5Z6d5FLzUgK77lMDBJE=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia&hl=ko&gl=KR",
       "discoveredDate": "2026-09-11",
       "isGame": true
     },
@@ -4928,15 +4938,6 @@
       "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
       "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.survival.last",
-      "title": "Dawn of Zombies: 좀비 생존게임",
-      "developer": "Royal Ark",
-      "icon": "https://play-lh.googleusercontent.com/pFJCQ6npukgGv07bY1zXd9KvBiSAVOTi1Mokk-arstaZ69hvP5SZq9GGmJTY5CgpC2NMe7YQdAo2w5GqHqdeOg",
-      "url": "https://play.google.com/store/apps/details?id=com.survival.last&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
       "isGame": true
     },
     {
