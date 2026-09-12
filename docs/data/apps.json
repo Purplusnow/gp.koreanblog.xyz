@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:41:01.813Z",
+  "updatedAt": "2026-09-12T10:37:26.020Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1772,7 +1772,8 @@
     "com.hyperbeard.catopia",
     "games.starberry.game4",
     "com.wood.blast.escape",
-    "wool.sort.jam.color.painting"
+    "wool.sort.jam.color.painting",
+    "com.cyphergames.royalsmash"
   ],
   "items": [
     {
@@ -1799,6 +1800,15 @@
       "developer": "BLANKZONET PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/qqfQocwWttyF3mTeUf2ZqZsWBpsjcWhPJGvPUcnCbcoQ7GdgjaLgrq2V39i6xHrI-T38XfxSMsPngdJgoep3Ow=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=wool.sort.jam.color.painting&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.cyphergames.royalsmash",
+      "title": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon": "https://play-lh.googleusercontent.com/VqJWXEzCPnmd4pCVdTBOvzYzbRs9u_BEcKVWUuL07RhKCtUmun3J5qC2p9_1C0A27Fpg8EaGUaE8AmDmF1pBfA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.cyphergames.royalsmash&hl=ko&gl=KR",
       "discoveredDate": "2026-09-12",
       "isGame": true
     },
@@ -4968,15 +4978,6 @@
       "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
       "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.tapanywhere.lootheroes",
-      "title": "Loot Heroes: Fantasy RPG Games",
-      "developer": "Moondrip FZ-LLC",
-      "icon": "https://play-lh.googleusercontent.com/nKSaT9V73OUz2v5Yu9RFNZOniZaTJuop5-2qYBSsi-nz7jootq2IQGIJ-4ubPt4nLKI4ZASCguVqvrnr6_K77A",
-      "url": "https://play.google.com/store/apps/details?id=com.tapanywhere.lootheroes&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
       "isGame": true
     },
     {
