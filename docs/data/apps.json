@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:02:36.801Z",
+  "updatedAt": "2026-09-12T05:41:01.813Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1770,7 +1770,9 @@
     "com.silverstarstudio.angellegion",
     "com.easybrain.brick.balls.blast",
     "com.hyperbeard.catopia",
-    "games.starberry.game4"
+    "games.starberry.game4",
+    "com.wood.blast.escape",
+    "wool.sort.jam.color.painting"
   ],
   "items": [
     {
@@ -1779,6 +1781,24 @@
       "developer": "StarBerry Games",
       "icon": "https://play-lh.googleusercontent.com/-yOI-FyJderhNWsOXj4-NYFHEgjqLoegyx4rSReK_lOGND9F3BKAFhgGAnAeHXAXlpYuA7nFDHJ6Z8UtsJeOUw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=games.starberry.game4&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-12",
+      "isGame": true
+    },
+    {
+      "appId": "com.wood.blast.escape",
+      "title": "Wood Blast Escape",
+      "developer": "IEC Games Australia",
+      "icon": "https://play-lh.googleusercontent.com/2saLySQA-Rg6uVP_7Re3CPaxUdpmQJ1k_eL_Xn9ddvpmaS7nxbMP2uMmK1RylZn1uEZ7aFCeiF-f-uCEvxwNsP8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.wood.blast.escape&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-12",
+      "isGame": true
+    },
+    {
+      "appId": "wool.sort.jam.color.painting",
+      "title": "Wool Sort - Yarn Puzzle 퍼즐게임",
+      "developer": "BLANKZONET PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/qqfQocwWttyF3mTeUf2ZqZsWBpsjcWhPJGvPUcnCbcoQ7GdgjaLgrq2V39i6xHrI-T38XfxSMsPngdJgoep3Ow=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=wool.sort.jam.color.painting&hl=ko&gl=KR",
       "discoveredDate": "2026-09-12",
       "isGame": true
     },
@@ -4948,24 +4968,6 @@
       "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
       "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
       "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.ujoygp.flower",
-      "title": "오늘의 꽃",
-      "developer": "Ujoy Games",
-      "icon": "https://play-lh.googleusercontent.com/cg1-R8XG0O9Ok4XFvhzNked6xAl63XQn4N4BLx1X685DD9JsmmYzfNDSn9p2pm9gDNZXdBErMPq05Z5IKXJDgg",
-      "url": "https://play.google.com/store/apps/details?id=com.ujoygp.flower&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.tocaboca.tocahairsalon4",
-      "title": "Toca Boca Hair Salon 4",
-      "developer": "Play Piknik",
-      "icon": "https://play-lh.googleusercontent.com/WiQJfzrET6r3U8SW-HAILIhTnTpDVH-zeN8IO2nf4n0nBYoJPqXQM-gFGDwHREkY_zqgj2VWnm6ZLFGFikBCRNk",
-      "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahairsalon4&hl=ko&gl=KR",
-      "discoveredDate": "2026-06-30",
       "isGame": true
     },
     {
