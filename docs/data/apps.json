@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:11:08.267Z",
+  "updatedAt": "2026-09-12T22:11:12.509Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1773,9 +1773,19 @@
     "games.starberry.game4",
     "com.wood.blast.escape",
     "wool.sort.jam.color.painting",
-    "com.cyphergames.royalsmash"
+    "com.cyphergames.royalsmash",
+    "jp.goodsmile.grandsummonersglobal_android"
   ],
   "items": [
+    {
+      "appId": "jp.goodsmile.grandsummonersglobal_android",
+      "title": "Grand Summoners - Anime RPG",
+      "developer": "株式会社NextNinja",
+      "icon": "https://play-lh.googleusercontent.com/AQ1dXLkqWx1dBTdAP0KymWwBJ4JNxSQZO7u0zcXF41E8_wTs1jEIcXnZUdZI1vqt9bFu5HrLLFojuyCydflgsg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=jp.goodsmile.grandsummonersglobal_android&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-13",
+      "isGame": true
+    },
     {
       "appId": "games.starberry.game4",
       "title": "Garden Getaway: Merge & Design",
@@ -4780,15 +4790,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.lineageII",
-      "title": "리니지2 레볼루션",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/RN9j8xmlp4mgSqYYJ9ZV2Tjm07kxwxOFlgm7o4FICph-7o_-Bt8yTxNV8TvadY9iUEZ4JXNN08AEGML9XEjdpQ",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.lineageII&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
