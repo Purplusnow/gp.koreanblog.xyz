@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T16:08:50.239Z",
+  "updatedAt": "2026-09-13T19:20:47.891Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1777,7 +1777,10 @@
     "jp.goodsmile.grandsummonersglobal_android",
     "com.MelsoftGames.FamilyIslandFarm",
     "com.gameinsight.gplay.mmanor",
-    "com.catdaddy.cat22"
+    "com.catdaddy.cat22",
+    "com.grapetree.meowtower",
+    "com.rovio.angrybirdsfriends",
+    "com.tutotoons.app.fluvsies.free"
   ],
   "items": [
     {
@@ -1786,6 +1789,33 @@
       "developer": "2K, Inc. - a Take-Two Interactive affiliate",
       "icon": "https://play-lh.googleusercontent.com/-S9NMKgPxwwJhpBnKxp5YmPJZL7BujghgCGIWWbzGXyG1LvfjugLk-uNjNSJ72nLoZYKNkcbRE8GZB0LnwcZkVA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.catdaddy.cat22&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.grapetree.meowtower",
+      "title": "냥타워 - 네모로직 노노그램 키우기 게임",
+      "developer": "Studio Boxcat",
+      "icon": "https://play-lh.googleusercontent.com/cdewGlcISi7vwCzcQED25J4aIPV8V_rkeGLJichjuDm6uE5UXxdiWRlDMqwBeKH9zBu19ytMAJiGV6plE9yG=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.grapetree.meowtower&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.rovio.angrybirdsfriends",
+      "title": "앵그리버드 프렌즈 Angry Birds Friends",
+      "developer": "Rovio Entertainment Oy",
+      "icon": "https://play-lh.googleusercontent.com/l97OIncP7K0-l59sJJWMiw6iNnEUYQo-qyA10Ou0Df9F9JfDxIhCVAGXQhNTWRNqXsWezO_oSj2F_XQdD4LB8w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rovio.angrybirdsfriends&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-14",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.fluvsies.free",
+      "title": "Fluvsies - 사랑스러운 솜털 요정!",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/WEiAdrlTzBPBpTG9d156ML3obNQtRbvgU2UER-bAQkp1tuZS7YAACk2xx3cNMUr_8-HChBaCmsC8xQV-inbuXw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.fluvsies.free&hl=ko&gl=KR",
       "discoveredDate": "2026-09-14",
       "isGame": true
     },
@@ -4820,33 +4850,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.squareenixmontreal.hitmansniperandroid",
-      "title": "히트맨 스나이퍼 (Hitman Sniper)",
-      "developer": "Deca Games",
-      "icon": "https://play-lh.googleusercontent.com/Da0npzsFWR9qNNDn7eA9fKaDceFlR4HglEIqWwD2LC6KTX_Y7nkZ2IbHT-lsqxLXkVoYuXdAgvgG50-vLxWsiHQ",
-      "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmansniperandroid&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.hg.bfbb",
-      "title": "스폰지밥 네모바지: BfBB",
-      "developer": "HandyGames",
-      "icon": "https://play-lh.googleusercontent.com/PH3ZHCVPYmgju_MoF4BG1CBcv7beU8aBQAD09vy1H-LFW5AqEs1V7unlXJJXRBYiVMI0H_w9cKADG-4a6IG-",
-      "url": "https://play.google.com/store/apps/details?id=com.hg.bfbb&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.strayfawnstudio.dungeonclawlermobile",
-      "title": "Dungeon Clawler",
-      "developer": "Stray Fawn Studio",
-      "icon": "https://play-lh.googleusercontent.com/ze0KEziHtJaENqPuR2-Y7pR10o3haQZ82gYirmLxxS6Wx-ozfrKMXjyP2y_UekeoiKZBLj_w1ZjiGk1BwiiT",
-      "url": "https://play.google.com/store/apps/details?id=com.strayfawnstudio.dungeonclawlermobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
