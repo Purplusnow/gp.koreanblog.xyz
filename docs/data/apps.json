@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T11:40:31.267Z",
+  "updatedAt": "2026-09-13T16:08:50.239Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1776,9 +1776,19 @@
     "com.cyphergames.royalsmash",
     "jp.goodsmile.grandsummonersglobal_android",
     "com.MelsoftGames.FamilyIslandFarm",
-    "com.gameinsight.gplay.mmanor"
+    "com.gameinsight.gplay.mmanor",
+    "com.catdaddy.cat22"
   ],
   "items": [
+    {
+      "appId": "com.catdaddy.cat22",
+      "title": "WWE SuperCard - 배틀 카드",
+      "developer": "2K, Inc. - a Take-Two Interactive affiliate",
+      "icon": "https://play-lh.googleusercontent.com/-S9NMKgPxwwJhpBnKxp5YmPJZL7BujghgCGIWWbzGXyG1LvfjugLk-uNjNSJ72nLoZYKNkcbRE8GZB0LnwcZkVA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.catdaddy.cat22&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-14",
+      "isGame": true
+    },
     {
       "appId": "jp.goodsmile.grandsummonersglobal_android",
       "title": "Grand Summoners - Anime RPG",
@@ -4810,15 +4820,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.sofarsogood.incredibox",
-      "title": "Incredibox",
-      "developer": "SO FAR SO GOOD",
-      "icon": "https://play-lh.googleusercontent.com/QUvDb636ZBM6dL_VTyrr1eL6LG1QPKVkWzcRGeEBKdwyNwn9klz4wwIC3buFG6E-84V7K8CpeHGOnpgHWOEy",
-      "url": "https://play.google.com/store/apps/details?id=com.sofarsogood.incredibox&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
