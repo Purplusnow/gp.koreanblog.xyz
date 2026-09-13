@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:11:12.509Z",
+  "updatedAt": "2026-09-13T00:51:37.009Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1774,7 +1774,8 @@
     "com.wood.blast.escape",
     "wool.sort.jam.color.painting",
     "com.cyphergames.royalsmash",
-    "jp.goodsmile.grandsummonersglobal_android"
+    "jp.goodsmile.grandsummonersglobal_android",
+    "com.MelsoftGames.FamilyIslandFarm"
   ],
   "items": [
     {
@@ -1783,6 +1784,15 @@
       "developer": "株式会社NextNinja",
       "icon": "https://play-lh.googleusercontent.com/AQ1dXLkqWx1dBTdAP0KymWwBJ4JNxSQZO7u0zcXF41E8_wTs1jEIcXnZUdZI1vqt9bFu5HrLLFojuyCydflgsg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=jp.goodsmile.grandsummonersglobal_android&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.MelsoftGames.FamilyIslandFarm",
+      "title": "패밀리 아일랜드 - 농장모험게임",
+      "developer": "Melsoft Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/HpWuiQkhmKRAVdT5wC267fq-fyCBdvaS4klG2KcdkqC76Au1WPgDoWz3f7t7U890j8mLFLhkVsOI-3nFPUwtBIY=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.MelsoftGames.FamilyIslandFarm&hl=ko&gl=KR",
       "discoveredDate": "2026-09-13",
       "isGame": true
     },
@@ -4790,15 +4800,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "kr.neogames.realfarm",
-      "title": "레알팜 : 진짜 농부를 만나는 게임",
-      "developer": "NEOGAMES",
-      "icon": "https://play-lh.googleusercontent.com/Qg3wLp9LscJKzIVISOuhzRVS80w1dzmFsHO0GNq4rwxho_8kK8ypT2Ud3sKNebt_-9fx1Fr35idp5T1kDO7i",
-      "url": "https://play.google.com/store/apps/details?id=kr.neogames.realfarm&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
