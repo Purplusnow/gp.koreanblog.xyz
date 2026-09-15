@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:37:25.017Z",
+  "updatedAt": "2026-09-15T13:26:52.890Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1783,7 +1783,8 @@
     "com.tutotoons.app.fluvsies.free",
     "com.PalmCourt.Wavelength",
     "com.netmarble.rfnext",
-    "com.playgendary.sportmasters"
+    "com.playgendary.sportmasters",
+    "com.edujoy.masha.games"
   ],
   "items": [
     {
@@ -1810,6 +1811,15 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/mLlIm14kJJafFvWlD6g8GKonbwNLTqjW_OV0CL-2ZbtxIQv2xqCRjGF-bhdTq6ix9sMs0lqn12snF4OJrCXFFzc=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.playgendary.sportmasters&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.edujoy.masha.games",
+      "title": "Masha and the Bear Educational",
+      "developer": "DTC Lab",
+      "icon": "https://play-lh.googleusercontent.com/QVE-CZiMisbhr9f0foNz5HyyLpn0I0_BzPquGdFo82tN_mKCInCM-8goxCNBxduG_RdDtlkWtD_ulNM0vW4087Q=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.edujoy.masha.games&hl=ko&gl=KR",
       "discoveredDate": "2026-09-15",
       "isGame": true
     },
@@ -4880,15 +4890,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.squareenixmontreal.lcgo",
-      "title": "Lara Croft GO",
-      "developer": "Deca Games",
-      "icon": "https://play-lh.googleusercontent.com/8PJtZPZ1O78U5esIvQekgAfXrHr-JXAA_Dr7_OVJRkJyN3FdLDW2WehFik9wv2z6jtU3PIHpiHuZvQapEHtdr6A",
-      "url": "https://play.google.com/store/apps/details?id=com.squareenixmontreal.lcgo&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
