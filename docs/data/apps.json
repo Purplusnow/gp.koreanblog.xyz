@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T01:23:46.071Z",
+  "updatedAt": "2026-09-15T07:37:25.017Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1780,9 +1780,39 @@
     "com.catdaddy.cat22",
     "com.grapetree.meowtower",
     "com.rovio.angrybirdsfriends",
-    "com.tutotoons.app.fluvsies.free"
+    "com.tutotoons.app.fluvsies.free",
+    "com.PalmCourt.Wavelength",
+    "com.netmarble.rfnext",
+    "com.playgendary.sportmasters"
   ],
   "items": [
+    {
+      "appId": "com.PalmCourt.Wavelength",
+      "title": "Wavelength",
+      "developer": "CMYK Games",
+      "icon": "https://play-lh.googleusercontent.com/4reNNTNAgisVfreASXKsazECdc74ztKaFX_EjOyg23_GmvvM66kqG2tNfMOr_80BvsxIL3oLkp0ud_snoaYD=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.PalmCourt.Wavelength&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.netmarble.rfnext",
+      "title": "RF 온라인 넥스트",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-15",
+      "isGame": true
+    },
+    {
+      "appId": "com.playgendary.sportmasters",
+      "title": "펭귄 게임: 펭귄 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/mLlIm14kJJafFvWlD6g8GKonbwNLTqjW_OV0CL-2ZbtxIQv2xqCRjGF-bhdTq6ix9sMs0lqn12snF4OJrCXFFzc=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playgendary.sportmasters&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-15",
+      "isGame": true
+    },
     {
       "appId": "com.catdaddy.cat22",
       "title": "WWE SuperCard - 배틀 카드",
@@ -4850,33 +4880,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.trueaxis.trueskate",
-      "title": "True Skate",
-      "developer": "True Axis",
-      "icon": "https://play-lh.googleusercontent.com/LnxWViNjq9A22wRxrN2xa_B-I2b9tff49ssdk_7x91IGSp0kgvCaRBPByfdH0zYmDCYQn8uKn2fxCG2hD5wB",
-      "url": "https://play.google.com/store/apps/details?id=com.trueaxis.trueskate&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.headupgames.bridgeconstructorportal",
-      "title": "브릿지 컨스트럭터 포탈",
-      "developer": "Headup",
-      "icon": "https://play-lh.googleusercontent.com/ds_CCNzqbalDtDf7vSRPDq4odKILa6CPLY5ocpjjFtuvqQLvKlK4vTmfd0fQGsdhmvUb0aEL9rYmZ9Hc7u6a-Q",
-      "url": "https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorportal&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.hg.wreckfest",
-      "title": "Wreckfest - 파괴 레이싱",
-      "developer": "HandyGames",
-      "icon": "https://play-lh.googleusercontent.com/GZ50g_mIVRKi2QDknnQfh5rqt4SOM1-_eo_mlF2xu8dRL9-JszBvU8J1zVqYfmR_dSMUbbhqDsWHb_LFqcMPGw",
-      "url": "https://play.google.com/store/apps/details?id=com.hg.wreckfest&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
