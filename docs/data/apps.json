@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T18:07:02.307Z",
+  "updatedAt": "2026-09-15T22:07:14.782Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1784,9 +1784,19 @@
     "com.PalmCourt.Wavelength",
     "com.netmarble.rfnext",
     "com.playgendary.sportmasters",
-    "com.edujoy.masha.games"
+    "com.edujoy.masha.games",
+    "com.minigame.wszj.android.gp"
   ],
   "items": [
+    {
+      "appId": "com.minigame.wszj.android.gp",
+      "title": "Wing Fighter",
+      "developer": "MINIGAME ENTERTAINMENT LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/NrJx4fXFZdgpHgsFjIj2dURCjELQN3b0BJzAV_e7PWvKR7NpYpqMYudM4dDYYucLC-Nnn0bI7OS_pr8GEIWxjq0=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.minigame.wszj.android.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-16",
+      "isGame": true
+    },
     {
       "appId": "com.PalmCourt.Wavelength",
       "title": "Wavelength",
@@ -4890,15 +4900,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.dotemu.titanquest",
-      "title": "Titan Quest",
-      "developer": "HandyGames",
-      "icon": "https://play-lh.googleusercontent.com/UHVS-jKtcPQDZWfSb4pv2nHzuhf-jgry57T2xKKiahcUMMqPAT2gDJJ1ioaC7_1poKCGaJT0v_yHIGNTW3DVITc",
-      "url": "https://play.google.com/store/apps/details?id=com.dotemu.titanquest&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
