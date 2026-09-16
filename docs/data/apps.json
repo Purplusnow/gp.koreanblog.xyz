@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T13:25:49.496Z",
+  "updatedAt": "2026-09-16T18:08:10.741Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1785,9 +1785,19 @@
     "com.netmarble.rfnext",
     "com.playgendary.sportmasters",
     "com.edujoy.masha.games",
-    "com.minigame.wszj.android.gp"
+    "com.minigame.wszj.android.gp",
+    "com.pixelcubestudios.android.cookiecollector2"
   ],
   "items": [
+    {
+      "appId": "com.pixelcubestudios.android.cookiecollector2",
+      "title": "Cookies Inc. - Idle Clicker",
+      "developer": "PIXELCUBE STUDIOS INC.",
+      "icon": "https://play-lh.googleusercontent.com/ubl6YDA7RQcd5-dySXrdcKLyxEu-a7WXVIU6Y8mZZzkHDcbJvS1UbJhsP9OikVVZVcYw6Whwr7K3qwu7V_jc0Hw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelcubestudios.android.cookiecollector2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-17",
+      "isGame": true
+    },
     {
       "appId": "com.minigame.wszj.android.gp",
       "title": "Wing Fighter",
@@ -4900,15 +4910,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.notdoppler.earntodie",
-      "title": "Earn to Die",
-      "developer": "Not Doppler",
-      "icon": "https://play-lh.googleusercontent.com/yQTUFh_hZu2W4D74Vj9GMxe2Lyvm9wzBccQA3d2e4GhfuTSsCL5N9j4kgrWUSQzfR9e-VIhYV7UJLuTTlwgBpAk",
-      "url": "https://play.google.com/store/apps/details?id=com.notdoppler.earntodie&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
