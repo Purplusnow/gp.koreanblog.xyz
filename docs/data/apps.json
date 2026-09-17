@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:03:37.287Z",
+  "updatedAt": "2026-09-17T00:24:36.911Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1786,7 +1786,8 @@
     "com.playgendary.sportmasters",
     "com.edujoy.masha.games",
     "com.minigame.wszj.android.gp",
-    "com.pixelcubestudios.android.cookiecollector2"
+    "com.pixelcubestudios.android.cookiecollector2",
+    "com.mf.town"
   ],
   "items": [
     {
@@ -1795,6 +1796,15 @@
       "developer": "PIXELCUBE STUDIOS INC.",
       "icon": "https://play-lh.googleusercontent.com/ubl6YDA7RQcd5-dySXrdcKLyxEu-a7WXVIU6Y8mZZzkHDcbJvS1UbJhsP9OikVVZVcYw6Whwr7K3qwu7V_jc0Hw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.pixelcubestudios.android.cookiecollector2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.mf.town",
+      "title": "머지 카운티（Merge County®）",
+      "developer": "Microfun Limited",
+      "icon": "https://play-lh.googleusercontent.com/TSDAD2WuXVT2HM0p3Wu-AZzgwWmNFS7hvnM1YNzsSgCMI9oovrRYs14zM-Xrk7TolOsQ-cbPgfPINe8zzewG=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mf.town&hl=ko&gl=KR",
       "discoveredDate": "2026-09-17",
       "isGame": true
     },
@@ -4910,15 +4920,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.alien.shooter.galaxy.attack.premium",
-      "title": "우주 전쟁: 외계인들의 공격 (프리미엄)",
-      "developer": "1SOFT",
-      "icon": "https://play-lh.googleusercontent.com/o9X64bukRFBRHw4AHvHLP9K8V-t4viExdx3EYWiTq1F3x6ja-JS5aLly7TprG84wIr6gGfCCzrLBDnPKMeudCg",
-      "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack.premium&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
