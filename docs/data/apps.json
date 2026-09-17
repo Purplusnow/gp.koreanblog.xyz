@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:24:36.911Z",
+  "updatedAt": "2026-09-17T06:01:52.785Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1787,7 +1787,8 @@
     "com.edujoy.masha.games",
     "com.minigame.wszj.android.gp",
     "com.pixelcubestudios.android.cookiecollector2",
-    "com.mf.town"
+    "com.mf.town",
+    "com.pikpok.dr2.play"
   ],
   "items": [
     {
@@ -1805,6 +1806,15 @@
       "developer": "Microfun Limited",
       "icon": "https://play-lh.googleusercontent.com/TSDAD2WuXVT2HM0p3Wu-AZzgwWmNFS7hvnM1YNzsSgCMI9oovrRYs14zM-Xrk7TolOsQ-cbPgfPINe8zzewG=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.mf.town&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.pikpok.dr2.play",
+      "title": "인투더데드2 [Into the Dead 2]",
+      "developer": "PIKPOK",
+      "icon": "https://play-lh.googleusercontent.com/yiYo46DSQffJotlCoi_BVKA-ckV42ZyBw4lZ61a4zrpRGVNiD3yBz4MUz7lx0JvuSN7r0ObqkEvCw01ejbkH=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.pikpok.dr2.play&hl=ko&gl=KR",
       "discoveredDate": "2026-09-17",
       "isGame": true
     },
@@ -4920,15 +4930,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.nekki.shadowfight2.paid",
-      "title": "섀도우 파이트 2 특별판",
-      "developer": "NEKKI",
-      "icon": "https://play-lh.googleusercontent.com/aqpemoEhFAIOypXNxwHCGQUfpEOkkwGduKTrJF-lZw9c6DlMCoTe9AXkVHjht6gzBmBU5S4vL5xlfdSJXlEhddU",
-      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight2.paid&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
