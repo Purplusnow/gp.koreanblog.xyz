@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:37:06.224Z",
+  "updatedAt": "2026-09-18T14:22:29.749Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1788,9 +1788,29 @@
     "com.minigame.wszj.android.gp",
     "com.pixelcubestudios.android.cookiecollector2",
     "com.mf.town",
-    "com.pikpok.dr2.play"
+    "com.pikpok.dr2.play",
+    "com.krd8.google",
+    "com.nebula.tiles"
   ],
   "items": [
+    {
+      "appId": "com.krd8.google",
+      "title": "로그W : 리메인즈 오브 갓",
+      "developer": "Efun Company",
+      "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.krd8.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.nebula.tiles",
+      "title": "탭 타일 (Tap Tile)",
+      "developer": "Nebula  Studio",
+      "icon": "https://play-lh.googleusercontent.com/5HW3dlzybd3avrILco5uG-8PnxCFbcMBQG7iu9rNOGMVYu4n8R89iIXd93f9mhYD5bK5ODU_9iRO5j7vMgYa=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.tiles&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-18",
+      "isGame": true
+    },
     {
       "appId": "com.pixelcubestudios.android.cookiecollector2",
       "title": "Cookies Inc. - Idle Clicker",
@@ -4930,24 +4950,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.playdigious.evoland2",
-      "title": "Evoland 2",
-      "developer": "Playdigious",
-      "icon": "https://play-lh.googleusercontent.com/nD8rFvazCYDiGNKAi_Umc8HnKB1gQhDgW52_B94_9ae5fp9m_zraXYFJ_Uuj0UsCqVOsAE4X6QlPqG0OuRA8Mg",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.evoland2&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.hg.townsmen7",
-      "title": "Townsmen Premium",
-      "developer": "HandyGames",
-      "icon": "https://play-lh.googleusercontent.com/bgGfrJh26rK2aYfh6noZ72fjh66lVIyagmTc2NsDO4j9xt02jIwFYbQ1wiXkIUg4l643hWanOo36fTXJfMhh6w",
-      "url": "https://play.google.com/store/apps/details?id=com.hg.townsmen7&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
