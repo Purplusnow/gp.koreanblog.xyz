@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:19:18.830Z",
+  "updatedAt": "2026-09-18T21:35:42.946Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1790,9 +1790,29 @@
     "com.mf.town",
     "com.pikpok.dr2.play",
     "com.krd8.google",
-    "com.nebula.tiles"
+    "com.nebula.tiles",
+    "com.drest.drestpro",
+    "com.miniclip.minivolley"
   ],
   "items": [
+    {
+      "appId": "com.drest.drestpro",
+      "title": "DREST: 드레스업 패션게임",
+      "developer": "Drest Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/Zqy3j536bLx3NpqwYHQXCy0PttumQVQjI6mpdXvSqNRdPDR-3ItK9xvhYGgW7g7SydR1o2KW1AnK5qW0DAZd=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.drest.drestpro&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.minivolley",
+      "title": "Volleyball Arena: Spike Hard",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/u_t4_4Qbd2YP_UEP7pKUgl3xaPhy8CpPfdn5IbWCp_VHwi2j9GRwQ-LiO8V2zsysbxHzlqNEtvz9X5I4ZdsRLhU=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.minivolley&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-19",
+      "isGame": true
+    },
     {
       "appId": "com.krd8.google",
       "title": "로그W : 리메인즈 오브 갓",
@@ -4950,24 +4970,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.playsportgames.mmm2023",
-      "title": "Motorsport Manager 4 Racing",
-      "developer": "Playsport Games",
-      "icon": "https://play-lh.googleusercontent.com/cmnpPESLOQYtF_1zV9TZ_ppMpApGMNOUJOQU4f3zZd8YT7IYomuLOEIuCVawlyWE0mNBVIdj9JpJcmos9nWZLw",
-      "url": "https://play.google.com/store/apps/details?id=com.playsportgames.mmm2023&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
-      "isGame": true
-    },
-    {
-      "appId": "pl.idreams.pottery",
-      "title": "Let's Create! Pottery",
-      "developer": "Infinite Dreams",
-      "icon": "https://play-lh.googleusercontent.com/whdLxN-YukuNaQqjxxEz-BMVhKd74S37fyjesI_-o2Y58vl3ie8-84u7WILm-ZqmexI2JM4KwK1G3aLOSvH_rOc",
-      "url": "https://play.google.com/store/apps/details?id=pl.idreams.pottery&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
