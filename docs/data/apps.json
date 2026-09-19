@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:44:39.030Z",
+  "updatedAt": "2026-09-19T10:48:46.344Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1792,7 +1792,8 @@
     "com.krd8.google",
     "com.nebula.tiles",
     "com.drest.drestpro",
-    "com.miniclip.minivolley"
+    "com.miniclip.minivolley",
+    "com.hcg.cok.gp"
   ],
   "items": [
     {
@@ -1810,6 +1811,15 @@
       "developer": "Miniclip.com",
       "icon": "https://play-lh.googleusercontent.com/u_t4_4Qbd2YP_UEP7pKUgl3xaPhy8CpPfdn5IbWCp_VHwi2j9GRwQ-LiO8V2zsysbxHzlqNEtvz9X5I4ZdsRLhU=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.minivolley&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.hcg.cok.gp",
+      "title": "클래시 오브 킹즈 (Clash of kings)",
+      "developer": "Elex Wireless",
+      "icon": "https://play-lh.googleusercontent.com/wpfVsoLNUmr23iZEl_ypgievMnrMqZD5nb5ZKmK5iTUKOABJakuZlrZu5ghgjnwhf7Pff-Kw39UQzpsPwaidRQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hcg.cok.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-09-19",
       "isGame": true
     },
@@ -4970,15 +4980,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "air.com.RustyLake.RustyLakeRoots",
-      "title": "Rusty Lake: Roots",
-      "developer": "Rusty Lake",
-      "icon": "https://play-lh.googleusercontent.com/4tURtLSnhX6TzPCa5t4zD_8B2zFm2b63jQ_yPYMbXN_PTzpJoJdnOuIG3AAvamO_Vv6AjIMYtTR2ojb93cZR6g",
-      "url": "https://play.google.com/store/apps/details?id=air.com.RustyLake.RustyLakeRoots&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
