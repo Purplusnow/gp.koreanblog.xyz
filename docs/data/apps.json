@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:19:21.864Z",
+  "updatedAt": "2026-09-19T17:56:20.465Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1794,9 +1794,29 @@
     "com.drest.drestpro",
     "com.miniclip.minivolley",
     "com.hcg.cok.gp",
-    "com.miga.world"
+    "com.miga.world",
+    "net.gameduo.bbc",
+    "ca.hyperhippo.adventureages"
   ],
   "items": [
+    {
+      "appId": "net.gameduo.bbc",
+      "title": "붐붐캡틴: 서바이벌",
+      "developer": "Gameduo",
+      "icon": "https://play-lh.googleusercontent.com/aJ_0yRRkQO714W8BS10r1kXQNkupUbNHkfuK1MlHP7S_0FyOTtE8JZkAZ-nC0yDPhmWCBj-HdXs_kLDYjBrdVQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.bbc&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-20",
+      "isGame": true
+    },
+    {
+      "appId": "ca.hyperhippo.adventureages",
+      "title": "AdVenture Ages",
+      "developer": "Hyper Hippo",
+      "icon": "https://play-lh.googleusercontent.com/LTu2_gbd3BhoK62ETS19H2wHLqMbsvo1vqaAyo3GfRv5_bsfWEW2Xdolr717Lh1mMjuwfURO-97I_XPdAqm3unw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=ca.hyperhippo.adventureages&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-20",
+      "isGame": true
+    },
     {
       "appId": "com.drest.drestpro",
       "title": "DREST: 드레스업 패션게임",
@@ -4957,15 +4977,6 @@
       "isGame": true
     },
     {
-      "appId": "com.bigfishgames.gummydropgoogle",
-      "title": "젤리드롭! 건축하려면 3개 매치하기",
-      "developer": "7 Hits Games",
-      "icon": "https://play-lh.googleusercontent.com/fYGTaGeVj_-Z07XqEt2r2LhaB_2ONJ7DOleR9WAg3YUt0FsIhxfNkpinXYd8XTdNqH5LY-MBChE_PPGH-kSC4w",
-      "url": "https://play.google.com/store/apps/details?id=com.bigfishgames.gummydropgoogle&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
       "appId": "com.astragon.cs3",
       "title": "Construction Simulator 3",
       "developer": "astragon Entertainment GmbH",
@@ -4990,15 +5001,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.chillyroom.soulknightprequel",
-      "title": "소울 나이트 프리퀄: 어드벤처 게임",
-      "developer": "ChillyRoom",
-      "icon": "https://play-lh.googleusercontent.com/8iOKWuz1yA1Os5EXEiq8W9VZVSMbQbEbSdIqFsht3x5yCgw5EOWTGuKvrxxcL_RabYmUFKDlywePud1ktG-CNDk",
-      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
