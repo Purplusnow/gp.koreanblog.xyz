@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:48:46.344Z",
+  "updatedAt": "2026-09-19T14:19:21.864Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1793,7 +1793,8 @@
     "com.nebula.tiles",
     "com.drest.drestpro",
     "com.miniclip.minivolley",
-    "com.hcg.cok.gp"
+    "com.hcg.cok.gp",
+    "com.miga.world"
   ],
   "items": [
     {
@@ -1820,6 +1821,15 @@
       "developer": "Elex Wireless",
       "icon": "https://play-lh.googleusercontent.com/wpfVsoLNUmr23iZEl_ypgievMnrMqZD5nb5ZKmK5iTUKOABJakuZlrZu5ghgjnwhf7Pff-Kw39UQzpsPwaidRQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.hcg.cok.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-19",
+      "isGame": true
+    },
+    {
+      "appId": "com.miga.world",
+      "title": "Miga 내 도시 : 세계",
+      "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/vbuJg8rWXhiPMq9BwJ6yOm2_jHUQX4y6j7tDS1E3f9wOsBD1gNs3O1QftFOOLi09Tz0rVeEAzXtgAh_II4YJMA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.miga.world&hl=ko&gl=KR",
       "discoveredDate": "2026-09-19",
       "isGame": true
     },
@@ -4980,15 +4990,6 @@
       "icon": "https://play-lh.googleusercontent.com/oh_N8ptXWYhl6AqSwalN91JSEQhvTTZjawOBvdBWXOSBL-V8vmA-qhHH3EJHqG0eZ5OYMGMDnu2Bsjxh8Oky3Q",
       "url": "https://play.google.com/store/apps/details?id=com.su.kg3.gb&hl=ko&gl=KR",
       "discoveredDate": "2026-07-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.khg.doorkickers",
-      "title": "Door Kickers",
-      "developer": "KillHouse Games",
-      "icon": "https://play-lh.googleusercontent.com/ZUtNzJdnkVvztVLIPTbKIdD7c1ZHC48medkiw-O6gVUbLHTP-ouV_V-1lq-ax9k9PmPqC1rBP_4EiXN2rrTtLco",
-      "url": "https://play.google.com/store/apps/details?id=com.khg.doorkickers&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-01",
       "isGame": true
     },
     {
