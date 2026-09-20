@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T00:59:12.832Z",
+  "updatedAt": "2026-09-20T06:03:55.749Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1804,7 +1804,8 @@
     "com.prty.hpz",
     "com.vnlentertainment.mmoproject",
     "com.pubg.newstate",
-    "com.tencent.rmos"
+    "com.tencent.rmos",
+    "com.rockbite.zombieoutpost"
   ],
   "items": [
     {
@@ -1894,6 +1895,15 @@
       "developer": "Level Infinite",
       "icon": "https://play-lh.googleusercontent.com/Z6fLBQhE3BemIq-Odau7uFrVSTk_IEWN609hHueEey-QmbeMpLr8BZYZPBcXKd_0qf4R1qAvQquTFeNCYFnuog=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.tencent.rmos&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.rockbite.zombieoutpost",
+      "title": "Idle Outpost: 유휴 비즈니스 관리 시뮬레이터",
+      "developer": "AppQuantum",
+      "icon": "https://play-lh.googleusercontent.com/jeWLoNgxas5-sycuZYto6T44fo_k69FTh2qYtHeKqmwupbfSAUjFtdouCC4oVm2hoRoa1g9_qCmrOfLPzgZ_IyY=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rockbite.zombieoutpost&hl=ko&gl=KR",
       "discoveredDate": "2026-09-20",
       "isGame": true
     },
@@ -4982,15 +4992,6 @@
       "icon": "https://play-lh.googleusercontent.com/CD1tSZVG1hd-uPxvjXgOpbfRBavQ7G3hZl0ea8PglloMj-QuRhzMJMQerxABjb_Ns3HzC2jGpVHRcxogFTUe",
       "url": "https://play.google.com/store/apps/details?id=games.my.sniper.wild.hunting&hl=ko&gl=KR",
       "discoveredDate": "2026-07-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobirix.fishinghook",
-      "title": "피싱훅",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/i69j_K0qagVV6QZwLvw5gYuoxxbEVuxUi_eyCrDzVg5J1BNGhlCfyrl74cVODfrMt0cJBlqWPaCpa5u0_IrU4g",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.fishinghook&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-07",
       "isGame": true
     },
     {
