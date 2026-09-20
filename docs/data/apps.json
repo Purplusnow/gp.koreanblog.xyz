@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:03:55.749Z",
+  "updatedAt": "2026-09-20T11:15:24.769Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1805,7 +1805,8 @@
     "com.vnlentertainment.mmoproject",
     "com.pubg.newstate",
     "com.tencent.rmos",
-    "com.rockbite.zombieoutpost"
+    "com.rockbite.zombieoutpost",
+    "com.miniclip.farmrush"
   ],
   "items": [
     {
@@ -1904,6 +1905,15 @@
       "developer": "AppQuantum",
       "icon": "https://play-lh.googleusercontent.com/jeWLoNgxas5-sycuZYto6T44fo_k69FTh2qYtHeKqmwupbfSAUjFtdouCC4oVm2hoRoa1g9_qCmrOfLPzgZ_IyY=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.rockbite.zombieoutpost&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.miniclip.farmrush",
+      "title": "Farm Life: Harvest Tycoon",
+      "developer": "Miniclip.com",
+      "icon": "https://play-lh.googleusercontent.com/HpMAHM9b2nSlFM5I9lsG3d0igyBAzaIKJLPogscIWD5RpfcKHtk8hJ9kmnGGvsnAyRF1tjj3uSW9-TU1_1CxxHk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.farmrush&hl=ko&gl=KR",
       "discoveredDate": "2026-09-20",
       "isGame": true
     },
@@ -4992,15 +5002,6 @@
       "icon": "https://play-lh.googleusercontent.com/CD1tSZVG1hd-uPxvjXgOpbfRBavQ7G3hZl0ea8PglloMj-QuRhzMJMQerxABjb_Ns3HzC2jGpVHRcxogFTUe",
       "url": "https://play.google.com/store/apps/details?id=games.my.sniper.wild.hunting&hl=ko&gl=KR",
       "discoveredDate": "2026-07-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.fansipan.stickman.shadow.knights.fightinggames",
-      "title": "쉐도우나이트: RPG 격투액션게임 - 오프라인",
-      "developer": "Fansipan Limited",
-      "icon": "https://play-lh.googleusercontent.com/164qqscEsxZaMmzCoPxqPzkUC5iZMblELtT4zxcmfwoLsAvKnscwjU4iSeYJYAq34XlWj76IRlHd4-YkweoBnA",
-      "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-07",
       "isGame": true
     },
     {
