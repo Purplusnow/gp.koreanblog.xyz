@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T15:57:45.143Z",
+  "updatedAt": "2026-09-20T18:41:54.705Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1806,9 +1806,19 @@
     "com.pubg.newstate",
     "com.tencent.rmos",
     "com.rockbite.zombieoutpost",
-    "com.miniclip.farmrush"
+    "com.miniclip.farmrush",
+    "com.ministone.game.risingsuperchef2"
   ],
   "items": [
+    {
+      "appId": "com.ministone.game.risingsuperchef2",
+      "title": "라이징 슈퍼 셰프 - 빠르게 요리하기",
+      "developer": "Mini Stone Games - Chef & Restaurant Cooking Games",
+      "icon": "https://play-lh.googleusercontent.com/zdgkkB2_CHibCv1OOqmx29JexKqS1_xdEVtzjgAw5sB0VOFCaI_jHpNvhcwZSRWLOdBEa1A7_gBfXEqcO009yA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ministone.game.risingsuperchef2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-21",
+      "isGame": true
+    },
     {
       "appId": "net.gameduo.bbc",
       "title": "붐붐캡틴: 서바이벌",
@@ -5002,15 +5012,6 @@
       "icon": "https://play-lh.googleusercontent.com/CD1tSZVG1hd-uPxvjXgOpbfRBavQ7G3hZl0ea8PglloMj-QuRhzMJMQerxABjb_Ns3HzC2jGpVHRcxogFTUe",
       "url": "https://play.google.com/store/apps/details?id=games.my.sniper.wild.hunting&hl=ko&gl=KR",
       "discoveredDate": "2026-07-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.allstarunion.lastfurry",
-      "title": "라스트 퍼리: 서바이벌",
-      "developer": "StarUnion",
-      "icon": "https://play-lh.googleusercontent.com/gpC3-9pk1WvKnQJgZToRYQYu561aVBNbpNhy53zfNucHMLPUpLq2FUqMPNNvgTVyWMjyad_XmS26YocyevqzSQ",
-      "url": "https://play.google.com/store/apps/details?id=com.allstarunion.lastfurry&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-07",
       "isGame": true
     },
     {
