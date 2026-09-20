@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:41:54.705Z",
+  "updatedAt": "2026-09-20T21:27:33.045Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1807,7 +1807,10 @@
     "com.tencent.rmos",
     "com.rockbite.zombieoutpost",
     "com.miniclip.farmrush",
-    "com.ministone.game.risingsuperchef2"
+    "com.ministone.game.risingsuperchef2",
+    "com.tinybytes.massivecars",
+    "com.hhsykr.gcz",
+    "air.com.tensquaregames.letsfish"
   ],
   "items": [
     {
@@ -1816,6 +1819,33 @@
       "developer": "Mini Stone Games - Chef & Restaurant Cooking Games",
       "icon": "https://play-lh.googleusercontent.com/zdgkkB2_CHibCv1OOqmx29JexKqS1_xdEVtzjgAw5sB0VOFCaI_jHpNvhcwZSRWLOdBEa1A7_gBfXEqcO009yA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.ministone.game.risingsuperchef2&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.tinybytes.massivecars",
+      "title": "Battle Cars: 자동차 전투 아레나",
+      "developer": "TinyBytes",
+      "icon": "https://play-lh.googleusercontent.com/Ud58yzGiIkndv5Xwy3LeB5N79NskV-3zUUor5bEtax6LwejsRms3-ce8d0NBWJmBXKEf_8T0dJOaCn_7Nd2Yqg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tinybytes.massivecars&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.hhsykr.gcz",
+      "title": "LUNAR：에버소울",
+      "developer": "CLOVER GAMES",
+      "icon": "https://play-lh.googleusercontent.com/_v2N_bXUpojpQT8AC8_AZMlFyVhOeBUW7MXPF-5u_vK4Ud3JBGBy5nKxTBg6BjI64GNvaMtO3JtAqH5RswylW74=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hhsykr.gcz&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-21",
+      "isGame": true
+    },
+    {
+      "appId": "air.com.tensquaregames.letsfish",
+      "title": "Let's Fish: 낚시 게임",
+      "developer": "Ten Square Games",
+      "icon": "https://play-lh.googleusercontent.com/CxAgv1-Gh50PDm_naL6dxhyluCn-auG2sqit3dp6BPXJK-BQs5_mwJYWeKaauqVIXHqYU363jcQ6bU7qgtFdJQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=air.com.tensquaregames.letsfish&hl=ko&gl=KR",
       "discoveredDate": "2026-09-21",
       "isGame": true
     },
@@ -4967,33 +4997,6 @@
       "icon": "https://play-lh.googleusercontent.com/MYiX74lJeVUlwa4snNRVQMx9FAPscG6Hz5oywlRbvcEKTcm42l6a9KMQrBviHPncafaVEYmjdXDpgg-g0RLc83I",
       "url": "https://play.google.com/store/apps/details?id=com.fingerfun.coc.gplay&hl=ko&gl=KR",
       "discoveredDate": "2026-07-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.Pocketpair.NeverGrave",
-      "title": "Never Grave",
-      "developer": "Pocketpair Publishing",
-      "icon": "https://play-lh.googleusercontent.com/NC1C79_fLC7WrYekJPh1JauBrdJUasGTarG-MeFks4DRY6IqDtDRuqKEW3_U9d2q43o9mFooJrvuz2c2focb",
-      "url": "https://play.google.com/store/apps/details?id=com.Pocketpair.NeverGrave&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.game.kingrush",
-      "title": "콩콩던전",
-      "developer": "Habby",
-      "icon": "https://play-lh.googleusercontent.com/7mFryefjr3vrxE2olrIjIW2NqlE7OYB54cn7P47BZO4yOEbKUh_eKFt1p88tbBE62Yn986MfRgeSZ4zW4GSxcw",
-      "url": "https://play.google.com/store/apps/details?id=com.game.kingrush&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.kr.lfhsgp",
-      "title": "그레이 사가",
-      "developer": "Leniu Technology Co., Limited",
-      "icon": "https://play-lh.googleusercontent.com/2skPatgAZcP6J5WfOaE4VnLH9902Hh3HC15QfM1MCIt_Wt5s_5BPw5uFuxZHZKRTX96kOQMqxhW6Memi74UmYA",
-      "url": "https://play.google.com/store/apps/details?id=com.kr.lfhsgp&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-08",
       "isGame": true
     },
     {
