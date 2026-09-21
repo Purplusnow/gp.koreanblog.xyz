@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T13:56:40.297Z",
+  "updatedAt": "2026-09-21T19:18:04.556Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1810,9 +1810,29 @@
     "com.ministone.game.risingsuperchef2",
     "com.tinybytes.massivecars",
     "com.hhsykr.gcz",
-    "air.com.tensquaregames.letsfish"
+    "air.com.tensquaregames.letsfish",
+    "com.ratinghope.gplay",
+    "com.more.lastshelter.gp"
   ],
   "items": [
+    {
+      "appId": "com.ratinghope.gplay",
+      "title": "타이탄 러쉬: 서바이벌",
+      "developer": "RATING GAME",
+      "icon": "https://play-lh.googleusercontent.com/sxhliWIHQkxvxkVnR1YJa-Bls74C3av7VXIAcZKGnbbO12vLFpw1bINH8VeCZ2yw8uwL5ApP1cQ16g7FMJWYnQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ratinghope.gplay&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.more.lastshelter.gp",
+      "title": "Last Shelter: War Z",
+      "developer": "LAST ORIGIN STUDIO LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-22",
+      "isGame": true
+    },
     {
       "appId": "com.ministone.game.risingsuperchef2",
       "title": "라이징 슈퍼 셰프 - 빠르게 요리하기",
@@ -4997,24 +5017,6 @@
       "icon": "https://play-lh.googleusercontent.com/MYiX74lJeVUlwa4snNRVQMx9FAPscG6Hz5oywlRbvcEKTcm42l6a9KMQrBviHPncafaVEYmjdXDpgg-g0RLc83I",
       "url": "https://play.google.com/store/apps/details?id=com.fingerfun.coc.gplay&hl=ko&gl=KR",
       "discoveredDate": "2026-07-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.wemade.golfsc",
-      "title": "골프 슈퍼 크루 : 실시간 골프 게임",
-      "developer": "Two Hands Games Inc.",
-      "icon": "https://play-lh.googleusercontent.com/gSGyblQ7xG3lGZlH-qTK64o9fUDSl8YFUOOLqU-Dx1X0oj3XbH_9ELEG5-oQIld0SClvJ36GNLKXAMxI86NdEpA",
-      "url": "https://play.google.com/store/apps/details?id=com.wemade.golfsc&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-08",
-      "isGame": true
-    },
-    {
-      "appId": "games.my.sniper.wild.hunting",
-      "title": "헌팅 라이벌즈: 사격게임과 동물사냥",
-      "developer": "KEYSTORM HOLDINGS LTD",
-      "icon": "https://play-lh.googleusercontent.com/CD1tSZVG1hd-uPxvjXgOpbfRBavQ7G3hZl0ea8PglloMj-QuRhzMJMQerxABjb_Ns3HzC2jGpVHRcxogFTUe",
-      "url": "https://play.google.com/store/apps/details?id=games.my.sniper.wild.hunting&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-08",
       "isGame": true
     },
     {
