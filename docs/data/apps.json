@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T19:18:04.556Z",
+  "updatedAt": "2026-09-21T23:12:09.885Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1812,7 +1812,9 @@
     "com.hhsykr.gcz",
     "air.com.tensquaregames.letsfish",
     "com.ratinghope.gplay",
-    "com.more.lastshelter.gp"
+    "com.more.lastshelter.gp",
+    "com.ghostshippublishing.deeprockgalacticsurvivor",
+    "com.mage.goalbattle"
   ],
   "items": [
     {
@@ -1830,6 +1832,24 @@
       "developer": "LAST ORIGIN STUDIO LIMITED",
       "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.ghostshippublishing.deeprockgalacticsurvivor",
+      "title": "Deep Rock Galactic: Survivor",
+      "developer": "Ghost Ship Publishing ApS",
+      "icon": "https://play-lh.googleusercontent.com/9c7Jtgblhy9MRJTCrr-htiRyWfGJqSv3c9GC38yblXM-4ig6BcNkWKhJbjqDZU1k0hosigQtKlLXUoS0vNhkrQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ghostshippublishing.deeprockgalacticsurvivor&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.mage.goalbattle",
+      "title": "Goal Battle - 축구 게임",
+      "developer": "MAGE Games",
+      "icon": "https://play-lh.googleusercontent.com/EJ0maMhQbmk6tVA7roVn9c1jZhFSqepGQuPtZZdYltljdNRQLM5_uz2V63Fn42wAlvAWd4cIpn79zGUqbIDa=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mage.goalbattle&hl=ko&gl=KR",
       "discoveredDate": "2026-09-22",
       "isGame": true
     },
@@ -4984,15 +5004,6 @@
       "isGame": true
     },
     {
-      "appId": "com.playtstudio.abyssknight",
-      "title": "심연의 기사 키우기",
-      "developer": "Playt Dev",
-      "icon": "https://play-lh.googleusercontent.com/zbQzfGg2aNJp2j5tjGZPG4GGHC2FGTv3WzHPKnxgFGpOZBVDyVJiDM9S5wG6X3f49S4-ca3xA-mtWfukjJ6gKA",
-      "url": "https://play.google.com/store/apps/details?id=com.playtstudio.abyssknight&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-10",
-      "isGame": true
-    },
-    {
       "appId": "com.blackdust.redblue",
       "title": "냥찍 히어로즈 : 방치형 RPG",
       "developer": "RIFF GAMES Co., Ltd.",
@@ -5008,15 +5019,6 @@
       "icon": "https://play-lh.googleusercontent.com/0iNlsT9AMnxLalmfGIrDQor5kEkrG8NrY0lzxI-zLCOHRQdJkTUJXt3Ry4PudQxaRf6z4ofvw2AYPBuwyrkLMQ",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.tog&hl=ko&gl=KR",
       "discoveredDate": "2026-07-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.fingerfun.coc.gplay",
-      "title": "범죄 도시:City of Crime",
-      "developer": "CrushGameTechnologyLimited",
-      "icon": "https://play-lh.googleusercontent.com/MYiX74lJeVUlwa4snNRVQMx9FAPscG6Hz5oywlRbvcEKTcm42l6a9KMQrBviHPncafaVEYmjdXDpgg-g0RLc83I",
-      "url": "https://play.google.com/store/apps/details?id=com.fingerfun.coc.gplay&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-09",
       "isGame": true
     },
     {
