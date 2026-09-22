@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T18:45:54.852Z",
+  "updatedAt": "2026-09-22T21:59:22.126Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1814,9 +1814,99 @@
     "com.ratinghope.gplay",
     "com.more.lastshelter.gp",
     "com.ghostshippublishing.deeprockgalacticsurvivor",
-    "com.mage.goalbattle"
+    "com.mage.goalbattle",
+    "com.Alientrap.DuneCrawl",
+    "com.ArrugaCorp.DarkMerge",
+    "com.HoYoverse.Planet",
+    "com.acingame.wgllworld.google",
+    "com.TeamSparta.DuckBrothers",
+    "com.cookapps.roaddefense",
+    "com.crevasse.ohsnack",
+    "com.davestudio.mika",
+    "com.doghowl.DropDuchy"
   ],
   "items": [
+    {
+      "appId": "com.Alientrap.DuneCrawl",
+      "title": "DuneCrawl",
+      "developer": "Alientrap Games Inc",
+      "icon": "https://play-lh.googleusercontent.com/ZNZqMwMskoB5XkiRCSfdVRNjYVyKsv8wg2ci001ReIyv-pY3rNOCGAaQDDb2WG7lhQ6ZztvuG_WzleEtn_rVpQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.Alientrap.DuneCrawl&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.ArrugaCorp.DarkMerge",
+      "title": "Dark Merge Farm",
+      "developer": "ArruGa Corp.",
+      "icon": "https://play-lh.googleusercontent.com/Uej1dMECZsDUPd5KzsgA9XlIWuMf74Jf-PbBr3WoFcERKhk8NlgJJZftweomEcc4DIuAiHgzmuT_Whut46GsqQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ArrugaCorp.DarkMerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.HoYoverse.Planet",
+      "title": "쁘띠플래닛",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/9FI3Ynto6pCldvXRHps-U_IcrKaVUlUZ6H-OsLANOr7-pshvIeN6DdmgMMXyStbE3wQl5qE57EhVDiii9YseHQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Planet&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.acingame.wgllworld.google",
+      "title": "Mortal to Immortal: Idle RPG",
+      "developer": "Acingfun",
+      "icon": "https://play-lh.googleusercontent.com/rZHEnH83NEW4rlU4uBGpu0EDakHk_UqdXiX-Je2h8ezNFAVoflEiLE8s8dWIne9anXxr-hfK8hm4_hQuouFnen4=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.acingame.wgllworld.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.TeamSparta.DuckBrothers",
+      "title": "레전드 오브 덕 브라더스 : 방치형 RPG",
+      "developer": "Teamsparta Inc.",
+      "icon": "https://play-lh.googleusercontent.com/qy-0JTcj43ZEM6SLPaMc_HpwShDFGkFFZXHJwcQslC5pH4LBEh9Ctv6ZYeKGGpPEao_aUalZfVxKegOhOgHMxUU=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.DuckBrothers&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.cookapps.roaddefense",
+      "title": "매드덕스: 로그라이크 디펜스",
+      "developer": "Purplecow games",
+      "icon": "https://play-lh.googleusercontent.com/N_NPQpGbZ-i_fNOxlOFTv-HoLorPgartW8-KOn9cg6lOjsBdJ4Y_0NVxaSJf8Irx6I0Z9zOe92N7p-KtJzn8mQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.roaddefense&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.crevasse.ohsnack",
+      "title": "오, 간식!",
+      "developer": "Tepes Ovidiu",
+      "icon": "https://play-lh.googleusercontent.com/q_pVNt1HpChlYBNRrUQLizrN8hs90iArI8kRAWMr9W-l2c4QmdaWQ7x6ICUvv_W0a3vwEKD8dm42RcF6Z4Kc7w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.crevasse.ohsnack&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.davestudio.mika",
+      "title": "미카: 던전 백패커",
+      "developer": "Dave Studio",
+      "icon": "https://play-lh.googleusercontent.com/1Lwtu690PjvsO7_Gh2atWP0_twv95-aOzoUoxxelvPQw78bzt95dPWpXvC6eyiMac7HaYG63Hlx5Gjrkz4mJLdc=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.davestudio.mika&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.doghowl.DropDuchy",
+      "title": "Drop Duchy",
+      "developer": "Doghowl Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/1ltQBbWB7tW4bMGLL6iNc8XCe7y5QEiq7REVdt0ix1uRbHGVn3wxVcI-ymNl30F_NnbE5NDgkk4_QOIRe8Cs=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowl.DropDuchy&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
     {
       "appId": "com.ratinghope.gplay",
       "title": "타이탄 러쉬: 서바이벌",
@@ -4914,24 +5004,6 @@
       "isGame": true
     },
     {
-      "appId": "com.jsjskr.google",
-      "title": "토이 삼국",
-      "developer": "Rhinos",
-      "icon": "https://play-lh.googleusercontent.com/9iZHvfP7PP6Hc8kfL0dNANHzjaRQQzzDAiTbpAALAfMNNp5ink50ex2MlamkJtkm9NnqCsJtffC57lpwU_Shmg",
-      "url": "https://play.google.com/store/apps/details?id=com.jsjskr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.datealive.action.rpg",
-      "title": "데이트 어 라이브: 정령의 메아리",
-      "developer": "HK Adma Tech Limited",
-      "icon": "https://play-lh.googleusercontent.com/4k0RwMhSkDTUZMErRSH9eX36jD38-OupApcmGm1Eje_QQWwUuV5TuXP5Dt5CLVTJJDkuaJPakObrDLl0lWtz4x4",
-      "url": "https://play.google.com/store/apps/details?id=com.datealive.action.rpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-12",
-      "isGame": true
-    },
-    {
       "appId": "com.dlw.kr.google",
       "title": "시티 데몬헌터즈: 각성자들",
       "developer": "Dawn Breaking Game",
@@ -4956,69 +5028,6 @@
       "icon": "https://play-lh.googleusercontent.com/X_zndsaNlJG9ZM1B5_dddhEGUEh1QJqSgGhtn5cszLZRoP94G4moDnjn06cFOAxW4ghdQPmGxNxjV6lU2mrX6w",
       "url": "https://play.google.com/store/apps/details?id=com.redhedgies.colorsweeper&hl=ko&gl=KR",
       "discoveredDate": "2026-07-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.innogames.riseofcultures",
-      "title": "Rise of Cultures - 왕국 게임",
-      "developer": "InnoGames GmbH",
-      "icon": "https://play-lh.googleusercontent.com/iTpaZfEmgvNTyQvW9rTFk0_rxiW-oWrFblq04SgyZLNJ3m2ngLjW_-o9XBs4OGTfCJes0AOyU44BrVyXOygVbA",
-      "url": "https://play.google.com/store/apps/details?id=com.innogames.riseofcultures&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.innogames.heroesofhistory",
-      "title": "Heroes of History: Epic Empire",
-      "developer": "InnoGames GmbH",
-      "icon": "https://play-lh.googleusercontent.com/DeOf_cyeJiD0E_i_1m-DKVLrdwhKjo7WiaHhQHajJmE3QHNWJuTz3ImXRYaNO7mKSUHrzm3zdFdgW4zX0930uw",
-      "url": "https://play.google.com/store/apps/details?id=com.innogames.heroesofhistory&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.igg.castleclash",
-      "title": "캐슬 크래시: 세계 지배자",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/VLqAlm6kp0KDrVkTQOUU5kLkT8y8WeNZu3Jk5XQvLX3_ZfUyY0VM31SfQRHZ2yDPFKEBo7QCMIEPXkDUSCWScKY",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.castleclash&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.Gameplete.CardFantasy",
-      "title": "트리플 판타지 : 카드 전략 수집형 RPG",
-      "developer": "Gameplete",
-      "icon": "https://play-lh.googleusercontent.com/Sl-LYR2P5dYfO8rC3UEj-CV9UxYMcX6UjVqaURSwIUg5XOeUlYMTp6VQpQcqu_aKciHEKSdLi_uQ9yizZItUa5w",
-      "url": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasy&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.fiveminlab.overgeared.hero.backpack.merge",
-      "title": "템빨용사: 픽셀 아이템 머지 RPG",
-      "developer": "5minlab Corp.",
-      "icon": "https://play-lh.googleusercontent.com/pq6TmQHE1UkFrAMGPfgMupWLZy2BQeQ8B5fPAQzuP6l5fSOrqpOyxfCCQzT71nPWcGsEl8eKEna68UdQytpdQg",
-      "url": "https://play.google.com/store/apps/details?id=com.fiveminlab.overgeared.hero.backpack.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.blackdust.redblue",
-      "title": "냥찍 히어로즈 : 방치형 RPG",
-      "developer": "RIFF GAMES Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/Op0BKCLrMyRqYHjZ4DN7P0nPzyttQqShFKt6QmIvzseTymxPAOoCoInTRNWZI94JahqxJeprYOmtp-UpB4U-NA",
-      "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.tog",
-      "title": "신의 탑: 새로운 세계",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/0iNlsT9AMnxLalmfGIrDQor5kEkrG8NrY0lzxI-zLCOHRQdJkTUJXt3Ry4PudQxaRf6z4ofvw2AYPBuwyrkLMQ",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.tog&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-10",
       "isGame": true
     },
     {
