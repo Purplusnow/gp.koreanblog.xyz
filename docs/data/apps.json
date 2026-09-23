@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:47:01.186Z",
+  "updatedAt": "2026-09-23T20:12:11.278Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1826,9 +1826,19 @@
     "com.doghowl.DropDuchy",
     "com.slg.policewar",
     "com.jedi.renovation",
-    "com.oakever.jigsawcard"
+    "com.oakever.jigsawcard",
+    "water.sortpuz.puzzle.sort.quest"
   ],
   "items": [
+    {
+      "appId": "water.sortpuz.puzzle.sort.quest",
+      "title": "Order Crazy: Water Sort Puzzle",
+      "developer": "Snap Brain Games",
+      "icon": "https://play-lh.googleusercontent.com/EagHSr8x17HJmlqpp8kFI59BVQv3Aw_iX2xZ9eskmrA09Lo8evp5P0Yh5Z2-7mfkIemz77YjZ0MclGwMpcAnPw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=water.sortpuz.puzzle.sort.quest&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-24",
+      "isGame": true
+    },
     {
       "appId": "com.Alientrap.DuneCrawl",
       "title": "DuneCrawl",
@@ -5013,15 +5023,6 @@
       "icon": "https://play-lh.googleusercontent.com/TjTh8zzc8P1KTREfLDpNTHmpRnca_kedbb4eCT2p_T8XTP1x_fFtunw3q1L7slKv8dxleAfxVw245EeqhWcxCQ",
       "url": "https://play.google.com/store/apps/details?id=com.zroute.global&hl=ko&gl=KR",
       "discoveredDate": "2026-07-15",
-      "isGame": true
-    },
-    {
-      "appId": "jp.co.goodroid.hyper.busflow",
-      "title": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-14",
       "isGame": true
     },
     {
