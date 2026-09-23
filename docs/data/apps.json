@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:12:11.278Z",
+  "updatedAt": "2026-09-23T23:36:14.590Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1827,7 +1827,9 @@
     "com.slg.policewar",
     "com.jedi.renovation",
     "com.oakever.jigsawcard",
-    "water.sortpuz.puzzle.sort.quest"
+    "water.sortpuz.puzzle.sort.quest",
+    "com.tencent.cosg",
+    "com.hg.mergecandypark.android"
   ],
   "items": [
     {
@@ -1836,6 +1838,24 @@
       "developer": "Snap Brain Games",
       "icon": "https://play-lh.googleusercontent.com/EagHSr8x17HJmlqpp8kFI59BVQv3Aw_iX2xZ9eskmrA09Lo8evp5P0Yh5Z2-7mfkIemz77YjZ0MclGwMpcAnPw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=water.sortpuz.puzzle.sort.quest&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.tencent.cosg",
+      "title": "언던 (Undawn)",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/n1lmlKbq1lI8Oyi_T0TGAdbBYickrZQFmsnZaK21XGy9GAJqMUsgnz6nGZjeT5OgVh8TKksiFBhZLgrgaDIOLA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.cosg&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.hg.mergecandypark.android",
+      "title": "스위트 이스케이프: 캔디파크 대모험",
+      "developer": "Hello Games Team",
+      "icon": "https://play-lh.googleusercontent.com/qj7r8HVILG5UGglGxntZRBslef4QAcj6gFmDrBCx3GvFOsKODIXOV_gOktt1w-3RRd66fA9SArkEsnh5M4vE-Q=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.mergecandypark.android&hl=ko&gl=KR",
       "discoveredDate": "2026-09-24",
       "isGame": true
     },
@@ -5008,30 +5028,12 @@
       "isGame": true
     },
     {
-      "appId": "com.mobirix.tdwt",
-      "title": "터렛 디펜스 킹",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/SE8M7cSHdVCHxSwF53doi2c1fnM99tNMFEhKQHD06i_Encj-fRdYAcKLTR1AvtmZiGX1V0oyAxPFbwobuNtjAA",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.tdwt&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-15",
-      "isGame": true
-    },
-    {
       "appId": "com.zroute.global",
       "title": "Z 루트: 리뎀션",
       "developer": "37GAMES GLOBAL",
       "icon": "https://play-lh.googleusercontent.com/TjTh8zzc8P1KTREfLDpNTHmpRnca_kedbb4eCT2p_T8XTP1x_fFtunw3q1L7slKv8dxleAfxVw245EeqhWcxCQ",
       "url": "https://play.google.com/store/apps/details?id=com.zroute.global&hl=ko&gl=KR",
       "discoveredDate": "2026-07-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.kingkodestudio.towerdefense.battlestrategy",
-      "title": "전투 전략: 타워 디펜스 TD",
-      "developer": "Zygle Games",
-      "icon": "https://play-lh.googleusercontent.com/_wOF1rbYOqt7f6wsEwHZkVKEfU-UiR31HHJb340hCAgC7WAj5EfiXWKj0Ti_RZVI2AqErtiRSRTxKYbPWRX7GO0",
-      "url": "https://play.google.com/store/apps/details?id=com.kingkodestudio.towerdefense.battlestrategy&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-14",
       "isGame": true
     },
     {
