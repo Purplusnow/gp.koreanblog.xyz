@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:59:22.126Z",
+  "updatedAt": "2026-09-23T00:20:20.667Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1823,7 +1823,10 @@
     "com.cookapps.roaddefense",
     "com.crevasse.ohsnack",
     "com.davestudio.mika",
-    "com.doghowl.DropDuchy"
+    "com.doghowl.DropDuchy",
+    "com.slg.policewar",
+    "com.jedi.renovation",
+    "com.oakever.jigsawcard"
   ],
   "items": [
     {
@@ -1904,6 +1907,33 @@
       "developer": "Doghowl Games Ltd",
       "icon": "https://play-lh.googleusercontent.com/1ltQBbWB7tW4bMGLL6iNc8XCe7y5QEiq7REVdt0ix1uRbHGVn3wxVcI-ymNl30F_NnbE5NDgkk4_QOIRe8Cs=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.doghowl.DropDuchy&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.slg.policewar",
+      "title": "폴리스 치프",
+      "developer": "VoyagerOne IE",
+      "icon": "https://play-lh.googleusercontent.com/w33GZBYhYKwUwUzkNcIcw-EruqdrCciVN5UhCmyn1Z8BDGLDyKeqBrU8IXVKz6P1R5tX1NT6H2sX75YADW4Lug=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.slg.policewar&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.jedi.renovation",
+      "title": "리노베이션 데이 (Renovation Day)",
+      "developer": "SayGames Ltd",
+      "icon": "https://play-lh.googleusercontent.com/8FV9EMvPkRhmUhdDyxqRstU4CYxi5mLhKhMMQxL-95MMZyohwEvurdAr_DgjxFyfuWVMdVO8YiHyfzlD7lGiBg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.jedi.renovation&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.oakever.jigsawcard",
+      "title": "Jigsawcard Solitaire Puzzle",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/i-gK0mDTnzfNe_76IawxphCZC9P-OgiKVTTvFGCx1U5OHpnv5x1fOHYCbKiAJYc58Mn2b5_macLs9E8aqcfauQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=ko&gl=KR",
       "discoveredDate": "2026-09-23",
       "isGame": true
     },
@@ -5001,33 +5031,6 @@
       "icon": "https://play-lh.googleusercontent.com/_wOF1rbYOqt7f6wsEwHZkVKEfU-UiR31HHJb340hCAgC7WAj5EfiXWKj0Ti_RZVI2AqErtiRSRTxKYbPWRX7GO0",
       "url": "https://play.google.com/store/apps/details?id=com.kingkodestudio.towerdefense.battlestrategy&hl=ko&gl=KR",
       "discoveredDate": "2026-07-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.dlw.kr.google",
-      "title": "시티 데몬헌터즈: 각성자들",
-      "developer": "Dawn Breaking Game",
-      "icon": "https://play-lh.googleusercontent.com/cBfuLqU7YLb6TpaIWuKwdC6GjYwShLN4tVnWEfvEXdgPiFYRNugzcQWC8Rzuh-zxw29vqb_fHdF7qjxm1GZQQw",
-      "url": "https://play.google.com/store/apps/details?id=com.dlw.kr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.semruk.harvestking",
-      "title": "수확왕-농장 타워 디펜스 (Harvest King)",
-      "developer": "Homa",
-      "icon": "https://play-lh.googleusercontent.com/dqbESGVJ9DCMGf1uJ60IhOjLAUZPS8b7RpP7B4lq_aW8iWp0pMFcHyJ4K-zDQt5218xXU5njCcpuPrFXLFhoCg",
-      "url": "https://play.google.com/store/apps/details?id=com.semruk.harvestking&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.redhedgies.colorsweeper",
-      "title": "컬러스위퍼",
-      "developer": "RATEL",
-      "icon": "https://play-lh.googleusercontent.com/X_zndsaNlJG9ZM1B5_dddhEGUEh1QJqSgGhtn5cszLZRoP94G4moDnjn06cFOAxW4ghdQPmGxNxjV6lU2mrX6w",
-      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.colorsweeper&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-12",
       "isGame": true
     },
     {
