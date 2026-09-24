@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:01:49.589Z",
+  "updatedAt": "2026-09-24T22:16:35.282Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1832,7 +1832,8 @@
     "com.hg.mergecandypark.android",
     "car.parking.jam.solver.puzzle.games",
     "com.tutotoons.app.dopplesworld",
-    "com.fc.coin.sort.merge.puzzle"
+    "com.fc.coin.sort.merge.puzzle",
+    "com.chamelio.alcatmist"
   ],
   "items": [
     {
@@ -1841,6 +1842,15 @@
       "developer": "1Soft Go Global",
       "icon": "https://play-lh.googleusercontent.com/ZqoXrLmsEqv1lEgiNDwQR5Fvy2b2zNlwYsyVUbVBhpr4LGpeSI8bkqwT7Q5gDYE69pawQpZ4fVNxc7IXPCiDSQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.fc.coin.sort.merge.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.chamelio.alcatmist",
+      "title": "냥금술사 : 고양이 & 머지",
+      "developer": "Chamelio Games",
+      "icon": "https://play-lh.googleusercontent.com/DwiSjvwtE-xWQfbwnbB9T_7BveL6u9rmtBvC5QAQFAQoR889ImqsGECv19uTq0vdylCbz2yHQ3J1xmB5yFWU3w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.chamelio.alcatmist&hl=ko&gl=KR",
       "discoveredDate": "2026-09-25",
       "isGame": true
     },
@@ -5010,15 +5020,6 @@
       "icon": "https://play-lh.googleusercontent.com/L4yqHl63yrsNUT14Zl-24hMVxqLmMgVaJBlsCviK7A9nm-7gstT5VIkeU7rDh0ysG9un_VlBcww9GX0u_-yTYg",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.oakever.meowdoku",
-      "title": "Meowdoku: 두뇌 퍼즐 게임",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
-      "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-16",
       "isGame": true
     },
     {
