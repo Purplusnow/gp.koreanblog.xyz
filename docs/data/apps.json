@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T14:55:25.297Z",
+  "updatedAt": "2026-09-24T19:01:49.589Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1831,9 +1831,19 @@
     "com.tencent.cosg",
     "com.hg.mergecandypark.android",
     "car.parking.jam.solver.puzzle.games",
-    "com.tutotoons.app.dopplesworld"
+    "com.tutotoons.app.dopplesworld",
+    "com.fc.coin.sort.merge.puzzle"
   ],
   "items": [
+    {
+      "appId": "com.fc.coin.sort.merge.puzzle",
+      "title": "코인 정렬 머지 퍼즐",
+      "developer": "1Soft Go Global",
+      "icon": "https://play-lh.googleusercontent.com/ZqoXrLmsEqv1lEgiNDwQR5Fvy2b2zNlwYsyVUbVBhpr4LGpeSI8bkqwT7Q5gDYE69pawQpZ4fVNxc7IXPCiDSQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.coin.sort.merge.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-25",
+      "isGame": true
+    },
     {
       "appId": "water.sortpuz.puzzle.sort.quest",
       "title": "Order Crazy: Water Sort Puzzle",
@@ -5000,15 +5010,6 @@
       "icon": "https://play-lh.googleusercontent.com/L4yqHl63yrsNUT14Zl-24hMVxqLmMgVaJBlsCviK7A9nm-7gstT5VIkeU7rDh0ysG9un_VlBcww9GX0u_-yTYg",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.innogames.elvenar",
-      "title": "Elvenar - Fantasy Kingdom",
-      "developer": "InnoGames GmbH",
-      "icon": "https://play-lh.googleusercontent.com/vkqECdzvqQY1Sjrrk6CeZ-zxvG0-ZuiAOoSN_aZVXljQlMNidP--R7G0GnUuvoxs0cPdaynQCRGuuzcq34fKBA",
-      "url": "https://play.google.com/store/apps/details?id=com.innogames.elvenar&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-16",
       "isGame": true
     },
     {
