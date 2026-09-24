@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T23:36:14.590Z",
+  "updatedAt": "2026-09-24T04:34:57.430Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1829,7 +1829,9 @@
     "com.oakever.jigsawcard",
     "water.sortpuz.puzzle.sort.quest",
     "com.tencent.cosg",
-    "com.hg.mergecandypark.android"
+    "com.hg.mergecandypark.android",
+    "car.parking.jam.solver.puzzle.games",
+    "com.tutotoons.app.dopplesworld"
   ],
   "items": [
     {
@@ -1856,6 +1858,24 @@
       "developer": "Hello Games Team",
       "icon": "https://play-lh.googleusercontent.com/qj7r8HVILG5UGglGxntZRBslef4QAcj6gFmDrBCx3GvFOsKODIXOV_gOktt1w-3RRd66fA9SArkEsnh5M4vE-Q=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.hg.mergecandypark.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-24",
+      "isGame": true
+    },
+    {
+      "appId": "car.parking.jam.solver.puzzle.games",
+      "title": "Car Jam Solver:카잼 솔버、버스게임、주차게임",
+      "developer": "Ladaneta Games",
+      "icon": "https://play-lh.googleusercontent.com/K-kk0DZSa5PGTqE7oSEi-x9q2d8WZNhB76mIQ3i2y5LP3CTLOwfrGg_omkd-ZBt9VgSBRpa3sfFTnvbFwmAyJrA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=car.parking.jam.solver.puzzle.games&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.tutotoons.app.dopplesworld",
+      "title": "Dopples World",
+      "developer": "TutoTOONS",
+      "icon": "https://play-lh.googleusercontent.com/2C1rJacbvlS5joAOHptzaU1he8n-WfApUx_bPvb-mzZahzW7jsRWLKG8qUB31oU73H-dn9R--y6EmZbkjsoc8ks=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.dopplesworld&hl=ko&gl=KR",
       "discoveredDate": "2026-09-24",
       "isGame": true
     },
@@ -4983,15 +5003,6 @@
       "isGame": true
     },
     {
-      "appId": "net.kairosoft.android.school2_en",
-      "title": "아카데미 스토리2",
-      "developer": "Kairosoft",
-      "icon": "https://play-lh.googleusercontent.com/jI1sB9_XgE_R8ScMr7Hz186w4fIeaC4Cld2VCMGz3LBDyNz7sDjfq84ESYfyeTg-otMVWJUUQmc-BipbV_lOMA",
-      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.school2_en&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-16",
-      "isGame": true
-    },
-    {
       "appId": "com.innogames.elvenar",
       "title": "Elvenar - Fantasy Kingdom",
       "developer": "InnoGames GmbH",
@@ -5025,15 +5036,6 @@
       "icon": "https://play-lh.googleusercontent.com/Ewffs__fx5b1Cd6H4kRJCR_EbNGbP9l2qoMTQvXJE_jM7IrjBnaVZJlQOAbnwSZL8AsvO6QoG3i2A-FgiS4z",
       "url": "https://play.google.com/store/apps/details?id=com.ares.twd&hl=ko&gl=KR",
       "discoveredDate": "2026-07-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.zroute.global",
-      "title": "Z 루트: 리뎀션",
-      "developer": "37GAMES GLOBAL",
-      "icon": "https://play-lh.googleusercontent.com/TjTh8zzc8P1KTREfLDpNTHmpRnca_kedbb4eCT2p_T8XTP1x_fFtunw3q1L7slKv8dxleAfxVw245EeqhWcxCQ",
-      "url": "https://play.google.com/store/apps/details?id=com.zroute.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-15",
       "isGame": true
     },
     {
