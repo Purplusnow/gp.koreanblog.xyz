@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T01:23:52.778Z",
+  "updatedAt": "2026-09-25T07:39:29.651Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1833,7 +1833,8 @@
     "car.parking.jam.solver.puzzle.games",
     "com.tutotoons.app.dopplesworld",
     "com.fc.coin.sort.merge.puzzle",
-    "com.chamelio.alcatmist"
+    "com.chamelio.alcatmist",
+    "com.lilithgames.rok.gpkr"
   ],
   "items": [
     {
@@ -1851,6 +1852,15 @@
       "developer": "Chamelio Games",
       "icon": "https://play-lh.googleusercontent.com/DwiSjvwtE-xWQfbwnbB9T_7BveL6u9rmtBvC5QAQFAQoR889ImqsGECv19uTq0vdylCbz2yHQ3J1xmB5yFWU3w=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.chamelio.alcatmist&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.lilithgames.rok.gpkr",
+      "title": "라이즈 오브 킹덤즈",
+      "developer": "LilithGames",
+      "icon": "https://play-lh.googleusercontent.com/tEy3rQXy4zD5B8NLUSH27by731SkVn6pKw68k-F_FICnehXYyyZmx_2JTyERzMRmjp7jbTSNWR8AUqM-FMlhsg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.lilithgames.rok.gpkr&hl=ko&gl=KR",
       "discoveredDate": "2026-09-25",
       "isGame": true
     },
@@ -5020,15 +5030,6 @@
       "icon": "https://play-lh.googleusercontent.com/L4yqHl63yrsNUT14Zl-24hMVxqLmMgVaJBlsCviK7A9nm-7gstT5VIkeU7rDh0ysG9un_VlBcww9GX0u_-yTYg",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.tree.idle.cat.academy",
-      "title": "고양이 마법학교 : 신비하고 귀여운 타이쿤",
-      "developer": "TREEPLLA",
-      "icon": "https://play-lh.googleusercontent.com/pYT8LljiKCd7VrZPqeTJMljZVDOzd2vtBEi-WNoD8-BuIJPlmFhhAKlO62Gbthn7UpSRTNnkRLnnUTHOpr1o",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.academy&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-16",
       "isGame": true
     },
     {
