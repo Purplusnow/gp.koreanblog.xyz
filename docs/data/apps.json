@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:04:19.646Z",
+  "updatedAt": "2026-09-26T19:47:45.104Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1834,9 +1834,19 @@
     "com.tutotoons.app.dopplesworld",
     "com.fc.coin.sort.merge.puzzle",
     "com.chamelio.alcatmist",
-    "com.lilithgames.rok.gpkr"
+    "com.lilithgames.rok.gpkr",
+    "com.IdleMagicSchool.jlyt"
   ],
   "items": [
+    {
+      "appId": "com.IdleMagicSchool.jlyt",
+      "title": "방치형 마법 아카데미",
+      "developer": "Longames",
+      "icon": "https://play-lh.googleusercontent.com/ok6a2txjKiHF2P2xJXkH7ONUtg107dN3l9WXLwCsxvC6olwTETHasECsVeOKpd7fRmNNM6F6gEP_3BYahl4FCg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.IdleMagicSchool.jlyt&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-27",
+      "isGame": true
+    },
     {
       "appId": "com.fc.coin.sort.merge.puzzle",
       "title": "코인 정렬 머지 퍼즐",
@@ -5030,15 +5040,6 @@
       "icon": "https://play-lh.googleusercontent.com/L4yqHl63yrsNUT14Zl-24hMVxqLmMgVaJBlsCviK7A9nm-7gstT5VIkeU7rDh0ysG9un_VlBcww9GX0u_-yTYg",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko&gl=KR",
       "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.ares.twd",
-      "title": "The Walking Dead: Aftermath",
-      "developer": "Ares Interactive, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/Ewffs__fx5b1Cd6H4kRJCR_EbNGbP9l2qoMTQvXJE_jM7IrjBnaVZJlQOAbnwSZL8AsvO6QoG3i2A-FgiS4z",
-      "url": "https://play.google.com/store/apps/details?id=com.ares.twd&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-16",
       "isGame": true
     },
     {
