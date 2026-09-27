@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:00:57.348Z",
+  "updatedAt": "2026-09-27T13:51:35.035Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1835,7 +1835,9 @@
     "com.fc.coin.sort.merge.puzzle",
     "com.chamelio.alcatmist",
     "com.lilithgames.rok.gpkr",
-    "com.IdleMagicSchool.jlyt"
+    "com.IdleMagicSchool.jlyt",
+    "com.mocacorp.tile",
+    "com.Chodun.CatGunner"
   ],
   "items": [
     {
@@ -1844,6 +1846,24 @@
       "developer": "Longames",
       "icon": "https://play-lh.googleusercontent.com/ok6a2txjKiHF2P2xJXkH7ONUtg107dN3l9WXLwCsxvC6olwTETHasECsVeOKpd7fRmNNM6F6gEP_3BYahl4FCg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.IdleMagicSchool.jlyt&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.mocacorp.tile",
+      "title": "타일 킹 - 트리플 매치",
+      "developer": "Moca",
+      "icon": "https://play-lh.googleusercontent.com/4vtYbxhpBkAdG2x78QEytu0AZkw14qdoJAht2WtWo1apxr6bsCWRdTaZth3i-XdVaSkenE1oUHbs9bmiOA5HcA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mocacorp.tile&hl=ko&gl=KR",
+      "discoveredDate": "2026-09-27",
+      "isGame": true
+    },
+    {
+      "appId": "com.Chodun.CatGunner",
+      "title": "총잡이 고양이 : 방치형 키우기 RPG",
+      "developer": "NEPTUNE(TREEPLLA)",
+      "icon": "https://play-lh.googleusercontent.com/RcMGExMrFHgDyG7dCWIJNpVhBpxFo5SQI_KYSANpVBGIAOTi4-5nIie__79aIFhs7-U3tD-D-Q-YY5GarRadmr0=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner&hl=ko&gl=KR",
       "discoveredDate": "2026-09-27",
       "isGame": true
     },
@@ -4959,24 +4979,6 @@
       "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "net.gameduo.anotherdungeon",
-      "title": "어나더던전",
-      "developer": "Gameduo",
-      "icon": "https://play-lh.googleusercontent.com/uS6kFH1HP5fYz9J4bNAb5wOL1vcwZikRfUzSajYc36m2o3ONvHT1-ro2g2QkwsN7pOS73qBXR1G8YV1glkFkHw",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.anotherdungeon&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.chirpysort.game.android",
-      "title": "Chirpy Sort: Bird Color Puzzle",
-      "developer": "AIM TOP GAME TECHNOLOGY LIMITED - Bird",
-      "icon": "https://play-lh.googleusercontent.com/78pU3tsZotVxo0J4Z2pTm-sX_1uR8UYvi2JzAjfEmuZ-iw7WYc_MqEurpos6N_HeUVyMXg0nRUu0VCV5sPnP-w",
-      "url": "https://play.google.com/store/apps/details?id=com.chirpysort.game.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
       "isGame": true
     },
     {
