@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:06:59.599Z",
+  "updatedAt": "2026-09-30T23:41:24.032Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1837,9 +1837,29 @@
     "com.lilithgames.rok.gpkr",
     "com.IdleMagicSchool.jlyt",
     "com.mocacorp.tile",
-    "com.Chodun.CatGunner"
+    "com.Chodun.CatGunner",
+    "gridplus.busjam.carpuzzle",
+    "com.springgames.archercastle"
   ],
   "items": [
+    {
+      "appId": "gridplus.busjam.carpuzzle",
+      "title": "Bus Fever Party - 버스탈출 퍼즐",
+      "developer": "Lumi Games",
+      "icon": "https://play-lh.googleusercontent.com/P5X4m-dDF31hnhlQvGE1L3MAJonj8KmnQQxj4nQl77Eg8kI2K-XFLu3UGStPC7hgP7VMrTf8ieurxA-rqdukwQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.springgames.archercastle",
+      "title": "아처캐슬 키우기 : 방치형 RPG",
+      "developer": "SPRING Games",
+      "icon": "https://play-lh.googleusercontent.com/usvCI1Lo7H4Zxg_DB9uo_2cMcbL-ov3k0CRjcDo2olQ9jMgHsduMf0VdU5jC4Bm9vjxOM9o2tpjhT2mO6Eil=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.springgames.archercastle&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-01",
+      "isGame": true
+    },
     {
       "appId": "com.IdleMagicSchool.jlyt",
       "title": "방치형 마법 아카데미",
@@ -4979,24 +4999,6 @@
       "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "jp.pokemon.koiking",
-      "title": "튀어올라라! 잉어킹",
-      "developer": "The Pokémon Company",
-      "icon": "https://play-lh.googleusercontent.com/1Yk35iYoxz2UKVoxVl24JQg8TyDSNWfgS5oKcMzDfFQojUdnU4ezNnTMwc3gnaFq5OzxnpJFJWrxT6h7wtUsQw",
-      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.koiking&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "com.game.tombbusters",
-      "title": "초자연 작전팀",
-      "developer": "Giant Game",
-      "icon": "https://play-lh.googleusercontent.com/fLZ9Tx97Yrd7_JK-uPrqRCy8sV_6vTa7_69N3aFUEJHjKebGwNXm99A9YVvnIwz9s5TJvsfi03-sHQIMSi7Vkg",
-      "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
       "isGame": true
     },
     {
