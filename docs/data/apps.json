@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T13:01:11.642Z",
+  "updatedAt": "2026-10-01T18:48:35.229Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1840,9 +1840,29 @@
     "com.Chodun.CatGunner",
     "gridplus.busjam.carpuzzle",
     "com.springgames.archercastle",
-    "com.supersolid.cookandmerge"
+    "com.supersolid.cookandmerge",
+    "com.thp020.stickman.casual.war.game",
+    "com.feelingtouch.rtd"
   ],
   "items": [
+    {
+      "appId": "com.thp020.stickman.casual.war.game",
+      "title": "스틱맨 방어: 생존 TD",
+      "developer": "Pusilung",
+      "icon": "https://play-lh.googleusercontent.com/BK3OuqmdPEaCunSOPzN2edeq1LVWCJvmtK8ReGIhVFrbqX9bUELOrwHpdIIPgr0oHO7rffZlATack9847EB78A=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.thp020.stickman.casual.war.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.feelingtouch.rtd",
+      "title": "Random TD",
+      "developer": "Mountain Lion",
+      "icon": "https://play-lh.googleusercontent.com/VpABekFmkRl25WtyfgtzQhdQjA2qm39KoMnhQqXYQpfVbnKwGbAYGZ0180GDPaOceoTN8Ujo1W7OX5XUso0xJg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rtd&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-02",
+      "isGame": true
+    },
     {
       "appId": "gridplus.busjam.carpuzzle",
       "title": "Bus Fever Party - 버스탈출 퍼즐",
@@ -5009,24 +5029,6 @@
       "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.gravity.rqmm.aos",
-      "title": "레퀴엠M",
-      "developer": "GRAVITY Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/oNXRcsQhSZWkkD_RZr1VzlFref4AtVicQE98Oj5EUjjhjmQ_qvamOdkC0K0EOnCChbTT6Ywyl4ctT8GwD0ijYw",
-      "url": "https://play.google.com/store/apps/details?id=com.gravity.rqmm.aos&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
-      "isGame": true
-    },
-    {
-      "appId": "vikings.strategy.rpg.tactics.card",
-      "title": "Viking Legends: 바이킹 게임",
-      "developer": "TINYSOFT - slots, slot machines & casino games",
-      "icon": "https://play-lh.googleusercontent.com/MwbSsO4knaYtpl-skO8ljeIRwncHzbspsfK8LdLYSYXuO7Kh1k4_yp4-oRfkZoxUwP8-JwHmQxb_tzc--fntUw",
-      "url": "https://play.google.com/store/apps/details?id=vikings.strategy.rpg.tactics.card&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
       "isGame": true
     },
     {
