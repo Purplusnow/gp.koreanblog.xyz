@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:48:35.229Z",
+  "updatedAt": "2026-10-01T23:05:08.791Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1842,7 +1842,8 @@
     "com.springgames.archercastle",
     "com.supersolid.cookandmerge",
     "com.thp020.stickman.casual.war.game",
-    "com.feelingtouch.rtd"
+    "com.feelingtouch.rtd",
+    "com.goddessidle.global.android"
   ],
   "items": [
     {
@@ -1860,6 +1861,15 @@
       "developer": "Mountain Lion",
       "icon": "https://play-lh.googleusercontent.com/VpABekFmkRl25WtyfgtzQhdQjA2qm39KoMnhQqXYQpfVbnKwGbAYGZ0180GDPaOceoTN8Ujo1W7OX5XUso0xJg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rtd&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.goddessidle.global.android",
+      "title": "여신시대: 2331뽑 증정",
+      "developer": "Happyfun",
+      "icon": "https://play-lh.googleusercontent.com/KcyD5ah_49OcB4J6b8SdVDc_0UaJSS_JmLzCxPcTBJjpH-sXZ_ykke6A4zsQm91f6ECj04XroYK_T1Kgzo3l=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.goddessidle.global.android&hl=ko&gl=KR",
       "discoveredDate": "2026-10-02",
       "isGame": true
     },
@@ -5029,15 +5039,6 @@
       "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparklingsociety.animalfarmlife",
-      "title": "Animal Farm Life: Town Farming",
-      "developer": "Sparkling Society - Build Town City Building Games",
-      "icon": "https://play-lh.googleusercontent.com/2tz5ei63DJVJICrGTzownnbVdNlMG3VffmjlY0-424BomtHyc7233Oh6Y0GlNq9ccnh3KCZ-xigIsWSNgl9lvq8",
-      "url": "https://play.google.com/store/apps/details?id=com.sparklingsociety.animalfarmlife&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
       "isGame": true
     },
     {
