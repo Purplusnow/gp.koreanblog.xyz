@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:39:15.258Z",
+  "updatedAt": "2026-10-01T13:01:11.642Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1839,7 +1839,8 @@
     "com.mocacorp.tile",
     "com.Chodun.CatGunner",
     "gridplus.busjam.carpuzzle",
-    "com.springgames.archercastle"
+    "com.springgames.archercastle",
+    "com.supersolid.cookandmerge"
   ],
   "items": [
     {
@@ -1857,6 +1858,15 @@
       "developer": "SPRING Games",
       "icon": "https://play-lh.googleusercontent.com/usvCI1Lo7H4Zxg_DB9uo_2cMcbL-ov3k0CRjcDo2olQ9jMgHsduMf0VdU5jC4Bm9vjxOM9o2tpjhT2mO6Eil=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.springgames.archercastle&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.supersolid.cookandmerge",
+      "title": "쿡 & 머지: 합성 게임 (Cook & Merge)",
+      "developer": "Supersolid",
+      "icon": "https://play-lh.googleusercontent.com/Uk8RtKZ2izmGCM_bup13kmheb1tMAwl6xASaZU3irgQ4X6SRAQcIN2qkxKfi2rHf7yCLLAH5JFweRxV2K16JI24=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.supersolid.cookandmerge&hl=ko&gl=KR",
       "discoveredDate": "2026-10-01",
       "isGame": true
     },
@@ -4999,15 +5009,6 @@
       "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.carrom.board.friends.freeonline.live",
-      "title": "Carrom League: Friends Online",
-      "developer": "Blue Engine Games",
-      "icon": "https://play-lh.googleusercontent.com/HUnKnU8kHmu5H9gkTYhFKpS5_Y4SU4rKRp7whalCXL3x_tkQLDeMX2SpHWrlyMcOdM2DVp54KCU4sp08DsmW",
-      "url": "https://play.google.com/store/apps/details?id=com.carrom.board.friends.freeonline.live&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
       "isGame": true
     },
     {
