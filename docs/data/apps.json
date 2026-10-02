@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:10:33.497Z",
+  "updatedAt": "2026-10-02T09:38:20.279Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1843,7 +1843,10 @@
     "com.supersolid.cookandmerge",
     "com.thp020.stickman.casual.war.game",
     "com.feelingtouch.rtd",
-    "com.goddessidle.global.android"
+    "com.goddessidle.global.android",
+    "jp.konami.duellinks",
+    "com.oakever.paintbynumber",
+    "net.room6.horizon"
   ],
   "items": [
     {
@@ -1870,6 +1873,33 @@
       "developer": "Happyfun",
       "icon": "https://play-lh.googleusercontent.com/KcyD5ah_49OcB4J6b8SdVDc_0UaJSS_JmLzCxPcTBJjpH-sXZ_ykke6A4zsQm91f6ECj04XroYK_T1Kgzo3l=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.goddessidle.global.android&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-02",
+      "isGame": true
+    },
+    {
+      "appId": "jp.konami.duellinks",
+      "title": "Yu-Gi-Oh! Duel Links",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/sOdsAA2hdm6tfnhiNbO6U7-FcRkbGJXa2GpmxSBsz58mVv1t6D6eHpaPNg6gaFHGGdnXy-SOq2InWkx-xKKsfw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.duellinks&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.oakever.paintbynumber",
+      "title": "번호 색칠로 페인트 게임",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/tOVyDT-cCiOBcayEhavFWx8mVR6aTKWIdDRM1fKoBX_yDhRWtplxJ7IQUdAn1E2N8kDD_qVbyGSkGgN-_YR2cA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.oakever.paintbynumber&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-02",
+      "isGame": true
+    },
+    {
+      "appId": "net.room6.horizon",
+      "title": "Rogue with the Dead: 환생용병단",
+      "developer": "room6",
+      "icon": "https://play-lh.googleusercontent.com/uGQ1VgVqOAnZex3IqW2iOS1xiUpHW17dzFQgwMdgM1QW_lnEI_4eBlE8yzG52IXeW85pBts0Rs8zI3s8NKV3SXs=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=net.room6.horizon&hl=ko&gl=KR",
       "discoveredDate": "2026-10-02",
       "isGame": true
     },
@@ -4997,24 +5027,6 @@
       "isGame": true
     },
     {
-      "appId": "com.daerigame.rellion",
-      "title": "렐리온: NPC들의 생존기",
-      "developer": "DAERI SOFT Inc",
-      "icon": "https://play-lh.googleusercontent.com/92xAwNIv7rMAmfvwTbAHKV3ZmP5MKMrIKjNC-NQHZM6She2mKJ3XTeqo-QJ42Ov93ses-TSUvid2cPmJ1CGO",
-      "url": "https://play.google.com/store/apps/details?id=com.daerigame.rellion&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.fo4m",
-      "title": "EA SPORTS FC Online M",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/g-kNZiGFSEWFlbQWfctVwFDGTZldjOP6qVktI_PKMqS-I4SwaOWNBegr_wvf2YOpItsdVDrhICW1VWY5IGD1Jg",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
       "appId": "com.dodreams.driveahead",
       "title": "Drive Ahead! - 즐거운 자동차 전투",
       "developer": "Dodreams Ltd.",
@@ -5039,15 +5051,6 @@
       "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
       "discoveredDate": "2026-07-18",
-      "isGame": true
-    },
-    {
-      "appId": "com.superbox.aos.magicSquad",
-      "title": "뿅뿅마법단",
-      "developer": "SUPERBOX Inc",
-      "icon": "https://play-lh.googleusercontent.com/L4yqHl63yrsNUT14Zl-24hMVxqLmMgVaJBlsCviK7A9nm-7gstT5VIkeU7rDh0ysG9un_VlBcww9GX0u_-yTYg",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-17",
       "isGame": true
     },
     {
