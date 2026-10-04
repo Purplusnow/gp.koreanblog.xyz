@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:30:24.564Z",
+  "updatedAt": "2026-10-04T06:45:34.074Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1848,9 +1848,19 @@
     "com.oakever.paintbynumber",
     "net.room6.horizon",
     "com.DargomStudio.GunboundM.Global",
-    "pl.lukok.chess"
+    "pl.lukok.chess",
+    "net.bat.store"
   ],
   "items": [
+    {
+      "appId": "net.bat.store",
+      "title": "AHA Games: 10K+ Offline Games",
+      "developer": "AHA Games",
+      "icon": "https://play-lh.googleusercontent.com/EsUTX_fJ_jUI4WKu9hZB4jPPkG8hKq3QiNLNdohoMakQzWR2S7btbSIkVTXjpvivhMa6B-8eFfvyE8ZE6dCq=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=net.bat.store&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-04",
+      "isGame": true
+    },
     {
       "appId": "com.DargomStudio.GunboundM.Global",
       "title": "건바운드M",
@@ -5044,15 +5054,6 @@
       "icon": "https://play-lh.googleusercontent.com/_vQkbDAt-5gozJioWTjGnq_0GjWN0W81V0JG3vch5d1mmfT1ygx0L9WSuGIwPUfUskT_LLg93ltxNSqW9ZEP",
       "url": "https://play.google.com/store/apps/details?id=global.hotel.twgame&hl=ko&gl=KR",
       "discoveredDate": "2026-07-19",
-      "isGame": true
-    },
-    {
-      "appId": "com.gm_shaber.dayrpremium",
-      "title": "Day R Premium",
-      "developer": "Rmind Games",
-      "icon": "https://play-lh.googleusercontent.com/y9NfJDJEO1NPCsQc6zKKi1pomWposnbIlYCyIqtiUw-MZF9V-wn_0LXQ1tMf12Nb7tLz86Yxipj4jevi-w_9-g",
-      "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayrpremium&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-18",
       "isGame": true
     },
     {
