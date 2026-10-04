@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:05:31.225Z",
+  "updatedAt": "2026-10-04T22:18:00.998Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1849,9 +1849,29 @@
     "net.room6.horizon",
     "com.DargomStudio.GunboundM.Global",
     "pl.lukok.chess",
-    "net.bat.store"
+    "net.bat.store",
+    "com.kingsfortune.happydinerstory",
+    "com.playtoddlers.centralhospitalstories.free"
   ],
   "items": [
+    {
+      "appId": "com.kingsfortune.happydinerstory",
+      "title": "Happy Diner Story™: Cooking",
+      "developer": "Play Fortune Limited",
+      "icon": "https://play-lh.googleusercontent.com/XYU1ZQ6aJQZVkBpE1g463u5HuBsQDHm58OCyLRxiN4cVXh0qloeU6gAGFHimzsH8RKxJwot_VkAjDEzomLRrOA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.kingsfortune.happydinerstory&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-05",
+      "isGame": true
+    },
+    {
+      "appId": "com.playtoddlers.centralhospitalstories.free",
+      "title": "Central Hospital Stories",
+      "developer": "SUBARA",
+      "icon": "https://play-lh.googleusercontent.com/Wtw2XBtgcMzRyWWUkT4esR9FfmAOraU-dBSJxUmvQC9__eUuhQyAg-qoDcwDopBsBJbmL1BbrgHKK2q4jxYREg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playtoddlers.centralhospitalstories.free&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-05",
+      "isGame": true
+    },
     {
       "appId": "net.bat.store",
       "title": "AHA Games: 10K+ Offline Games",
@@ -5012,15 +5032,6 @@
       "isGame": true
     },
     {
-      "appId": "com.fatr.global",
-      "title": "호텔 레거시: 합성&리모델링",
-      "developer": "Century Games Innovation Pte. Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/BVGS_zzk-C0rld4GAjH2hmu-3kT6ymliYNyfU9d7nEbJklRLS0QS3vYM7RHJ5yLPN5FQFEqk2nOsAUpj7SyO",
-      "url": "https://play.google.com/store/apps/details?id=com.fatr.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-20",
-      "isGame": true
-    },
-    {
       "appId": "com.standegg.mergecrime",
       "title": "머지 크라임: 추리&로맨스 서스펜스",
       "developer": "StandEgg Co., Ltd.",
@@ -5045,15 +5056,6 @@
       "icon": "https://play-lh.googleusercontent.com/y1boohdposY5P0SwcIJe7zSL4_rMsCFEdIhGwTzVUs7wT7LDRCxvmyflCaowz0v5pI_YEWzEL7Sgo2Z8qZ4Wg_A",
       "url": "https://play.google.com/store/apps/details?id=com.JESoftware.LastHopeSniper3&hl=ko&gl=KR",
       "discoveredDate": "2026-07-20",
-      "isGame": true
-    },
-    {
-      "appId": "global.hotel.twgame",
-      "title": "하이 우동 호텔",
-      "developer": "DH-Publisher",
-      "icon": "https://play-lh.googleusercontent.com/_vQkbDAt-5gozJioWTjGnq_0GjWN0W81V0JG3vch5d1mmfT1ygx0L9WSuGIwPUfUskT_LLg93ltxNSqW9ZEP",
-      "url": "https://play.google.com/store/apps/details?id=global.hotel.twgame&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-19",
       "isGame": true
     },
     {
