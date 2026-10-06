@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:01:25.142Z",
+  "updatedAt": "2026-10-06T20:10:43.320Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1852,9 +1852,39 @@
     "net.bat.store",
     "com.kingsfortune.happydinerstory",
     "com.playtoddlers.centralhospitalstories.free",
-    "com.generagames.gladiatorheroes"
+    "com.generagames.gladiatorheroes",
+    "com.oxiwyle.modernage3premium",
+    "com.harvest.android.gr",
+    "valhalla.survival.craft.z"
   ],
   "items": [
+    {
+      "appId": "com.oxiwyle.modernage3premium",
+      "title": "모던 에이지 3 프리미엄",
+      "developer": "Oxiwyle Inc",
+      "icon": "https://play-lh.googleusercontent.com/wTyDczxNfoYOIGqaiAWLLyzCMQZ6vKOvM8Izftxvj8NSzMklqesu99FHN-luxaMia3FJgwiHBKyvtxL9xVB7=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage3premium&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.harvest.android.gr",
+      "title": "Harvest Town - 목장 농장 경영 게임",
+      "developer": "AVIDGamers",
+      "icon": "https://play-lh.googleusercontent.com/sDrtS2HqSGOzxGJp6mkPL5SFNtXHv9G63jxhInG53wrbvz5LR3ZNDFnJmRsk_APGBWCHEvPdU7M5TjrWUNqh=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.harvest.android.gr&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-07",
+      "isGame": true
+    },
+    {
+      "appId": "valhalla.survival.craft.z",
+      "title": "프로스트본: 협동 생존 게임",
+      "developer": "KEFIR!",
+      "icon": "https://play-lh.googleusercontent.com/wdAaNzOwlm4ZY12OkxAK_PLklXILFTVT-gIKluMjcGDk5KDfSjJQsW9x8Yzia7Mhzfa7kD87Gbo50WfWTVP9QA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=valhalla.survival.craft.z&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-07",
+      "isGame": true
+    },
     {
       "appId": "com.generagames.gladiatorheroes",
       "title": "글래디에이터 히어로즈: 온라인 전략 게임",
@@ -5024,39 +5054,12 @@
       "isGame": true
     },
     {
-      "appId": "com.warvow.omgoogle",
-      "title": "전선:WAR VOW",
-      "developer": "STARFOX GAME",
-      "icon": "https://play-lh.googleusercontent.com/x9rmOuX-VtylxqKcTfZsHzdZbL5wkszLQ5rSsa8fH9lYKpsAZM4mDlH3LQ3WVEnBTAwo_jKUc-xmzIPx13X9Tg",
-      "url": "https://play.google.com/store/apps/details?id=com.warvow.omgoogle&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-21",
-      "isGame": true
-    },
-    {
       "appId": "com.TeamSparta.BunkerDefenseMVP",
       "title": "벙커 디펜스: 빠른 무한 물량 막기",
       "developer": "Teamsparta Inc.",
       "icon": "https://play-lh.googleusercontent.com/-RAYJBejYwc3dCbuVIm6IvzcWpJprLOz2x3KEVyWZuadS_7_VMdrOPGJJf4kbCDIxGF5dOMK3qkK0udGSF4jjw",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.BunkerDefenseMVP&hl=ko&gl=KR",
       "discoveredDate": "2026-07-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.whalejoy.horrorstory.gp",
-      "title": "헌티드 머지: 괴담",
-      "developer": "WhaleJoy Game Limited",
-      "icon": "https://play-lh.googleusercontent.com/bj-jc9ay6gZVvpMYA8cBVvY2Gt9056AAJrJORsfNz8zWRFOzUGU-_NuP3Z9MMHhe5xElvV3l1afYpq7VSnAsW2s",
-      "url": "https://play.google.com/store/apps/details?id=com.whalejoy.horrorstory.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-20",
-      "isGame": true
-    },
-    {
-      "appId": "com.JESoftware.LastHopeSniper3",
-      "title": "Zombie Sniper War 3 - Fire FPS",
-      "developer": "JE Software AB",
-      "icon": "https://play-lh.googleusercontent.com/y1boohdposY5P0SwcIJe7zSL4_rMsCFEdIhGwTzVUs7wT7LDRCxvmyflCaowz0v5pI_YEWzEL7Sgo2Z8qZ4Wg_A",
-      "url": "https://play.google.com/store/apps/details?id=com.JESoftware.LastHopeSniper3&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-20",
       "isGame": true
     },
     {
