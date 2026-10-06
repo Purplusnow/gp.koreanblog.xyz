@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:18:51.095Z",
+  "updatedAt": "2026-10-06T00:44:50.605Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1851,9 +1851,19 @@
     "pl.lukok.chess",
     "net.bat.store",
     "com.kingsfortune.happydinerstory",
-    "com.playtoddlers.centralhospitalstories.free"
+    "com.playtoddlers.centralhospitalstories.free",
+    "com.generagames.gladiatorheroes"
   ],
   "items": [
+    {
+      "appId": "com.generagames.gladiatorheroes",
+      "title": "글래디에이터 히어로즈: 온라인 전략 게임",
+      "developer": "Viva Games Studios",
+      "icon": "https://play-lh.googleusercontent.com/dUSs5DMTm0VfrM_KndTLoNcn2Tje0JyQwbtbnk2XEu52GcawkjK4qOgQKIX-d3Qr0g8Z-CD6qkwY0Mtp7thV8w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.generagames.gladiatorheroes&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-06",
+      "isGame": true
+    },
     {
       "appId": "com.kingsfortune.happydinerstory",
       "title": "Happy Diner Story™: Cooking",
@@ -5029,15 +5039,6 @@
       "icon": "https://play-lh.googleusercontent.com/-RAYJBejYwc3dCbuVIm6IvzcWpJprLOz2x3KEVyWZuadS_7_VMdrOPGJJf4kbCDIxGF5dOMK3qkK0udGSF4jjw",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.BunkerDefenseMVP&hl=ko&gl=KR",
       "discoveredDate": "2026-07-21",
-      "isGame": true
-    },
-    {
-      "appId": "com.standegg.mergecrime",
-      "title": "머지 크라임: 추리&로맨스 서스펜스",
-      "developer": "StandEgg Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/3ww9mMROx24_bv9qQx90LAp-0m-R1Ey_cVTIXq8xbugTLYoMCRLm2iLznWYZK6EJVFUQIt2J1Qnmiw4zpq4gXic",
-      "url": "https://play.google.com/store/apps/details?id=com.standegg.mergecrime&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-20",
       "isGame": true
     },
     {
