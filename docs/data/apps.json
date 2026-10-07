@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T07:08:07.512Z",
+  "updatedAt": "2026-10-07T15:29:22.703Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1855,9 +1855,29 @@
     "com.generagames.gladiatorheroes",
     "com.oxiwyle.modernage3premium",
     "com.harvest.android.gr",
-    "valhalla.survival.craft.z"
+    "valhalla.survival.craft.z",
+    "com.miniclip.plagueinc",
+    "com.gm_shaber.dayr"
   ],
   "items": [
+    {
+      "appId": "com.miniclip.plagueinc",
+      "title": "Plague Inc. (전염병 주식회사)",
+      "developer": "Ndemic Creations",
+      "icon": "https://play-lh.googleusercontent.com/qLgeusnY6S6JC_qB7s1qz5rPzrzMIuiXDvQN2R9qZhuQb3xTw4adMD0-Ktk12LrLwFB_wn_ftNVvLDsixSBeGQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.gm_shaber.dayr",
+      "title": "Day R Survival - 생존",
+      "developer": "Rmind Games",
+      "icon": "https://play-lh.googleusercontent.com/fgCl0aGHt5_ijWszwQ315WCBBUxjJYaKYviCgrzf3_UAX1szqsa4GTpX-ndhXu6wh5veF3hwC9g11ZLtcDkO=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayr&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-08",
+      "isGame": true
+    },
     {
       "appId": "com.oxiwyle.modernage3premium",
       "title": "모던 에이지 3 프리미엄",
@@ -5042,24 +5062,6 @@
       "icon": "https://play-lh.googleusercontent.com/SrcDt6s0YR1sBegEUtQN8lG-4vkZpgMQjgXMij3j6-eM-oNFgHrZZBjD5J1ptZdFnyRwhQB5mQ_kR2W_d3Trtkw",
       "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars&hl=ko&gl=KR",
       "discoveredDate": "2026-07-23",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.marketIV",
-      "title": "Baby Panda's Town: 거리",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/TncpF4ku_jtTp-1WZAFBvU8XjmasMQrP_FpsS5-wrTor1PyJI8ggQNHDey7FianEUK8Khvaag5UlsPd7980RGA",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.marketIV&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-22",
-      "isGame": true
-    },
-    {
-      "appId": "com.TeamSparta.BunkerDefenseMVP",
-      "title": "벙커 디펜스: 빠른 무한 물량 막기",
-      "developer": "Teamsparta Inc.",
-      "icon": "https://play-lh.googleusercontent.com/-RAYJBejYwc3dCbuVIm6IvzcWpJprLOz2x3KEVyWZuadS_7_VMdrOPGJJf4kbCDIxGF5dOMK3qkK0udGSF4jjw",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.BunkerDefenseMVP&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-21",
       "isGame": true
     },
     {
