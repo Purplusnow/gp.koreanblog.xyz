@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T15:29:22.703Z",
+  "updatedAt": "2026-10-07T21:13:07.859Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1857,7 +1857,8 @@
     "com.harvest.android.gr",
     "valhalla.survival.craft.z",
     "com.miniclip.plagueinc",
-    "com.gm_shaber.dayr"
+    "com.gm_shaber.dayr",
+    "com.ujoy.hoc"
   ],
   "items": [
     {
@@ -1875,6 +1876,15 @@
       "developer": "Rmind Games",
       "icon": "https://play-lh.googleusercontent.com/fgCl0aGHt5_ijWszwQ315WCBBUxjJYaKYviCgrzf3_UAX1szqsa4GTpX-ndhXu6wh5veF3hwC9g11ZLtcDkO=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.gm_shaber.dayr&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.ujoy.hoc",
+      "title": "히어로즈 오브 크라운",
+      "developer": "Ujoy Games",
+      "icon": "https://play-lh.googleusercontent.com/ck6D6a_o0M_Z5kKhcxDEoqtm_MBo1kW5gAhirWYODZJOMkb2TbkL6jWQ6e5dvVWo93YNzU4cZ9vYINxTVdh8Rg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ujoy.hoc&hl=ko&gl=KR",
       "discoveredDate": "2026-10-08",
       "isGame": true
     },
@@ -5053,15 +5063,6 @@
       "icon": "https://play-lh.googleusercontent.com/C4tx8KR7PGd4DaPJUJEjrUUSJaQlRaXCWdXv7KMZIkW0KjPD5asTITH9XjEaex0_dcQn6W0ZYiPWoqQa8oq7kA",
       "url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow&hl=ko&gl=KR",
       "discoveredDate": "2026-07-24",
-      "isGame": true
-    },
-    {
-      "appId": "com.zitga.ninja.stickman.legends.shadow.wars",
-      "title": "스틱맨 레전드: 섀도우 워즈  - 오프라인 게임",
-      "developer": "Putaleng",
-      "icon": "https://play-lh.googleusercontent.com/SrcDt6s0YR1sBegEUtQN8lG-4vkZpgMQjgXMij3j6-eM-oNFgHrZZBjD5J1ptZdFnyRwhQB5mQ_kR2W_d3Trtkw",
-      "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-23",
       "isGame": true
     },
     {
