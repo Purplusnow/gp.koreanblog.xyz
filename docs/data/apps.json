@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T21:13:07.859Z",
+  "updatedAt": "2026-10-08T01:48:22.837Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1858,7 +1858,8 @@
     "valhalla.survival.craft.z",
     "com.miniclip.plagueinc",
     "com.gm_shaber.dayr",
-    "com.ujoy.hoc"
+    "com.ujoy.hoc",
+    "com.puzzle1studio.go.stoneagemerge"
   ],
   "items": [
     {
@@ -1885,6 +1886,15 @@
       "developer": "Ujoy Games",
       "icon": "https://play-lh.googleusercontent.com/ck6D6a_o0M_Z5kKhcxDEoqtm_MBo1kW5gAhirWYODZJOMkb2TbkL6jWQ6e5dvVWo93YNzU4cZ9vYINxTVdh8Rg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.ujoy.hoc&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzle1studio.go.stoneagemerge",
+      "title": "머지 에이지 : 스톤 헤이븐",
+      "developer": "Puzzle1Studio",
+      "icon": "https://play-lh.googleusercontent.com/zOtr842R0cuavSDfEbd-ZKcB4eoMcXEQl65WE_b35f5ZJo3fDEbgX13-nl1yQro-9CvVZS7e6Qw1U7EmDPaVuag=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.stoneagemerge&hl=ko&gl=KR",
       "discoveredDate": "2026-10-08",
       "isGame": true
     },
@@ -5045,15 +5055,6 @@
       "icon": "https://play-lh.googleusercontent.com/As55aUWr0UXd3LyJyjRACSuoOhjoD9Cf42X4vfrWN2A4zkDBen84nyuWHvAo0nZruFUJNYz4FeXl8OK1pNQ9Nw",
       "url": "https://play.google.com/store/apps/details?id=com.tripledot.solitaire&hl=ko&gl=KR",
       "discoveredDate": "2026-07-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.kids",
-      "title": "BabyBus Kids: 비디오 및 게임 세상",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/WYB9UhDPDbzvA7uH3zssnfuySNSbLaJQg8RUVwd34Glux5K0TUNTvqx3vcIwrNs9CR86f1ct3L6CkHF1Ne-0",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.kids&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-24",
       "isGame": true
     },
     {
