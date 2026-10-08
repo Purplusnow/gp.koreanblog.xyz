@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:48:22.837Z",
+  "updatedAt": "2026-10-08T08:49:13.903Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1859,7 +1859,8 @@
     "com.miniclip.plagueinc",
     "com.gm_shaber.dayr",
     "com.ujoy.hoc",
-    "com.puzzle1studio.go.stoneagemerge"
+    "com.puzzle1studio.go.stoneagemerge",
+    "com.idlesupernaturalschool.jlyt"
   ],
   "items": [
     {
@@ -1895,6 +1896,15 @@
       "developer": "Puzzle1Studio",
       "icon": "https://play-lh.googleusercontent.com/zOtr842R0cuavSDfEbd-ZKcB4eoMcXEQl65WE_b35f5ZJo3fDEbgX13-nl1yQro-9CvVZS7e6Qw1U7EmDPaVuag=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.stoneagemerge&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.idlesupernaturalschool.jlyt",
+      "title": "슈퍼파워 스쿨-idle Superpower School",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/FtqHWxLHRToTGjkqSfsRyFbE94wd3A97Gx4zn2kue27CKbZ5Oo4xJuARenBDKIxMXZlFiFZjMxwiW9BqExKvMQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.idlesupernaturalschool.jlyt&hl=ko&gl=KR",
       "discoveredDate": "2026-10-08",
       "isGame": true
     },
@@ -5055,15 +5065,6 @@
       "icon": "https://play-lh.googleusercontent.com/As55aUWr0UXd3LyJyjRACSuoOhjoD9Cf42X4vfrWN2A4zkDBen84nyuWHvAo0nZruFUJNYz4FeXl8OK1pNQ9Nw",
       "url": "https://play.google.com/store/apps/details?id=com.tripledot.solitaire&hl=ko&gl=KR",
       "discoveredDate": "2026-07-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.abi.colony.flow",
-      "title": "Colony Flow",
-      "developer": "ABI GAMES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/C4tx8KR7PGd4DaPJUJEjrUUSJaQlRaXCWdXv7KMZIkW0KjPD5asTITH9XjEaex0_dcQn6W0ZYiPWoqQa8oq7kA",
-      "url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-24",
       "isGame": true
     },
     {
