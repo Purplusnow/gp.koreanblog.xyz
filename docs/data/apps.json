@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:49:13.903Z",
+  "updatedAt": "2026-10-08T16:22:51.909Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1860,9 +1860,19 @@
     "com.gm_shaber.dayr",
     "com.ujoy.hoc",
     "com.puzzle1studio.go.stoneagemerge",
-    "com.idlesupernaturalschool.jlyt"
+    "com.idlesupernaturalschool.jlyt",
+    "com.digitalextremes.warframemobile"
   ],
   "items": [
+    {
+      "appId": "com.digitalextremes.warframemobile",
+      "title": "Warframe",
+      "developer": "Digital Extremes",
+      "icon": "https://play-lh.googleusercontent.com/p5C8q_tcqMA50ankDg5VV6qZzEa9anHd9MqaBb1uPjeXm2GHVXwfl58GYjKYgFAYc3vjoGwROb5c612tL2FmSQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-09",
+      "isGame": true
+    },
     {
       "appId": "com.miniclip.plagueinc",
       "title": "Plague Inc. (전염병 주식회사)",
@@ -4993,15 +5003,6 @@
       "icon": "https://play-lh.googleusercontent.com/-i3PHZYjLBh6OxgBLc30eUZdyZJdQsqC7x-NAR7ybugYISLYvWkj0eBZw5pzfJehsc6vqaV2-gARpKJfNguX9w",
       "url": "https://play.google.com/store/apps/details?id=com.orangeapps.piratetreasure&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.kiwifun.game.android.ten.crush",
-      "title": "Ten Crush",
-      "developer": "Kiwi Fun",
-      "icon": "https://play-lh.googleusercontent.com/7Z3Bnq1EoA43Qa_uqWfurGFiV-RWvangiCx_qoqvB4pK3eXNiqkvBKUXUP_fjwIwXGwkXUEvj0bT40g6b3nV",
-      "url": "https://play.google.com/store/apps/details?id=com.kiwifun.game.android.ten.crush&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
       "isGame": true
     },
     {
