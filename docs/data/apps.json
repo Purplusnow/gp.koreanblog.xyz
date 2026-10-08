@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:22:51.909Z",
+  "updatedAt": "2026-10-08T21:59:29.825Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1861,7 +1861,9 @@
     "com.ujoy.hoc",
     "com.puzzle1studio.go.stoneagemerge",
     "com.idlesupernaturalschool.jlyt",
-    "com.digitalextremes.warframemobile"
+    "com.digitalextremes.warframemobile",
+    "com.aircap.agatha.idle",
+    "com.snapbreak.boxes"
   ],
   "items": [
     {
@@ -1870,6 +1872,24 @@
       "developer": "Digital Extremes",
       "icon": "https://play-lh.googleusercontent.com/p5C8q_tcqMA50ankDg5VV6qZzEa9anHd9MqaBb1uPjeXm2GHVXwfl58GYjKYgFAYc3vjoGwROb5c612tL2FmSQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.aircap.agatha.idle",
+      "title": "아가타 키우기",
+      "developer": "AIRCAP Inc.",
+      "icon": "https://play-lh.googleusercontent.com/XCpIkWVLeQLJ5KKYeqCBiOFekIBOSJr-AJQDFa-Inp41yg_ODCr0lO7jYhnoySQe3ZlOMvH_Ub7KhyydRnVulbk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.aircap.agatha.idle&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.boxes",
+      "title": "Boxes: Lost Fragments",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/JM04k4kGhTUg0iUvX8BLSn0w7zaynd0kpgdrobK005Ewr8pCGxEatIP0R8_1QTKGxQGT81Um3eCg_qR75km4=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.boxes&hl=ko&gl=KR",
       "discoveredDate": "2026-10-09",
       "isGame": true
     },
@@ -5003,24 +5023,6 @@
       "icon": "https://play-lh.googleusercontent.com/-i3PHZYjLBh6OxgBLc30eUZdyZJdQsqC7x-NAR7ybugYISLYvWkj0eBZw5pzfJehsc6vqaV2-gARpKJfNguX9w",
       "url": "https://play.google.com/store/apps/details?id=com.orangeapps.piratetreasure&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "jigsolitaire.jigsort.jigsaw.solitaire.puzzle",
-      "title": "Jigsort™ 퍼즐: 혼자 즐기는 재미",
-      "developer": "EasyFun Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/GEhQMESP_f_M7MXeHAzwuAzvxxl3KSRQ50tCBR0169RuxHQP6v8aWZGTcIp5L4IAtN9P2HA4sGl04ymP4Sri",
-      "url": "https://play.google.com/store/apps/details?id=jigsolitaire.jigsort.jigsaw.solitaire.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.Chillgaming.oneState",
-      "title": "OneState RP: 온라인 롤플레잉",
-      "developer": "ChillBase",
-      "icon": "https://play-lh.googleusercontent.com/R2YbFZkxuNi_uUGP3ci6Yty958SQYnuLkV44SpqBHN7PnCBb9NQbpGzsSAvbEYKaGi9SeglmdkuOU3VrYszFhY8",
-      "url": "https://play.google.com/store/apps/details?id=com.Chillgaming.oneState&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
       "isGame": true
     },
     {
