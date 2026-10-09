@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T08:53:31.105Z",
+  "updatedAt": "2026-10-09T16:06:09.866Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1863,9 +1863,39 @@
     "com.idlesupernaturalschool.jlyt",
     "com.digitalextremes.warframemobile",
     "com.aircap.agatha.idle",
-    "com.snapbreak.boxes"
+    "com.snapbreak.boxes",
+    "com.fallenbeauty.google",
+    "triple.sorting.bubble.fish.match",
+    "com.orange.coloring.learn.kids"
   ],
   "items": [
+    {
+      "appId": "com.fallenbeauty.google",
+      "title": "Fallen beauty: 병합 및 스토리",
+      "developer": "Kinetic Energy Game",
+      "icon": "https://play-lh.googleusercontent.com/i1HqS7z032F0clAF72lFmMm2V_givyJ3HnRI_BDD8IRlhjTRomYOy1SgGNZ90S6dYwMxUgKSVpG1tmKlB1bC=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fallenbeauty.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "triple.sorting.bubble.fish.match",
+      "title": "Fish Sort Puzzle: 퍼즐 게임",
+      "developer": "Shycheese",
+      "icon": "https://play-lh.googleusercontent.com/33uObVFJ0-1md9XkQSTMHnh-E91drVuMj6cODaGcKuag07lwFVfWxCg0Ef-gKfaY9iKFrCOdaw5GJa0-6JV7FQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=triple.sorting.bubble.fish.match&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.orange.coloring.learn.kids",
+      "title": "채색 및 학습",
+      "developer": "Orange Studios Games",
+      "icon": "https://play-lh.googleusercontent.com/nMwCmFsD4_EgJMspvtUnBK0oDkvhBSYcf5lnvCJz4HHlKEUj-vjr_JEc5OwfVnGjFd8WsCOqzbWXsaQ_lyHU=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.orange.coloring.learn.kids&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
     {
       "appId": "com.digitalextremes.warframemobile",
       "title": "Warframe",
@@ -5023,33 +5053,6 @@
       "icon": "https://play-lh.googleusercontent.com/-i3PHZYjLBh6OxgBLc30eUZdyZJdQsqC7x-NAR7ybugYISLYvWkj0eBZw5pzfJehsc6vqaV2-gARpKJfNguX9w",
       "url": "https://play.google.com/store/apps/details?id=com.orangeapps.piratetreasure&hl=ko&gl=KR",
       "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "game.qualiarts.hololive.dreams.com",
-      "title": "hololive Dreams",
-      "developer": "QualiArts, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
-      "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.bubble.shooter.bear.puzzle",
-      "title": "버블슈터 Bubble Shooter",
-      "developer": "Infno Games",
-      "icon": "https://play-lh.googleusercontent.com/1DAG6cXzua2zb3JihhCJBSjaM7GgNoM9Lp5oa7EWxgL3IPLWftwf3pz3_-rlZ2ymU0t_ZOxTDeqRv7Rp4F820L8",
-      "url": "https://play.google.com/store/apps/details?id=com.bubble.shooter.bear.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
-      "isGame": true
-    },
-    {
-      "appId": "water.sort.color.puzzle.offline.games",
-      "title": "Water Sort! 컬러 로직 퍼즐",
-      "developer": "Bobodoo Game",
-      "icon": "https://play-lh.googleusercontent.com/qzX2kRJ6HslOJkdrhg-RmRFvcGoMcV0kDVxLgsDOW1VO_vC7tLHQis9P2S8YP2OoFb8IJhvaXtGOrTQMV4aqQwo",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
       "isGame": true
     },
     {
