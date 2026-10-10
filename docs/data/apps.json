@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:23:54.579Z",
+  "updatedAt": "2026-10-10T15:14:32.571Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1874,9 +1874,19 @@
     "com.AocaGameLab.Arida",
     "com.Bureau81.OPERATOR",
     "com.letsfun.game.dreammatch",
-    "com.noodlecake.wb"
+    "com.noodlecake.wb",
+    "com.beresnevgames.pixelgallery"
   ],
   "items": [
+    {
+      "appId": "com.beresnevgames.pixelgallery",
+      "title": "Pixelwoods: 숫자 및 가정 장식으로 색칠하기",
+      "developer": "Beresnev Games",
+      "icon": "https://play-lh.googleusercontent.com/2HBoWUDE4g0ccvArDFjDww6oPjmsqGOEv8vP2I_-gTtS9lMGTiiCkVxaWUbYGSlLtzSJC5C41Y_asV7a3yPEm24=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-11",
+      "isGame": true
+    },
     {
       "appId": "com.fallenbeauty.google",
       "title": "Fallen beauty: 병합 및 스토리",
@@ -5061,15 +5071,6 @@
       "icon": "https://play-lh.googleusercontent.com/f7HHbEOewA0rIk299hsDv6vN4Iz_W5OvivKF2lMKOKzttF1g4lp8kE7qDAUGlJLAelw56TSRd6V5y4SFGCKp",
       "url": "https://play.google.com/store/apps/details?id=com.vigafun.funfinity.foodhunt&hl=ko&gl=KR",
       "discoveredDate": "2026-07-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.habby.souls",
-      "title": "소울즈",
-      "developer": "Habby",
-      "icon": "https://play-lh.googleusercontent.com/dHpH6YOhdUl_rBiEcpSZ-qfg_y_6eGLacJQaM4u74mdJA5lEQ_kkhwfey9sZFdsKdRl9Q7r2dcvnJHFISrcF",
-      "url": "https://play.google.com/store/apps/details?id=com.habby.souls&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-27",
       "isGame": true
     },
     {
