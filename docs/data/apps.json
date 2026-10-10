@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:14:32.571Z",
+  "updatedAt": "2026-10-10T19:59:35.612Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1875,7 +1875,9 @@
     "com.Bureau81.OPERATOR",
     "com.letsfun.game.dreammatch",
     "com.noodlecake.wb",
-    "com.beresnevgames.pixelgallery"
+    "com.beresnevgames.pixelgallery",
+    "com.mobirix.mbtm",
+    "com.tap.gallery"
   ],
   "items": [
     {
@@ -1884,6 +1886,24 @@
       "developer": "Beresnev Games",
       "icon": "https://play-lh.googleusercontent.com/2HBoWUDE4g0ccvArDFjDww6oPjmsqGOEv8vP2I_-gTtS9lMGTiiCkVxaWUbYGSlLtzSJC5C41Y_asV7a3yPEm24=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobirix.mbtm",
+      "title": "매치 퍼즐 트래블",
+      "developer": "mobirix",
+      "icon": "https://play-lh.googleusercontent.com/5PeQltehGzbuQ1Lrh-PvzTBh2H7Y7yqyXKpMWMW5UxJLJPvE-XF0ds0BBytht7AMFNJM1TiYqrb1EGNaiVKh=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mbtm&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.tap.gallery",
+      "title": "탭 갤러리: 이미지 퍼즐 해결 게임",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/p7aWQoNvQoCSoNMIZpj-WQcm-aNUIdUknY4AJ-fMFoPLfZOais85I1x7sLKqt8mE0iSAvhhntflOt6ttwqr-=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tap.gallery&hl=ko&gl=KR",
       "discoveredDate": "2026-10-11",
       "isGame": true
     },
@@ -5038,15 +5058,6 @@
       "isGame": true
     },
     {
-      "appId": "com.SuperAwesome.HelloKittyFriends",
-      "title": "헬로키티 프렌즈",
-      "developer": "Super Awesome Inc.",
-      "icon": "https://play-lh.googleusercontent.com/AnG70rgHebhOJ_HNk6BgdjrFmM3nmc8iPCJ6Ij1iqSa92iK5hNkhfrn-piq5Wf9G6iEycNI8LTNJu2sGsP1kUQc",
-      "url": "https://play.google.com/store/apps/details?id=com.SuperAwesome.HelloKittyFriends&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-28",
-      "isGame": true
-    },
-    {
       "appId": "com.dreamwalker.kr.gp",
       "title": "꿈의 여행자: 별빛 여정",
       "developer": "Grand Sunrise Game",
@@ -5071,15 +5082,6 @@
       "icon": "https://play-lh.googleusercontent.com/f7HHbEOewA0rIk299hsDv6vN4Iz_W5OvivKF2lMKOKzttF1g4lp8kE7qDAUGlJLAelw56TSRd6V5y4SFGCKp",
       "url": "https://play.google.com/store/apps/details?id=com.vigafun.funfinity.foodhunt&hl=ko&gl=KR",
       "discoveredDate": "2026-07-28",
-      "isGame": true
-    },
-    {
-      "appId": "com.hkqs.jszx.google",
-      "title": "부족 또 전쟁 : 무한루프 RPG",
-      "developer": "HKQS GAMES",
-      "icon": "https://play-lh.googleusercontent.com/umli_4_TJJYzpLVwVV6fjA15kjMxrSkHDgYN46V6GYoJKTGPo-RlcLB4rNTEg5ScMAGeIdiFcq4vcVlSIFBqvg",
-      "url": "https://play.google.com/store/apps/details?id=com.hkqs.jszx.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-27",
       "isGame": true
     },
     {
