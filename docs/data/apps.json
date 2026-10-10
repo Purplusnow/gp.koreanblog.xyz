@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T01:40:39.252Z",
+  "updatedAt": "2026-10-10T08:23:54.579Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1866,7 +1866,15 @@
     "com.snapbreak.boxes",
     "com.fallenbeauty.google",
     "triple.sorting.bubble.fish.match",
-    "com.orange.coloring.learn.kids"
+    "com.orange.coloring.learn.kids",
+    "com.batomon.showdown",
+    "com.game.puzzle.arrows.arrowaway",
+    "com.noodlecake.flickshotrogues",
+    "com.puzzle.smash.master.blast.stack.boom.crush",
+    "com.AocaGameLab.Arida",
+    "com.Bureau81.OPERATOR",
+    "com.letsfun.game.dreammatch",
+    "com.noodlecake.wb"
   ],
   "items": [
     {
@@ -1893,6 +1901,78 @@
       "developer": "Orange Studios Games",
       "icon": "https://play-lh.googleusercontent.com/nMwCmFsD4_EgJMspvtUnBK0oDkvhBSYcf5lnvCJz4HHlKEUj-vjr_JEc5OwfVnGjFd8WsCOqzbWXsaQ_lyHU=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.orange.coloring.learn.kids&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.batomon.showdown",
+      "title": "Batomon Showdown",
+      "developer": "berrymint",
+      "icon": "https://play-lh.googleusercontent.com/aoHQJmD4R_vvS9dWjjloMSgwX5zulBeRf7JrKofCHZchJQVvN_zxR_oITVPjvdoSltkPambad60pkvj5TsDfXw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.batomon.showdown&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.game.puzzle.arrows.arrowaway",
+      "title": "Amaze Away: Arrow Puzzle Games",
+      "developer": "Lynn Mobile Puzzle Games",
+      "icon": "https://play-lh.googleusercontent.com/kDMQt2-_L-tiD666QqJwetkJvxsIWdzk5sShat6mhb5QS_3W-vhWjPGrzEwL_zANfIAzJX6IQSo6T7vAIc8o2w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.game.puzzle.arrows.arrowaway&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.noodlecake.flickshotrogues",
+      "title": "Flick Shot Rogues",
+      "developer": "Noodlecake",
+      "icon": "https://play-lh.googleusercontent.com/OTOE3W5jTkIknB4ukH-Pvis_E0rDbyQi95l_7oDdRWiz_Zj-7qVTm_dKezldUG3F8OB6qAwRizL1FLOMmLNb=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.flickshotrogues&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.puzzle.smash.master.blast.stack.boom.crush",
+      "title": "Boom Crush - 3D 대포 슈팅 게임",
+      "developer": "Arcloom",
+      "icon": "https://play-lh.googleusercontent.com/nY-H0tleYceH-jXbYCsXWZI9s_XC-1XVZeEuybkUEaniNyP3CdrL0xGDtQQmzqMGHXTUboyy9kiO3yaIcWmopGo=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.puzzle.smash.master.blast.stack.boom.crush&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.AocaGameLab.Arida",
+      "title": "ARIDA: Backland's Awakening",
+      "developer": "Aoca Game Lab",
+      "icon": "https://play-lh.googleusercontent.com/6Pwbre7yLg8cZ--1V-RllhGwdz4UN9yHjeeNlZiOUgEy66XKzZ5qLGsmlyG_OCHdBRFI2E1qacNx8s4YLGEdAw8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.AocaGameLab.Arida&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.Bureau81.OPERATOR",
+      "title": "The Operator",
+      "developer": "Bureau 81",
+      "icon": "https://play-lh.googleusercontent.com/klDpPmfiq7TCmpyw5FY4pEHsAiQgNMjscnYySSPdcFzqSdCZWkjLur7NgNepjDQ6j9R701nQZY1WlVrDF66pGA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.Bureau81.OPERATOR&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.letsfun.game.dreammatch",
+      "title": "Dream Match®",
+      "developer": "LETS FUN - publisher of match 3 puzzle game",
+      "icon": "https://play-lh.googleusercontent.com/hbE7LgOqKKjYvtnDestzUc9lIoIMKD4ubMJt_Vj3r7mkx_PV8Owh-w_OsmIFpBrKUGGmWGob4flxR3SrtRNg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.letsfun.game.dreammatch&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.noodlecake.wb",
+      "title": "Winter Burrow",
+      "developer": "Noodlecake",
+      "icon": "https://play-lh.googleusercontent.com/JjQvtxdKoLj2KKMG4tNLB7q4li3LetYaBPcemTAJJaHkKcAFopOJQFcYjEoumvDZYeleT1vEuSbQtJZFW3pjM8U=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko&gl=KR",
       "discoveredDate": "2026-10-10",
       "isGame": true
     },
@@ -4999,78 +5079,6 @@
       "icon": "https://play-lh.googleusercontent.com/umli_4_TJJYzpLVwVV6fjA15kjMxrSkHDgYN46V6GYoJKTGPo-RlcLB4rNTEg5ScMAGeIdiFcq4vcVlSIFBqvg",
       "url": "https://play.google.com/store/apps/details?id=com.hkqs.jszx.google&hl=ko&gl=KR",
       "discoveredDate": "2026-07-27",
-      "isGame": true
-    },
-    {
-      "appId": "com.sweetcandy.puzzle.blast.crush.free",
-      "title": "달콤한 사탕 퍼즐",
-      "developer": "Jewel Loft",
-      "icon": "https://play-lh.googleusercontent.com/Ta5VsXTxgVmWahAHwFCff1UXtsrcHptiqxFOt0QHXWv_7p5MyOM4FFsuyzSnL_D2g8KiLXLHC-XsZ-a2qYmzOo0",
-      "url": "https://play.google.com/store/apps/details?id=com.sweetcandy.puzzle.blast.crush.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.abi.cook.chill",
-      "title": "Cookingdom - 요리의 나라",
-      "developer": "ABI GAMES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/Xk7ITaKDW8mcQy8iDmPTyj0XzF0P4c1wbBYE8a3fnzmaODlX4Am9fkM659_oLlsMfic4C9z1X_0MdbiimZON",
-      "url": "https://play.google.com/store/apps/details?id=com.abi.cook.chill&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.geargames.warlegends.rts.strategy.game",
-      "title": "워 레전드 (War Legends): RTS 전략 게임",
-      "developer": "SPIRE CRAFT GAMES",
-      "icon": "https://play-lh.googleusercontent.com/qJaAncA9AN_Upc2TQQVG4iZpD77NmdJ8VvU3n2dZ2zubX5iNpKQdq15NxaxTenF_SW72YCtUclHiJzgRcfXhuA",
-      "url": "https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.mvgamesteam.minetap",
-      "title": "Minetap – Merge rpg clicker",
-      "developer": "Geeky House",
-      "icon": "https://play-lh.googleusercontent.com/-KL65OvaN1iN9ocqXnvAjvM0BdxiEE6yoFP7_XQNHwWSWN6lKHHv7Xzw3FrLHqrkiC0cpPrIrfM0RVFxZw5CiV0",
-      "url": "https://play.google.com/store/apps/details?id=com.mvgamesteam.minetap&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.fc.p.hk.pixel.flow.breaker.color.puzzle",
-      "title": "큐브 플로우: 컬러 이스케이프",
-      "developer": "FALCON GAME",
-      "icon": "https://play-lh.googleusercontent.com/kUiEk9X3uRRWiCmYPjlLoBcdldWnzcta2CsDNr7liPYjfItotH6wdA8Km-GaikmB79nlMWiUrG6gR6pvSDjt3Q",
-      "url": "https://play.google.com/store/apps/details?id=com.fc.p.hk.pixel.flow.breaker.color.puzzle&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "com.orangeapps.piratetreasure",
-      "title": "Pirate Treasures -  3 매치 게임 퍼즐",
-      "developer": "TAPCLAP",
-      "icon": "https://play-lh.googleusercontent.com/-i3PHZYjLBh6OxgBLc30eUZdyZJdQsqC7x-NAR7ybugYISLYvWkj0eBZw5pzfJehsc6vqaV2-gARpKJfNguX9w",
-      "url": "https://play.google.com/store/apps/details?id=com.orangeapps.piratetreasure&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-26",
-      "isGame": true
-    },
-    {
-      "appId": "it.rortos.realflightsimulator",
-      "title": "RFS - Real Flight Simulator",
-      "developer": "RORTOS",
-      "icon": "https://play-lh.googleusercontent.com/cjMQXsrPSPPpUO1X37rr6_vNWRTkMBWFoqlxqchrguLB019BVD6-COFFMgP9Y2EK4VzsdyHrUwbjFq_MXTA9DA",
-      "url": "https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
-      "isGame": true
-    },
-    {
-      "appId": "com.tripledot.solitaire",
-      "title": "솔리테어 - Solitaire.com",
-      "developer": "Tripledot Studios Limited",
-      "icon": "https://play-lh.googleusercontent.com/As55aUWr0UXd3LyJyjRACSuoOhjoD9Cf42X4vfrWN2A4zkDBen84nyuWHvAo0nZruFUJNYz4FeXl8OK1pNQ9Nw",
-      "url": "https://play.google.com/store/apps/details?id=com.tripledot.solitaire&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-25",
       "isGame": true
     },
     {
