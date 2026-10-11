@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:27:06.969Z",
+  "updatedAt": "2026-10-11T05:35:03.392Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1877,7 +1877,8 @@
     "com.noodlecake.wb",
     "com.beresnevgames.pixelgallery",
     "com.mobirix.mbtm",
-    "com.tap.gallery"
+    "com.tap.gallery",
+    "heroes.magic.strategy.fantasy.card.game"
   ],
   "items": [
     {
@@ -1904,6 +1905,15 @@
       "developer": "CASUAL AZUR GAMES",
       "icon": "https://play-lh.googleusercontent.com/p7aWQoNvQoCSoNMIZpj-WQcm-aNUIdUknY4AJ-fMFoPLfZOais85I1x7sLKqt8mE0iSAvhhntflOt6ttwqr-=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.tap.gallery&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-11",
+      "isGame": true
+    },
+    {
+      "appId": "heroes.magic.strategy.fantasy.card.game",
+      "title": "판타지 턴 기반 전략 RPG: Magic World",
+      "developer": "Heroes Magic World Games, Strategy, turn-based",
+      "icon": "https://play-lh.googleusercontent.com/V5AOdhlrBW8fbgcVIgG4FG7fWczxYmtMFwJCakRFW_OrgMbkfNA7xxWDaJ_pRusjVFxlVS-BNmPRKqgftqoAgw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=heroes.magic.strategy.fantasy.card.game&hl=ko&gl=KR",
       "discoveredDate": "2026-10-11",
       "isGame": true
     },
@@ -5055,15 +5065,6 @@
       "icon": "https://play-lh.googleusercontent.com/HPR1HCSj2yz7i4jV0dUece2qswOgkxXKgrqZnQF9lWVTLzeFhKpajuUQwTABne39Iiht4QNglnaDDJD0f8iw",
       "url": "https://play.google.com/store/apps/details?id=com.peerplay.megamerge&hl=ko&gl=KR",
       "discoveredDate": "2026-07-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.dreamwalker.kr.gp",
-      "title": "꿈의 여행자: 별빛 여정",
-      "developer": "Grand Sunrise Game",
-      "icon": "https://play-lh.googleusercontent.com/YKJCks-c7Z8rrdehFPtt694C7AUkxY2zebMaU5FBQKiPtIuZ2TJG39yqjwYK4E1xMBnPSylTPKsgwj4ycLpO",
-      "url": "https://play.google.com/store/apps/details?id=com.dreamwalker.kr.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-28",
       "isGame": true
     },
     {
