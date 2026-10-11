@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T05:35:03.392Z",
+  "updatedAt": "2026-10-11T12:38:25.658Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1878,7 +1878,8 @@
     "com.beresnevgames.pixelgallery",
     "com.mobirix.mbtm",
     "com.tap.gallery",
-    "heroes.magic.strategy.fantasy.card.game"
+    "heroes.magic.strategy.fantasy.card.game",
+    "com.ugo.play.free.farm.valley"
   ],
   "items": [
     {
@@ -1914,6 +1915,15 @@
       "developer": "Heroes Magic World Games, Strategy, turn-based",
       "icon": "https://play-lh.googleusercontent.com/V5AOdhlrBW8fbgcVIgG4FG7fWczxYmtMFwJCakRFW_OrgMbkfNA7xxWDaJ_pRusjVFxlVS-BNmPRKqgftqoAgw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=heroes.magic.strategy.fantasy.card.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-11",
+      "isGame": true
+    },
+    {
+      "appId": "com.ugo.play.free.farm.valley",
+      "title": "왕실 농장 (Royal Farm)",
+      "developer": "UGO Games",
+      "icon": "https://play-lh.googleusercontent.com/LAM5mMHmzXC3VPtyw9L4fwHV9PbzDVJJKG_3dHu7xdu-VuJQ1hwwPxL1Y2mbxWUiLzvSyD3bdpwJ033d2MpATqw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ugo.play.free.farm.valley&hl=ko&gl=KR",
       "discoveredDate": "2026-10-11",
       "isGame": true
     },
@@ -5065,15 +5075,6 @@
       "icon": "https://play-lh.googleusercontent.com/HPR1HCSj2yz7i4jV0dUece2qswOgkxXKgrqZnQF9lWVTLzeFhKpajuUQwTABne39Iiht4QNglnaDDJD0f8iw",
       "url": "https://play.google.com/store/apps/details?id=com.peerplay.megamerge&hl=ko&gl=KR",
       "discoveredDate": "2026-07-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.vladk.pipemasters",
-      "title": "수류 레전드: 파이프 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/SswZKFjqUrl2XYWAZRtSDIOHD09JAyb8o645c6I6I9akkZnH2f8pUxkwsH2ENolxkbjUuSBk6pKUx3c__c4eadE",
-      "url": "https://play.google.com/store/apps/details?id=com.vladk.pipemasters&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-28",
       "isGame": true
     },
     {
