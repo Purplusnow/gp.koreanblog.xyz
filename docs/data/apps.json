@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:12:15.120Z",
+  "updatedAt": "2026-10-12T09:03:28.782Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1879,9 +1879,19 @@
     "com.mobirix.mbtm",
     "com.tap.gallery",
     "heroes.magic.strategy.fantasy.card.game",
-    "com.ugo.play.free.farm.valley"
+    "com.ugo.play.free.farm.valley",
+    "com.outplayentertainment.chefblast"
   ],
   "items": [
+    {
+      "appId": "com.outplayentertainment.chefblast",
+      "title": "Gordon Ramsay: Chef Blast",
+      "developer": "Outplay Entertainment Ltd",
+      "icon": "https://play-lh.googleusercontent.com/SiqUOh6jMq8zmgrae9qHfGXCZx94jn6Tzrp_2YkFbKmaDKV6VU224ChfWS2KZR3U_AUFZ0yssHMC42I5bO5hsg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.outplayentertainment.chefblast&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-12",
+      "isGame": true
+    },
     {
       "appId": "com.beresnevgames.pixelgallery",
       "title": "Pixelwoods: 숫자 및 가정 장식으로 색칠하기",
@@ -5075,15 +5085,6 @@
       "icon": "https://play-lh.googleusercontent.com/HPR1HCSj2yz7i4jV0dUece2qswOgkxXKgrqZnQF9lWVTLzeFhKpajuUQwTABne39Iiht4QNglnaDDJD0f8iw",
       "url": "https://play.google.com/store/apps/details?id=com.peerplay.megamerge&hl=ko&gl=KR",
       "discoveredDate": "2026-07-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.vigafun.funfinity.foodhunt",
-      "title": "Food Hunt: Pixel Puzzle",
-      "developer": "EVERFUN",
-      "icon": "https://play-lh.googleusercontent.com/f7HHbEOewA0rIk299hsDv6vN4Iz_W5OvivKF2lMKOKzttF1g4lp8kE7qDAUGlJLAelw56TSRd6V5y4SFGCKp",
-      "url": "https://play.google.com/store/apps/details?id=com.vigafun.funfinity.foodhunt&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-28",
       "isGame": true
     },
     {
