@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:15:27.265Z",
+  "updatedAt": "2026-10-13T09:18:01.088Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1882,7 +1882,9 @@
     "com.ugo.play.free.farm.valley",
     "com.outplayentertainment.chefblast",
     "com.kakaogames.dokkaebi",
-    "com.horus.sandy.jam"
+    "com.horus.sandy.jam",
+    "com.gurupuzzle.find.go.hidden.objects",
+    "com.wemade.mir4"
   ],
   "items": [
     {
@@ -1900,6 +1902,24 @@
       "developer": "Horus Ent HK",
       "icon": "https://play-lh.googleusercontent.com/pDEDEVYDIY4JEGVYl9XeiBSH6mRNvwMn7wnGmLeKSZRV8qPaDBzoyW14qIWORc9bhH1ylnyirb0g01HHlHImXQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.horus.sandy.jam&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.gurupuzzle.find.go.hidden.objects",
+      "title": "숨은 그림 찾기 게임: Find & Go",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/p51TvVIQbWa6G1aeQnZZETFCV_DXxBkdnk5xmvX8cxqkD_A9HVQmCC-f-cKnS0uu31Zg_9eW1uzXPuHuJpMT=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gurupuzzle.find.go.hidden.objects&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.wemade.mir4",
+      "title": "미르4",
+      "developer": "Wemade Co., Ltd",
+      "icon": "https://play-lh.googleusercontent.com/YLeIFWtfgpPjohgF78GkZEX05vJJP3_YcypT_PkjtJNZsojfl-8r2bVt0epHG_FhvhBEVPBHNkgPG2zmtASd9w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.wemade.mir4&hl=ko&gl=KR",
       "discoveredDate": "2026-10-13",
       "isGame": true
     },
@@ -5051,24 +5071,6 @@
       "icon": "https://play-lh.googleusercontent.com/fwWqpDfS0qzolNo4Q3JGof9UpbY3GlMFWWLQtsuHkNqFlOlKBUQKrJut_k-DfisS_mdbCrQjSuE-PH6JBDrN",
       "url": "https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=ko&gl=KR",
       "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
-      "appId": "net.happywit.screw.out.jam",
-      "title": "Screw Out 3D",
-      "developer": "Unico Studio",
-      "icon": "https://play-lh.googleusercontent.com/SlRTSl_1g2SH-7hhUVuWfG7aqTjaP49PicT__unHSbH-_W6J2PL_Dns0rjjp_VZHIRavfW5qb-ol6565aFfgZw",
-      "url": "https://play.google.com/store/apps/details?id=net.happywit.screw.out.jam&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-29",
-      "isGame": true
-    },
-    {
-      "appId": "com.candy.sweet.legend.free",
-      "title": "캔디 스위트 레전드",
-      "developer": "Yo App",
-      "icon": "https://play-lh.googleusercontent.com/s25Ma0NLveUeT5dyoYP0iCuaEhs_-nLcMu9mlO2PRFQ7L4Ur1wbDbabAwjWE-Fo_WXIVReBr4ilX9M1petXg",
-      "url": "https://play.google.com/store/apps/details?id=com.candy.sweet.legend.free&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-29",
       "isGame": true
     },
     {
