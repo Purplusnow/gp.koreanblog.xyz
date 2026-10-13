@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:56:55.014Z",
+  "updatedAt": "2026-10-13T01:15:27.265Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1880,9 +1880,29 @@
     "com.tap.gallery",
     "heroes.magic.strategy.fantasy.card.game",
     "com.ugo.play.free.farm.valley",
-    "com.outplayentertainment.chefblast"
+    "com.outplayentertainment.chefblast",
+    "com.kakaogames.dokkaebi",
+    "com.horus.sandy.jam"
   ],
   "items": [
+    {
+      "appId": "com.kakaogames.dokkaebi",
+      "title": "도깨비의세계",
+      "developer": "Kakao Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/PJFxzucCQHWQZBZnyvLp3IDp4G70W2o_AlXxVIRSn_pB66f-STd4yFDJNGJ5clJDKi9DK8jcn-D9Tq0L5pRz=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.dokkaebi&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-13",
+      "isGame": true
+    },
+    {
+      "appId": "com.horus.sandy.jam",
+      "title": "Sandy Jam: Sand Puzzle",
+      "developer": "Horus Ent HK",
+      "icon": "https://play-lh.googleusercontent.com/pDEDEVYDIY4JEGVYl9XeiBSH6mRNvwMn7wnGmLeKSZRV8qPaDBzoyW14qIWORc9bhH1ylnyirb0g01HHlHImXQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.sandy.jam&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-13",
+      "isGame": true
+    },
     {
       "appId": "com.outplayentertainment.chefblast",
       "title": "Gordon Ramsay: Chef Blast",
@@ -5031,24 +5051,6 @@
       "icon": "https://play-lh.googleusercontent.com/fwWqpDfS0qzolNo4Q3JGof9UpbY3GlMFWWLQtsuHkNqFlOlKBUQKrJut_k-DfisS_mdbCrQjSuE-PH6JBDrN",
       "url": "https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=ko&gl=KR",
       "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.atesgamestudio.rollance",
-      "title": "롤랜스 : 어드벤처 볼",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/04PLuKO_aLtlXmLvn2L8vQ7ki06zZvlkjxh32vsIF3AIyYyqqv6-idwPuQMUum3oxAlrxAkJoImE4BbuSz_MGA",
-      "url": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-29",
-      "isGame": true
-    },
-    {
-      "appId": "water.sort.puzzle.color.sort.games",
-      "title": "Water Sort: 컬러 튜브 퍼즐",
-      "developer": "Flyfox Games",
-      "icon": "https://play-lh.googleusercontent.com/MFLdFYKLj_c4Sd_HsSOhhYgPM1M_PxDOQcWwyXQjxYqrUXzm-h6FIecBSpDBtm6lqzOYD9ghs5Vs9_rEEw3Kyg",
-      "url": "https://play.google.com/store/apps/details?id=water.sort.puzzle.color.sort.games&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-29",
       "isGame": true
     },
     {
