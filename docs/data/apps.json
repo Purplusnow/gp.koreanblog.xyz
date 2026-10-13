@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:32:08.738Z",
+  "updatedAt": "2026-10-13T22:36:59.517Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1884,9 +1884,19 @@
     "com.kakaogames.dokkaebi",
     "com.horus.sandy.jam",
     "com.gurupuzzle.find.go.hidden.objects",
-    "com.wemade.mir4"
+    "com.wemade.mir4",
+    "jp.co.applibot.chiikawapocketgl"
   ],
   "items": [
+    {
+      "appId": "jp.co.applibot.chiikawapocketgl",
+      "title": "먼작귀 포켓",
+      "developer": "Applibot, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/o6BOG4Cq0vaAWDnoBOLmrqbaRUWvff3w9C8gPuTAJjAEx-zMVlETG6JtJ5SX3ydEZuo9wlqPZxMU4KiP9HS3QQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.applibot.chiikawapocketgl&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-14",
+      "isGame": true
+    },
     {
       "appId": "com.kakaogames.dokkaebi",
       "title": "도깨비의세계",
@@ -5071,15 +5081,6 @@
       "icon": "https://play-lh.googleusercontent.com/fwWqpDfS0qzolNo4Q3JGof9UpbY3GlMFWWLQtsuHkNqFlOlKBUQKrJut_k-DfisS_mdbCrQjSuE-PH6JBDrN",
       "url": "https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=ko&gl=KR",
       "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.sadpuppy.lemmings",
-      "title": "Lemmings - 퍼즐 어드벤처",
-      "developer": "Exient",
-      "icon": "https://play-lh.googleusercontent.com/eTLUiJo33j53yJsl6PpXBaSsZXaPrOg0lj5bLMUsE2tA-IZHjxQ9sy0WdZxkISx0V9NHYgA_lYUOxD1JPMPvcw",
-      "url": "https://play.google.com/store/apps/details?id=com.sadpuppy.lemmings&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-29",
       "isGame": true
     },
     {
