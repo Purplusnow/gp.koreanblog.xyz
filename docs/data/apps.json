@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:11:44.901Z",
+  "updatedAt": "2026-10-16T07:02:26.407Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1885,9 +1885,49 @@
     "com.horus.sandy.jam",
     "com.gurupuzzle.find.go.hidden.objects",
     "com.wemade.mir4",
-    "jp.co.applibot.chiikawapocketgl"
+    "jp.co.applibot.chiikawapocketgl",
+    "com.gt.rivals.car.racing.game",
+    "com.playdigious.ninekings",
+    "com.NextPhase.RAIDMANAGER2",
+    "com.ninjakiwi.bloonsblitz"
   ],
   "items": [
+    {
+      "appId": "com.gt.rivals.car.racing.game",
+      "title": "GT Rivals: Real Racing Sim",
+      "developer": "Digital Racers FZ-LLC",
+      "icon": "https://play-lh.googleusercontent.com/Yn24b6OjKE-i-Ut32-ERhbRXWDj_RN7s_UOpBlgebaFxzNKKo4FIn4B0edTdxxXjBqaaFhHQRZq0mTHNaHA11Q=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gt.rivals.car.racing.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.playdigious.ninekings",
+      "title": "9 Kings 나인 킹즈",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/SGhfKIaIyLJv-EPFMrdUs3Bf29jUfq4RkSvP723fRrhLk3v4M-nwSZpoUV3V4NEfdbQJixu2BqWBPzfkxmFgotQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.ninekings&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.NextPhase.RAIDMANAGER2",
+      "title": "레이드 매니저 2",
+      "developer": "Next Phase",
+      "icon": "https://play-lh.googleusercontent.com/OgE0yfwMPN3rS09tcGFDsJjCKorEU8JEjJ9G_GrqtUsxdZUfOaeS2SR7vsIrsPaMu1ujXktNNpFl9gXeZlhoa4Q=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.NextPhase.RAIDMANAGER2&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-16",
+      "isGame": true
+    },
+    {
+      "appId": "com.ninjakiwi.bloonsblitz",
+      "title": "Bloons Blitz",
+      "developer": "ninja kiwi",
+      "icon": "https://play-lh.googleusercontent.com/axuNYiFQ--DV6MJpqADrBt8Et5oWFZCl23Sxy7FLbqkC0wULBT_VDezdf14YrI5rM7n14fIF7sYm_PHOGJEj=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonsblitz&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-16",
+      "isGame": true
+    },
     {
       "appId": "jp.co.applibot.chiikawapocketgl",
       "title": "먼작귀 포켓",
@@ -5039,33 +5079,6 @@
       "isGame": true
     },
     {
-      "appId": "com.herogame.gp.eternalevolution.kr",
-      "title": "이터널 에볼루션",
-      "developer": "HK Hero Entertainment Co., Limited",
-      "icon": "https://play-lh.googleusercontent.com/fRExOjsboW3qgE3dVMEQwqpoCfA-ZUHwBgYu5ux1XxiRASvDRuU2idxbFJQHjN_-ZxcVnYAmCqkjjHmCFNuC",
-      "url": "https://play.google.com/store/apps/details?id=com.herogame.gp.eternalevolution.kr&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.nexon.he",
-      "title": "히간: 이루실",
-      "developer": "NEXON Company",
-      "icon": "https://play-lh.googleusercontent.com/h2KLujDD_Q4V5z7TjC4OoVOarmTw9QLFtCkdFlGOxICvqOaOV0U6XOFeqk_xZvv4dwOHZbKfED0lRBdT4Qj_",
-      "url": "https://play.google.com/store/apps/details?id=com.nexon.he&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.sugargame.mjlj.gp",
-      "title": "Illusion Connect: Re",
-      "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)",
-      "icon": "https://play-lh.googleusercontent.com/AOwbdMLQwgZZPmULuwCTCwPoiLFiS1zIaZYX5DJxFxGDz9v_Cn_B2DpUGAg1sIWlte3LfvNU0Y6T6ezCsgercw",
-      "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
       "appId": "com.rxjhglkr.gp",
       "title": "열혈강호: 넥스트",
       "developer": "Kingnet Technology Limited",
@@ -5081,15 +5094,6 @@
       "icon": "https://play-lh.googleusercontent.com/fwWqpDfS0qzolNo4Q3JGof9UpbY3GlMFWWLQtsuHkNqFlOlKBUQKrJut_k-DfisS_mdbCrQjSuE-PH6JBDrN",
       "url": "https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=ko&gl=KR",
       "discoveredDate": "2026-07-30",
-      "isGame": true
-    },
-    {
-      "appId": "com.peerplay.megamerge",
-      "title": "Merge Cruise: Mystery Puzzle",
-      "developer": "PeerPlay",
-      "icon": "https://play-lh.googleusercontent.com/HPR1HCSj2yz7i4jV0dUece2qswOgkxXKgrqZnQF9lWVTLzeFhKpajuUQwTABne39Iiht4QNglnaDDJD0f8iw",
-      "url": "https://play.google.com/store/apps/details?id=com.peerplay.megamerge&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-29",
       "isGame": true
     },
     {
