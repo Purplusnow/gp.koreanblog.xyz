@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:19:43.112Z",
+  "updatedAt": "2026-10-16T20:56:58.580Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1889,9 +1889,19 @@
     "com.gt.rivals.car.racing.game",
     "com.playdigious.ninekings",
     "com.NextPhase.RAIDMANAGER2",
-    "com.ninjakiwi.bloonsblitz"
+    "com.ninjakiwi.bloonsblitz",
+    "nice.ricochet"
   ],
   "items": [
+    {
+      "appId": "nice.ricochet",
+      "title": "Ricochet Squad: 히어로 슈팅 게임",
+      "developer": "NICE PLANS STUDIO LTD",
+      "icon": "https://play-lh.googleusercontent.com/Oo8qgbI5H2Vfuv29IwfEGMq4D61vXT3IVOi4wdvFPYXNBtBVcJuqN5wQIa1fH6qf-rTdlNmxA6n1Gl546jZ2=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=nice.ricochet&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-17",
+      "isGame": true
+    },
     {
       "appId": "com.gt.rivals.car.racing.game",
       "title": "GT Rivals: Real Racing Sim",
@@ -5076,15 +5086,6 @@
       "icon": "https://play-lh.googleusercontent.com/aWGive7ThVYwQdpeWYWIlTHN8nfKjy3rP0pr-9IDAXw2fe8OzM4p8rX7QSAq186zd7lF4EkJlwYbeDOnfWjJkA",
       "url": "https://play.google.com/store/apps/details?id=com.playgendary.polyspherecoolgame&hl=ko&gl=KR",
       "discoveredDate": "2026-07-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.rxjhglkr.gp",
-      "title": "열혈강호: 넥스트",
-      "developer": "Kingnet Technology Limited",
-      "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-      "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-30",
       "isGame": true
     },
     {
