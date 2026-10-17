@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:37:47.494Z",
+  "updatedAt": "2026-10-17T17:00:56.536Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1890,9 +1890,19 @@
     "com.playdigious.ninekings",
     "com.NextPhase.RAIDMANAGER2",
     "com.ninjakiwi.bloonsblitz",
-    "nice.ricochet"
+    "nice.ricochet",
+    "com.malmal.teablin"
   ],
   "items": [
+    {
+      "appId": "com.malmal.teablin",
+      "title": "차깨비 찻집 - 도깨비 키우기 힐링 타이쿤",
+      "developer": "MALMAL Studio",
+      "icon": "https://play-lh.googleusercontent.com/WWhOZ9kVGB619S9OMeeT1bu4vG24lAZZwtFiwY5No9jKt-UYy1zqmPKqkEZsUJCaE15t5YHgwYMLkBUo74_1=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.malmal.teablin&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
     {
       "appId": "nice.ricochet",
       "title": "Ricochet Squad: 히어로 슈팅 게임",
@@ -5086,15 +5096,6 @@
       "icon": "https://play-lh.googleusercontent.com/aWGive7ThVYwQdpeWYWIlTHN8nfKjy3rP0pr-9IDAXw2fe8OzM4p8rX7QSAq186zd7lF4EkJlwYbeDOnfWjJkA",
       "url": "https://play.google.com/store/apps/details?id=com.playgendary.polyspherecoolgame&hl=ko&gl=KR",
       "discoveredDate": "2026-07-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.d3p.olympic",
-      "title": "Magic: Puzzle Quest",
-      "developer": "505 Go Inc.",
-      "icon": "https://play-lh.googleusercontent.com/fwWqpDfS0qzolNo4Q3JGof9UpbY3GlMFWWLQtsuHkNqFlOlKBUQKrJut_k-DfisS_mdbCrQjSuE-PH6JBDrN",
-      "url": "https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-30",
       "isGame": true
     },
     {
