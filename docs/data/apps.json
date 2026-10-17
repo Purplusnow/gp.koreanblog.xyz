@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T17:00:56.536Z",
+  "updatedAt": "2026-10-17T19:15:11.382Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1891,7 +1891,9 @@
     "com.NextPhase.RAIDMANAGER2",
     "com.ninjakiwi.bloonsblitz",
     "nice.ricochet",
-    "com.malmal.teablin"
+    "com.malmal.teablin",
+    "jp.konami.epjCastlevania1",
+    "com.tapclap.designville.merge"
   ],
   "items": [
     {
@@ -1900,6 +1902,24 @@
       "developer": "MALMAL Studio",
       "icon": "https://play-lh.googleusercontent.com/WWhOZ9kVGB619S9OMeeT1bu4vG24lAZZwtFiwY5No9jKt-UYy1zqmPKqkEZsUJCaE15t5YHgwYMLkBUo74_1=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.malmal.teablin&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "jp.konami.epjCastlevania1",
+      "title": "Castlevania: 40th Anniversary",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/m9-5YyKlB2nG0xnvZDmuBL1lcs1Z-a50OG9nXiapSIE10Pa4oI4o3McrGoDlotSrB778PJlczEN-1_9Xyq4e4EA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.epjCastlevania1&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.tapclap.designville.merge",
+      "title": "DesignVille: 병합 & 디자인",
+      "developer": "TAPCLAP",
+      "icon": "https://play-lh.googleusercontent.com/Z9hN9AuINrjIGvRpBe9AswFqA6gG6kAMQuxvlvdiBmEzIlLzNCMviuiNRyBA2-iRLJAYOArZfu0nLlEhk8kaPQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tapclap.designville.merge&hl=ko&gl=KR",
       "discoveredDate": "2026-10-18",
       "isGame": true
     },
@@ -5042,24 +5062,6 @@
       "icon": "https://play-lh.googleusercontent.com/y0hlrHNAOWgF1TZdB5kLr7d4BfxgTlqqUG142YLUBfXdRxeL0xLZi9uuDKKV8nTZRD38YErrc7sL2DjjLDFW",
       "url": "https://play.google.com/store/apps/details?id=com.loop.clear.cube.free.card.puzzle.sort.match&hl=ko&gl=KR",
       "discoveredDate": "2026-08-01",
-      "isGame": true
-    },
-    {
-      "appId": "jp.gungho.padKO",
-      "title": "퍼즐앤드래곤",
-      "developer": "GungHo Online Entertainment, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/t70uE_YeQkZ_080ReFVUETvtJKpOi9HutRCASqVzOOZZw5SJsquEUWD0pi7nPchfbPE6ere8onuflQfF_r8wBfc",
-      "url": "https://play.google.com/store/apps/details?id=jp.gungho.padKO&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.mherosgb",
-      "title": "MARVEL 퓨처파이트",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/AJu2Xz_kntkH5ZKf3LLrIgf5WlRtaGJ6lgCUr0NLohcdlAfM8NKJMJSZcpLhz480UNQ_Ugt_4HBzr4pzRC3NvbI",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.mherosgb&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-31",
       "isGame": true
     },
     {
