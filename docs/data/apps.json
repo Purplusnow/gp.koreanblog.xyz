@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T00:52:38.637Z",
+  "updatedAt": "2026-10-18T05:45:00.690Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1893,7 +1893,14 @@
     "nice.ricochet",
     "com.malmal.teablin",
     "jp.konami.epjCastlevania1",
-    "com.tapclap.designville.merge"
+    "com.tapclap.designville.merge",
+    "com.FreeDust.LastCampDefense2",
+    "com.bandainamcoent.op_restaurant",
+    "com.doghowlgames.spotter",
+    "com.bywitchlight.themaguscircle",
+    "com.arcanumgames.hidden.object.mystery.story",
+    "com.feralinteractive.saintsrow3_android",
+    "com.foolmoon.hillthorn"
   ],
   "items": [
     {
@@ -1920,6 +1927,69 @@
       "developer": "TAPCLAP",
       "icon": "https://play-lh.googleusercontent.com/Z9hN9AuINrjIGvRpBe9AswFqA6gG6kAMQuxvlvdiBmEzIlLzNCMviuiNRyBA2-iRLJAYOArZfu0nLlEhk8kaPQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.tapclap.designville.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.FreeDust.LastCampDefense2",
+      "title": "라스트 캠프  : 디펜스",
+      "developer": "LiberalDust",
+      "icon": "https://play-lh.googleusercontent.com/YMCFcAYhWUnKhPSSZUkhI8rl7TFlkbmh-iWTsrk1USMZoLJWWvOTj8iRyYsjeH3nh0UGfTrInYsB25ub6UyGOw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.FreeDust.LastCampDefense2&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.bandainamcoent.op_restaurant",
+      "title": "원피스 그랜드 레스토랑",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/xLtDv-WPAh30sS1T0FEUEWjr9L_bzvt-jVu_KVt5A04-VmDkus5dT8yubQKK2KiX-21zRhkeGkutnLeUs1rl=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.op_restaurant&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.doghowlgames.spotter",
+      "title": "The Spotter: Dig or Die",
+      "developer": "Doghowl Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/1MB8R8pU8jo_KdKXLVExvTN3kEDPorb8oMvgrwYBlsyf0LmlJ_glwYkBbPbg_jb7i1wORX7t2PfpvyXyypTCr7I=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.spotter&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.bywitchlight.themaguscircle",
+      "title": "The Magus Circle",
+      "developer": "By Witchlight",
+      "icon": "https://play-lh.googleusercontent.com/-v9lkYce9jvbj4nxjGTLyMqc3bJrFlGsShaZIyVVn64N1UzjKShTb9GPzD8eAtucNQl-Wk3ZKRDjvGmpGWDV=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.bywitchlight.themaguscircle&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.arcanumgames.hidden.object.mystery.story",
+      "title": "로스트 스토리: 숨은 그림 찾기",
+      "developer": "ARCANUM GAMES",
+      "icon": "https://play-lh.googleusercontent.com/7BM8s3e_XnMgAC9HGFUCpRxpCF_5tmqfvCiRpSU9nUk--v0pmPTkc-RORptflSjzEqHC-K9EgIr2I1JdMt89Wpk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.arcanumgames.hidden.object.mystery.story&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.feralinteractive.saintsrow3_android",
+      "title": "Saints Row: The Third",
+      "developer": "Feral Interactive",
+      "icon": "https://play-lh.googleusercontent.com/egMkzTncqKLbTM0GW9r-EFmjnzwksy-UOM23S63vY69ei1CJd1WsBmEegNSd2fe1799zM1UeTR8crZf5j0GDsQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.saintsrow3_android&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.foolmoon.hillthorn",
+      "title": "Hillthorn",
+      "developer": "Raw Fury",
+      "icon": "https://play-lh.googleusercontent.com/36d06sxQVy0ruKEhmWGphw56bHCiG2WdlfbRTflLrNZj9vD1ezgnE9Cg8oWiZ-3a0GanljCnIkzvXJq-4nYlVA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.foolmoon.hillthorn&hl=ko&gl=KR",
       "discoveredDate": "2026-10-18",
       "isGame": true
     },
@@ -5035,69 +5105,6 @@
       "icon": "https://play-lh.googleusercontent.com/ESVkLUzeszp_HXzfxD8FZ6yXxC1IFC88aSDJevgLka_glYB1oLNiIqExTBPLB8-YOxTV_al5OEJdQIZ7VhL882A",
       "url": "https://play.google.com/store/apps/details?id=com.horus.beach.head&hl=ko&gl=KR",
       "discoveredDate": "2026-08-02",
-      "isGame": true
-    },
-    {
-      "appId": "com.newmoonproduction.sunshineisland",
-      "title": "선샤인 아일랜드 (Sunshine Island)",
-      "developer": "Goodgame Studios",
-      "icon": "https://play-lh.googleusercontent.com/v1bjDUGJjAs7L9woZPW94YAIcoqIPR3EspxLhsJfwOk0a2whsYaC3BehMt_4l4A-RPkWW84rsJapynPOFwDwtoI",
-      "url": "https://play.google.com/store/apps/details?id=com.newmoonproduction.sunshineisland&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.cedargames.word.sort.fun",
-      "title": "Word Sort Fun! - 재미 단어 분류",
-      "developer": "Cedar Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/A3VlT33MbYYSwmtKrk6q-tZw9Xw1HhlAV92c0wjek_wc4a8BYII2uAzfC68UaFkPBmD6vr_ZbEbIKILkfbINcQ",
-      "url": "https://play.google.com/store/apps/details?id=com.cedargames.word.sort.fun&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.loop.clear.cube.free.card.puzzle.sort.match",
-      "title": "Loop Master: 컬러 정렬 퍼즐",
-      "developer": "Pleasure City",
-      "icon": "https://play-lh.googleusercontent.com/y0hlrHNAOWgF1TZdB5kLr7d4BfxgTlqqUG142YLUBfXdRxeL0xLZi9uuDKKV8nTZRD38YErrc7sL2DjjLDFW",
-      "url": "https://play.google.com/store/apps/details?id=com.loop.clear.cube.free.card.puzzle.sort.match&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-01",
-      "isGame": true
-    },
-    {
-      "appId": "com.dramaton.slimepet",
-      "title": "Bruno – 브루노 – 나의 귀여운 슬라임 몬스터 펫",
-      "developer": "Dramaton",
-      "icon": "https://play-lh.googleusercontent.com/0KN1fLyMh8TtYcUfujUXi0AYPFr-TiIUSO4x7T-NTlkppZ8Z0kfisXKg06Xy7St_btfi8N3kkdJ2tfqeknNWnQ",
-      "url": "https://play.google.com/store/apps/details?id=com.dramaton.slimepet&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.fruitshake.fairyrpg",
-      "title": "에이지 오브 리벤지: 턴제 RPG",
-      "developer": "Azur Interactive Games Limited",
-      "icon": "https://play-lh.googleusercontent.com/waYbIkYl9u3uYLVT8zQUekshoFvoKpHg9zpuTUzh24kSgoDHtvyXzTeSO5qpB58NdP8zQ9r4uab6O89OWOOaCA",
-      "url": "https://play.google.com/store/apps/details?id=com.fruitshake.fairyrpg&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.korea.hsbbkr.google",
-      "title": "도깨비 소녀와 함께",
-      "developer": "Apex Esports Network Limited",
-      "icon": "https://play-lh.googleusercontent.com/E9IdozLHE5pWbDGeUqxWuRj1zGbE2x2uySXfNy1BR_qS65d7N--IzBkH0T2d4btGeM8qI2EM9BJn0xRmjVu3og",
-      "url": "https://play.google.com/store/apps/details?id=com.korea.hsbbkr.google&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-31",
-      "isGame": true
-    },
-    {
-      "appId": "com.playgendary.polyspherecoolgame",
-      "title": "폴리스피어: 아트 퍼즐 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/aWGive7ThVYwQdpeWYWIlTHN8nfKjy3rP0pr-9IDAXw2fe8OzM4p8rX7QSAq186zd7lF4EkJlwYbeDOnfWjJkA",
-      "url": "https://play.google.com/store/apps/details?id=com.playgendary.polyspherecoolgame&hl=ko&gl=KR",
-      "discoveredDate": "2026-07-31",
       "isGame": true
     },
     {
