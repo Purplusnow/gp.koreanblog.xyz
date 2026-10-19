@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:00:27.218Z",
+  "updatedAt": "2026-10-19T01:05:36.571Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1900,9 +1900,19 @@
     "com.bywitchlight.themaguscircle",
     "com.arcanumgames.hidden.object.mystery.story",
     "com.feralinteractive.saintsrow3_android",
-    "com.foolmoon.hillthorn"
+    "com.foolmoon.hillthorn",
+    "com.FoxieVentures.EquestrianHorseRidingGame"
   ],
   "items": [
+    {
+      "appId": "com.FoxieVentures.EquestrianHorseRidingGame",
+      "title": "Star Equestrian - Horse Ranch",
+      "developer": "Foxie Ventures",
+      "icon": "https://play-lh.googleusercontent.com/MFbs4Siz7YsW9UNhMNfF4YDJ_hbLJqLtvYDXIVNSkuj4T_JAcYD_Eff-DDsNP96TPUVzMfS9eubdLo9yIeGdKz8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.FoxieVentures.EquestrianHorseRidingGame&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-19",
+      "isGame": true
+    },
     {
       "appId": "com.malmal.teablin",
       "title": "차깨비 찻집 - 도깨비 키우기 힐링 타이쿤",
@@ -5087,15 +5097,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZjOZt105HQCSHvyGxSKpgAbKdzIR4Yh_tdtN-1_NtWCT--q6lIiEmQPNfsb-WgcZBGt0xsYwOPasDJ0ExrS9y00",
       "url": "https://play.google.com/store/apps/details?id=pl.idreams.Dino&hl=ko&gl=KR",
       "discoveredDate": "2026-08-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.scopely.whiplash",
-      "title": "WWE Champions",
-      "developer": "Scopely",
-      "icon": "https://play-lh.googleusercontent.com/dT8HPYRKsJUPFvp115OQ_IFtgY9b0JpQ9uD12YuqjDqf3OkstRwNMF_AWt2I7pNPPpIqrj_909CCHwD8_3bSs6E",
-      "url": "https://play.google.com/store/apps/details?id=com.scopely.whiplash&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-02",
       "isGame": true
     },
     {
