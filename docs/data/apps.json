@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:55:00.490Z",
+  "updatedAt": "2026-10-20T11:24:00.398Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1901,9 +1901,19 @@
     "com.arcanumgames.hidden.object.mystery.story",
     "com.feralinteractive.saintsrow3_android",
     "com.foolmoon.hillthorn",
-    "com.FoxieVentures.EquestrianHorseRidingGame"
+    "com.FoxieVentures.EquestrianHorseRidingGame",
+    "com.jewel.sort.coloring.loop.match.paint.jigsaw"
   ],
   "items": [
+    {
+      "appId": "com.jewel.sort.coloring.loop.match.paint.jigsaw",
+      "title": "Jewel Loop - Coloring Sort",
+      "developer": "TaTa Game Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/yl0eo_Iguxv-uddVCb92jaooIhaJPgpt_in2so_5Pbg2X4ZkJ1QnikucVIbOrJPUCZ4qw_K-S3tGIUsnX0CORQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.jewel.sort.coloring.loop.match.paint.jigsaw&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-20",
+      "isGame": true
+    },
     {
       "appId": "com.FoxieVentures.EquestrianHorseRidingGame",
       "title": "Star Equestrian - Horse Ranch",
@@ -5097,15 +5107,6 @@
       "icon": "https://play-lh.googleusercontent.com/ZjOZt105HQCSHvyGxSKpgAbKdzIR4Yh_tdtN-1_NtWCT--q6lIiEmQPNfsb-WgcZBGt0xsYwOPasDJ0ExrS9y00",
       "url": "https://play.google.com/store/apps/details?id=pl.idreams.Dino&hl=ko&gl=KR",
       "discoveredDate": "2026-08-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.horus.beach.head",
-      "title": "World War: 자유를 위해 싸우다",
-      "developer": "Horus Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/ESVkLUzeszp_HXzfxD8FZ6yXxC1IFC88aSDJevgLka_glYB1oLNiIqExTBPLB8-YOxTV_al5OEJdQIZ7VhL882A",
-      "url": "https://play.google.com/store/apps/details?id=com.horus.beach.head&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-02",
       "isGame": true
     },
     {
