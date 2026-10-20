@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:27:47.630Z",
+  "updatedAt": "2026-10-20T23:47:14.565Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1902,9 +1902,19 @@
     "com.feralinteractive.saintsrow3_android",
     "com.foolmoon.hillthorn",
     "com.FoxieVentures.EquestrianHorseRidingGame",
-    "com.jewel.sort.coloring.loop.match.paint.jigsaw"
+    "com.jewel.sort.coloring.loop.match.paint.jigsaw",
+    "com.playgames.hole"
   ],
   "items": [
+    {
+      "appId": "com.playgames.hole",
+      "title": "Hole Rush: 블랙홀 퍼즐",
+      "developer": "Bluetile",
+      "icon": "https://play-lh.googleusercontent.com/JDe_2u65PvLIh4PdeKc0oeUGUS1y9X77qBgZdk3rN9cx9gRkE3tRwfRCOte6NqvnZIZ8X3OZBYoMWAkobQHtrQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playgames.hole&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-21",
+      "isGame": true
+    },
     {
       "appId": "com.jewel.sort.coloring.loop.match.paint.jigsaw",
       "title": "Jewel Loop - Coloring Sort",
@@ -5053,15 +5063,6 @@
       "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.unicostudio.voxelblastjam",
-      "title": "Voxel Blast Jam",
-      "developer": "Unico Studio",
-      "icon": "https://play-lh.googleusercontent.com/ymbqPDAdCEN67fbIWUPsObgCEmRFfLg2GsCgHSETtdLCAue-ZSxx1pkJnp1ldgzdm72d4Tioq7qWl6yaVpHxePk",
-      "url": "https://play.google.com/store/apps/details?id=com.unicostudio.voxelblastjam&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-03",
       "isGame": true
     },
     {
