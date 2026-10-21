@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:30:59.748Z",
+  "updatedAt": "2026-10-21T10:01:13.048Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1903,7 +1903,8 @@
     "com.foolmoon.hillthorn",
     "com.FoxieVentures.EquestrianHorseRidingGame",
     "com.jewel.sort.coloring.loop.match.paint.jigsaw",
-    "com.playgames.hole"
+    "com.playgames.hole",
+    "com.starutopia.global"
   ],
   "items": [
     {
@@ -1912,6 +1913,15 @@
       "developer": "Bluetile",
       "icon": "https://play-lh.googleusercontent.com/JDe_2u65PvLIh4PdeKc0oeUGUS1y9X77qBgZdk3rN9cx9gRkE3tRwfRCOte6NqvnZIZ8X3OZBYoMWAkobQHtrQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.playgames.hole&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.starutopia.global",
+      "title": "블레이드 워: 삼국",
+      "developer": "EVISTA PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/cm_-kuV_DGIeeE7F0rn4Ze3M8RnBksGGIG01B_uvFPLCiUlFrlCz6TbhvgHQ0Mlr3rdSCso-MI83MaoCkfDrOW8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.starutopia.global&hl=ko&gl=KR",
       "discoveredDate": "2026-10-21",
       "isGame": true
     },
@@ -5063,15 +5073,6 @@
       "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
-      "isGame": true
-    },
-    {
-      "appId": "linkdesks.bubblegames.bubbleshooter.royal.pop",
-      "title": "버블 슈터 로열 팝 - Bubble shooter",
-      "developer": "LinkDesks Classic Puzzle Games",
-      "icon": "https://play-lh.googleusercontent.com/GSfrO-pylYSCY3eq1kkvRi8jfgp6YzUNv_RqwFTSz38froiT2453Guqv9eqwpEZTPc3GDhsu2eZappvVJwqI",
-      "url": "https://play.google.com/store/apps/details?id=linkdesks.bubblegames.bubbleshooter.royal.pop&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-03",
       "isGame": true
     },
     {
