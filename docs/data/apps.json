@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:58:25.407Z",
+  "updatedAt": "2026-10-22T23:14:36.121Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1906,9 +1906,19 @@
     "com.playgames.hole",
     "com.starutopia.global",
     "com.nebula.rotaterings",
-    "com.x.aniimos"
+    "com.x.aniimos",
+    "com.reliancegames.drones3"
   ],
   "items": [
+    {
+      "appId": "com.reliancegames.drones3",
+      "title": "Drone : Shadow Strike 3",
+      "developer": "Reliance Games",
+      "icon": "https://play-lh.googleusercontent.com/JcBu1gkqXbRDuyMfyKfUsNLSvn5XZRu-nsy6Vl40QyPiPr8uwP-vvQLYjhno6uDjKNMyg2OZ-z7d0HDtfP4hn6I=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.reliancegames.drones3&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-23",
+      "isGame": true
+    },
     {
       "appId": "com.nebula.rotaterings",
       "title": "로테이트 링스 (Rotate Rings)",
@@ -5093,15 +5103,6 @@
       "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.heliogames.westland",
-      "title": "Westland Survival: 카우보이 게임",
-      "developer": "Helio Games",
-      "icon": "https://play-lh.googleusercontent.com/8s9HBCUKCSt8PSrQ8rZL2LyiVB4xtazUbQYbua1YINqOs1TdycN8_IlZ3FfLPPyBOZGBF833qHpzMSk4hoHGyA",
-      "url": "https://play.google.com/store/apps/details?id=com.heliogames.westland&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-03",
       "isGame": true
     },
     {
