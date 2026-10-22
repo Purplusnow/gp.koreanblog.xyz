@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T23:13:35.334Z",
+  "updatedAt": "2026-10-22T04:29:44.164Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1904,9 +1904,29 @@
     "com.FoxieVentures.EquestrianHorseRidingGame",
     "com.jewel.sort.coloring.loop.match.paint.jigsaw",
     "com.playgames.hole",
-    "com.starutopia.global"
+    "com.starutopia.global",
+    "com.nebula.rotaterings",
+    "com.x.aniimos"
   ],
   "items": [
+    {
+      "appId": "com.nebula.rotaterings",
+      "title": "로테이트 링스 (Rotate Rings)",
+      "developer": "Nebula  Studio",
+      "icon": "https://play-lh.googleusercontent.com/DPjwBJC12pcLpMvNxcgIneiJk07hdOtRR7LhZ8-TT7sbJXQ7n6jk0LnCFMwg_vLPHY0WuLH8vWAiqFZmsL0HuQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.x.aniimos",
+      "title": "애니모",
+      "developer": "Pawprint Studio",
+      "icon": "https://play-lh.googleusercontent.com/QSRvkun9_MMFiAKzDu2IQAI0BKy-JTlqZk2_AWh5ywA4ioI9BsYZQ222NAFHZKluaJI3iIhqtUHqFwCrofzd=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-22",
+      "isGame": true
+    },
     {
       "appId": "com.playgames.hole",
       "title": "Hole Rush: 블랙홀 퍼즐",
@@ -5073,24 +5093,6 @@
       "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
-      "isGame": true
-    },
-    {
-      "appId": "com.roomperfect.global",
-      "title": "Family Farm Merge",
-      "developer": "Century Games Innovation Pte. Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/Ppu-bx-N-lFEx_47WbCbV0aIQXBwov_YZi-F0luYYMaPU1ubK8zsnFbMmppTmw49Hdb-Gni9Zjh0KdcFB3M69io",
-      "url": "https://play.google.com/store/apps/details?id=com.roomperfect.global&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-03",
-      "isGame": true
-    },
-    {
-      "appId": "com.joydo.minestrikenew",
-      "title": "Cops N Robbers (FPS) - 경찰과 강도！",
-      "developer": "Riovox",
-      "icon": "https://play-lh.googleusercontent.com/Qd4XXDsKr_I5zJviO1pqNZkh3DFw1JrkJYu6on23mHOaQp--7WsIJprHzEcBfxhwMpH3K82VR6U7lswVNRVy",
-      "url": "https://play.google.com/store/apps/details?id=com.joydo.minestrikenew&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-03",
       "isGame": true
     },
     {
