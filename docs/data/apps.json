@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:05:04.044Z",
+  "updatedAt": "2026-10-23T22:04:05.842Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1907,9 +1907,19 @@
     "com.starutopia.global",
     "com.nebula.rotaterings",
     "com.x.aniimos",
-    "com.reliancegames.drones3"
+    "com.reliancegames.drones3",
+    "piggy.escape.jam.farm.puzzle.game"
   ],
   "items": [
+    {
+      "appId": "piggy.escape.jam.farm.puzzle.game",
+      "title": "Piggy Escape: 동물주차게임",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/gEj7OUViuXowg0DbxZXY7GXLz6el-lJBrtyJQQzOrBPgQmfAJPNQQZ287Hh3M286BUrs1jtI5bHghSUcwHAOOQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=piggy.escape.jam.farm.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-24",
+      "isGame": true
+    },
     {
       "appId": "com.reliancegames.drones3",
       "title": "Drone : Shadow Strike 3",
@@ -5103,15 +5113,6 @@
       "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
       "discoveredDate": "2026-08-04",
-      "isGame": true
-    },
-    {
-      "appId": "pl.idreams.Dino",
-      "title": "나만의 디노 파크 (Crazy Dino Park)",
-      "developer": "Infinite Dreams",
-      "icon": "https://play-lh.googleusercontent.com/ZjOZt105HQCSHvyGxSKpgAbKdzIR4Yh_tdtN-1_NtWCT--q6lIiEmQPNfsb-WgcZBGt0xsYwOPasDJ0ExrS9y00",
-      "url": "https://play.google.com/store/apps/details?id=pl.idreams.Dino&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-03",
       "isGame": true
     },
     {
