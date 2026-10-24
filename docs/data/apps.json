@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T18:02:51.222Z",
+  "updatedAt": "2026-10-24T20:41:17.953Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1912,9 +1912,19 @@
     "com.daerigame.reaperage",
     "com.hkgt.mot.kr.gp",
     "com.feelingtouch.clonewar",
-    "com.playwith.seal2.google"
+    "com.playwith.seal2.google",
+    "com.r3.zhzz1.kr"
   ],
   "items": [
+    {
+      "appId": "com.r3.zhzz1.kr",
+      "title": "삼국지: 제후의 전쟁",
+      "developer": "Reality Squared Games",
+      "icon": "https://play-lh.googleusercontent.com/ZLBRjaQleIYc2d-tk-ITDGFlqhz2ogz5pO1OwXi1Ohtltfor_JDQQISd0EoZCgXKsfEHMoC8JGr5JMJTIqvi=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.r3.zhzz1.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-25",
+      "isGame": true
+    },
     {
       "appId": "piggy.escape.jam.farm.puzzle.game",
       "title": "Piggy Escape: 동물주차게임",
@@ -5099,15 +5109,6 @@
       "icon": "https://play-lh.googleusercontent.com/eDBpIzcaUDYdTTWqPcFKh4f0HiucAZ4kuoOk9q86N9iFgM9IpeRPSWzwsl8UvlNCYA-8cuJKMxih_rRfWId3mg",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.abmon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
-      "isGame": true
-    },
-    {
-      "appId": "sonic.bubbleshoot.classic",
-      "title": "Bubble Pop Dream: Bubble Shoot",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/8SWW_m0H_yInjShoUaaTefmHHKpAk_9nJJMvjkLwkIGRT17tG7Di_h58N71hDdKDjGRHxmgsqIwu_6HLpNwm0tA",
-      "url": "https://play.google.com/store/apps/details?id=sonic.bubbleshoot.classic&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-04",
       "isGame": true
     },
     {
