@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:35:16.227Z",
+  "updatedAt": "2026-10-24T05:41:07.937Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1910,7 +1910,8 @@
     "com.reliancegames.drones3",
     "piggy.escape.jam.farm.puzzle.game",
     "com.daerigame.reaperage",
-    "com.hkgt.mot.kr.gp"
+    "com.hkgt.mot.kr.gp",
+    "com.feelingtouch.clonewar"
   ],
   "items": [
     {
@@ -1937,6 +1938,15 @@
       "developer": "HK GOAT",
       "icon": "https://play-lh.googleusercontent.com/mhOu9tzwPKmbYvKS8A-tHzZjQbJ0nDeDANUAMTxY6sW1rFC-P8bXDx_Qf1V8nXz2JQHNu7DIxZf1YBDP6HQjCA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.hkgt.mot.kr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.feelingtouch.clonewar",
+      "title": "클론 전쟁: IDLE RPG -미래 전투 판타지",
+      "developer": "Feelingtouch HK",
+      "icon": "https://play-lh.googleusercontent.com/fBKQ1dtqytJp3XurHDx1GNeMfmMVr8aOsUFPCxxXJ8NR7I_huqMdKnKPszWbZmJPq7lf7TZlgQ6CKzPYZAa2yw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.clonewar&hl=ko&gl=KR",
       "discoveredDate": "2026-10-24",
       "isGame": true
     },
@@ -5079,15 +5089,6 @@
       "icon": "https://play-lh.googleusercontent.com/eDBpIzcaUDYdTTWqPcFKh4f0HiucAZ4kuoOk9q86N9iFgM9IpeRPSWzwsl8UvlNCYA-8cuJKMxih_rRfWId3mg",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.abmon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.checkbox.minershminer",
-      "title": "Idle Obelisk Miner",
-      "developer": "Checkbox Entertainment LTD",
-      "icon": "https://play-lh.googleusercontent.com/ZnA0knx9doBSiw4GPZFchMyPmwo5usthvMun5jiPnL2qENVGLpdUI5eimo-XGaxQQhFJXaOfH1gvB_mnDvS9GXY",
-      "url": "https://play.google.com/store/apps/details?id=com.checkbox.minershminer&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-04",
       "isGame": true
     },
     {
