@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:04:05.842Z",
+  "updatedAt": "2026-10-24T00:35:16.227Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1908,7 +1908,9 @@
     "com.nebula.rotaterings",
     "com.x.aniimos",
     "com.reliancegames.drones3",
-    "piggy.escape.jam.farm.puzzle.game"
+    "piggy.escape.jam.farm.puzzle.game",
+    "com.daerigame.reaperage",
+    "com.hkgt.mot.kr.gp"
   ],
   "items": [
     {
@@ -1917,6 +1919,24 @@
       "developer": "Astrasen Global",
       "icon": "https://play-lh.googleusercontent.com/gEj7OUViuXowg0DbxZXY7GXLz6el-lJBrtyJQQzOrBPgQmfAJPNQQZ287Hh3M286BUrs1jtI5bHghSUcwHAOOQ=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=piggy.escape.jam.farm.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.daerigame.reaperage",
+      "title": "사신키우기2: 중세편 - 신서버오픈",
+      "developer": "DAERI SOFT Inc",
+      "icon": "https://play-lh.googleusercontent.com/6XbrBR9R-P8D3JIC0_ghbrV0mj4HGGcmeAoaTtW230Espr_Quu-BvZx30s0Ac6hZc6dCeqsfZTxTRvfClb0D7m8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.daerigame.reaperage&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.hkgt.mot.kr.gp",
+      "title": "이모탈 라이징: 불멸의 각성",
+      "developer": "HK GOAT",
+      "icon": "https://play-lh.googleusercontent.com/mhOu9tzwPKmbYvKS8A-tHzZjQbJ0nDeDANUAMTxY6sW1rFC-P8bXDx_Qf1V8nXz2JQHNu7DIxZf1YBDP6HQjCA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.hkgt.mot.kr.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-10-24",
       "isGame": true
     },
@@ -5059,24 +5079,6 @@
       "icon": "https://play-lh.googleusercontent.com/eDBpIzcaUDYdTTWqPcFKh4f0HiucAZ4kuoOk9q86N9iFgM9IpeRPSWzwsl8UvlNCYA-8cuJKMxih_rRfWId3mg",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.abmon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.coolcatsgames.racestaridle",
-      "title": "Race Star - Team Manager Game",
-      "developer": "Cool Cats Games",
-      "icon": "https://play-lh.googleusercontent.com/GRlICeHiiCGM_UDle5mDqXLwN3ol-iqgRfdrPOBTkltIhTXLX509fijqabbFJc9q00Fk6yBjXNHk323Xwgay",
-      "url": "https://play.google.com/store/apps/details?id=com.coolcatsgames.racestaridle&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-04",
-      "isGame": true
-    },
-    {
-      "appId": "vh.one",
-      "title": "최강 승자 - 액션 격투 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/aVz3lkQI7Wz9d5nXzxd2wiF2YZF2J8D-6lXfDo58HPK9LV7sIxp-NxaR7W9lTDaYNpR9kZ9BbyxpKJww_ugufyw",
-      "url": "https://play.google.com/store/apps/details?id=vh.one&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-04",
       "isGame": true
     },
     {
