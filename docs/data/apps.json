@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T05:41:07.937Z",
+  "updatedAt": "2026-10-24T10:48:09.729Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1911,7 +1911,8 @@
     "piggy.escape.jam.farm.puzzle.game",
     "com.daerigame.reaperage",
     "com.hkgt.mot.kr.gp",
-    "com.feelingtouch.clonewar"
+    "com.feelingtouch.clonewar",
+    "com.playwith.seal2.google"
   ],
   "items": [
     {
@@ -1947,6 +1948,15 @@
       "developer": "Feelingtouch HK",
       "icon": "https://play-lh.googleusercontent.com/fBKQ1dtqytJp3XurHDx1GNeMfmMVr8aOsUFPCxxXJ8NR7I_huqMdKnKPszWbZmJPq7lf7TZlgQ6CKzPYZAa2yw=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.clonewar&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.playwith.seal2.google",
+      "title": "씰M2",
+      "developer": "PlaywithKorea Inc.",
+      "icon": "https://play-lh.googleusercontent.com/eyhC7dpiSYiQ0HTfRkQRormeIVKg9GC8yxl6zFspw-6Iai0uh6vnanpIDcrq4gXB7-bI5nivNmWnsf3JNtaEakk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playwith.seal2.google&hl=ko&gl=KR",
       "discoveredDate": "2026-10-24",
       "isGame": true
     },
@@ -5089,15 +5099,6 @@
       "icon": "https://play-lh.googleusercontent.com/eDBpIzcaUDYdTTWqPcFKh4f0HiucAZ4kuoOk9q86N9iFgM9IpeRPSWzwsl8UvlNCYA-8cuJKMxih_rRfWId3mg",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.abmon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.pz.life.android",
-      "title": "Highrise: Dress Up Avatar Chat",
-      "developer": "Pocket Worlds",
-      "icon": "https://play-lh.googleusercontent.com/i9_0YyHuhCi9Iyx_PWqxmjRxa7sMudKfnnN609AHNRKUgIEesDeXwnV9ebRW87ty43ffGyYh7VvxIJQWwFkzsg",
-      "url": "https://play.google.com/store/apps/details?id=com.pz.life.android&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-04",
       "isGame": true
     },
     {
