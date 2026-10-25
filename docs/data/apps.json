@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T04:28:45.611Z",
+  "updatedAt": "2026-10-25T09:44:06.390Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1913,7 +1913,8 @@
     "com.hkgt.mot.kr.gp",
     "com.feelingtouch.clonewar",
     "com.playwith.seal2.google",
-    "com.r3.zhzz1.kr"
+    "com.r3.zhzz1.kr",
+    "com.soulgames.luna19"
   ],
   "items": [
     {
@@ -1922,6 +1923,15 @@
       "developer": "Reality Squared Games",
       "icon": "https://play-lh.googleusercontent.com/ZLBRjaQleIYc2d-tk-ITDGFlqhz2ogz5pO1OwXi1Ohtltfor_JDQQISd0EoZCgXKsfEHMoC8JGr5JMJTIqvi=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.r3.zhzz1.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-25",
+      "isGame": true
+    },
+    {
+      "appId": "com.soulgames.luna19",
+      "title": "루나 모바일: 부스팅 서버 소환권 1000장",
+      "developer": "soulgames",
+      "icon": "https://play-lh.googleusercontent.com/jNlBEu-bWIxXTXWAW_z88FdhkAgksNKo6KTKG6IYV3O-MSHRb1P-vRbcPND0fWhmGR5enQ4J-edP9HbUeVPjsaQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.soulgames.luna19&hl=ko&gl=KR",
       "discoveredDate": "2026-10-25",
       "isGame": true
     },
@@ -5109,15 +5119,6 @@
       "icon": "https://play-lh.googleusercontent.com/eDBpIzcaUDYdTTWqPcFKh4f0HiucAZ4kuoOk9q86N9iFgM9IpeRPSWzwsl8UvlNCYA-8cuJKMxih_rRfWId3mg",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.abmon&hl=ko&gl=KR",
       "discoveredDate": "2026-08-05",
-      "isGame": true
-    },
-    {
-      "appId": "com.devsisters.cc",
-      "title": "쿠키런 키우기 - 쿠키런: 크럼블",
-      "developer": "Devsisters Corporation",
-      "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-04",
       "isGame": true
     },
     {
