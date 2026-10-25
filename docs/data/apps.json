@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:17:04.100Z",
+  "updatedAt": "2026-10-25T18:20:57.648Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1914,9 +1914,19 @@
     "com.feelingtouch.clonewar",
     "com.playwith.seal2.google",
     "com.r3.zhzz1.kr",
-    "com.soulgames.luna19"
+    "com.soulgames.luna19",
+    "com.lobstargames.dungeon.idle.rpg"
   ],
   "items": [
+    {
+      "appId": "com.lobstargames.dungeon.idle.rpg",
+      "title": "던전 시스터즈 : 픽셀 방치형 RPG",
+      "developer": "Lobstar Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/_kzTM_3cZidDjdhuhYYQcMk5LEy_Yq_FGfpOyG33J2VsWaU8Oo91C1oBi2AzlbEJ8RTaeAlP7o9vMLX_owaDh6U=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.lobstargames.dungeon.idle.rpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-26",
+      "isGame": true
+    },
     {
       "appId": "com.r3.zhzz1.kr",
       "title": "삼국지: 제후의 전쟁",
@@ -5047,15 +5057,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.igenesoft.hide",
-      "title": "숨바꼭질 온라인 - 실시간 숨바꼭질",
-      "developer": "iGene",
-      "icon": "https://play-lh.googleusercontent.com/-4oaztlPc5oBE-m8Aqg0V1ITNG0e3Q2VXuBd9DEl4vaU1DBI8gpCTFtvxdSxQpbVKlY07KC_JojyqyqNxjRi-A",
-      "url": "https://play.google.com/store/apps/details?id=com.igenesoft.hide&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
