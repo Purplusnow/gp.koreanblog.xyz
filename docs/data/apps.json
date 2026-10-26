@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:39:46.696Z",
+  "updatedAt": "2026-10-26T00:08:13.593Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1915,7 +1915,8 @@
     "com.playwith.seal2.google",
     "com.r3.zhzz1.kr",
     "com.soulgames.luna19",
-    "com.lobstargames.dungeon.idle.rpg"
+    "com.lobstargames.dungeon.idle.rpg",
+    "com.pabloleban.IdleSlayer"
   ],
   "items": [
     {
@@ -1924,6 +1925,15 @@
       "developer": "Lobstar Games Corp.",
       "icon": "https://play-lh.googleusercontent.com/_kzTM_3cZidDjdhuhYYQcMk5LEy_Yq_FGfpOyG33J2VsWaU8Oo91C1oBi2AzlbEJ8RTaeAlP7o9vMLX_owaDh6U=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.lobstargames.dungeon.idle.rpg&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.pabloleban.IdleSlayer",
+      "title": "방치형 키우기 RPG: 히어로 슬레이어",
+      "developer": "Pablo Leban LLC",
+      "icon": "https://play-lh.googleusercontent.com/pei8xvzIW2MiSdJKVOC3IZX_i0DWDbaJQ-TjM_MCeCNkt9e53JBXbo_PD8nM8gZncvS_J81DoR8bWmIwFDYygkc=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.pabloleban.IdleSlayer&hl=ko&gl=KR",
       "discoveredDate": "2026-10-26",
       "isGame": true
     },
@@ -5057,15 +5067,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.idle.breaker.game",
-      "title": "Idle Breaker - Last Survival",
-      "developer": "Estoty",
-      "icon": "https://play-lh.googleusercontent.com/l50Ed0cOUkjP3oqaIMjsdaUCGeM97f7RlAdsBPva32in9DvrT7kdHadiMDhxi7LS4A4B0LvwJVRxfRfjZGdo",
-      "url": "https://play.google.com/store/apps/details?id=com.idle.breaker.game&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
