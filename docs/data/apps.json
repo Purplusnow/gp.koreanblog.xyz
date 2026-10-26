@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T06:00:05.858Z",
+  "updatedAt": "2026-10-26T12:47:47.281Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1916,7 +1916,8 @@
     "com.r3.zhzz1.kr",
     "com.soulgames.luna19",
     "com.lobstargames.dungeon.idle.rpg",
-    "com.pabloleban.IdleSlayer"
+    "com.pabloleban.IdleSlayer",
+    "com.snapbreak.doors2"
   ],
   "items": [
     {
@@ -1934,6 +1935,15 @@
       "developer": "Pablo Leban LLC",
       "icon": "https://play-lh.googleusercontent.com/pei8xvzIW2MiSdJKVOC3IZX_i0DWDbaJQ-TjM_MCeCNkt9e53JBXbo_PD8nM8gZncvS_J81DoR8bWmIwFDYygkc=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.pabloleban.IdleSlayer&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.snapbreak.doors2",
+      "title": "Doors: Origins",
+      "developer": "Snapbreak",
+      "icon": "https://play-lh.googleusercontent.com/FetiLABS80fz0EMv2q6DGfCuRUxG2anTbIxcQWFgCMXqhuTEWgfUFM480WPD6p5D1oOAidy14DAMjlmV9_lF_w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.doors2&hl=ko&gl=KR",
       "discoveredDate": "2026-10-26",
       "isGame": true
     },
@@ -5067,15 +5077,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixodust.games.free.rpg.medieval.merge.puzzle.empire",
-      "title": "Medieval Merge: 에픽 RPG 게임",
-      "developer": "Pixodust Games",
-      "icon": "https://play-lh.googleusercontent.com/DGFQ0BSQHSDnXeuNyRcEQn9oO4kuvBc4EJKmX5Uo-Nf0BcMx7uTJbL3fnY68FkFUNndOHmok_B-kNG-kFhcCpQ",
-      "url": "https://play.google.com/store/apps/details?id=com.pixodust.games.free.rpg.medieval.merge.puzzle.empire&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
