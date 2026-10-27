@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:50:38.229Z",
+  "updatedAt": "2026-10-27T10:23:45.252Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1917,9 +1917,19 @@
     "com.soulgames.luna19",
     "com.lobstargames.dungeon.idle.rpg",
     "com.pabloleban.IdleSlayer",
-    "com.snapbreak.doors2"
+    "com.snapbreak.doors2",
+    "com.xman.kr.gp"
   ],
   "items": [
+    {
+      "appId": "com.xman.kr.gp",
+      "title": "X 클래시",
+      "developer": "Glaciers Game",
+      "icon": "https://play-lh.googleusercontent.com/7lgDCPvkV3bIVkrs_Yuczp8KG9MdkA7qcJ4iye-knEvkdEIFPbhSZKRYowQGjcIVPISU4CXlEu_T8Y1w4sck=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.xman.kr.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-27",
+      "isGame": true
+    },
     {
       "appId": "com.lobstargames.dungeon.idle.rpg",
       "title": "던전 시스터즈 : 픽셀 방치형 RPG",
@@ -5077,15 +5087,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.solotopiax.merge.cooking",
-      "title": "Merge Bistro™ 요리 & 꾸미기",
-      "developer": "Gaming Laboratory",
-      "icon": "https://play-lh.googleusercontent.com/mCtcrh3Xx6pMoB3iyIA5cN7VXL-EB-HxFjTwIlfmTZ2ELTUGUeqK83Es0Qk5VPz9ZqrYEjrCzQHKP5XhMKCBQw",
-      "url": "https://play.google.com/store/apps/details?id=com.solotopiax.merge.cooking&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
