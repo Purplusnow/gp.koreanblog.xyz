@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:23:45.252Z",
+  "updatedAt": "2026-10-27T16:26:10.088Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1918,9 +1918,19 @@
     "com.lobstargames.dungeon.idle.rpg",
     "com.pabloleban.IdleSlayer",
     "com.snapbreak.doors2",
-    "com.xman.kr.gp"
+    "com.xman.kr.gp",
+    "com.actionfit.merge.cat.detective"
   ],
   "items": [
+    {
+      "appId": "com.actionfit.merge.cat.detective",
+      "title": "머지냥타운 : 미스터리 머지",
+      "developer": "ACTIONFIT Inc.",
+      "icon": "https://play-lh.googleusercontent.com/fODW4jE3UNvm5hjKF_h59s01BIAM1zah86_8l_4UIQpi3Y9Bs1nyiKj4Af63jzooKLUeRK0rG8HaUR9z-Vd-eA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.actionfit.merge.cat.detective&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-28",
+      "isGame": true
+    },
     {
       "appId": "com.xman.kr.gp",
       "title": "X 클래시",
@@ -5087,15 +5097,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.ayasis.mentalup",
-      "title": "아이들을 위한 두뇌 게임",
-      "developer": "MentalUP - Learning Games for Kids",
-      "icon": "https://play-lh.googleusercontent.com/nsOqY2S5elsIlnsDbiQsd7LkgUag0oVq2hU52H6MUXmWqLBIrOvFfADvPC_5p0XTDywoufhmQ8Zai8Mpf7nl",
-      "url": "https://play.google.com/store/apps/details?id=com.ayasis.mentalup&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
