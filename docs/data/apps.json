@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T08:17:53.417Z",
+  "updatedAt": "2026-10-28T15:55:19.772Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1919,9 +1919,19 @@
     "com.pabloleban.IdleSlayer",
     "com.snapbreak.doors2",
     "com.xman.kr.gp",
-    "com.actionfit.merge.cat.detective"
+    "com.actionfit.merge.cat.detective",
+    "com.farlightgames.warline.gp.global"
   ],
   "items": [
+    {
+      "appId": "com.farlightgames.warline.gp.global",
+      "title": "워라인: 스나이퍼",
+      "developer": "Powerfantasy HK Limited",
+      "icon": "https://play-lh.googleusercontent.com/XJM2uz8yxBb6BLJ-1qk2KNzPjWfNQdLPyWPSJDycuSwSyFiIangg7skGDM_sIrEmQVueqmWJQb63NFIwUEmAhA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.warline.gp.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-29",
+      "isGame": true
+    },
     {
       "appId": "com.actionfit.merge.cat.detective",
       "title": "머지냥타운 : 미스터리 머지",
@@ -5097,15 +5107,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.sparklingsocietysims.towncitybrawlworldofbrawlers",
-      "title": "Village City - 타운 빌딩 심 게임",
-      "developer": "Sparkling Society - Build a Town, City, Village",
-      "icon": "https://play-lh.googleusercontent.com/9Y5y0SuspX_iM41KxVJHtMkzCsaFm5frycI5JXOMzSFQo-NvnOYlKiuPOMkDLKxWt5_9A5EqNfVt8bcQL-6E",
-      "url": "https://play.google.com/store/apps/details?id=com.sparklingsocietysims.towncitybrawlworldofbrawlers&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
