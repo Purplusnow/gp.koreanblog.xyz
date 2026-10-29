@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:57:32.635Z",
+  "updatedAt": "2026-10-29T00:47:02.183Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1920,7 +1920,8 @@
     "com.snapbreak.doors2",
     "com.xman.kr.gp",
     "com.actionfit.merge.cat.detective",
-    "com.farlightgames.warline.gp.global"
+    "com.farlightgames.warline.gp.global",
+    "com.tg.ysczg.kr"
   ],
   "items": [
     {
@@ -1929,6 +1930,15 @@
       "developer": "Powerfantasy HK Limited",
       "icon": "https://play-lh.googleusercontent.com/XJM2uz8yxBb6BLJ-1qk2KNzPjWfNQdLPyWPSJDycuSwSyFiIangg7skGDM_sIrEmQVueqmWJQb63NFIwUEmAhA=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.farlightgames.warline.gp.global&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-29",
+      "isGame": true
+    },
+    {
+      "appId": "com.tg.ysczg.kr",
+      "title": "히어로즈 테일즈2",
+      "developer": "37 Mobile Games",
+      "icon": "https://play-lh.googleusercontent.com/2J2FHDZ4Uj7CklJMCv8sPjVi7AS0VHcGFNJ5zwp8DqZMut7Pe9tXX9nrmamhGgL5Nsn8AMi9uvp-NCupG1VJ4w=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-10-29",
       "isGame": true
     },
@@ -5107,15 +5117,6 @@
       "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
       "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
       "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.mobirix.airhockey",
-      "title": "에어 하키 챌린지",
-      "developer": "mobirix",
-      "icon": "https://play-lh.googleusercontent.com/yYOmm0a3fQ_uZEG8ObB5YJxzBoWgyBCNnjgLue-md5oTSh4Vj3MK6zi0JgeOVROBgYGeguZynvrq0ViQxY-G3g",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.airhockey&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-05",
       "isGame": true
     },
     {
