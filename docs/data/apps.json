@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:48:08.849Z",
+  "updatedAt": "2026-10-30T06:59:43.382Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1922,9 +1922,39 @@
     "com.actionfit.merge.cat.detective",
     "com.farlightgames.warline.gp.global",
     "com.tg.ysczg.kr",
-    "com.gameade.sjsb.google"
+    "com.gameade.sjsb.google",
+    "com.aigrind.skylore",
+    "com.kungpowgranny.rogue",
+    "jp.co.imagineer.medarotsurvivors"
   ],
   "items": [
+    {
+      "appId": "com.aigrind.skylore",
+      "title": "Skylore－fantasy MMORPG",
+      "developer": "TITULUM",
+      "icon": "https://play-lh.googleusercontent.com/lBSA8OiPZ7rMEycCVWh7K3C_u0VQtQkKAdI8LxIuZQ5llsoFeMGOVWCi69IJmzw0g7A5J1kSMN-3OLE9Nwqq=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.aigrind.skylore&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-30",
+      "isGame": true
+    },
+    {
+      "appId": "com.kungpowgranny.rogue",
+      "title": "쿵푸 할매: 서바이버",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/66M1Fv7UeUf3Tp8TKaEQqzv2P02tUD8qEGN6bSLT8TV9Z_aJRZAn28anRcflm-2C2DPNprSOrT505DBAuW1exAs=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.kungpowgranny.rogue&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-30",
+      "isGame": true
+    },
+    {
+      "appId": "jp.co.imagineer.medarotsurvivors",
+      "title": "Medabots Survivors",
+      "developer": "Imagineer Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/QTpDvf339LbGx6DiEs9gNttM5K5PoE_tAtGut9dkbKWFonY3nNO5RiZmuBQsZIngx7fxoKuMqlh0DuQ6FSN9_Bs=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medarotsurvivors&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-30",
+      "isGame": true
+    },
     {
       "appId": "com.farlightgames.warline.gp.global",
       "title": "워라인: 스나이퍼",
@@ -5082,33 +5112,6 @@
       "icon": "https://play-lh.googleusercontent.com/nAildlAbAaau6jV53hP_IlzWobQEIquFXZ_rZEJ1DuShQwj6Gp3BWtfJb_wiStZ-v2W5pVc345lPAByDsP1HhA",
       "url": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.furywing.travel.merge",
-      "title": "여행 이야기: 병합된 여정",
-      "developer": "FW Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/XqBYxG0P338Y8ZEM6J1Dt6SoqK5duauy7sqrciA0INJ1s1ZkPQN5vsAGw26dYnKroIPePH88Xxs423Odeph77A",
-      "url": "https://play.google.com/store/apps/details?id=com.furywing.travel.merge&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "factory.resource.industry",
-      "title": "팩토리 월드",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/sD7k5h6xD4KJAKYqnp28GTVOiUhl8ZRyyovFzx92rTqasM3LZsnjie47rqb1AVYgZjb-oleWQ6hfkkj7xGsrJA",
-      "url": "https://play.google.com/store/apps/details?id=factory.resource.industry&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "net.peakgames.match",
-      "title": "매치 팩토리(Match Factory)!",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
-      "url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-06",
       "isGame": true
     },
     {
