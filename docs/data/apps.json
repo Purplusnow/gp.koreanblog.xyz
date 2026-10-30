@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:10:55.777Z",
+  "updatedAt": "2026-10-30T23:37:51.092Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1925,9 +1925,39 @@
     "com.gameade.sjsb.google",
     "com.aigrind.skylore",
     "com.kungpowgranny.rogue",
-    "jp.co.imagineer.medarotsurvivors"
+    "jp.co.imagineer.medarotsurvivors",
+    "com.playwindgames.freedefender",
+    "com.abi.legendofsurvivors",
+    "com.buffstudio.onthehero"
   ],
   "items": [
+    {
+      "appId": "com.playwindgames.freedefender",
+      "title": "팔고(Pal Go): 타워 디펜스 TD",
+      "developer": "Playwind",
+      "icon": "https://play-lh.googleusercontent.com/QoUNAOx14w4EDaBhqUN4bzi4NEsmf2sYVAWrb6cZURvfoEO9pIG8fuCh3eXIQ5wIAd8bhKE6tCF_o4oDywMCgQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playwindgames.freedefender&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.abi.legendofsurvivors",
+      "title": "생존자 전설",
+      "developer": "Joyboy Game Studio",
+      "icon": "https://play-lh.googleusercontent.com/0Myo-G1MZLvNTId3V8rCmRUjqsKPYTsibCphww9YPe5TnbEtMoHC2OAv1wWNSmLUHd3A7YvS2UnnpIrVufELKA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.abi.legendofsurvivors&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.buffstudio.onthehero",
+      "title": "용사는 진행중: 레트로 러너 RPG",
+      "developer": "Buff Studio Co.,Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/RFFx5RXTnMAaeIGB-JBEV2TYfsLc7USt67OLwpsejjrJMamFn7wMZrm5bQ_DCZy8pUL9HMTFzPRXbpCzpIxW=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.onthehero&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-31",
+      "isGame": true
+    },
     {
       "appId": "com.aigrind.skylore",
       "title": "Skylore－fantasy MMORPG",
@@ -5070,15 +5100,6 @@
       "isGame": true
     },
     {
-      "appId": "com.horus.warzone",
-      "title": "War Zone: 조국을 위한 싸움",
-      "developer": "Horus Entertainment",
-      "icon": "https://play-lh.googleusercontent.com/A36_j-YjA-HKDwmpRt_JT-Ac_GGOvjzvcSLsX6Lr1PIEZarSusQtjcrQGpXOd8Y6rvyr4duBl0CQZ7WqiCilxg",
-      "url": "https://play.google.com/store/apps/details?id=com.horus.warzone&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-07",
-      "isGame": true
-    },
-    {
       "appId": "color.number.paint.pixle.art.sort.jigsaw",
       "title": "Jewel Coloring",
       "developer": "TaTa Game Technology Limited",
@@ -5112,24 +5133,6 @@
       "icon": "https://play-lh.googleusercontent.com/nAildlAbAaau6jV53hP_IlzWobQEIquFXZ_rZEJ1DuShQwj6Gp3BWtfJb_wiStZ-v2W5pVc345lPAByDsP1HhA",
       "url": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-07",
-      "isGame": true
-    },
-    {
-      "appId": "com.eapublishing.dhsw.paid",
-      "title": "그림자 헌터 잃어버린 세계 : 프리미엄",
-      "developer": "EA Publishing",
-      "icon": "https://play-lh.googleusercontent.com/-32RAQJYWTdHdGFv3G8517GVPD7rqF6Nf-E4CEAe8gZoZVMf8Dg4P6HqddY1PNiVRiJS-7cb3xX-Q2ILKD_tb7I",
-      "url": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-06",
-      "isGame": true
-    },
-    {
-      "appId": "com.kristanix.android.mahjongsolitairetitan",
-      "title": "Mahjong Titan",
-      "developer": "Kristanix Games",
-      "icon": "https://play-lh.googleusercontent.com/uLMvXlacwZC2VyzEAzYQVUTX6rGp3YvpjYYLnZzolVQdekYfTy8EOE7tlX7eiK7WiA0fyvwk6QjBUfdG9pe1_Q",
-      "url": "https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-06",
       "isGame": true
     },
     {
