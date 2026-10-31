@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:11:38.679Z",
+  "updatedAt": "2026-10-31T17:38:27.912Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1929,9 +1929,19 @@
     "com.playwindgames.freedefender",
     "com.abi.legendofsurvivors",
     "com.buffstudio.onthehero",
-    "com.vizorapps.klondike"
+    "com.vizorapps.klondike",
+    "com.miniclip.ultimatehunting"
   ],
   "items": [
+    {
+      "appId": "com.miniclip.ultimatehunting",
+      "title": "Hunting Battle: 헌터 게임",
+      "developer": "HypGames.",
+      "icon": "https://play-lh.googleusercontent.com/O2nB-hF4hFk2Q2IfunYkmOQ6HMBZSawgOlS5pEDM4kZm8QXa6NWCNl4q_WwfbKECSBGn8D4SGxm5UC2b_yZgvg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.ultimatehunting&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-01",
+      "isGame": true
+    },
     {
       "appId": "com.playwindgames.freedefender",
       "title": "팔고(Pal Go): 타워 디펜스 TD",
@@ -5107,15 +5117,6 @@
       "icon": "https://play-lh.googleusercontent.com/GNER28fAsdniuqZGOzOKpN82vduFJPTV2E01IyrUvngH_zHCRyfISN7yonm3qzwNEgdaYVRydlwp3qYvW5qL",
       "url": "https://play.google.com/store/apps/details?id=com.yoozoo.jgame.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.sundaytoz.kakao.wbb",
-      "title": "위 베어 베어스 더 퍼즐 : 퍼즐게임",
-      "developer": "Wemade Play Co.,Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/sJhd-4u6oauB6o2mLrWjK_G26aUNHDzsQhp1VdO6ZuoE73hSzZjqjWSJdSwGtRcMK8rCINU3yoqU3YKmAOYs",
-      "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.wbb&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-07",
       "isGame": true
     },
     {
