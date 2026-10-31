@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:22:56.141Z",
+  "updatedAt": "2026-10-31T12:11:38.679Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1928,7 +1928,8 @@
     "jp.co.imagineer.medarotsurvivors",
     "com.playwindgames.freedefender",
     "com.abi.legendofsurvivors",
-    "com.buffstudio.onthehero"
+    "com.buffstudio.onthehero",
+    "com.vizorapps.klondike"
   ],
   "items": [
     {
@@ -1955,6 +1956,15 @@
       "developer": "Buff Studio Co.,Ltd.",
       "icon": "https://play-lh.googleusercontent.com/RFFx5RXTnMAaeIGB-JBEV2TYfsLc7USt67OLwpsejjrJMamFn7wMZrm5bQ_DCZy8pUL9HMTFzPRXbpCzpIxW=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.buffstudio.onthehero&hl=ko&gl=KR",
+      "discoveredDate": "2026-10-31",
+      "isGame": true
+    },
+    {
+      "appId": "com.vizorapps.klondike",
+      "title": "Klondike Adventures: 농장게임",
+      "developer": "VIZOR APPS LTD.",
+      "icon": "https://play-lh.googleusercontent.com/A_4bEGgDVtqWI4FnhVjBth8IxyV8ANJmraiPhdhas9R07ZU-mmW4JEeTio-BYWh3iGcRMzNIhnr8lQX5FIm2Xg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.vizorapps.klondike&hl=ko&gl=KR",
       "discoveredDate": "2026-10-31",
       "isGame": true
     },
@@ -5097,15 +5107,6 @@
       "icon": "https://play-lh.googleusercontent.com/GNER28fAsdniuqZGOzOKpN82vduFJPTV2E01IyrUvngH_zHCRyfISN7yonm3qzwNEgdaYVRydlwp3qYvW5qL",
       "url": "https://play.google.com/store/apps/details?id=com.yoozoo.jgame.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
-      "isGame": true
-    },
-    {
-      "appId": "color.number.paint.pixle.art.sort.jigsaw",
-      "title": "Jewel Coloring",
-      "developer": "TaTa Game Technology Limited",
-      "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
-      "url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-07",
       "isGame": true
     },
     {
