@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:23:42.695Z",
+  "updatedAt": "2026-11-01T14:57:56.295Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1930,7 +1930,8 @@
     "com.abi.legendofsurvivors",
     "com.buffstudio.onthehero",
     "com.vizorapps.klondike",
-    "com.miniclip.ultimatehunting"
+    "com.miniclip.ultimatehunting",
+    "com.garena.game.mho"
   ],
   "items": [
     {
@@ -1939,6 +1940,15 @@
       "developer": "HypGames.",
       "icon": "https://play-lh.googleusercontent.com/O2nB-hF4hFk2Q2IfunYkmOQ6HMBZSawgOlS5pEDM4kZm8QXa6NWCNl4q_WwfbKECSBGn8D4SGxm5UC2b_yZgvg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.miniclip.ultimatehunting&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-01",
+      "isGame": true
+    },
+    {
+      "appId": "com.garena.game.mho",
+      "title": "몬스터헌터 아웃랜더스",
+      "developer": "Garena Online Private Limited",
+      "icon": "https://play-lh.googleusercontent.com/ZPNpOwGr2MKvcICAPsduTVDJNOQRMUcrzr1X30WlKLV-GdIIbRTNQFiyemLkuLMx_t3Jfeovf8Qo38DglZY6=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.garena.game.mho&hl=ko&gl=KR",
       "discoveredDate": "2026-11-01",
       "isGame": true
     },
@@ -5117,15 +5127,6 @@
       "icon": "https://play-lh.googleusercontent.com/GNER28fAsdniuqZGOzOKpN82vduFJPTV2E01IyrUvngH_zHCRyfISN7yonm3qzwNEgdaYVRydlwp3qYvW5qL",
       "url": "https://play.google.com/store/apps/details?id=com.yoozoo.jgame.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.sts.vision",
-      "title": "모던 커뮤니티(Modern Community)",
-      "developer": "Magic Tavern, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/GMMJjQm9R16WF0AvifVAFfhFCpv_QTxavwguEwL1SQSstf9zdha2Gg6JMYzXQJj2bnts0biyTFAk9T4_62aB",
-      "url": "https://play.google.com/store/apps/details?id=com.sts.vision&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-07",
       "isGame": true
     },
     {
