@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T14:57:56.295Z",
+  "updatedAt": "2026-11-01T19:31:08.643Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1931,9 +1931,19 @@
     "com.buffstudio.onthehero",
     "com.vizorapps.klondike",
     "com.miniclip.ultimatehunting",
-    "com.garena.game.mho"
+    "com.garena.game.mho",
+    "com.codetiger.threekingdom"
   ],
   "items": [
+    {
+      "appId": "com.codetiger.threekingdom",
+      "title": "도원결의 : 방치형 삼국지",
+      "developer": "CODE TIGER",
+      "icon": "https://play-lh.googleusercontent.com/0B6iZTnYgwo27P5hgxsSmIp3Vs-eJjdGdWZ31sEon-p98TzKvLC9VVyXdr60M-v-IEztwsDqXcH8ubwgzGxa=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.codetiger.threekingdom&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-02",
+      "isGame": true
+    },
     {
       "appId": "com.miniclip.ultimatehunting",
       "title": "Hunting Battle: 헌터 게임",
@@ -5127,15 +5137,6 @@
       "icon": "https://play-lh.googleusercontent.com/GNER28fAsdniuqZGOzOKpN82vduFJPTV2E01IyrUvngH_zHCRyfISN7yonm3qzwNEgdaYVRydlwp3qYvW5qL",
       "url": "https://play.google.com/store/apps/details?id=com.yoozoo.jgame.kr&hl=ko&gl=KR",
       "discoveredDate": "2026-08-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.candy.smash.mania.match.gp",
-      "title": "Candy Smash Mania 2",
-      "developer": "gameone",
-      "icon": "https://play-lh.googleusercontent.com/nAildlAbAaau6jV53hP_IlzWobQEIquFXZ_rZEJ1DuShQwj6Gp3BWtfJb_wiStZ-v2W5pVc345lPAByDsP1HhA",
-      "url": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-07",
       "isGame": true
     },
     {
