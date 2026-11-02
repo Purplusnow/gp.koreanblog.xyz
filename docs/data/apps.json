@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:29:44.788Z",
+  "updatedAt": "2026-11-02T05:49:44.366Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1932,7 +1932,8 @@
     "com.vizorapps.klondike",
     "com.miniclip.ultimatehunting",
     "com.garena.game.mho",
-    "com.codetiger.threekingdom"
+    "com.codetiger.threekingdom",
+    "com.etermax.preguntados.lite"
   ],
   "items": [
     {
@@ -1941,6 +1942,15 @@
       "developer": "CODE TIGER",
       "icon": "https://play-lh.googleusercontent.com/0B6iZTnYgwo27P5hgxsSmIp3Vs-eJjdGdWZ31sEon-p98TzKvLC9VVyXdr60M-v-IEztwsDqXcH8ubwgzGxa=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.codetiger.threekingdom&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-02",
+      "isGame": true
+    },
+    {
+      "appId": "com.etermax.preguntados.lite",
+      "title": "Trivia Crack: 두뇌 퀴즈 게임",
+      "developer": "etermax",
+      "icon": "https://play-lh.googleusercontent.com/2Mhdb5L-e0GOP3la0gmDgmLALFnSFpRDW16wFiKlMrQmTXTyVjXZn5-KDtNHIyPK4KtesuWdPLEskbiZIP081g=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite&hl=ko&gl=KR",
       "discoveredDate": "2026-11-02",
       "isGame": true
     },
@@ -5056,15 +5066,6 @@
       "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
       "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.playdigious.dst",
-      "title": "Don't Starve Together",
-      "developer": "Playdigious",
-      "icon": "https://play-lh.googleusercontent.com/7EOrztVm3xsrUgSL0wsPXSRdXffDsokQ0seVT08NGDzuom3t2JGGPu3dcLz_ubMrEkbTkY3hkdNjTzkgQgwzFw",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.dst&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
       "isGame": true
     },
     {
