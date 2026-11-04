@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T08:59:06.909Z",
+  "updatedAt": "2026-11-04T17:05:06.026Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1935,9 +1935,19 @@
     "com.codetiger.threekingdom",
     "com.etermax.preguntados.lite",
     "com.allstarunion.ta.kr",
-    "com.klab.bleach"
+    "com.klab.bleach",
+    "com.zeptolab.thieves.google"
   ],
   "items": [
+    {
+      "appId": "com.zeptolab.thieves.google",
+      "title": "King of Thieves (도둑의 왕)",
+      "developer": "Nazara Publishing",
+      "icon": "https://play-lh.googleusercontent.com/_iWxuP-aKwix0LIWvFTdYW2fC4wNvcBKyURQ9qr5FH0Ik6tc95wAIljkC6Lk5LDNTOu56szjIRVPXoWGxUKXIQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.zeptolab.thieves.google&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-05",
+      "isGame": true
+    },
     {
       "appId": "com.allstarunion.ta.kr",
       "title": "디 앤츠: 언더그라운드 킹덤",
@@ -5086,15 +5096,6 @@
       "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
       "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.ovilex.trucksimulatorusaevo",
-      "title": "Truck Simulator EVO: Drive USA",
-      "developer": "Ovidiu Pop",
-      "icon": "https://play-lh.googleusercontent.com/lYeLUcxpa_tEbYJkGdUAzClkWqkB0VdS1B22AVlejeCgMYgMN-VypAJ9ZqYlJDZYw43yWOnV9zEavynMXNhn",
-      "url": "https://play.google.com/store/apps/details?id=com.ovilex.trucksimulatorusaevo&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
       "isGame": true
     },
     {
