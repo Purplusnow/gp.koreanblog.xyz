@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:54:14.139Z",
+  "updatedAt": "2026-11-04T01:13:28.493Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1933,9 +1933,29 @@
     "com.miniclip.ultimatehunting",
     "com.garena.game.mho",
     "com.codetiger.threekingdom",
-    "com.etermax.preguntados.lite"
+    "com.etermax.preguntados.lite",
+    "com.allstarunion.ta.kr",
+    "com.klab.bleach"
   ],
   "items": [
+    {
+      "appId": "com.allstarunion.ta.kr",
+      "title": "디 앤츠: 언더그라운드 킹덤",
+      "developer": "StarUnion",
+      "icon": "https://play-lh.googleusercontent.com/Q7tUVCfJ__vZHMi7OCEIfAWElKEWgmfRkHBNHZChrCdGU41aGTLcbfEB_v7jLKUiYzUkPdMe5Kvkeognh6PY=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.allstarunion.ta.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-04",
+      "isGame": true
+    },
+    {
+      "appId": "com.klab.bleach",
+      "title": "Bleach:Brave Souls Anime Games",
+      "developer": "KLab",
+      "icon": "https://play-lh.googleusercontent.com/l4q4CLhcfufU6l5qBxe7YM7i1TDULUsGeHTt0QFhazqrkZMtuG3sKf-jslNZu_dNK__FNGOAV0jl_jtPOVFLxQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.klab.bleach&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-04",
+      "isGame": true
+    },
     {
       "appId": "com.codetiger.threekingdom",
       "title": "도원결의 : 방치형 삼국지",
@@ -5066,24 +5086,6 @@
       "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
       "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.tensquaregames.medalhunter",
-      "title": "Medal Hunter: 밀리터리 게임",
-      "developer": "Ten Square Games",
-      "icon": "https://play-lh.googleusercontent.com/WR2twMlKIjnCO0cOTgYdj_RhtmLuQfcQiBgkAIij6ippigFl-aZRDbu14ATzZoz5O8lH6AFGknjTVfKqn_xayh4",
-      "url": "https://play.google.com/store/apps/details?id=com.tensquaregames.medalhunter&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.goosebump.bulletheroes",
-      "title": "불릿 히어로즈: 타워 디펜스 게임",
-      "developer": "Homa",
-      "icon": "https://play-lh.googleusercontent.com/eKf4KzQ6rlaBYGjpNdCgy0yWPFX58tcYcE8KVyPPEncCow6i0ttrSji2Yx2pP3uS2m5WtawPhpCGSGApk3SRVPI",
-      "url": "https://play.google.com/store/apps/details?id=com.goosebump.bulletheroes&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
       "isGame": true
     },
     {
