@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:09:42.063Z",
+  "updatedAt": "2026-11-05T20:35:31.412Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1938,9 +1938,29 @@
     "com.klab.bleach",
     "com.zeptolab.thieves.google",
     "com.tencent.tmgp.kr.codm",
-    "linkdesks.classic.solitaire.klondike"
+    "linkdesks.classic.solitaire.klondike",
+    "com.daerigame.scarecrow",
+    "com.t3.luna"
   ],
   "items": [
+    {
+      "appId": "com.daerigame.scarecrow",
+      "title": "수련충 리마스터",
+      "developer": "DAERI SOFT Inc",
+      "icon": "https://play-lh.googleusercontent.com/-jNt5LHw2B6JnXvV154IiMBaNTKrrTueoAqkv9DSjT7iNhJMnVtWCpr08mgIt0MpWhkThUyQsKu0oTTG6GgeIoM=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.daerigame.scarecrow&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.t3.luna",
+      "title": "루나 모바일(12): 부스팅 서버 소환권 1000장",
+      "developer": "soulgames",
+      "icon": "https://play-lh.googleusercontent.com/HUHCG6JlIRLCQO0onE1FrxjEGTCNhR8oaSDHtolNtjSdoGvg9ssNsN_ybEWxmcXAb4FPctIc-0s-nvKcvRKVb-4=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.t3.luna&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-06",
+      "isGame": true
+    },
     {
       "appId": "com.zeptolab.thieves.google",
       "title": "King of Thieves (도둑의 왕)",
@@ -5116,24 +5136,6 @@
       "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
       "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "games.WanderlostInteractive.Dawncaster",
-      "title": "Dawncaster: 덱빌딩 RPG",
-      "developer": "Wanderlost Interactive",
-      "icon": "https://play-lh.googleusercontent.com/x9n-1cME_nO_BrlwZXMqCquKNaK_A_ab0ZQ7oAS1ytT0K6f5nHm9pxBmkm5B4QnwZ19kidXdMdyTv-glQo80xvY",
-      "url": "https://play.google.com/store/apps/details?id=games.WanderlostInteractive.Dawncaster&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
-      "isGame": true
-    },
-    {
-      "appId": "com.camelgames.superking",
-      "title": "전쟁의 성화 (War and Order)",
-      "developer": "CamelStudio",
-      "icon": "https://play-lh.googleusercontent.com/MXSinmUQlhaV8xJIl0O99LVPkNU-YvIMGtbRW-2QQhIm-Dkk-NuDso_FbApzmrp_bRVyvLGbxNzEp-ZD0ghf",
-      "url": "https://play.google.com/store/apps/details?id=com.camelgames.superking&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
       "isGame": true
     },
     {
