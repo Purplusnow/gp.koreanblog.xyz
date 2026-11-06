@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:35:31.412Z",
+  "updatedAt": "2026-11-06T01:28:51.650Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1940,7 +1940,8 @@
     "com.tencent.tmgp.kr.codm",
     "linkdesks.classic.solitaire.klondike",
     "com.daerigame.scarecrow",
-    "com.t3.luna"
+    "com.t3.luna",
+    "com.nspgames.dungeonslasher"
   ],
   "items": [
     {
@@ -1958,6 +1959,15 @@
       "developer": "soulgames",
       "icon": "https://play-lh.googleusercontent.com/HUHCG6JlIRLCQO0onE1FrxjEGTCNhR8oaSDHtolNtjSdoGvg9ssNsN_ybEWxmcXAb4FPctIc-0s-nvKcvRKVb-4=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.t3.luna&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.nspgames.dungeonslasher",
+      "title": "던전 슬래셔: 로그라이크 RPG",
+      "developer": "96Percent",
+      "icon": "https://play-lh.googleusercontent.com/CNuTcVb8AZT20V40ykdQQJ7vMavFasRnxyjiAUaPhOViY_Yi-p7YKcUYSS4VU3o9GgVyR97ObDmJa_iiq2lowg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nspgames.dungeonslasher&hl=ko&gl=KR",
       "discoveredDate": "2026-11-06",
       "isGame": true
     },
@@ -5136,15 +5146,6 @@
       "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
       "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.yoozoo.jgame.kr",
-      "title": "에코칼립스: 진홍의 서약",
-      "developer": "Yoozoo (Singapore) Pte. Ltd",
-      "icon": "https://play-lh.googleusercontent.com/GNER28fAsdniuqZGOzOKpN82vduFJPTV2E01IyrUvngH_zHCRyfISN7yonm3qzwNEgdaYVRydlwp3qYvW5qL",
-      "url": "https://play.google.com/store/apps/details?id=com.yoozoo.jgame.kr&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-08",
       "isGame": true
     },
     {
