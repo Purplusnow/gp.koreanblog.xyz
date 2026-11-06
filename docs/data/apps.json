@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:28:51.650Z",
+  "updatedAt": "2026-11-06T09:15:19.733Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1941,7 +1941,9 @@
     "linkdesks.classic.solitaire.klondike",
     "com.daerigame.scarecrow",
     "com.t3.luna",
-    "com.nspgames.dungeonslasher"
+    "com.nspgames.dungeonslasher",
+    "com.mobibrain.championforge",
+    "com.raven.tank.google"
   ],
   "items": [
     {
@@ -1968,6 +1970,24 @@
       "developer": "96Percent",
       "icon": "https://play-lh.googleusercontent.com/CNuTcVb8AZT20V40ykdQQJ7vMavFasRnxyjiAUaPhOViY_Yi-p7YKcUYSS4VU3o9GgVyR97ObDmJa_iiq2lowg=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.nspgames.dungeonslasher&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.mobibrain.championforge",
+      "title": "무기 마스터：방치형 RPG",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/ATq_MNmPHllUJIMn6vKqHdD_iQIAP-9zoCZwGTqw8cKS3iZavGPYie_8F5a6qFbdqE1fdMSSgh_0D90UyJ7ZGvQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mobibrain.championforge&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-06",
+      "isGame": true
+    },
+    {
+      "appId": "com.raven.tank.google",
+      "title": "탱크 발사",
+      "developer": "RavenGame",
+      "icon": "https://play-lh.googleusercontent.com/TvYysLd4bj_1GTrE3eAmbG3XhqEX6KbX9yz8aanHOqntSnV2mbGdmyeCJz32mOO6flUj7qYfeya1i4zbJ3An1A=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.raven.tank.google&hl=ko&gl=KR",
       "discoveredDate": "2026-11-06",
       "isGame": true
     },
@@ -4975,24 +4995,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.runawayplay.fishgame",
-      "title": "연못살이 ー 힐링 물고기 키우기 게임",
-      "developer": "Runaway Play",
-      "icon": "https://play-lh.googleusercontent.com/4qte1kRgouctdXT4a6zb5Z9MQIlxH6WTYbLrrCPKAkCbURudyR4v7ME1qma0D6W2QkNfD0TmJLA_vnghfVbNc6Y",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.fishgame&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.AmberbiteGames.ShoeItAllMobile",
-      "title": "Shoe It All!",
-      "developer": "Amberbite Games",
-      "icon": "https://play-lh.googleusercontent.com/v4a0XZVR517dMcx36LfcJRu4_4MUvMq5Q2VqcpZnJ6g6Xs5N8t5YfO6ZGu_w1vSgELwVmLs6U-XjS4PKuV9s",
-      "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
