@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:59:40.538Z",
+  "updatedAt": "2026-11-07T02:41:29.657Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1944,7 +1944,9 @@
     "com.nspgames.dungeonslasher",
     "com.mobibrain.championforge",
     "com.raven.tank.google",
-    "com.alien.shooter.galaxy.attack"
+    "com.alien.shooter.galaxy.attack",
+    "com.onepunchman.ggplay.sea",
+    "jp.klab.captain283"
   ],
   "items": [
     {
@@ -1953,6 +1955,24 @@
       "developer": "ABI GAMES PTE. LTD.",
       "icon": "https://play-lh.googleusercontent.com/SMfXn4VJhStbSWDqXBdM2j3Fb9dzbYHtctTz7lzs4Rr5fjHbhr3JitUu4bN4qw7QYEcCmkp3Xq6rh3c3IOBL=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-07",
+      "isGame": true
+    },
+    {
+      "appId": "com.onepunchman.ggplay.sea",
+      "title": "ONE PUNCH MAN: The Strongest",
+      "developer": "FingerFun Limited.",
+      "icon": "https://play-lh.googleusercontent.com/kKbR9nAxzDhHSgGKp-7qIFT8YZpYxYI0qcDm_PlKvG_Bq-vm2rNAHPvT0PUvga5bpB9NTfNwJNAjAlBgZ8E=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.onepunchman.ggplay.sea&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-07",
+      "isGame": true
+    },
+    {
+      "appId": "jp.klab.captain283",
+      "title": "キャプテン翼 ～たたかえドリームチーム～ サッカーゲーム",
+      "developer": "KLab",
+      "icon": "https://play-lh.googleusercontent.com/tSWiNHnJKbM8n4T1mkr4YIGpmaXLu35R2Pb8Bye6Zl0xER7jyeduRc31CNIv7O1LTpN_UfE4NHJd3z0x-It7=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=jp.klab.captain283&hl=ko&gl=KR",
       "discoveredDate": "2026-11-07",
       "isGame": true
     },
@@ -5005,24 +5025,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.bigcool.survival.lastzombie",
-      "title": "라스트 좀비: 오프라인 생존 로그라이크 슈팅 게임",
-      "developer": "Bigcool Limited",
-      "icon": "https://play-lh.googleusercontent.com/jfpFOVVjQG0I85HyeuJHKLf11ROHDhtQAKcpOMOmxu9vc_a71XL2ljJyt1-16h3CDrDvxjv3GXM-aiUQFRQc",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.survival.lastzombie&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.azragames.ungodly",
-      "title": "UnGodly",
-      "developer": "Azra Games",
-      "icon": "https://play-lh.googleusercontent.com/pPZcL7Kp2orgKhsB3QKqudyCnCGxClBfnvsitpCkNzc8Ox4uBrSMLIPeSrieJ3--n-L1tAlqsaOs17gwEl2I9w",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
