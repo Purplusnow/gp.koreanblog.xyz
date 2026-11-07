@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:18:17.286Z",
+  "updatedAt": "2026-11-07T20:48:10.293Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1946,9 +1946,29 @@
     "com.raven.tank.google",
     "com.alien.shooter.galaxy.attack",
     "com.onepunchman.ggplay.sea",
-    "jp.klab.captain283"
+    "jp.klab.captain283",
+    "com.survivor.ace",
+    "com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure"
   ],
   "items": [
+    {
+      "appId": "com.survivor.ace",
+      "title": "탕탕에이스",
+      "developer": "Gorilla Studio",
+      "icon": "https://play-lh.googleusercontent.com/ciepMe-hIKyUBSzynCpzeP9pjTT0S2gSV0byg7mI42O1pJJgw9BuK_uh0cbO590JoZDIvqd3bdV7le3r4C1jfg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.survivor.ace&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure",
+      "title": "타일 ​​시즌: 매치 앤 팜",
+      "developer": "ProGamesLab",
+      "icon": "https://play-lh.googleusercontent.com/jSnq8Z036Aj4D47d5suWPOIwOLOMnHDp7LSplQlOMikMLOw0rPQEgQBvC57S2G06_ekjN7zYfcxrY-xCCLiV=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-08",
+      "isGame": true
+    },
     {
       "appId": "com.alien.shooter.galaxy.attack",
       "title": "갤럭시 어택: 슈팅 비행기게임 - 80년대 고전게임",
@@ -5025,24 +5045,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.com2us.es.android.google.kr.normal",
-      "title": "제우스: 오만의 신",
-      "developer": "Com2uS",
-      "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.es.android.google.kr.normal&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.cookapps.towerroguedefense",
-      "title": "황야의 무법자: 타워 디펜스",
-      "developer": "Purplecow games",
-      "icon": "https://play-lh.googleusercontent.com/PG5hyWvfp_N5JHWbdpz0AtYRCf52Dy3t9IF7elYSi13m6nuh5GBHb5XwDvsoy1CusSlkFKxB2Ws5x13dEzyplw",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.towerroguedefense&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
