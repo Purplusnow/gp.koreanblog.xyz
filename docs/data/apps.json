@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:10:39.245Z",
+  "updatedAt": "2026-11-08T15:00:17.376Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1949,9 +1949,29 @@
     "jp.klab.captain283",
     "com.survivor.ace",
     "com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure",
-    "com.playbest.zzxy.ea"
+    "com.playbest.zzxy.ea",
+    "sort.casual.color.cat.puzzle.match",
+    "com.nexon.overgeared"
   ],
   "items": [
+    {
+      "appId": "sort.casual.color.cat.puzzle.match",
+      "title": "Cutie Sort: 고양이 분류 퍼즐",
+      "developer": "Easetouch",
+      "icon": "https://play-lh.googleusercontent.com/64udQifq6ukd71ZgNxM4C_n0DcBFEVBa2Blx1-Jcgt7b1J9TAq89qKXy54RcKghq4H6xBNcw05kxBxPJr50tOw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=sort.casual.color.cat.puzzle.match&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-09",
+      "isGame": true
+    },
+    {
+      "appId": "com.nexon.overgeared",
+      "title": "템빨: 오버기어드",
+      "developer": "NEXON Company",
+      "icon": "https://play-lh.googleusercontent.com/jNivD4knkGvjNEsD8m_FINuY6vc8rdEPSTIpfdJ0xBtkTXvO1-Xo2LBgfnnL83Aa54RHuiL6OiylXkCAh1Navw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.nexon.overgeared&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-09",
+      "isGame": true
+    },
     {
       "appId": "com.survivor.ace",
       "title": "탕탕에이스",
@@ -5055,24 +5075,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.devolver.reignsbeyond",
-      "title": "Reigns: Beyond",
-      "developer": "DevolverDigital",
-      "icon": "https://play-lh.googleusercontent.com/r_SdQFsuyUaK9RtaArvIrWhGsn-qh_fKu22MUYH4yPrg8rjzFOf3NAK0aNv2-ZsWNlnG0F1xCYlBWQCo3NG_dPE",
-      "url": "https://play.google.com/store/apps/details?id=com.devolver.reignsbeyond&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
-      "isGame": true
-    },
-    {
-      "appId": "com.darkwind.majo",
-      "title": "MAJO - 아포칼립스 택틱스 RPG",
-      "developer": "DarkWind Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/eMf9zaHmPPz-7fQ-7Vd2ZJ_w7URtPPGQ0ZW_GdBAVPRGLPI7CmdUzPUDv-K6A2QIh60sro60wrWSahWhxphXsg",
-      "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
