@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:48:10.293Z",
+  "updatedAt": "2026-11-08T00:25:23.749Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1948,7 +1948,8 @@
     "com.onepunchman.ggplay.sea",
     "jp.klab.captain283",
     "com.survivor.ace",
-    "com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure"
+    "com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure",
+    "com.playbest.zzxy.ea"
   ],
   "items": [
     {
@@ -1966,6 +1967,15 @@
       "developer": "ProGamesLab",
       "icon": "https://play-lh.googleusercontent.com/jSnq8Z036Aj4D47d5suWPOIwOLOMnHDp7LSplQlOMikMLOw0rPQEgQBvC57S2G06_ekjN7zYfcxrY-xCCLiV=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-08",
+      "isGame": true
+    },
+    {
+      "appId": "com.playbest.zzxy.ea",
+      "title": "극락: 2주년 기념 축제",
+      "developer": "PLAY BEST PTE LTD",
+      "icon": "https://play-lh.googleusercontent.com/L-rB0pIfBeC1xTcww66SCKGZ-wCJH4AsNDTIzZP0yoX0OcmlPniwomoWXgbvuSWgLWFDpMu63QH-OEnYMghrfTk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playbest.zzxy.ea&hl=ko&gl=KR",
       "discoveredDate": "2026-11-08",
       "isGame": true
     },
@@ -5045,15 +5055,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.byabyak.soda",
-      "title": "소다전설",
-      "developer": "Byabyak Games",
-      "icon": "https://play-lh.googleusercontent.com/pKTZQouXCxce4c7E-7hPrmTp39IiiWwEPN8uJHUeFnXlQBXG2cYaTIx-nngRU10XXkRp-CVnMvl61fk_5nuqGNc",
-      "url": "https://play.google.com/store/apps/details?id=com.byabyak.soda&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
