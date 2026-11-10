@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:11:38.832Z",
+  "updatedAt": "2026-11-10T08:17:12.111Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1952,7 +1952,8 @@
     "com.playbest.zzxy.ea",
     "sort.casual.color.cat.puzzle.match",
     "com.nexon.overgeared",
-    "com.doghowlgames.thronefall"
+    "com.doghowlgames.thronefall",
+    "com.ncsoft.lineagew"
   ],
   "items": [
     {
@@ -1961,6 +1962,15 @@
       "developer": "Doghowl Games Ltd",
       "icon": "https://play-lh.googleusercontent.com/ah06DAA9X7IYm6SMePf4vP_q5WymyoCYorBld4BmOwIMsXqCPyvyVZBokkfNJl2JxsUtu9j0E6ADJl4jyq4KDic=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-10",
+      "isGame": true
+    },
+    {
+      "appId": "com.ncsoft.lineagew",
+      "title": "리니지W",
+      "developer": "NC Corporation",
+      "icon": "https://play-lh.googleusercontent.com/paifrxATiryBjkyGbA_fpN6daqOoXK4oc3yXiWojL_PwCot6dNFk7vS1UU3M3BMXO_wjPQwkZmKkLmf-HDipAw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagew&hl=ko&gl=KR",
       "discoveredDate": "2026-11-10",
       "isGame": true
     },
@@ -5085,15 +5095,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.kwalee.drawit",
-      "title": "드로우 잇",
-      "developer": "Kwalee Ltd",
-      "icon": "https://play-lh.googleusercontent.com/9qMJ1OJwB877bTyOxmArEQ9fr6ibuWYFe1fxIY-lNJzlac8x0nwBvgn9Qh31qXheTDtQi-5HZFT-wTT0QOjtTWk",
-      "url": "https://play.google.com/store/apps/details?id=com.kwalee.drawit&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
