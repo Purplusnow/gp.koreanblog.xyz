@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:17:12.111Z",
+  "updatedAt": "2026-11-10T16:58:10.162Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1953,9 +1953,19 @@
     "sort.casual.color.cat.puzzle.match",
     "com.nexon.overgeared",
     "com.doghowlgames.thronefall",
-    "com.ncsoft.lineagew"
+    "com.ncsoft.lineagew",
+    "com.mf.coffee"
   ],
   "items": [
+    {
+      "appId": "com.mf.coffee",
+      "title": "위스퍼 캐슬: 합성 & 스토리 게임",
+      "developer": "Microfun Limited",
+      "icon": "https://play-lh.googleusercontent.com/SaZgqXq2jWqVp_7UxFvB0rp7_B5p2P6BHFz6MqFL9pAv7JxKL8qedPFIenyFicUJb8KbpqDSrIkjLS-LV0tf=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mf.coffee&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-11",
+      "isGame": true
+    },
     {
       "appId": "com.doghowlgames.thronefall",
       "title": "Thronefall",
@@ -5095,15 +5105,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.namcobandaigames.spmoja010E",
-      "title": "ONE PIECE TREASURE CRUISE-RPG",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/OxGBZzboa7ySZzmCfhLa8DpjH8rKdUjBnHOszHuvamdJC01wLhmnxZMR-C3ALnCSCP3NsCCcUN18Jt3kOiap",
-      "url": "https://play.google.com/store/apps/details?id=com.namcobandaigames.spmoja010E&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
