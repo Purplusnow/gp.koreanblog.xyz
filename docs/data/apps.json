@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:03:21.017Z",
+  "updatedAt": "2026-11-10T00:11:38.832Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1951,9 +1951,19 @@
     "com.progameslab.tile.master.triple.puzzle.match.travel.farm.adventure",
     "com.playbest.zzxy.ea",
     "sort.casual.color.cat.puzzle.match",
-    "com.nexon.overgeared"
+    "com.nexon.overgeared",
+    "com.doghowlgames.thronefall"
   ],
   "items": [
+    {
+      "appId": "com.doghowlgames.thronefall",
+      "title": "Thronefall",
+      "developer": "Doghowl Games Ltd",
+      "icon": "https://play-lh.googleusercontent.com/ah06DAA9X7IYm6SMePf4vP_q5WymyoCYorBld4BmOwIMsXqCPyvyVZBokkfNJl2JxsUtu9j0E6ADJl4jyq4KDic=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-10",
+      "isGame": true
+    },
     {
       "appId": "sort.casual.color.cat.puzzle.match",
       "title": "Cutie Sort: 고양이 분류 퍼즐",
@@ -5075,15 +5085,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.rummikubfree",
-      "title": "Rummikub",
-      "developer": "Kinkajoo",
-      "icon": "https://play-lh.googleusercontent.com/F1SQPTmM9FhxlIxCQTWF3HipKHw_OUTwjTUZXeSR5KRy6m-R_j1nDzm7xKUj1hX6AV4y3IJ4IkQXzflgBi7s",
-      "url": "https://play.google.com/store/apps/details?id=com.rummikubfree&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
