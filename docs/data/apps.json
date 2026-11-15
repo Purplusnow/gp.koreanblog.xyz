@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:11:28.139Z",
+  "updatedAt": "2026-11-15T16:58:14.170Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1956,9 +1956,19 @@
     "com.ncsoft.lineagew",
     "com.mf.coffee",
     "com.happygames.mergecafe",
-    "enjoy.games.scavenger.hunt"
+    "enjoy.games.scavenger.hunt",
+    "air.com.midjiwan.polytopia"
   ],
   "items": [
+    {
+      "appId": "air.com.midjiwan.polytopia",
+      "title": "배틀 오브 폴리토피아 (Polytopia)",
+      "developer": "Midjiwan AB",
+      "icon": "https://play-lh.googleusercontent.com/_XOGXn-bwLMfsaeGMdIkMFtj4zBgTUldfJpFMS76akYHNLZX2oXKvwiPsmE3o0DLE9p-gM_CU8nLc6WbdKpREQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-16",
+      "isGame": true
+    },
     {
       "appId": "enjoy.games.scavenger.hunt",
       "title": "Scavenger Hunt: 숨겨진 개체!",
@@ -5125,15 +5135,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "me.funkin.fnf",
-      "title": "Friday Night Funkin'",
-      "developer": "The Funkin' Crew Inc.",
-      "icon": "https://play-lh.googleusercontent.com/ZplHij_geaxbSPxB3Eo8ynVnOM0i3Ug8vD0bIi-1-q5gzK7QPoVqvGLeLYlJWGLV48LGtpfpMp6BQ56iEXqMUtw",
-      "url": "https://play.google.com/store/apps/details?id=me.funkin.fnf&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
