@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:17:54.568Z",
+  "updatedAt": "2026-11-17T03:41:51.950Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1959,9 +1959,29 @@
     "enjoy.games.scavenger.hunt",
     "air.com.midjiwan.polytopia",
     "jp.co.atm.vcon.ww",
-    "net.gameduo.dfd"
+    "net.gameduo.dfd",
+    "invaders.os.galaxy.space.shooter.attack.classic",
+    "bus.sand.fall.jam.loop.traffic.flow"
   ],
   "items": [
+    {
+      "appId": "invaders.os.galaxy.space.shooter.attack.classic",
+      "title": "팔콘 스쿼드: 우주 슈팅게임",
+      "developer": "1SOFT",
+      "icon": "https://play-lh.googleusercontent.com/0v3gBXo05gnc449ro3cAOlfHPz_YJtDT1ejNEkU_t_VdJNVQ-WOICXJYcNpZfsw3AvKr-Go1ZSuPGYeFLT31=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=invaders.os.galaxy.space.shooter.attack.classic&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-17",
+      "isGame": true
+    },
+    {
+      "appId": "bus.sand.fall.jam.loop.traffic.flow",
+      "title": "Jam Bus:Sandfall",
+      "developer": "Nova Games Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/-TcLefDSecp5lo9jZbNF1LcnFVef7kv0pUNUGEBoX-Q22Ipc8wSWk8Z9cv-dHE4s7c4_hy8j4x8h1H_IFzO-kH0=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=bus.sand.fall.jam.loop.traffic.flow&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-17",
+      "isGame": true
+    },
     {
       "appId": "air.com.midjiwan.polytopia",
       "title": "배틀 오브 폴리토피아 (Polytopia)",
@@ -5113,15 +5133,6 @@
       "isGame": true
     },
     {
-      "appId": "jp.co.ponos.nekohopper",
-      "title": "GO! GO! 고양이 홉핑",
-      "developer": "PONOS Corporation",
-      "icon": "https://play-lh.googleusercontent.com/SH5SuDoidIGYtnO10Gy_Ydxp0xF8BgP_VZUbz3zKzYiuQ5vUbdcPpRwAWhzM38PIz0oujDvrZxut2LK6aSfxOCQ",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.nekohopper&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
       "appId": "com.tree.idle.cat.office",
       "title": "고양이 오피스: 타이쿤 게임",
       "developer": "TREEPLLA",
@@ -5155,15 +5166,6 @@
       "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
       "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
       "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.ryonggame.soulhunteridle",
-      "title": "소울 헌터 키우기 : 방치형 RPG",
-      "developer": "RyongGames",
-      "icon": "https://play-lh.googleusercontent.com/38_SZxVld8uZeeNz36V94CKyf2hsVWzaGBYxkYCY77MldbUFaQxRMDWIv5hCk5iQd-OBWPI1c7zKrGeJ5LFZhQ",
-      "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-09",
       "isGame": true
     },
     {
