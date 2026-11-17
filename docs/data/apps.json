@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:41:51.950Z",
+  "updatedAt": "2026-11-17T13:06:49.594Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1961,7 +1961,9 @@
     "jp.co.atm.vcon.ww",
     "net.gameduo.dfd",
     "invaders.os.galaxy.space.shooter.attack.classic",
-    "bus.sand.fall.jam.loop.traffic.flow"
+    "bus.sand.fall.jam.loop.traffic.flow",
+    "com.unimob.idle.axolotl",
+    "com.eastsidegames.doctorwho"
   ],
   "items": [
     {
@@ -1979,6 +1981,24 @@
       "developer": "Nova Games Technology Limited",
       "icon": "https://play-lh.googleusercontent.com/-TcLefDSecp5lo9jZbNF1LcnFVef7kv0pUNUGEBoX-Q22Ipc8wSWk8Z9cv-dHE4s7c4_hy8j4x8h1H_IFzO-kH0=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=bus.sand.fall.jam.loop.traffic.flow&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.unimob.idle.axolotl",
+      "title": "마지롯틀: 방치형 마법 키우기",
+      "developer": "Unimob Games",
+      "icon": "https://play-lh.googleusercontent.com/ppJPBfpUHaMAfCzeME_U5DaQDYN8r3LsLNnawjpGmVBUE_PC45v8PZOE58QpY4ml0cHB6D8cE_7ltsfDeyYjHg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.axolotl&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-17",
+      "isGame": true
+    },
+    {
+      "appId": "com.eastsidegames.doctorwho",
+      "title": "Doctor Who: Lost in Time",
+      "developer": "East Side Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/AH-dTZljg3oFn5I-a6u8y0mUn502yUZw9x0JWECe1nmAq2vbekoJSBztWBi5dsoKUzx6TyuOXvGTziZ-wtzxKQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.eastsidegames.doctorwho&hl=ko&gl=KR",
       "discoveredDate": "2026-11-17",
       "isGame": true
     },
@@ -5130,24 +5150,6 @@
       "icon": "https://play-lh.googleusercontent.com/horsCFkGqoO4vjSv4V0byS-RZqGMgPH34aXPluPRdAhJ-xy_Jl66Xlw1co37qmDbQeIqzQoL-sWtxYRiWoBl",
       "url": "https://play.google.com/store/apps/details?id=com.prettysimple.elixirapp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.tree.idle.cat.office",
-      "title": "고양이 오피스: 타이쿤 게임",
-      "developer": "TREEPLLA",
-      "icon": "https://play-lh.googleusercontent.com/IRw53WNooarQ259IEpja2ZkpXTR04YkIeoz_LgOdCfa5Acwop9aPXpeJDTspfEnPoGk4F2qAPVXokK0jB5AjUPw",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.office&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.klab.heroaca.united.survival",
-      "title": "MHA: UNITED SURVIVAL",
-      "developer": "KLab",
-      "icon": "https://play-lh.googleusercontent.com/6N68UmL37trcXjJYhv-LWsnNTqdwqBeiRVqRt3vfmbhPIW7-Ef0yEnOEAd3AroB_LXHUuib3As-0DcH2YLL6Lv0",
-      "url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-10",
       "isGame": true
     },
     {
