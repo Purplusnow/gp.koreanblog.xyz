@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:11:11.617Z",
+  "updatedAt": "2026-11-18T04:09:06.681Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1963,9 +1963,39 @@
     "invaders.os.galaxy.space.shooter.attack.classic",
     "bus.sand.fall.jam.loop.traffic.flow",
     "com.unimob.idle.axolotl",
-    "com.eastsidegames.doctorwho"
+    "com.eastsidegames.doctorwho",
+    "com.forgegames.warshipswarfare",
+    "com.limebolt.idlepirate",
+    "com.kr.chens.ete2024"
   ],
   "items": [
+    {
+      "appId": "com.forgegames.warshipswarfare",
+      "title": "워쉽 모바일 2: 해전, 전함게임",
+      "developer": "Armada Forge Games",
+      "icon": "https://play-lh.googleusercontent.com/dWjNkAsw8yjggvK6fWBnjhkbSMmkLOs5fPVaxT1lj90gODDwKzFC4klPfMP-SfhDxhhnx3W-l5fjBP3Jsfhl7g8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.forgegames.warshipswarfare&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.limebolt.idlepirate",
+      "title": "Bounty Bash: 방치형 해적 RPG",
+      "developer": "Limebolt",
+      "icon": "https://play-lh.googleusercontent.com/zFapEHjFcFezGsQ7-E8CYIluutSMdQ-YkwrWINYM33bp8WenqEScr4lLkgBx_AcWY4e7dcjlrN0Y0diNiTqeCmc=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.limebolt.idlepirate&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-18",
+      "isGame": true
+    },
+    {
+      "appId": "com.kr.chens.ete2024",
+      "title": "에타 크로니클",
+      "developer": "CHENS GLOBAL LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/n0zfbEbsAfpGLmWC0lYbeowF--eXnTTlTMaeIDSk0NiynQXQEp4AEp2ASfLxsXjg0DXQyJZXCgJ1SycnixdE=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-18",
+      "isGame": true
+    },
     {
       "appId": "invaders.os.galaxy.space.shooter.attack.classic",
       "title": "팔콘 스쿼드: 우주 슈팅게임",
@@ -5135,39 +5165,12 @@
       "isGame": true
     },
     {
-      "appId": "games.my.zombie.shooter.fps",
-      "title": "좀비 하버: 오프라인 FPS 생존 좀비게임",
-      "developer": "KEYSTORM HOLDINGS LTD",
-      "icon": "https://play-lh.googleusercontent.com/wCtvcIz9AHcl1W9RIwcXrJ1yWrB6YbiVveXa9Y0vtrfGfd9kvZG4qw95T5ItB1_DcHZAcdjJ3U-QbQAIr1QmSA",
-      "url": "https://play.google.com/store/apps/details?id=games.my.zombie.shooter.fps&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-11",
-      "isGame": true
-    },
-    {
       "appId": "com.prettysimple.elixirapp",
       "title": "Sorcery School",
       "developer": "Pretty Simple",
       "icon": "https://play-lh.googleusercontent.com/horsCFkGqoO4vjSv4V0byS-RZqGMgPH34aXPluPRdAhJ-xy_Jl66Xlw1co37qmDbQeIqzQoL-sWtxYRiWoBl",
       "url": "https://play.google.com/store/apps/details?id=com.prettysimple.elixirapp&hl=ko&gl=KR",
       "discoveredDate": "2026-08-11",
-      "isGame": true
-    },
-    {
-      "appId": "com.crayolallc.crayola_create_and_play",
-      "title": "Crayola 크리에이트 앤 플레",
-      "developer": "Crayola LLC",
-      "icon": "https://play-lh.googleusercontent.com/AEho9kO-qQW-oVBlO8bij2RpPAkEX0m_k_GwuL-m8pdxeUJ1lWxdnNHPCOVCNbOq8O2Bv0ifRlr3AP6PraPwUqI",
-      "url": "https://play.google.com/store/apps/details?id=com.crayolallc.crayola_create_and_play&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-10",
-      "isGame": true
-    },
-    {
-      "appId": "com.fdgentertainment.bananakong",
-      "title": "Banana Kong",
-      "developer": "FDG Entertainment GmbH & Co.KG",
-      "icon": "https://play-lh.googleusercontent.com/ClJ4MVOM_LXdyFakzjwiwd2biyhgiHzpjVRwBb2wrGmbg-DLbNTAxyoQeqN8l6hOkgcrzsp_0qyC6216Me3-KA",
-      "url": "https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-10",
       "isGame": true
     },
     {
