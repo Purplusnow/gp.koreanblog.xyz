@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:48:29.254Z",
+  "updatedAt": "2026-11-18T21:48:59.336Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1966,9 +1966,19 @@
     "com.eastsidegames.doctorwho",
     "com.forgegames.warshipswarfare",
     "com.limebolt.idlepirate",
-    "com.kr.chens.ete2024"
+    "com.kr.chens.ete2024",
+    "pampam.ibf2"
   ],
   "items": [
+    {
+      "appId": "pampam.ibf2",
+      "title": "보틀 플립 3D - 탭 앤 점프",
+      "developer": "Azur Interactive Games Limited",
+      "icon": "https://play-lh.googleusercontent.com/I0Zss0fAme2Ch8RxgFc5Kwtn9W6RfEwmnlJmzCPIW8HODKygLTITzYOuLdZr1XF7io3tMy8rgVfc_xWwEZfqoQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=pampam.ibf2&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-19",
+      "isGame": true
+    },
     {
       "appId": "com.forgegames.warshipswarfare",
       "title": "워쉽 모바일 2: 해전, 전함게임",
@@ -5162,15 +5172,6 @@
       "icon": "https://play-lh.googleusercontent.com/w0GG-oGNwJhhgh8ZATdtV7Bh9u6Znfga9mR35ecbqkR_CMHWfk4kQx-2Qhw1g9uF4VFRQCTbPnnORHqmoZk",
       "url": "https://play.google.com/store/apps/details?id=superstar.games.Color.Invaders.Idle&hl=ko&gl=KR",
       "discoveredDate": "2026-08-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.prettysimple.elixirapp",
-      "title": "Sorcery School",
-      "developer": "Pretty Simple",
-      "icon": "https://play-lh.googleusercontent.com/horsCFkGqoO4vjSv4V0byS-RZqGMgPH34aXPluPRdAhJ-xy_Jl66Xlw1co37qmDbQeIqzQoL-sWtxYRiWoBl",
-      "url": "https://play.google.com/store/apps/details?id=com.prettysimple.elixirapp&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-11",
       "isGame": true
     },
     {
