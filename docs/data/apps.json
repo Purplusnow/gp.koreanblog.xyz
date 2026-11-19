@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T12:50:39.613Z",
+  "updatedAt": "2026-11-19T21:23:19.993Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1967,9 +1967,19 @@
     "com.forgegames.warshipswarfare",
     "com.limebolt.idlepirate",
     "com.kr.chens.ete2024",
-    "pampam.ibf2"
+    "pampam.ibf2",
+    "com.end9games.worldtreeggl"
   ],
   "items": [
+    {
+      "appId": "com.end9games.worldtreeggl",
+      "title": "세계수의 노래: AFK",
+      "developer": "End9 Games Corp.",
+      "icon": "https://play-lh.googleusercontent.com/u2wVXIiWdAWM19gyu7EHEj2bxJmQdQ6oxub1iGL-IZK367hZCUfIby44twNIJnX9rttUaOcDLHJDTbKOwKZj=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.end9games.worldtreeggl&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-20",
+      "isGame": true
+    },
     {
       "appId": "pampam.ibf2",
       "title": "보틀 플립 3D - 탭 앤 점프",
@@ -5136,15 +5146,6 @@
       "icon": "https://play-lh.googleusercontent.com/8yFHnV7z6UgX3ATjbk6fzrAHx-MfvafbH9mpnRGWUD0Rg6BXC0mDLQudFbilwimrphQC6i4vQdjBJQ-tmIuIpyA",
       "url": "https://play.google.com/store/apps/details?id=com.plaium.tmm&hl=ko&gl=KR",
       "discoveredDate": "2026-08-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.budgestudios.googleplay.BudgeWorld",
-      "title": "Budge 어린이 게임 및 재미",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/KgDhuKNJsX-moQONcDcsBpgV7l5OB-st3iIwIYpMD1NRfAJ6APkZAXqTvnw2Ji34anP5pKKQCk1V2WmspYNuiA",
-      "url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BudgeWorld&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-12",
       "isGame": true
     },
     {
