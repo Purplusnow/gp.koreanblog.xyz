@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:23:19.993Z",
+  "updatedAt": "2026-11-20T03:00:07.683Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1968,7 +1968,9 @@
     "com.limebolt.idlepirate",
     "com.kr.chens.ete2024",
     "pampam.ibf2",
-    "com.end9games.worldtreeggl"
+    "com.end9games.worldtreeggl",
+    "com.bastion.archers",
+    "com.aurecas.stickmanzombieshooter"
   ],
   "items": [
     {
@@ -1977,6 +1979,24 @@
       "developer": "End9 Games Corp.",
       "icon": "https://play-lh.googleusercontent.com/u2wVXIiWdAWM19gyu7EHEj2bxJmQdQ6oxub1iGL-IZK367hZCUfIby44twNIJnX9rttUaOcDLHJDTbKOwKZj=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.end9games.worldtreeggl&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.bastion.archers",
+      "title": "궁도 요새: 캐슬 워",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/CbG79wNCeqXPg4w9kh7Rw_RdwHt-RgdY9HcECG_i0HJElrFe6z70hP8DogGknAGe0EyLqmeHbbuWN9aU7aDchA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.bastion.archers&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.aurecas.stickmanzombieshooter",
+      "title": "Stick vs Zombies: Platformer",
+      "developer": "Aurecas Games",
+      "icon": "https://play-lh.googleusercontent.com/Zfrg8jUkETkyGbfAJ0bouXIi0IykB6JEOiX_9jzzYv8FuvLbfeijXI9JVrIvkk4SVlOB54itbFZIiFRAyCRZfBk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.aurecas.stickmanzombieshooter&hl=ko&gl=KR",
       "discoveredDate": "2026-11-20",
       "isGame": true
     },
@@ -5146,24 +5166,6 @@
       "icon": "https://play-lh.googleusercontent.com/8yFHnV7z6UgX3ATjbk6fzrAHx-MfvafbH9mpnRGWUD0Rg6BXC0mDLQudFbilwimrphQC6i4vQdjBJQ-tmIuIpyA",
       "url": "https://play.google.com/store/apps/details?id=com.plaium.tmm&hl=ko&gl=KR",
       "discoveredDate": "2026-08-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.sinyee.babybus.selfcare",
-      "title": "아기팬더의 일상 습관",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/83-rnapDyS-6bXV0jlBXhQDNhgYW3nPSHd_KwXDF-LfT9ce4qnvGizmZ1DEDfVGleWNg9cAcTz3YF8YtZfa_SQ",
-      "url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.selfcare&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-12",
-      "isGame": true
-    },
-    {
-      "appId": "com.king.farmheroessaga",
-      "title": "팜히어로사가",
-      "developer": "King",
-      "icon": "https://play-lh.googleusercontent.com/BoSTaEZEpVULdJX_lcNS2wNrXApunF2lGOpP-vO7jUIm-cQ9NF_0CFULN8E9GMBt8IXh717mXqE0bNcAWCXp",
-      "url": "https://play.google.com/store/apps/details?id=com.king.farmheroessaga&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-12",
       "isGame": true
     },
     {
