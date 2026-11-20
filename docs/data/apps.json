@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:00:07.683Z",
+  "updatedAt": "2026-11-20T11:21:21.261Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1970,7 +1970,9 @@
     "pampam.ibf2",
     "com.end9games.worldtreeggl",
     "com.bastion.archers",
-    "com.aurecas.stickmanzombieshooter"
+    "com.aurecas.stickmanzombieshooter",
+    "com.tempogames.thebazaar",
+    "com.rastargames.cdjzkr"
   ],
   "items": [
     {
@@ -1997,6 +1999,24 @@
       "developer": "Aurecas Games",
       "icon": "https://play-lh.googleusercontent.com/Zfrg8jUkETkyGbfAJ0bouXIi0IykB6JEOiX_9jzzYv8FuvLbfeijXI9JVrIvkk4SVlOB54itbFZIiFRAyCRZfBk=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.aurecas.stickmanzombieshooter&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.tempogames.thebazaar",
+      "title": "The Bazaar",
+      "developer": "Tempo Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/V29ElR2eW5DfHQK69E-vm_AyLB1KP7HINazSTG5-enRgrcpsNEHaRtCswCY_t4YOMyBverrOdqweWG68ijHRXg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tempogames.thebazaar&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-20",
+      "isGame": true
+    },
+    {
+      "appId": "com.rastargames.cdjzkr",
+      "title": "삼국지: 구주제패",
+      "developer": "RASTAR GAMES HK",
+      "icon": "https://play-lh.googleusercontent.com/OknIVreo1WcoLK5U4KRXVKp9qFmDbVuoVTzvPfJVzHf7FNLrkUl00TwBobHuVrj_hTKSkxCSURrr9Z37KjAEmg4=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rastargames.cdjzkr&hl=ko&gl=KR",
       "discoveredDate": "2026-11-20",
       "isGame": true
     },
@@ -5115,15 +5135,6 @@
       "isGame": true
     },
     {
-      "appId": "com.mobirate.DeadAheadTactics",
-      "title": "Dead Ahead: Zombie Warfare",
-      "developer": "Mobirate",
-      "icon": "https://play-lh.googleusercontent.com/PPBLKIa4mOz6yJsrCKM_pSoiiczgn-PxSerGJ7fft1O4lbyssuX_e6V0ajFb1-4cxyXiQr2HK9OFriRiy-vDRro",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirate.DeadAheadTactics&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-13",
-      "isGame": true
-    },
-    {
       "appId": "com.kakaogames.grdchase",
       "title": "그랜드체이스",
       "developer": "KOG CO., LTD.",
@@ -5166,15 +5177,6 @@
       "icon": "https://play-lh.googleusercontent.com/8yFHnV7z6UgX3ATjbk6fzrAHx-MfvafbH9mpnRGWUD0Rg6BXC0mDLQudFbilwimrphQC6i4vQdjBJQ-tmIuIpyA",
       "url": "https://play.google.com/store/apps/details?id=com.plaium.tmm&hl=ko&gl=KR",
       "discoveredDate": "2026-08-13",
-      "isGame": true
-    },
-    {
-      "appId": "superstar.games.Color.Invaders.Idle",
-      "title": "색상 침략자 방치형 게임",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/w0GG-oGNwJhhgh8ZATdtV7Bh9u6Znfga9mR35ecbqkR_CMHWfk4kQx-2Qhw1g9uF4VFRQCTbPnnORHqmoZk",
-      "url": "https://play.google.com/store/apps/details?id=superstar.games.Color.Invaders.Idle&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-12",
       "isGame": true
     },
     {
