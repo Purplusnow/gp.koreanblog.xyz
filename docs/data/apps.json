@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:58:51.730Z",
+  "updatedAt": "2026-11-21T01:22:34.931Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1972,9 +1972,29 @@
     "com.bastion.archers",
     "com.aurecas.stickmanzombieshooter",
     "com.tempogames.thebazaar",
-    "com.rastargames.cdjzkr"
+    "com.rastargames.cdjzkr",
+    "com.fc.gpl.pixel.color.brain.puzzle",
+    "screw.nuts.jam.pin.puzzle"
   ],
   "items": [
+    {
+      "appId": "com.fc.gpl.pixel.color.brain.puzzle",
+      "title": "Mosaic Loop - Color Puzzle",
+      "developer": "Think Different FC.",
+      "icon": "https://play-lh.googleusercontent.com/zQrAmx7vXGNXCB8pbA5vL4EGgz-jtNqNYxNwzKNOgo5cCU4OqExQtQ-XbzIssUVSXfi5chypNyCbQdwdgA1Sgw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.gpl.pixel.color.brain.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-21",
+      "isGame": true
+    },
+    {
+      "appId": "screw.nuts.jam.pin.puzzle",
+      "title": "Screw Sort Jam™ - 3D 나사 정리게임",
+      "developer": "Shinrays Games",
+      "icon": "https://play-lh.googleusercontent.com/z77Y-dL99B2Su_mjhQy_ly0D5vvWhcVjBonwyewXAAiasIdYVtiNQeLPaPIVXR54Zm2-YT35zI2xyHEaiijv=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=screw.nuts.jam.pin.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-21",
+      "isGame": true
+    },
     {
       "appId": "com.end9games.worldtreeggl",
       "title": "세계수의 노래: AFK",
@@ -5132,24 +5152,6 @@
       "icon": "https://play-lh.googleusercontent.com/cTwDY_r_9paKRsbTHXV-ShALxhsBg8wrJDG-EdeeGhvmPNJGjeefmx6lf0ZRHK-mO3j-QrSxA0emNJ4yZTVDvg",
       "url": "https://play.google.com/store/apps/details?id=com.pikpok.wtd.play&hl=ko&gl=KR",
       "discoveredDate": "2026-08-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.kakaogames.grdchase",
-      "title": "그랜드체이스",
-      "developer": "KOG CO., LTD.",
-      "icon": "https://play-lh.googleusercontent.com/9bmbQm4ttEMY2qQ1ppzcU_RcX4mQT9zUpM9dZz8YrqURYTjbf5ihZ4L0DDaSF28PA8QPw8BdCJ6UOBN-YlQljQ",
-      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.grdchase&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.Shooter.ModernWarships",
-      "title": "모던 워쉽 (Modern Warships)",
-      "developer": "Artstorm FZE",
-      "icon": "https://play-lh.googleusercontent.com/CbJIZbma9S7zhK6PYYcYMwnoGWPY9WgOTYi1tEPl7APVmRuZGKVQRKXi4_TY_RuhWxa43JrM6gYAO29PuFHXuWQ",
-      "url": "https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-13",
       "isGame": true
     },
     {
