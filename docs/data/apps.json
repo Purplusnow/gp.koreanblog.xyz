@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:22:34.931Z",
+  "updatedAt": "2026-11-21T09:37:19.681Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1974,7 +1974,9 @@
     "com.tempogames.thebazaar",
     "com.rastargames.cdjzkr",
     "com.fc.gpl.pixel.color.brain.puzzle",
-    "screw.nuts.jam.pin.puzzle"
+    "screw.nuts.jam.pin.puzzle",
+    "com.mergegames.petsharbor",
+    "com.merge.foodie.cooking.restaurant"
   ],
   "items": [
     {
@@ -1992,6 +1994,24 @@
       "developer": "Shinrays Games",
       "icon": "https://play-lh.googleusercontent.com/z77Y-dL99B2Su_mjhQy_ly0D5vvWhcVjBonwyewXAAiasIdYVtiNQeLPaPIVXR54Zm2-YT35zI2xyHEaiijv=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=screw.nuts.jam.pin.puzzle&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.mergegames.petsharbor",
+      "title": "Pets Harbor: Merge & Restore",
+      "developer": "Merge story",
+      "icon": "https://play-lh.googleusercontent.com/10YN6OVu5dkF6Ua9Gh04k_UfNDTnk9LDvqUovMc3dhgldHWk9e09t_-eF7ZM4ItkbULhEYnehnm-VE01-amZNg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.mergegames.petsharbor&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-21",
+      "isGame": true
+    },
+    {
+      "appId": "com.merge.foodie.cooking.restaurant",
+      "title": "얌토피아(Yumtopia): 합성 & 요리",
+      "developer": "Playchamp Games",
+      "icon": "https://play-lh.googleusercontent.com/3jlzxYzWzDFD7xrAjruxY6peH1ca3b8QOC181XQzCtYmxGgzphZlP2aloqAU1XXyDszQZXVmAy2X5bZDrv3SPg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.merge.foodie.cooking.restaurant&hl=ko&gl=KR",
       "discoveredDate": "2026-11-21",
       "isGame": true
     },
@@ -5152,24 +5172,6 @@
       "icon": "https://play-lh.googleusercontent.com/cTwDY_r_9paKRsbTHXV-ShALxhsBg8wrJDG-EdeeGhvmPNJGjeefmx6lf0ZRHK-mO3j-QrSxA0emNJ4yZTVDvg",
       "url": "https://play.google.com/store/apps/details?id=com.pikpok.wtd.play&hl=ko&gl=KR",
       "discoveredDate": "2026-08-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.linecorp.LGBB2",
-      "title": "라인 버블 2",
-      "developer": "LINE (LY Corporation)",
-      "icon": "https://play-lh.googleusercontent.com/rIfCFZjOtilMFvAdTeI2Dhg2zqcMo9BUbIzLcb9yaIHs3C8rR-GoLakWEyXklvZpYujDzXKNwgLzblGtmFbg",
-      "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGBB2&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-13",
-      "isGame": true
-    },
-    {
-      "appId": "com.block.color.escape",
-      "title": "Screw Block Escape",
-      "developer": "IEC Holding L.L.C-FZ",
-      "icon": "https://play-lh.googleusercontent.com/bqb13Wfj5T07izR85DPapAIqo-MjEl-Za23tYQX6_fIG-GO5BkYUa62Vk5CGkYr4hNpEIXlSDMWTeu3WwxH2BAQ",
-      "url": "https://play.google.com/store/apps/details?id=com.block.color.escape&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-13",
       "isGame": true
     },
     {
