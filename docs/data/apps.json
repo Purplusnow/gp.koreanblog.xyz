@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:20:57.941Z",
+  "updatedAt": "2026-11-21T23:03:21.187Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1977,7 +1977,18 @@
     "screw.nuts.jam.pin.puzzle",
     "com.mergegames.petsharbor",
     "com.merge.foodie.cooking.restaurant",
-    "com.arcloom.wool.connect.yarn.puzzle.game"
+    "com.arcloom.wool.connect.yarn.puzzle.game",
+    "games.mistfly.subdivision_2",
+    "com.extremedevelopers.tankforce",
+    "com.tilequest.match.puzzle.travel.game",
+    "com.playdigious.absolum",
+    "app.clubstory.football",
+    "com.gravity.nbarisegv.aos",
+    "com.bakerystory.soulbox.gp",
+    "com.match.goodsfactory.sort",
+    "com.dearto.cross",
+    "com.fathermade.merge",
+    "com.ngu.games.zombiebunnyfarm"
   ],
   "items": [
     {
@@ -1986,6 +1997,105 @@
       "developer": "Arcloom",
       "icon": "https://play-lh.googleusercontent.com/Izn7Cg-URoqixNeBljoerQZpi8oN8q2nff9xYlMm3bG-8qq0q8hfKpDggFdd2gwzQef2fAZPstU3NI8FKcTk=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.arcloom.wool.connect.yarn.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "games.mistfly.subdivision_2",
+      "title": "Galaxy Division: 우주 전투",
+      "developer": "Armada Forge Games",
+      "icon": "https://play-lh.googleusercontent.com/3Yf_t-4xjFqb33VD_9HfMWbWhUCl6oFBOnCtFKIHdu6qYaACkeHgIkzgDkbOh7qkWq2qMw8homcDezWU-bQDmnw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=games.mistfly.subdivision_2&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.extremedevelopers.tankforce",
+      "title": "Tank Force: 모바일 온라인 탱크",
+      "developer": "XDEVS LTD",
+      "icon": "https://play-lh.googleusercontent.com/rDWQpTeOf1m0qfH_ZzO7mhpFvpEorgK2r7AGjEJo1qx_TwzlLmX1_uiUy4Vd9vmgqCZPxxlQ-IpVWdsRM2kw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.tankforce&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.tilequest.match.puzzle.travel.game",
+      "title": "타일 퀘스트 - 트리플 매치",
+      "developer": "Wood Puzzle Sudoku Games",
+      "icon": "https://play-lh.googleusercontent.com/jNhahysVLIA_0V_kdSZ4V0sLTpKXa4t0yB6DeLwGfcd3OuJqalBRHPN4VAPVi82rCaY6fYHuTk9MMRjIoA6I=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.tilequest.match.puzzle.travel.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.playdigious.absolum",
+      "title": "Absolum",
+      "developer": "Playdigious",
+      "icon": "https://play-lh.googleusercontent.com/RF7tWjj2PVpY-qAjOqg19zq3s4UIdjfuVbSrwsd6QjK0rPUF3lwd48L33mT_mDnhd4j8pk31bi0tsMuG1l-vcw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.absolum&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "app.clubstory.football",
+      "title": "클럽스토리: 축구 매니저",
+      "developer": "NBstudio",
+      "icon": "https://play-lh.googleusercontent.com/nql6HyIbGT9FHg0UIoCp8rX-flTXgWK810Loa5Ox_fZrHz7lXO00wwshmKwgrc7IPxuIpGuaByJ4IvnnIpGFdw=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=app.clubstory.football&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.gravity.nbarisegv.aos",
+      "title": "NBA RISE: 농구 카드 전략 게임",
+      "developer": "GRAVITY Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/B9gjBYlVd2PA4srACn5lmYGBBi7qXlogx3SA0oBS6hPPG2gR52r-af9KeqIWBzn_W7Ff0Y1ohpYlzJdWKirqNUg=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.nbarisegv.aos&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.bakerystory.soulbox.gp",
+      "title": "마이 베이커리 타운 : 베이커리 키우기 게임",
+      "developer": "Hydodo",
+      "icon": "https://play-lh.googleusercontent.com/RYQHY3oG8vJiElVfeNi5cDUvdCq2XLJnAgWzpy4Ro04gkwsFeCEugQQtA7WRYQe7J-2Mj9vIVpql4u9Sp64nNwI=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.bakerystory.soulbox.gp&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.match.goodsfactory.sort",
+      "title": "Goods Factory Sorting - Match",
+      "developer": "Ouroboros Technology Pte. Ltd",
+      "icon": "https://play-lh.googleusercontent.com/5eGrv6j0yvH_NxtlIR6KQLDAnEBEWEX65zTANKh32Yhe44mrdVbDg0v32UZbeQHEyJCahJvFsvOkiTIzyMSm0A=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.match.goodsfactory.sort&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.dearto.cross",
+      "title": "영주님은 죽지 않는다 : 방치형 RPG",
+      "developer": "Dearto Co., Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/6MIhtDVajVQ7qr2DuU3jwzbtUdTpHR-F3l06edTSXmGa1iJAHfCcnLrkMAr7wr4396zVY8_XaCgaQx3uP2c_sA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.dearto.cross&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.fathermade.merge",
+      "title": "영혼식당: 귀여운 요괴 머지",
+      "developer": "FatherMade",
+      "icon": "https://play-lh.googleusercontent.com/a4HEve1y5hkk3xqDx4PXxx9A-l5g3kcG9eQhZTSbZ_dSma0XbjAZX6ue8dc-UaL39NpTSeSDf7HXKOhvOAhC=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fathermade.merge&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
+    {
+      "appId": "com.ngu.games.zombiebunnyfarm",
+      "title": "버니팜 : 좀비디펜스",
+      "developer": "NGU Studio",
+      "icon": "https://play-lh.googleusercontent.com/XjzUrX-rqXgL1rSfOKoPHcmZ40eRdnvkVLN207lDK0NIiM8U_4jiBEpNKukP99HPrV6XJh2rBaU-spEJtcX2zQ=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.ngu.games.zombiebunnyfarm&hl=ko&gl=KR",
       "discoveredDate": "2026-11-22",
       "isGame": true
     },
@@ -4915,78 +5025,6 @@
       "isGame": true
     },
     {
-      "appId": "com.wemadeconnect.aos.lostdgl",
-      "title": "로스트 소드",
-      "developer": "Wemade Connect",
-      "icon": "https://play-lh.googleusercontent.com/_OS6EQ01n93vfCiMRVgOb6RSsYiyacTI-2z_ebCzHNlLHdQX4Ln12dC1qGLjb_nrLc2L7Yr62osZDvFdIIv0JA",
-      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.lostdgl&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.netmarble.fgok",
-      "title": "페이트/그랜드 오더",
-      "developer": "Netmarble",
-      "icon": "https://play-lh.googleusercontent.com/HA3nOzVN1Osr5sN0rGbHBRPr59r5PJ3kYWOwb9xzXjReoIOTNEuvr_oubfKLf8zCeG_V4tPFSApmeF7rDnqO_Tk",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.fgok&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.rvappstudios.math.kids.counting",
-      "title": "수학 게임 어린이-덧셈뺄셈",
-      "developer": "RV AppStudios",
-      "icon": "https://play-lh.googleusercontent.com/Zu5Fn9SqTRyatFWgGl0hPfuCbzQHljpY9RXc19rS9o1qrHfbtdRobvorowFWebklBnyzxoRZGQibAD5iyZI8IQ",
-      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.math.kids.counting&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.bimiboo.kids.drawing",
-      "title": "유아용 그림그리기 및 색칠 게임 - 2-6세 색칠공부",
-      "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
-      "icon": "https://play-lh.googleusercontent.com/wtz9KlSYBTTCCAa0yJQFD7TvLzGdqYnhYvxb1L464H8Ck58kkvtZizewye_mojyikZk-GiYqCCqL_vrrODSl",
-      "url": "https://play.google.com/store/apps/details?id=com.bimiboo.kids.drawing&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.vizta.wefly",
-      "title": "에이스크래프트: 협동 비행 슈팅",
-      "developer": "Vizta Games",
-      "icon": "https://play-lh.googleusercontent.com/1aVlClSrBkHU047nXcn4_-AgcrYQvlbETEjyt68LaIaEm-LOGfMK4RoIEVExJW2vOLBGCqMp22VPsTqszCR51Q",
-      "url": "https://play.google.com/store/apps/details?id=com.vizta.wefly&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.pid.caravansandwitch",
-      "title": "Caravan SandWitch",
-      "developer": "Dear Villagers",
-      "icon": "https://play-lh.googleusercontent.com/w1OHWOIIh2j98zzTn0fVs1DTCeASlzAyzgBAlfPTGDFwh0tzveHbB3KLvyWfHVrr3Uz55miJD3VYL8Q6c0AU",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.caravansandwitch&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.snapbreak.chillquarium",
-      "title": "Chillquarium",
-      "developer": "Snapbreak",
-      "icon": "https://play-lh.googleusercontent.com/8hprV-L8shJZBsf-6z6pSq5UdWN5cuI_M7D37ysufa6-jCt93apzUY6ngjPVy4uCRGOhHmmbgZi05ZdqiWkV0Q",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.chillquarium&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.shortcircuitstudio.dawnfolk",
-      "title": "Dawnfolk",
-      "developer": "Short Circuit Studio",
-      "icon": "https://play-lh.googleusercontent.com/_5L9bHETQKu4MoBO6yfreBGE2PJpFBpNWvqSuq2-s32dtcQGEec3IxgAa9ijI8w1RZjVbfyYnHn-Z9YM4weCWg",
-      "url": "https://play.google.com/store/apps/details?id=com.shortcircuitstudio.dawnfolk&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
       "appId": "com.herocraft.game.mafioso.gangster.paradise.pvp",
       "title": "마피오소: 마피아 PvP 온라인",
       "developer": "HeroCraft Ltd.",
@@ -5155,33 +5193,6 @@
       "icon": "https://play-lh.googleusercontent.com/OWKOL5jvh-PwZCtsGTservGEXCHNadYJlYFyenAZ0uLNT3ue0816RgG7fwYVnL8XN2L73lPGE1Qe_CYXvsIkBw",
       "url": "https://play.google.com/store/apps/details?id=com.xmonetize.quizzland&hl=ko&gl=KR",
       "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.zigzagame.evertale",
-      "title": "에버테일",
-      "developer": "ZigZaGame Inc.",
-      "icon": "https://play-lh.googleusercontent.com/9nZjArhTESER-BINXd2CcC8U3PJt4zLBvxSFREu_qA-SBx-V-HmdpCQ6XpNlg5PE41uuwbskSxuPAmAXApdWsA",
-      "url": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.familygo.simgame",
-      "title": "Family Go! - 대를 잇는 인생 시뮬레이션",
-      "developer": "KIKO FUN INTERACTIVE ENTERTAINMENT CO., LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/WJP5by3vR-Ejkp1VI6BoC4Pddfvwk1ouyioZ7LhvUsVsAWm-kBJldXznuixOgSPFptSKPZcJgn24lEtDcJqQuA",
-      "url": "https://play.google.com/store/apps/details?id=com.familygo.simgame&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.pikpok.wtd.play",
-      "title": "오리DUCK후",
-      "developer": "PIKPOK",
-      "icon": "https://play-lh.googleusercontent.com/cTwDY_r_9paKRsbTHXV-ShALxhsBg8wrJDG-EdeeGhvmPNJGjeefmx6lf0ZRHK-mO3j-QrSxA0emNJ4yZTVDvg",
-      "url": "https://play.google.com/store/apps/details?id=com.pikpok.wtd.play&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-14",
       "isGame": true
     },
     {
