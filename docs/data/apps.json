@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:37:19.681Z",
+  "updatedAt": "2026-11-21T17:20:57.941Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1976,9 +1976,19 @@
     "com.fc.gpl.pixel.color.brain.puzzle",
     "screw.nuts.jam.pin.puzzle",
     "com.mergegames.petsharbor",
-    "com.merge.foodie.cooking.restaurant"
+    "com.merge.foodie.cooking.restaurant",
+    "com.arcloom.wool.connect.yarn.puzzle.game"
   ],
   "items": [
+    {
+      "appId": "com.arcloom.wool.connect.yarn.puzzle.game",
+      "title": "Wool Connect: 실 퍼즐",
+      "developer": "Arcloom",
+      "icon": "https://play-lh.googleusercontent.com/Izn7Cg-URoqixNeBljoerQZpi8oN8q2nff9xYlMm3bG-8qq0q8hfKpDggFdd2gwzQef2fAZPstU3NI8FKcTk=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.arcloom.wool.connect.yarn.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-22",
+      "isGame": true
+    },
     {
       "appId": "com.fc.gpl.pixel.color.brain.puzzle",
       "title": "Mosaic Loop - Color Puzzle",
@@ -5172,15 +5182,6 @@
       "icon": "https://play-lh.googleusercontent.com/cTwDY_r_9paKRsbTHXV-ShALxhsBg8wrJDG-EdeeGhvmPNJGjeefmx6lf0ZRHK-mO3j-QrSxA0emNJ4yZTVDvg",
       "url": "https://play.google.com/store/apps/details?id=com.pikpok.wtd.play&hl=ko&gl=KR",
       "discoveredDate": "2026-08-14",
-      "isGame": true
-    },
-    {
-      "appId": "com.plaium.tmm",
-      "title": "티니핑 매직 매치",
-      "developer": "BY4M STUDIO",
-      "icon": "https://play-lh.googleusercontent.com/8yFHnV7z6UgX3ATjbk6fzrAHx-MfvafbH9mpnRGWUD0Rg6BXC0mDLQudFbilwimrphQC6i4vQdjBJQ-tmIuIpyA",
-      "url": "https://play.google.com/store/apps/details?id=com.plaium.tmm&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-13",
       "isGame": true
     },
     {
