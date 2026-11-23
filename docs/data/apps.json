@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:45:13.370Z",
+  "updatedAt": "2026-11-23T08:54:09.466Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1988,9 +1988,29 @@
     "com.match.goodsfactory.sort",
     "com.dearto.cross",
     "com.fathermade.merge",
-    "com.ngu.games.zombiebunnyfarm"
+    "com.ngu.games.zombiebunnyfarm",
+    "com.rabbithole.cardofdemonslayer",
+    "com.fundaygames.boosterpack"
   ],
   "items": [
+    {
+      "appId": "com.rabbithole.cardofdemonslayer",
+      "title": "카드 오브 데몬슬레이어: 덱빌딩 로그라이크 RPG",
+      "developer": "CookApps",
+      "icon": "https://play-lh.googleusercontent.com/IBkNHUjo9IKJTHPN29MsFjAc8lutAZoXD-tV7SuUQ9uNBpn4EPUyhFFCZkgtLVW5jjnsPxnpkzwNW56OaVEEN3o=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.rabbithole.cardofdemonslayer&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-23",
+      "isGame": true
+    },
+    {
+      "appId": "com.fundaygames.boosterpack",
+      "title": "부스터 팩 히어로즈",
+      "developer": "Funday Games ApS",
+      "icon": "https://play-lh.googleusercontent.com/Z2GojS0OD-JV1Ifg4x-m3EtdZ5cE9yASktrkWQHcEkNaotPED4A3yBWcQn28_Gm8Xm9F9lNTzc2649Wlm1LPxk8=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.fundaygames.boosterpack&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-23",
+      "isGame": true
+    },
     {
       "appId": "com.arcloom.wool.connect.yarn.puzzle.game",
       "title": "Wool Connect: 실 퍼즐",
@@ -5022,24 +5042,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.herocraft.game.mafioso.gangster.paradise.pvp",
-      "title": "마피오소: 마피아 PvP 온라인",
-      "developer": "HeroCraft Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/BSvARVv1HrOFpcrwk-C-l0fFENKQ2-nnbqzbvq3J8ZRo2_ARY24GQq7Pcelk2HRMS2z4Tg8BWFrIl2YSfYURfg",
-      "url": "https://play.google.com/store/apps/details?id=com.herocraft.game.mafioso.gangster.paradise.pvp&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.project7.project7beta",
-      "title": "Laurum Online - 2D MMORPG",
-      "developer": "Pixel Cat Interactive Limited",
-      "icon": "https://play-lh.googleusercontent.com/hIB7apnJkKgKYvGkeLC0fgVXyltl9hkFhYjyYMP2oMNfUxNcfI-fIZAJGYQEEellimdy-yvFfjZIoTtDSfQdwQ",
-      "url": "https://play.google.com/store/apps/details?id=com.project7.project7beta&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
