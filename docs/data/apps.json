@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:54:09.466Z",
+  "updatedAt": "2026-11-23T21:12:54.844Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1990,9 +1990,19 @@
     "com.fathermade.merge",
     "com.ngu.games.zombiebunnyfarm",
     "com.rabbithole.cardofdemonslayer",
-    "com.fundaygames.boosterpack"
+    "com.fundaygames.boosterpack",
+    "com.blockblast.lite"
   ],
   "items": [
+    {
+      "appId": "com.blockblast.lite",
+      "title": "Block Blast Lite",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/PtTrZ-8NOtDd8UkPQ9Ka0s0z2uCHWTs7IB4LiiMLzea_TsMgDv6LXhhr4vRHGCp7Wj8N3xVnAnTLsSiScaRr_MI=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.blockblast.lite&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-24",
+      "isGame": true
+    },
     {
       "appId": "com.rabbithole.cardofdemonslayer",
       "title": "카드 오브 데몬슬레이어: 덱빌딩 로그라이크 RPG",
@@ -5042,15 +5052,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.KhoGames.WarzoneCommander",
-      "title": "Warzone Commander",
-      "developer": "KhoGames",
-      "icon": "https://play-lh.googleusercontent.com/5I4XB4IzKQgre7iUsGnHBwmq_ZrEN2ck4RBgiQ_9cokBJYboV9TiWi8eK3BdKDBacMvnNOD1JHWc3LQGTiZh",
-      "url": "https://play.google.com/store/apps/details?id=com.KhoGames.WarzoneCommander&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
