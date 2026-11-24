@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T21:12:54.844Z",
+  "updatedAt": "2026-11-24T05:54:43.119Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1991,7 +1991,8 @@
     "com.ngu.games.zombiebunnyfarm",
     "com.rabbithole.cardofdemonslayer",
     "com.fundaygames.boosterpack",
-    "com.blockblast.lite"
+    "com.blockblast.lite",
+    "com.zlongame.kr.langrisser"
   ],
   "items": [
     {
@@ -2000,6 +2001,15 @@
       "developer": "HungryStudio",
       "icon": "https://play-lh.googleusercontent.com/PtTrZ-8NOtDd8UkPQ9Ka0s0z2uCHWTs7IB4LiiMLzea_TsMgDv6LXhhr4vRHGCp7Wj8N3xVnAnTLsSiScaRr_MI=s0-br30",
       "url": "https://play.google.com/store/apps/details?id=com.blockblast.lite&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-24",
+      "isGame": true
+    },
+    {
+      "appId": "com.zlongame.kr.langrisser",
+      "title": "랑그릿사",
+      "developer": "ZlongGames",
+      "icon": "https://play-lh.googleusercontent.com/PduzW8Skiqhil0VWUJWW9ZGOgNbKbQGn1MTNWVFn_E3qPg6v606O_gM1zinCZ_r5IP-KLmrmDyV5sooWFbxM=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.zlongame.kr.langrisser&hl=ko&gl=KR",
       "discoveredDate": "2026-11-24",
       "isGame": true
     },
@@ -5052,15 +5062,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.pixelfun.online",
-      "title": "Vortex 9 슈팅게임 & 온라인 게임",
-      "developer": "Go Dreams",
-      "icon": "https://play-lh.googleusercontent.com/R0cTeIBCneU3gp6PnFm1BIrtQiTEu-A7spJIfZrV0AO1iA6gRdDfPckB2bHCN_7N5KT1wGy26WDxuYnd8s_e5g",
-      "url": "https://play.google.com/store/apps/details?id=com.pixelfun.online&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
