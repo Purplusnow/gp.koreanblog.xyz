@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:54:43.119Z",
+  "updatedAt": "2026-11-24T17:29:51.956Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1992,9 +1992,19 @@
     "com.rabbithole.cardofdemonslayer",
     "com.fundaygames.boosterpack",
     "com.blockblast.lite",
-    "com.zlongame.kr.langrisser"
+    "com.zlongame.kr.langrisser",
+    "games.alternativa.projectv.test"
   ],
   "items": [
+    {
+      "appId": "games.alternativa.projectv.test",
+      "title": "Days After－좀비 생존 게임・아포칼립스 서바이벌",
+      "developer": "MY.GAMES VENTURE CAPITAL LTD",
+      "icon": "https://play-lh.googleusercontent.com/GHP3vVopbYDIpkVvIP9ToC9iYskpLvxJjd-xxKAm4FplxZFFOeWMFBCO4MaeuWL38ayWm0a6SfLfZU90PgzHGA=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=games.alternativa.projectv.test&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-25",
+      "isGame": true
+    },
     {
       "appId": "com.blockblast.lite",
       "title": "Block Blast Lite",
@@ -5062,15 +5072,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.haegin.overdox",
-      "title": "오버독스",
-      "developer": "HAEGIN Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/DTilLdniA-xJyjUUOnZu01wC_P0wKSNQW1glMtgbKyg8aRnV--fuJ4TtgB3n3h_iLStuCqk_i9WqCakMhr8Nk5g",
-      "url": "https://play.google.com/store/apps/details?id=com.haegin.overdox&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
