@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:36:22.420Z",
+  "updatedAt": "2026-11-25T22:24:08.495Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1993,9 +1993,29 @@
     "com.fundaygames.boosterpack",
     "com.blockblast.lite",
     "com.zlongame.kr.langrisser",
-    "games.alternativa.projectv.test"
+    "games.alternativa.projectv.test",
+    "com.lycq.kr.and",
+    "com.yy.solitaire.farm.tripeaks"
   ],
   "items": [
+    {
+      "appId": "com.lycq.kr.and",
+      "title": "미르의 전설2: 레볼루션",
+      "developer": "Xsoga Game",
+      "icon": "https://play-lh.googleusercontent.com/gqKZIBDTE-FutPcl0yO1sKRUV1VroQ-ri1L7MUyFd_c4V4CBBRMwvWlLl7880JCSFwPntfjz12wfdAfA9oE8YJ4=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.lycq.kr.and&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-26",
+      "isGame": true
+    },
+    {
+      "appId": "com.yy.solitaire.farm.tripeaks",
+      "title": "솔리테어 농장: 카드 게임",
+      "developer": "Card Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/qXQLUjW0vlRh7v1ROzEuahD9FB1iu-m3EcxNRmDG6pRGKfT5Vpzi5wTMUNFCoh--vNumgc_qLe0Qb-0cFomK=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.yy.solitaire.farm.tripeaks&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-26",
+      "isGame": true
+    },
     {
       "appId": "games.alternativa.projectv.test",
       "title": "Days After－좀비 생존 게임・아포칼립스 서바이벌",
@@ -5072,24 +5092,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.direwolfdigital.Phoenix",
-      "title": "Eternal Card Game",
-      "developer": "Dire Wolf Digital",
-      "icon": "https://play-lh.googleusercontent.com/ndA99T_wd5pTux6Y1m6cwpyZgcrN4tC5o_tPSdMk14i_pUM9wyy1HtXMubgFMEWPy8R1fF2hwESxkM1PX4nvVw",
-      "url": "https://play.google.com/store/apps/details?id=com.direwolfdigital.Phoenix&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
-      "isGame": true
-    },
-    {
-      "appId": "com.guildsoftware.vendetta",
-      "title": "벤데타 온라인 (MMORPG)",
-      "developer": "Guild Software, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/UFi9zfs_U9XsdQ5Ghfca8Wlip7Kx-AlMjaN17rg0_jfakREbN3js6iT2ye8hna7kfENdlUW0w9NjEB3U4qfAVOM",
-      "url": "https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
