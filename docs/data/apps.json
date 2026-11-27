@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:43:45.596Z",
+  "updatedAt": "2026-11-27T08:07:29.316Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1995,9 +1995,19 @@
     "com.zlongame.kr.langrisser",
     "games.alternativa.projectv.test",
     "com.lycq.kr.and",
-    "com.yy.solitaire.farm.tripeaks"
+    "com.yy.solitaire.farm.tripeaks",
+    "com.zjcs.android.kr"
   ],
   "items": [
+    {
+      "appId": "com.zjcs.android.kr",
+      "title": "소드 x 스태프: 화산귀환 콜라보",
+      "developer": "BOLTRAY GAMES",
+      "icon": "https://play-lh.googleusercontent.com/AxaR5NKzu3PzUunN3y3kLte-XnvaoEOodO7itaopClPbpsw5mc8z_N-HX8UWcq0sP1SJuUmHG45fl9nRTlbW=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.zjcs.android.kr&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-27",
+      "isGame": true
+    },
     {
       "appId": "com.lycq.kr.and",
       "title": "미르의 전설2: 레볼루션",
@@ -5092,15 +5102,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.fingersoft.boomkarts",
-      "title": "Boom Karts Multiplayer Racing",
-      "developer": "Zaibatsu Interactive",
-      "icon": "https://play-lh.googleusercontent.com/2rz7U9PMzoEFVQQAsBaUkvO7Kh8fkCvf-h3OB8PeP1z7-p3JzC13mMaj_x8oWvhRrpqe4ILcAYyUCQwAkVKiGg4",
-      "url": "https://play.google.com/store/apps/details?id=com.fingersoft.boomkarts&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
