@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:53:01.832Z",
+  "updatedAt": "2026-11-28T10:11:43.974Z",
   "seenAppIds": [
     "bubbleshooter.orig",
     "com.goblins.idle.merge.game",
@@ -1996,9 +1996,19 @@
     "games.alternativa.projectv.test",
     "com.lycq.kr.and",
     "com.yy.solitaire.farm.tripeaks",
-    "com.zjcs.android.kr"
+    "com.zjcs.android.kr",
+    "com.arrowiq.logic.puzzle.game"
   ],
   "items": [
+    {
+      "appId": "com.arrowiq.logic.puzzle.game",
+      "title": "ArrowIQ: Logic Puzzle",
+      "developer": "Adaric Music",
+      "icon": "https://play-lh.googleusercontent.com/cGzq6r094-bXJgHtsURrRNOMuctYIecEOQ70bQCbSRk9LemCmgEjmd5w1yogu_xd3laJeTaJ0rkma99SFZp7=s0-br30",
+      "url": "https://play.google.com/store/apps/details?id=com.arrowiq.logic.puzzle.game&hl=ko&gl=KR",
+      "discoveredDate": "2026-11-28",
+      "isGame": true
+    },
     {
       "appId": "com.zjcs.android.kr",
       "title": "소드 x 스태프: 화산귀환 콜라보",
@@ -5102,15 +5112,6 @@
       "icon": "https://play-lh.googleusercontent.com/4at1a5VLw-TdYu5F5mtrXTsO1z20BBAVLJpka1oDWE7zS1Xta_iySulIg0a8hPgoJ_bBcFDZnwyC8tOt6dVOToc",
       "url": "https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=ko&gl=KR",
       "discoveredDate": "2026-08-16",
-      "isGame": true
-    },
-    {
-      "appId": "com.igg.android.vikingriseglobal",
-      "title": "바이킹 라이즈",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/_7Te43ZvU8ghQr4m2VhGDswlVhjqwQ5484SkMMrK072FL0dt38M_yZlw1lYoxNHx9zSPLzWPFLXIxwNppsZrJQ",
-      "url": "https://play.google.com/store/apps/details?id=com.igg.android.vikingriseglobal&hl=ko&gl=KR",
-      "discoveredDate": "2026-08-15",
       "isGame": true
     },
     {
